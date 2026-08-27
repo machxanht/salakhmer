@@ -1,0 +1,1819 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-08-12T10:55:42.559Z",
+  "moduleId": "module_2",
+  "inputs": [
+    "src/lib/read-spell-expansion.ts"
+  ],
+  "sourceSelection": {
+    "variableName": "TOPIC_SEEDS",
+    "tupleIndex": 0
+  },
+  "generationRule": "Review Khmer text first. Generate only items marked approved-for-azure. Complete Khmer words and sentences only; no isolated alphabet characters or vowel signs.",
+  "outputPrefix": "audio/module-expansion-v1/module_2/",
+  "totalDiscoveredStrings": 150,
+  "uniqueSynthesizableItems": 150,
+  "estimatedAzureCharacters": 1104,
+  "items": [
+    {
+      "id": "module-2-expansion-v1-004a1817c324091f",
+      "moduleId": "module_2",
+      "khmer": "ហត់",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-004a1817c324091f.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:157"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-04f498b907ce3a42",
+      "moduleId": "module_2",
+      "khmer": "ចុះឈ្មោះចូល",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-04f498b907ce3a42.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:240"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-055fa08f80f1e6f1",
+      "moduleId": "module_2",
+      "khmer": "ទៅសាលារៀន",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-055fa08f80f1e6f1.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:186"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-077f4f372aee2650",
+      "moduleId": "module_2",
+      "khmer": "ខាងក្នុង",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-077f4f372aee2650.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:105"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-079c4d01cdcdb3e1",
+      "moduleId": "module_2",
+      "khmer": "សិតសក់",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-079c4d01cdcdb3e1.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:287"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-084f0fbaa18bba6b",
+      "moduleId": "module_2",
+      "khmer": "ស្តាំ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-084f0fbaa18bba6b.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:101"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-0d2ff87f4cf7f96f",
+      "moduleId": "module_2",
+      "khmer": "កន្លែងទទួលភ្ញៀវ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-0d2ff87f4cf7f96f.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:239"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-0e9387999310c9da",
+      "moduleId": "module_2",
+      "khmer": "ពាក្យសុំ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-0e9387999310c9da.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:337"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-0eb567839239e8ba",
+      "moduleId": "module_2",
+      "khmer": "ក្តៅខ្លួន",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-0eb567839239e8ba.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:127"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-0ef189fd9464f6c9",
+      "moduleId": "module_2",
+      "khmer": "បំពង់ពន្លត់អគ្គិភ័យ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-0ef189fd9464f6c9.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:322"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-0fd47dbfbd259efe",
+      "moduleId": "module_2",
+      "khmer": "ចាន",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-0fd47dbfbd259efe.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:218"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-0fe11f11426cbfb1",
+      "moduleId": "module_2",
+      "khmer": "ឆ្ងាយ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-0fe11f11426cbfb1.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:104"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-12187675ff09cce1",
+      "moduleId": "module_2",
+      "khmer": "អ៊ីមែល",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-12187675ff09cce1.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:260"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-142be75b3bc95cd1",
+      "moduleId": "module_2",
+      "khmer": "សប្បាយ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-142be75b3bc95cd1.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:152"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-1721629fa970afe7",
+      "moduleId": "module_2",
+      "khmer": "វិលមុខ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-1721629fa970afe7.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:138"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-1956d0c95f64564b",
+      "moduleId": "module_2",
+      "khmer": "វ៉ាយហ្វាយ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-1956d0c95f64564b.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:267"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-1de058426ff314c2",
+      "moduleId": "module_2",
+      "khmer": "លាង",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-1de058426ff314c2.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:210"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-1e8945aa6fd11e0b",
+      "moduleId": "module_2",
+      "khmer": "កខ្វក់",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-1e8945aa6fd11e0b.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:295"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-1ef5c6f59d8e79a6",
+      "moduleId": "module_2",
+      "khmer": "ចាកចេញ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-1ef5c6f59d8e79a6.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:241"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-1f9e4b3de0626fb8",
+      "moduleId": "module_2",
+      "khmer": "ខាងក្រោម",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-1f9e4b3de0626fb8.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:108"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-2053666d2a7a763f",
+      "moduleId": "module_2",
+      "khmer": "អាសយដ្ឋាន",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-2053666d2a7a763f.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:335"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-2155ff00aa32006f",
+      "moduleId": "module_2",
+      "khmer": "សុវត្ថិភាព",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-2155ff00aa32006f.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:320"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-241af70939f1844b",
+      "moduleId": "module_2",
+      "khmer": "លាយ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-241af70939f1844b.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:211"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-27805191a2956183",
+      "moduleId": "module_2",
+      "khmer": "ផ្ញើ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-27805191a2956183.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:269"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-27e6a1df6a287b6c",
+      "moduleId": "module_2",
+      "khmer": "ខ្មាស",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-27e6a1df6a287b6c.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:161"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-29ce5bf9dcd75950",
+      "moduleId": "module_2",
+      "khmer": "បើក",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-29ce5bf9dcd75950.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:346"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-2c3fe82754b55279",
+      "moduleId": "module_2",
+      "khmer": "ឈឺ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-2c3fe82754b55279.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:126"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-2f866aaae0c86a87",
+      "moduleId": "module_2",
+      "khmer": "រំភើប",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-2f866aaae0c86a87.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:159"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-32f02268e153b312",
+      "moduleId": "module_2",
+      "khmer": "ភ្ជាប់",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-32f02268e153b312.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:270"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-33324dc381a46801",
+      "moduleId": "module_2",
+      "khmer": "ឡាម",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-33324dc381a46801.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:288"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-34d39c3991d9c2ae",
+      "moduleId": "module_2",
+      "khmer": "សុខភាពល្អ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-34d39c3991d9c2ae.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:137"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-3559f2d43db3dcd8",
+      "moduleId": "module_2",
+      "khmer": "បន្ទាន់",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-3559f2d43db3dcd8.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:317"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-35a82e269e620ca4",
+      "moduleId": "module_2",
+      "khmer": "ស្លៀកពាក់",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-35a82e269e620ca4.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:183"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-36f389ce659742dc",
+      "moduleId": "module_2",
+      "khmer": "កាត់",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-36f389ce659742dc.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:209"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-38240e0950e992f6",
+      "moduleId": "module_2",
+      "khmer": "ឆ្នាំងសាក",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-38240e0950e992f6.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:264"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-3cf5590f3bb3a76c",
+      "moduleId": "module_2",
+      "khmer": "ខាងមុខ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-3cf5590f3bb3a76c.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:109"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-3d18c8a2ae8ac6ab",
+      "moduleId": "module_2",
+      "khmer": "ច្រកចូល",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-3d18c8a2ae8ac6ab.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:319"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-3fb4a704edd7f86e",
+      "moduleId": "module_2",
+      "khmer": "ប្រយ័ត្ន",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-3fb4a704edd7f86e.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:314"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-41004282fa8cc62d",
+      "moduleId": "module_2",
+      "khmer": "អត្តសញ្ញាណប័ណ្ណ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-41004282fa8cc62d.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:339"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-411e54f30c418dbe",
+      "moduleId": "module_2",
+      "khmer": "ធ្វើម្ហូបពេលល្ងាច",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-411e54f30c418dbe.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:189"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-4418fa7c130421aa",
+      "moduleId": "module_2",
+      "khmer": "ឯកសារ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-4418fa7c130421aa.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:348"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-48f72017c0873e11",
+      "moduleId": "module_2",
+      "khmer": "រូបថត",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-48f72017c0873e11.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:262"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-494bf26252a61f3c",
+      "moduleId": "module_2",
+      "khmer": "ចៀន",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-494bf26252a61f3c.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:206"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-4a5d6bc5b3a04fc7",
+      "moduleId": "module_2",
+      "khmer": "ជិត",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-4a5d6bc5b3a04fc7.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:103"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-4bd68fa9290f22da",
+      "moduleId": "module_2",
+      "khmer": "វ៉ាលី",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-4bd68fa9290f22da.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:238"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-4d76bd7a8cd0faa5",
+      "moduleId": "module_2",
+      "khmer": "សោបន្ទប់",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-4d76bd7a8cd0faa5.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:234"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-51203b6d0a76ef97",
+      "moduleId": "module_2",
+      "khmer": "អ៊ីនធឺណិត",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-51203b6d0a76ef97.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:258"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-53733c952954736f",
+      "moduleId": "module_2",
+      "khmer": "ចូលគេង",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-53733c952954736f.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:192"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-544e33840864e388",
+      "moduleId": "module_2",
+      "khmer": "របួស",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-544e33840864e388.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:133"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-558e66a4b024b285",
+      "moduleId": "module_2",
+      "khmer": "ញ៉ាំអាហារពេលព្រឹក",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-558e66a4b024b285.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:184"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-57783700f5a702f5",
+      "moduleId": "module_2",
+      "khmer": "ថ្នាំ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-57783700f5a702f5.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:132"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-588dfecf39e2f6b2",
+      "moduleId": "module_2",
+      "khmer": "ឆ្នាំង",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-588dfecf39e2f6b2.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:217"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-58eebecfd3967596",
+      "moduleId": "module_2",
+      "khmer": "ការិយាល័យ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-58eebecfd3967596.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:342"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-5b704a44cf20428b",
+      "moduleId": "module_2",
+      "khmer": "សម",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-5b704a44cf20428b.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:215"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-5c0b0429e4078c8b",
+      "moduleId": "module_2",
+      "khmer": "ហៅទូរស័ព្ទ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-5c0b0429e4078c8b.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:261"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-5d6b12591799e87d",
+      "moduleId": "module_2",
+      "khmer": "ច្បាប់ចម្លង",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-5d6b12591799e87d.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:340"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-5da3e7d0de703345",
+      "moduleId": "module_2",
+      "khmer": "ត្រូវបានលួច",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-5da3e7d0de703345.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:316"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-6119772cc6ccdd9c",
+      "moduleId": "module_2",
+      "khmer": "ថ្ម",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-6119772cc6ccdd9c.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:265"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-6402818739e4dfa4",
+      "moduleId": "module_2",
+      "khmer": "ភ្លើងឆេះ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-6402818739e4dfa4.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:310"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-646c8b0c55f37e9f",
+      "moduleId": "module_2",
+      "khmer": "ដំណើរ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-646c8b0c55f37e9f.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:230"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-64aa488170aa7b0a",
+      "moduleId": "module_2",
+      "khmer": "ជួយ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-64aa488170aa7b0a.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:308"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-659ff0ea12ce62a7",
+      "moduleId": "module_2",
+      "khmer": "ហៅប៉ូលិស",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-659ff0ea12ce62a7.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:311"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-65ada6d78130c2e4",
+      "moduleId": "module_2",
+      "khmer": "ទីនោះ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-65ada6d78130c2e4.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:113"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-65c3eebd6f6126db",
+      "moduleId": "module_2",
+      "khmer": "បិទ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-65c3eebd6f6126db.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:347"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-66e243498baa9fa3",
+      "moduleId": "module_2",
+      "khmer": "ច្រាសដុសធ្មេញ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-66e243498baa9fa3.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:284"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-6b619481723af785",
+      "moduleId": "module_2",
+      "khmer": "សង្ឃឹម",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-6b619481723af785.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:166"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-6b9c8d4a18854cc0",
+      "moduleId": "module_2",
+      "khmer": "ខាងលើ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-6b9c8d4a18854cc0.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:107"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-6c087ca5267d3080",
+      "moduleId": "module_2",
+      "khmer": "កាំបិត",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-6c087ca5267d3080.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:216"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-6cf4a097eb73d65f",
+      "moduleId": "module_2",
+      "khmer": "ខឹង",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-6cf4a097eb73d65f.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:154"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-6f393a56e998a043",
+      "moduleId": "module_2",
+      "khmer": "ឯកោ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-6f393a56e998a043.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:162"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-703ab000c3f453a5",
+      "moduleId": "module_2",
+      "khmer": "ពាក្យសម្ងាត់",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-703ab000c3f453a5.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:266"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-729bdade7a6b8203",
+      "moduleId": "module_2",
+      "khmer": "ចំហុយ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-729bdade7a6b8203.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:208"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-7894d189db72a576",
+      "moduleId": "module_2",
+      "khmer": "លាងមុខ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-7894d189db72a576.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:180"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-78d3e5bd76ff6e12",
+      "moduleId": "module_2",
+      "khmer": "ស្រឡាញ់",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-78d3e5bd76ff6e12.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:163"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-79d368f93fe6bbe6",
+      "moduleId": "module_2",
+      "khmer": "ឈឺចាប់",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-79d368f93fe6bbe6.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:135"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-79e15428632dae72",
+      "moduleId": "module_2",
+      "khmer": "អ្នកទេសចរ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-79e15428632dae72.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:244"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-7ba7398e442f2198",
+      "moduleId": "module_2",
+      "khmer": "មគ្គុទ្ទេសក៍",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-7ba7398e442f2198.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:243"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-7c0cdd225f7d5b75",
+      "moduleId": "module_2",
+      "khmer": "ឈាម",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-7c0cdd225f7d5b75.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:134"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-7cef40cec400206a",
+      "moduleId": "module_2",
+      "khmer": "សារ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-7cef40cec400206a.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:259"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-7e32fd318e246bdd",
+      "moduleId": "module_2",
+      "khmer": "មើលទូរទស្សន៍",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-7e32fd318e246bdd.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:191"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-81fc4363f91062b8",
+      "moduleId": "module_2",
+      "khmer": "ឆ្វេង",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-81fc4363f91062b8.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:100"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-83f061708cbb5f2f",
+      "moduleId": "module_2",
+      "khmer": "សម្រាក",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-83f061708cbb5f2f.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:136"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-88bc2fc854b67c02",
+      "moduleId": "module_2",
+      "khmer": "បារម្ភ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-88bc2fc854b67c02.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:156"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-89c9009233d34379",
+      "moduleId": "module_2",
+      "khmer": "ក្រោកពីគេង",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-89c9009233d34379.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:179"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-8b61f136563a88b6",
+      "moduleId": "module_2",
+      "khmer": "អីវ៉ាន់",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-8b61f136563a88b6.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:237"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-8d511f1a00d8a0d1",
+      "moduleId": "module_2",
+      "khmer": "ឈ្មោះ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-8d511f1a00d8a0d1.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:334"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-8d7c3407bddd7d33",
+      "moduleId": "module_2",
+      "khmer": "ឈឺក្បាល",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-8d7c3407bddd7d33.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:128"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-8daffa4ee0f18a0b",
+      "moduleId": "module_2",
+      "khmer": "ឈឺពោះ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-8daffa4ee0f18a0b.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:129"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-8e100de04449394f",
+      "moduleId": "module_2",
+      "khmer": "ឈប់",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-8e100de04449394f.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:313"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-8ef628f1ce55851e",
+      "moduleId": "module_2",
+      "khmer": "ក្អួត",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-8ef628f1ce55851e.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:139"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-8fddbfb0df3045ff",
+      "moduleId": "module_2",
+      "khmer": "កន្សែង",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-8fddbfb0df3045ff.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:286"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-905fa3653722fe20",
+      "moduleId": "module_2",
+      "khmer": "ក្អក",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-905fa3653722fe20.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:130"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-919d0b3f51f3a4b3",
+      "moduleId": "module_2",
+      "khmer": "ដាក់",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-919d0b3f51f3a4b3.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:212"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-92dc96539b3af92e",
+      "moduleId": "module_2",
+      "khmer": "ទូរស័ព្ទ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-92dc96539b3af92e.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:256"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-9469bd05ab9d99b5",
+      "moduleId": "module_2",
+      "khmer": "ទឹកលាងដៃ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-9469bd05ab9d99b5.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:290"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-959cebb5f3ee6076",
+      "moduleId": "module_2",
+      "khmer": "ផែនទី",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-959cebb5f3ee6076.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:242"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-998343e485a764d7",
+      "moduleId": "module_2",
+      "khmer": "ចូលចិត្ត",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-998343e485a764d7.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:164"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-9a809699c86767a1",
+      "moduleId": "module_2",
+      "khmer": "ភ្ញាក់ផ្អើល",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-9a809699c86767a1.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:158"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-9c37ca495d920551",
+      "moduleId": "module_2",
+      "khmer": "រង់ចាំ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-9c37ca495d920551.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:345"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-9f8c401629519c7c",
+      "moduleId": "module_2",
+      "khmer": "លិខិតឆ្លងដែន",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-9f8c401629519c7c.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:231"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-a0b399170a7520f6",
+      "moduleId": "module_2",
+      "khmer": "លាងដៃ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-a0b399170a7520f6.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:291"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-a0e4918bafd4cc17",
+      "moduleId": "module_2",
+      "khmer": "រាគ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-a0e4918bafd4cc17.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:140"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-a371b95b4e060bb8",
+      "moduleId": "module_2",
+      "khmer": "ពិបាកចិត្ត",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-a371b95b4e060bb8.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:153"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-a3c3e99486df99d4",
+      "moduleId": "module_2",
+      "khmer": "ច្រកចេញ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-a3c3e99486df99d4.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:318"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-a43faa7c17def6f2",
+      "moduleId": "module_2",
+      "khmer": "ទីនេះ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-a43faa7c17def6f2.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:112"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-a4ea01e86182909f",
+      "moduleId": "module_2",
+      "khmer": "លេខទូរស័ព្ទ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-a4ea01e86182909f.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:336"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-a521ed9fdf4cbb0a",
+      "moduleId": "module_2",
+      "khmer": "ផ្តាសាយ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-a521ed9fdf4cbb0a.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:131"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-a5c7837a7eb055cd",
+      "moduleId": "module_2",
+      "khmer": "ការណាត់ជួប",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-a5c7837a7eb055cd.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:343"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-a95ede13281ef5f0",
+      "moduleId": "module_2",
+      "khmer": "ស្អាត",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-a95ede13281ef5f0.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:296"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-ab1dee1ba773eb43",
+      "moduleId": "module_2",
+      "khmer": "ខាងក្រោយ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-ab1dee1ba773eb43.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:110"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-acbde1fbfeac7b69",
+      "moduleId": "module_2",
+      "khmer": "ឯកសារដើម",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-acbde1fbfeac7b69.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:341"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-b064eee136bb830b",
+      "moduleId": "module_2",
+      "khmer": "ហត្ថលេខា",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-b064eee136bb830b.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:338"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-b24159781cda1ae9",
+      "moduleId": "module_2",
+      "khmer": "ចម្អិន",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-b24159781cda1ae9.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:204"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-b41b4531d0c9437d",
+      "moduleId": "module_2",
+      "khmer": "ហៅឡានពេទ្យ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-b41b4531d0c9437d.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:312"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-b44a8ac8b71f3543",
+      "moduleId": "module_2",
+      "khmer": "ដុសធ្មេញ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-b44a8ac8b71f3543.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:181"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-b53b42e4970a72b6",
+      "moduleId": "module_2",
+      "khmer": "ទៅធ្វើការ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-b53b42e4970a72b6.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:185"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-b99b209464944f2f",
+      "moduleId": "module_2",
+      "khmer": "សាប៊ូ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-b99b209464944f2f.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:282"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-b9bca9fdf99f8144",
+      "moduleId": "module_2",
+      "khmer": "ទាញយក",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-b9bca9fdf99f8144.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:268"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-ba71571c0d9b3e3b",
+      "moduleId": "module_2",
+      "khmer": "ខាងក្រៅ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-ba71571c0d9b3e3b.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:106"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-baf7612ed588905b",
+      "moduleId": "module_2",
+      "khmer": "ភ្លក់",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-baf7612ed588905b.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:213"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-bf1848cf17a4424f",
+      "moduleId": "module_2",
+      "khmer": "កាត់ក្រចក",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-bf1848cf17a4424f.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:292"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-bf825ea038b624f9",
+      "moduleId": "module_2",
+      "khmer": "ថ្នាំដុសធ្មេញ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-bf825ea038b624f9.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:285"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-c0e5f53fa0579d3c",
+      "moduleId": "module_2",
+      "khmer": "ក្បែរ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-c0e5f53fa0579d3c.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:111"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-c2bed94600715aa7",
+      "moduleId": "module_2",
+      "khmer": "សម្អាត",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-c2bed94600715aa7.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:294"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-c3520cab6f757b04",
+      "moduleId": "module_2",
+      "khmer": "អាំង",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-c3520cab6f757b04.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:207"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-c4b2f3f9993eb41b",
+      "moduleId": "module_2",
+      "khmer": "ក្រដាសអនាម័យ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-c4b2f3f9993eb41b.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:289"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-c845bab9b0e2b23e",
+      "moduleId": "module_2",
+      "khmer": "ញ៉ាំបាយថ្ងៃត្រង់",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-c845bab9b0e2b23e.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:187"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-cab3c5b58f0e4426",
+      "moduleId": "module_2",
+      "khmer": "វីដេអូ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-cab3c5b58f0e4426.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:263"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-d2c616e844c7b3cc",
+      "moduleId": "module_2",
+      "khmer": "ស្ងប់ស្ងាត់",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-d2c616e844c7b3cc.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:160"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-d3c5d9659c91c5a0",
+      "moduleId": "module_2",
+      "khmer": "ការកក់",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-d3c5d9659c91c5a0.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:233"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-d90c443aedf39002",
+      "moduleId": "module_2",
+      "khmer": "ឯណា",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-d90c443aedf39002.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:114"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-dbb93fbc269d1026",
+      "moduleId": "module_2",
+      "khmer": "គ្រោះថ្នាក់",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-dbb93fbc269d1026.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:309"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-dd8574358d093f81",
+      "moduleId": "module_2",
+      "khmer": "ធ្វើកិច្ចការផ្ទះ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-dd8574358d093f81.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:190"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-de33172c52b1c204",
+      "moduleId": "module_2",
+      "khmer": "ខ្លាច",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-de33172c52b1c204.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:155"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-e036372cf439240d",
+      "moduleId": "module_2",
+      "khmer": "ស្ងោរ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-e036372cf439240d.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:205"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-e1ecb3748b0701d9",
+      "moduleId": "module_2",
+      "khmer": "សំបុត្រ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-e1ecb3748b0701d9.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:232"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-e32b5f2f0a20fecf",
+      "moduleId": "module_2",
+      "khmer": "ងូតទឹក",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-e32b5f2f0a20fecf.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:182"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-e38e1284100f9118",
+      "moduleId": "module_2",
+      "khmer": "ស្លាបព្រា",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-e38e1284100f9118.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:214"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-e463e8ff59c03cea",
+      "moduleId": "module_2",
+      "khmer": "ត្រឡប់មកផ្ទះ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-e463e8ff59c03cea.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:188"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-e4d42294921a2094",
+      "moduleId": "module_2",
+      "khmer": "សាប៊ូកក់សក់",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-e4d42294921a2094.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:283"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-e5c8914da9cb0d24",
+      "moduleId": "module_2",
+      "khmer": "គ្រោះថ្នាក់ចរាចរណ៍",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-e5c8914da9cb0d24.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:321"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-e5f7899934e40e97",
+      "moduleId": "module_2",
+      "khmer": "បន្ទប់ពីរគ្រែ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-e5f7899934e40e97.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:236"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-ef6a50468dc7f464",
+      "moduleId": "module_2",
+      "khmer": "កុំព្យូទ័រ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-ef6a50468dc7f464.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:257"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-ef745d050721b4af",
+      "moduleId": "module_2",
+      "khmer": "បន្ទប់មួយគ្រែ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-ef745d050721b4af.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:235"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-f395528ae3c96877",
+      "moduleId": "module_2",
+      "khmer": "ភ្ញាក់ពីគេង",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-f395528ae3c96877.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:178"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-f8d004cbcf9c8ecb",
+      "moduleId": "module_2",
+      "khmer": "ជួរ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-f8d004cbcf9c8ecb.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:344"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-f99772bad77052a8",
+      "moduleId": "module_2",
+      "khmer": "ត្រង់",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-f99772bad77052a8.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:102"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-fa293eaea02d9fe1",
+      "moduleId": "module_2",
+      "khmer": "មិនចូលចិត្ត",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-fa293eaea02d9fe1.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:165"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-fe37d2d1ab076e3e",
+      "moduleId": "module_2",
+      "khmer": "វង្វេងផ្លូវ",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-fe37d2d1ab076e3e.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:315"
+      ]
+    },
+    {
+      "id": "module-2-expansion-v1-feeb75f961e3bb5b",
+      "moduleId": "module_2",
+      "khmer": "ដុសសក់",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_2/module-2-expansion-v1-feeb75f961e3bb5b.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/read-spell-expansion.ts:293"
+      ]
+    }
+  ]
+}

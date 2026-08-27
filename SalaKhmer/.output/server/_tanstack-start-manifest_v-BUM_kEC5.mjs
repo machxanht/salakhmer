@@ -1,0 +1,309 @@
+//#region node_modules/.nitro/vite/services/ssr/assets/_tanstack-start-manifest_v-BUM_kEC5.js
+var tsrStartManifest = () => ({ routes: {
+	__root__: {
+		filePath: "E:/AI/Antigravity/SalaKhmer/src/routes/__root.tsx",
+		children: [
+			"/",
+			"/admin",
+			"/apply",
+			"/dictionary",
+			"/home",
+			"/learn",
+			"/login",
+			"/mobile-viewer",
+			"/practice",
+			"/profile",
+			"/ui-concepts",
+			"/ui-preview",
+			"/api/chat",
+			"/category/$categoryId",
+			"/grid-lesson/$lessonId",
+			"/lesson/$lessonId",
+			"/read-spell/$topicId"
+		],
+		preloads: [
+			"/assets/index-Bm2PpK33.js",
+			"/assets/jsx-runtime-B-hcVAMW.js",
+			"/assets/link-BuDjGMvB.js",
+			"/assets/lazyRouteComponent-DM0A7EZD.js",
+			"/assets/useRouter-BGpAXxmD.js",
+			"/assets/useAuth-DjWZ2JEd.js",
+			"/assets/i18n-BipFXkUC.js",
+			"/assets/preload-helper-Czpn1I53.js",
+			"/assets/login-BgmZDi77.js",
+			"/assets/category._categoryId-D4RFZkRH.js",
+			"/assets/grid-lesson._lessonId-C9rjskC1.js",
+			"/assets/lesson._lessonId-CXpCJmUk.js",
+			"/assets/read-spell._topicId-Dm4km7_p.js"
+		],
+		scripts: [{ attrs: {
+			type: "module",
+			async: !0,
+			src: "/assets/index-Bm2PpK33.js"
+		} }]
+	},
+	"/": {
+		filePath: "E:/AI/Antigravity/SalaKhmer/src/routes/index.tsx",
+		children: void 0,
+		preloads: [
+			"/assets/routes-Pd0Xp3JP.js",
+			"/assets/useNavigate-BkLYxs6i.js",
+			"/assets/createLucideIcon-CLdWFMku.js",
+			"/assets/arrow-right-D9dIjaq0.js",
+			"/assets/check-36OnHiEM.js",
+			"/assets/languages-BnM3TTlh.js",
+			"/assets/user-round-k2UFcidZ.js",
+			"/assets/mascot-apsara-CnsG9toA.js",
+			"/assets/logo-BZI-Ek_R.js"
+		]
+	},
+	"/admin": {
+		filePath: "E:/AI/Antigravity/SalaKhmer/src/routes/admin.tsx",
+		children: void 0,
+		preloads: [
+			"/assets/admin-Cag3jORM.js",
+			"/assets/createLucideIcon-CLdWFMku.js",
+			"/assets/LovableAppShell-BiDED-6z.js",
+			"/assets/calendar-days-D4bF78qH.js",
+			"/assets/check-36OnHiEM.js",
+			"/assets/chevron-right-CHJcvRU6.js",
+			"/assets/circle-check-DjOsU-2G.js",
+			"/assets/image-B10s4838.js",
+			"/assets/lock-CU0IKVqn.js",
+			"/assets/play-CPV0a6Tn.js",
+			"/assets/refresh-cw-CHzni4H4.js",
+			"/assets/sparkles-DZ5Pl1vD.js",
+			"/assets/users-D2taoQBY.js",
+			"/assets/volume-2-DoDae9nb.js",
+			"/assets/khmerAlphabetData-Ct-MpfmX.js"
+		]
+	},
+	"/apply": {
+		filePath: "E:/AI/Antigravity/SalaKhmer/src/routes/apply.tsx",
+		children: void 0,
+		preloads: [
+			"/assets/apply-CyQoOp1r.js",
+			"/assets/createLucideIcon-CLdWFMku.js",
+			"/assets/LovableAppShell-BiDED-6z.js",
+			"/assets/house-FP6Rh0tm.js",
+			"/assets/calendar-days-D4bF78qH.js",
+			"/assets/chevron-right-CHJcvRU6.js",
+			"/assets/search-BArgXTuC.js",
+			"/assets/PatreonSupportCard-Cjh_k6Z4.js"
+		]
+	},
+	"/dictionary": {
+		filePath: "E:/AI/Antigravity/SalaKhmer/src/routes/dictionary.tsx",
+		children: void 0,
+		preloads: [
+			"/assets/dictionary-D1qwP4UV.js",
+			"/assets/LovableAppShell-BiDED-6z.js",
+			"/assets/search-BArgXTuC.js",
+			"/assets/PatreonSupportCard-Cjh_k6Z4.js",
+			"/assets/languages-BnM3TTlh.js",
+			"/assets/volume-2-DoDae9nb.js"
+		]
+	},
+	"/home": {
+		filePath: "E:/AI/Antigravity/SalaKhmer/src/routes/home.tsx",
+		children: void 0,
+		preloads: [
+			"/assets/home-pMR4U4HA.js",
+			"/assets/createLucideIcon-CLdWFMku.js",
+			"/assets/LovableAppShell-BiDED-6z.js",
+			"/assets/arrow-right-D9dIjaq0.js",
+			"/assets/house-FP6Rh0tm.js",
+			"/assets/chevron-right-CHJcvRU6.js",
+			"/assets/search-BArgXTuC.js",
+			"/assets/trophy-C3QHPk-9.js",
+			"/assets/lock-CU0IKVqn.js",
+			"/assets/map-pin-BupMBcH4.js",
+			"/assets/sparkles-DZ5Pl1vD.js",
+			"/assets/tester-access-DMvX9jxq.js"
+		]
+	},
+	"/learn": {
+		filePath: "E:/AI/Antigravity/SalaKhmer/src/routes/learn.tsx",
+		children: void 0,
+		preloads: [
+			"/assets/learn-Cv5wj7Li.js",
+			"/assets/LovableAppShell-BiDED-6z.js",
+			"/assets/house-FP6Rh0tm.js",
+			"/assets/check-36OnHiEM.js",
+			"/assets/search-BArgXTuC.js",
+			"/assets/type-B5FS1T5y.js"
+		]
+	},
+	"/login": {
+		filePath: "E:/AI/Antigravity/SalaKhmer/src/routes/login.tsx",
+		children: void 0,
+		preloads: [
+			"/assets/login-BmbaIdhc.js",
+			"/assets/useNavigate-BkLYxs6i.js",
+			"/assets/createLucideIcon-CLdWFMku.js",
+			"/assets/circle-alert-CcGnUa7l.js",
+			"/assets/eye-C942t33W.js",
+			"/assets/lock-CU0IKVqn.js",
+			"/assets/user-BD-nekG6.js",
+			"/assets/logo-BZI-Ek_R.js"
+		]
+	},
+	"/mobile-viewer": {
+		filePath: "E:/AI/Antigravity/SalaKhmer/src/routes/mobile-viewer.tsx",
+		children: void 0,
+		preloads: [
+			"/assets/mobile-viewer-CvQekCqB.js",
+			"/assets/createLucideIcon-CLdWFMku.js",
+			"/assets/external-link-BYVStqz6.js",
+			"/assets/refresh-cw-CHzni4H4.js"
+		]
+	},
+	"/practice": {
+		filePath: "E:/AI/Antigravity/SalaKhmer/src/routes/practice.tsx",
+		children: void 0,
+		preloads: [
+			"/assets/practice-C5GS3tX3.js",
+			"/assets/useRouterState-BvAaNq3m.js",
+			"/assets/arrow-right-D9dIjaq0.js",
+			"/assets/house-FP6Rh0tm.js",
+			"/assets/check-36OnHiEM.js",
+			"/assets/rotate-ccw-CLESVSgn.js",
+			"/assets/sparkles-DZ5Pl1vD.js",
+			"/assets/user-BD-nekG6.js",
+			"/assets/volume-2-DoDae9nb.js",
+			"/assets/audioService-fbFu4HDn.js",
+			"/assets/AudioSpeedSettings-aJzUx2Zb.js",
+			"/assets/review-queue-CjQQwczA.js"
+		]
+	},
+	"/profile": {
+		filePath: "E:/AI/Antigravity/SalaKhmer/src/routes/profile.tsx",
+		children: void 0,
+		preloads: [
+			"/assets/profile-D44vOehi.js",
+			"/assets/createLucideIcon-CLdWFMku.js",
+			"/assets/LovableAppShell-BiDED-6z.js",
+			"/assets/chevron-right-CHJcvRU6.js",
+			"/assets/circle-alert-CcGnUa7l.js",
+			"/assets/PatreonSupportCard-Cjh_k6Z4.js",
+			"/assets/AudioSpeedSettings-aJzUx2Zb.js"
+		]
+	},
+	"/ui-concepts": {
+		filePath: "E:/AI/Antigravity/SalaKhmer/src/routes/ui-concepts.tsx",
+		children: void 0,
+		preloads: [
+			"/assets/ui-concepts-D8x-m0AY.js",
+			"/assets/createLucideIcon-CLdWFMku.js",
+			"/assets/house-FP6Rh0tm.js",
+			"/assets/apsara-reading-DMw0Gy86.js",
+			"/assets/check-36OnHiEM.js",
+			"/assets/chevron-right-CHJcvRU6.js",
+			"/assets/search-BArgXTuC.js",
+			"/assets/languages-BnM3TTlh.js",
+			"/assets/trophy-C3QHPk-9.js",
+			"/assets/map-pin-BupMBcH4.js",
+			"/assets/play-CPV0a6Tn.js",
+			"/assets/sparkles-DZ5Pl1vD.js",
+			"/assets/user-round-k2UFcidZ.js",
+			"/assets/volume-2-DoDae9nb.js"
+		]
+	},
+	"/ui-preview": {
+		filePath: "E:/AI/Antigravity/SalaKhmer/src/routes/ui-preview.tsx",
+		children: void 0,
+		preloads: [
+			"/assets/ui-preview-CT2IKcXA.js",
+			"/assets/createLucideIcon-CLdWFMku.js",
+			"/assets/house-FP6Rh0tm.js",
+			"/assets/check-36OnHiEM.js",
+			"/assets/chevron-left-BqXVpTN8.js",
+			"/assets/chevron-right-CHJcvRU6.js",
+			"/assets/search-BArgXTuC.js",
+			"/assets/lock-CU0IKVqn.js",
+			"/assets/play-CPV0a6Tn.js",
+			"/assets/type-B5FS1T5y.js",
+			"/assets/user-round-k2UFcidZ.js",
+			"/assets/volume-2-DoDae9nb.js"
+		]
+	},
+	"/category/$categoryId": {
+		filePath: "E:/AI/Antigravity/SalaKhmer/src/routes/category.$categoryId.tsx",
+		children: void 0,
+		preloads: [
+			"/assets/category._categoryId-B7H1DGXz.js",
+			"/assets/useNavigate-BkLYxs6i.js",
+			"/assets/createLucideIcon-CLdWFMku.js",
+			"/assets/LovableAppShell-BiDED-6z.js",
+			"/assets/house-FP6Rh0tm.js",
+			"/assets/check-36OnHiEM.js",
+			"/assets/chevron-left-BqXVpTN8.js",
+			"/assets/chevron-right-CHJcvRU6.js",
+			"/assets/search-BArgXTuC.js",
+			"/assets/eye-C942t33W.js",
+			"/assets/PatreonSupportCard-Cjh_k6Z4.js",
+			"/assets/lock-CU0IKVqn.js",
+			"/assets/rotate-ccw-CLESVSgn.js",
+			"/assets/type-B5FS1T5y.js",
+			"/assets/users-D2taoQBY.js",
+			"/assets/khmerAlphabetData-Ct-MpfmX.js",
+			"/assets/tester-access-DMvX9jxq.js",
+			"/assets/read-spell-localization-xfEzu8ge.js",
+			"/assets/content-localization-DIp0KlIu.js"
+		]
+	},
+	"/grid-lesson/$lessonId": {
+		filePath: "E:/AI/Antigravity/SalaKhmer/src/routes/grid-lesson.$lessonId.tsx",
+		children: void 0,
+		preloads: [
+			"/assets/grid-lesson._lessonId-DRpk2nZ9.js",
+			"/assets/useNavigate-BkLYxs6i.js",
+			"/assets/circle-check-DjOsU-2G.js",
+			"/assets/PatreonSupportCard-Cjh_k6Z4.js",
+			"/assets/lock-CU0IKVqn.js",
+			"/assets/volume-2-DoDae9nb.js",
+			"/assets/x-CGuQtexA.js",
+			"/assets/khmerAlphabetData-Ct-MpfmX.js",
+			"/assets/tester-access-DMvX9jxq.js",
+			"/assets/audioService-fbFu4HDn.js",
+			"/assets/AudioSpeedSettings-aJzUx2Zb.js"
+		]
+	},
+	"/lesson/$lessonId": {
+		filePath: "E:/AI/Antigravity/SalaKhmer/src/routes/lesson.$lessonId.tsx",
+		children: void 0,
+		preloads: [
+			"/assets/lesson._lessonId-D9ZAIEFi.js",
+			"/assets/useNavigate-BkLYxs6i.js",
+			"/assets/createLucideIcon-CLdWFMku.js",
+			"/assets/chevron-right-CHJcvRU6.js",
+			"/assets/circle-check-DjOsU-2G.js",
+			"/assets/PatreonSupportCard-Cjh_k6Z4.js",
+			"/assets/languages-BnM3TTlh.js",
+			"/assets/play-CPV0a6Tn.js",
+			"/assets/volume-2-DoDae9nb.js",
+			"/assets/x-CGuQtexA.js",
+			"/assets/tester-access-DMvX9jxq.js",
+			"/assets/content-localization-DIp0KlIu.js",
+			"/assets/audioService-fbFu4HDn.js",
+			"/assets/AudioSpeedSettings-aJzUx2Zb.js",
+			"/assets/review-queue-CjQQwczA.js"
+		]
+	},
+	"/read-spell/$topicId": {
+		filePath: "E:/AI/Antigravity/SalaKhmer/src/routes/read-spell.$topicId.tsx",
+		children: void 0,
+		preloads: [
+			"/assets/read-spell._topicId-Cd3EjDXa.js",
+			"/assets/useNavigate-BkLYxs6i.js",
+			"/assets/LovableAppShell-BiDED-6z.js",
+			"/assets/PatreonSupportCard-Cjh_k6Z4.js",
+			"/assets/image-B10s4838.js",
+			"/assets/volume-2-DoDae9nb.js",
+			"/assets/read-spell-localization-xfEzu8ge.js",
+			"/assets/audioService-fbFu4HDn.js"
+		]
+	}
+} });
+//#endregion
+export { tsrStartManifest };

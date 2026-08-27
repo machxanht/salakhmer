@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-08-12T10:55:42.559Z",
+  "manifest": "scripts/module-2-expansion-v1-audio-manifest.json",
+  "moduleId": "module_2",
+  "inputs": [
+    "src/lib/read-spell-expansion.ts"
+  ],
+  "totalDiscoveredStrings": 150,
+  "uniqueSynthesizableItems": 150,
+  "estimatedAzureCharacters": 1104,
+  "excluded": "One-glyph / non-Khmer / mixed-language strings are excluded by design.",
+  "nextStep": "Approved manifest ready. Run audio:module-expansion with --input=<manifest>."
+}

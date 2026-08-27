@@ -1,0 +1,311 @@
+[33mThe plugin "vite-tsconfig-paths" is detected. Vite now supports tsconfig paths resolution natively via the [1mresolve.tsconfigPaths[22m option. You can remove the plugin and set [1mresolve.tsconfigPaths: true[22m in your Vite config instead.[39m
+[2m1:47:17 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22m[2026-08-12T18:47:17.381Z]  @firebase/analytics: Failed to fetch this Firebase app's measurement ID from the server. Falling back to the measurement ID G-HGVH42V8DL provided in the "measurementId" field in the local Firebase config. [Analytics: Dynamic config fetch failed: [403] Requests to this API firebase.googleapis.com method google.firebase.service.v1alpha.DynamicConfigService.GetDynamicWebConfig are blocked. (analytics/config-fetch-failed).]
+[2m1:47:17 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFirebaseError: Installations: Create Installation request failed with error "403 PERMISSION_DENIED: Requests to this API firebaseinstallations.googleapis.com method google.firebase.installations.v1.FirebaseInstallationsService.CreateInstallation are blocked." (installations/request-failed).
+    at getErrorFromResponse (http://localhost:8081/node_modules/.vite/deps/firebase_analytics.js?v=88f03216:83:25)
+    at async createInstallationRequest (http://localhost:8081/node_modules/.vite/deps/firebase_analytics.js?v=88f03216:162:15)
+    at async registerInstallation (http://localhost:8081/node_modules/.vite/deps/firebase_analytics.js?v=88f03216:456:39)
+[2m1:47:24 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22m[2026-08-12T18:47:24.099Z]  @firebase/analytics: Failed to fetch this Firebase app's measurement ID from the server. Falling back to the measurement ID G-HGVH42V8DL provided in the "measurementId" field in the local Firebase config. [Analytics: Dynamic config fetch failed: [403] Requests to this API firebase.googleapis.com method google.firebase.service.v1alpha.DynamicConfigService.GetDynamicWebConfig are blocked. (analytics/config-fetch-failed).]
+[2m1:47:24 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFirebaseError: Installations: Create Installation request failed with error "403 PERMISSION_DENIED: Requests to this API firebaseinstallations.googleapis.com method google.firebase.installations.v1.FirebaseInstallationsService.CreateInstallation are blocked." (installations/request-failed).
+    at getErrorFromResponse (http://localhost:8081/node_modules/.vite/deps/firebase_analytics.js?v=88f03216:83:25)
+    at async createInstallationRequest (http://localhost:8081/node_modules/.vite/deps/firebase_analytics.js?v=88f03216:162:15)
+    at async registerInstallation (http://localhost:8081/node_modules/.vite/deps/firebase_analytics.js?v=88f03216:456:39)
+[2m1:48:21 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22m[2026-08-12T18:48:21.368Z]  @firebase/analytics: Failed to fetch this Firebase app's measurement ID from the server. Falling back to the measurement ID G-HGVH42V8DL provided in the "measurementId" field in the local Firebase config. [Analytics: Dynamic config fetch failed: [403] Requests to this API firebase.googleapis.com method google.firebase.service.v1alpha.DynamicConfigService.GetDynamicWebConfig are blocked. (analytics/config-fetch-failed).]
+[2m1:48:21 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFirebaseError: Installations: Create Installation request failed with error "403 PERMISSION_DENIED: Requests to this API firebaseinstallations.googleapis.com method google.firebase.installations.v1.FirebaseInstallationsService.CreateInstallation are blocked." (installations/request-failed).
+    at getErrorFromResponse (http://localhost:8081/node_modules/.vite/deps/firebase_analytics.js?v=88f03216:83:25)
+    at async createInstallationRequest (http://localhost:8081/node_modules/.vite/deps/firebase_analytics.js?v=88f03216:162:15)
+    at async registerInstallation (http://localhost:8081/node_modules/.vite/deps/firebase_analytics.js?v=88f03216:456:39)
+[2m1:48:26 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22m[2026-08-12T18:48:26.387Z]  @firebase/analytics: Failed to fetch this Firebase app's measurement ID from the server. Falling back to the measurement ID G-HGVH42V8DL provided in the "measurementId" field in the local Firebase config. [Analytics: Dynamic config fetch failed: [403] Requests to this API firebase.googleapis.com method google.firebase.service.v1alpha.DynamicConfigService.GetDynamicWebConfig are blocked. (analytics/config-fetch-failed).]
+[2m1:48:26 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFirebaseError: Installations: Create Installation request failed with error "403 PERMISSION_DENIED: Requests to this API firebaseinstallations.googleapis.com method google.firebase.installations.v1.FirebaseInstallationsService.CreateInstallation are blocked." (installations/request-failed).
+    at getErrorFromResponse (http://localhost:8081/node_modules/.vite/deps/firebase_analytics.js?v=88f03216:83:25)
+    at async createInstallationRequest (http://localhost:8081/node_modules/.vite/deps/firebase_analytics.js?v=88f03216:162:15)
+    at async registerInstallation (http://localhost:8081/node_modules/.vite/deps/firebase_analytics.js?v=88f03216:456:39)
+[2m1:48:50 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Unable to play audio: /audio/read-spell-v1/rs-safety-001.mp3
+    at audio.onerror (http://localhost:8081/src/lib/audioService.ts:37:32)
+[2m1:48:51 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Unable to play audio: /audio/read-spell-v1/rs-safety-001.mp3
+    at audio.onerror (http://localhost:8081/src/lib/audioService.ts:37:32)
+[2m1:48:52 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Unable to play audio: /audio/read-spell-v1/rs-safety-002.mp3
+    at audio.onerror (http://localhost:8081/src/lib/audioService.ts:37:32)
+[2m1:48:52 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Unable to play audio: /audio/read-spell-v1/rs-safety-002.mp3
+    at audio.onerror (http://localhost:8081/src/lib/audioService.ts:37:32)
+[2m1:48:52 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Unable to play audio: /audio/read-spell-v1/rs-safety-002.mp3
+    at audio.onerror (http://localhost:8081/src/lib/audioService.ts:37:32)
+[2m2:10:12 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22m[2026-08-12T19:10:12.436Z]  @firebase/analytics: Failed to fetch this Firebase app's measurement ID from the server. Falling back to the measurement ID G-HGVH42V8DL provided in the "measurementId" field in the local Firebase config. [Analytics: Dynamic config fetch failed: [403] Requests to this API firebase.googleapis.com method google.firebase.service.v1alpha.DynamicConfigService.GetDynamicWebConfig are blocked. (analytics/config-fetch-failed).]
+[2m2:10:12 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFirebaseError: Installations: Create Installation request failed with error "403 PERMISSION_DENIED: Requests to this API firebaseinstallations.googleapis.com method google.firebase.installations.v1.FirebaseInstallationsService.CreateInstallation are blocked." (installations/request-failed).
+    at getErrorFromResponse (http://localhost:8081/node_modules/.vite/deps/firebase_analytics.js?v=88f03216:83:25)
+    at async createInstallationRequest (http://localhost:8081/node_modules/.vite/deps/firebase_analytics.js?v=88f03216:162:15)
+    at async registerInstallation (http://localhost:8081/node_modules/.vite/deps/firebase_analytics.js?v=88f03216:456:39)
+[2m2:10:24 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Unable to play audio: /audio/read-spell-v1/rs-safety-001.mp3
+    at audio.onerror (http://localhost:8081/src/lib/audioService.ts:37:32)
+[2m2:10:26 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Unable to play audio: /audio/read-spell-v1/rs-safety-001.mp3
+    at audio.onerror (http://localhost:8081/src/lib/audioService.ts:37:32)
+[2m2:10:28 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Unable to play audio: /audio/read-spell-v1/rs-safety-002.mp3
+    at audio.onerror (http://localhost:8081/src/lib/audioService.ts:37:32)
+[2m2:12:54 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Unable to play audio: /audio/read-spell-v1/rs-directions-001.mp3
+    at audio.onerror (http://localhost:8081/src/lib/audioService.ts:37:32)
+[2m2:16:54 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mImported Azure dialogue audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562101491:8:23)
+    at onClick (http://localhost:8081/src/components/ConversationTranscriptLesson.tsx?t=1786562101491:89:10)
+    at executeDispatch (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+    at http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9452:5
+    at batchedUpdates$1 (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=88f03216:2042:12)
+    at dispatchEventForPluginEventSystem (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9238:4)
+    at dispatchEvent (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=88f03216:11317:29)
+    at dispatchDiscreteEvent (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=88f03216:11299:56)
+[2m2:18:07 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mExpanded Read & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562101491:8:23)
+    at http://localhost:8081/src/lib/audioService.ts?t=1786562101491:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8081/src/lib/audioService.ts?t=1786562101491:17:9)
+    at playKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562101491:182:10)
+    at async playWord (http://localhost:8081/src/routes/read-spell.$topicId.tsx?t=1786562101491&tsr-split=component:67:4)
+[2m2:18:07 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mExpanded Read & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562101491:8:23)
+    at http://localhost:8081/src/lib/audioService.ts?t=1786562101491:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8081/src/lib/audioService.ts?t=1786562101491:17:9)
+    at playKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562101491:191:10)
+    at async playWord (http://localhost:8081/src/routes/read-spell.$topicId.tsx?t=1786562101491&tsr-split=component:67:4)
+[2m2:18:07 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562101491:8:23)
+    at http://localhost:8081/src/lib/audioService.ts?t=1786562101491:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8081/src/lib/audioService.ts?t=1786562101491:17:9)
+    at playKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562101491:191:10)
+    at async playWord (http://localhost:8081/src/routes/read-spell.$topicId.tsx?t=1786562101491&tsr-split=component:67:4)
+[2m2:18:07 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Unable to play audio: /audio/read-spell-v1/rs-services-006.mp3
+    at audio.onerror (http://localhost:8081/src/lib/audioService.ts?t=1786562101491:37:32)
+[2m2:18:16 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mExpanded Read & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562101491:8:23)
+    at http://localhost:8081/src/lib/audioService.ts?t=1786562101491:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8081/src/lib/audioService.ts?t=1786562101491:17:9)
+    at playKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562101491:182:10)
+    at async playWord (http://localhost:8081/src/routes/read-spell.$topicId.tsx?t=1786562101491&tsr-split=component:67:4)
+[2m2:18:16 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mExpanded Read & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562101491:8:23)
+    at http://localhost:8081/src/lib/audioService.ts?t=1786562101491:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8081/src/lib/audioService.ts?t=1786562101491:17:9)
+    at playKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562101491:191:10)
+    at async playWord (http://localhost:8081/src/routes/read-spell.$topicId.tsx?t=1786562101491&tsr-split=component:67:4)
+[2m2:18:16 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562101491:8:23)
+    at http://localhost:8081/src/lib/audioService.ts?t=1786562101491:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8081/src/lib/audioService.ts?t=1786562101491:17:9)
+    at playKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562101491:191:10)
+    at async playWord (http://localhost:8081/src/routes/read-spell.$topicId.tsx?t=1786562101491&tsr-split=component:67:4)
+[2m2:18:16 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Unable to play audio: /audio/read-spell-v1/rs-services-009.mp3
+    at audio.onerror (http://localhost:8081/src/lib/audioService.ts?t=1786562101491:37:32)
+[2m2:18:45 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mExpanded Read & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562101491:8:23)
+    at http://localhost:8081/src/lib/audioService.ts?t=1786562101491:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8081/src/lib/audioService.ts?t=1786562101491:17:9)
+    at playKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562101491:182:10)
+    at async playWord (http://localhost:8081/src/routes/read-spell.$topicId.tsx?t=1786562101491&tsr-split=component:67:4)
+[2m2:18:45 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mExpanded Read & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562101491:8:23)
+    at http://localhost:8081/src/lib/audioService.ts?t=1786562101491:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8081/src/lib/audioService.ts?t=1786562101491:17:9)
+    at playKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562101491:191:10)
+    at async playWord (http://localhost:8081/src/routes/read-spell.$topicId.tsx?t=1786562101491&tsr-split=component:67:4)
+[2m2:18:45 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562101491:8:23)
+    at http://localhost:8081/src/lib/audioService.ts?t=1786562101491:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8081/src/lib/audioService.ts?t=1786562101491:17:9)
+    at playKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562101491:191:10)
+    at async playWord (http://localhost:8081/src/routes/read-spell.$topicId.tsx?t=1786562101491&tsr-split=component:67:4)
+[2m2:18:45 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Unable to play audio: /audio/read-spell-v1/rs-personal-care-004.mp3
+    at audio.onerror (http://localhost:8081/src/lib/audioService.ts?t=1786562101491:37:32)
+[2m2:18:48 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mExpanded Read & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562101491:8:23)
+    at http://localhost:8081/src/lib/audioService.ts?t=1786562101491:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8081/src/lib/audioService.ts?t=1786562101491:17:9)
+    at playKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562101491:182:10)
+    at async playWord (http://localhost:8081/src/routes/read-spell.$topicId.tsx?t=1786562101491&tsr-split=component:67:4)
+[2m2:18:48 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mExpanded Read & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562101491:8:23)
+    at http://localhost:8081/src/lib/audioService.ts?t=1786562101491:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8081/src/lib/audioService.ts?t=1786562101491:17:9)
+    at playKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562101491:191:10)
+    at async playWord (http://localhost:8081/src/routes/read-spell.$topicId.tsx?t=1786562101491&tsr-split=component:67:4)
+[2m2:18:48 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562101491:8:23)
+    at http://localhost:8081/src/lib/audioService.ts?t=1786562101491:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8081/src/lib/audioService.ts?t=1786562101491:17:9)
+    at playKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562101491:191:10)
+    at async playWord (http://localhost:8081/src/routes/read-spell.$topicId.tsx?t=1786562101491&tsr-split=component:67:4)
+[2m2:18:48 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Unable to play audio: /audio/read-spell-v1/rs-personal-care-005.mp3
+    at audio.onerror (http://localhost:8081/src/lib/audioService.ts?t=1786562101491:37:32)
+[2m2:19:14 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mImported Azure dialogue audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562101491:8:23)
+    at http://localhost:8081/src/lib/audioService.ts?t=1786562101491:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8081/src/lib/audioService.ts?t=1786562101491:17:9)
+    at playKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562101491:172:10)
+    at playLine (http://localhost:8081/src/components/ConversationTranscriptLesson.tsx?t=1786562101491:38:10)
+    at onPlay (http://localhost:8081/src/components/ConversationTranscriptLesson.tsx?t=1786562101491:192:28)
+    at executeDispatch (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+[2m2:19:42 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mImported Azure dialogue audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562101491:8:23)
+    at onClick (http://localhost:8081/src/components/ConversationTranscriptLesson.tsx?t=1786562101491:89:10)
+    at executeDispatch (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+    at http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9452:5
+    at batchedUpdates$1 (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=88f03216:2042:12)
+    at dispatchEventForPluginEventSystem (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9238:4)
+    at dispatchEvent (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=88f03216:11317:29)
+    at dispatchDiscreteEvent (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=88f03216:11299:56)
+[2m2:26:32 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22m[2026-08-12T19:26:32.942Z]  @firebase/analytics: Failed to fetch this Firebase app's measurement ID from the server. Falling back to the measurement ID G-HGVH42V8DL provided in the "measurementId" field in the local Firebase config. [Analytics: Dynamic config fetch failed: [403] Requests to this API firebase.googleapis.com method google.firebase.service.v1alpha.DynamicConfigService.GetDynamicWebConfig are blocked. (analytics/config-fetch-failed).]
+[2m2:26:32 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFirebaseError: Installations: Create Installation request failed with error "403 PERMISSION_DENIED: Requests to this API firebaseinstallations.googleapis.com method google.firebase.installations.v1.FirebaseInstallationsService.CreateInstallation are blocked." (installations/request-failed).
+    at getErrorFromResponse (http://localhost:8081/node_modules/.vite/deps/firebase_analytics.js?v=88f03216:83:25)
+    at async createInstallationRequest (http://localhost:8081/node_modules/.vite/deps/firebase_analytics.js?v=88f03216:162:15)
+    at async registerInstallation (http://localhost:8081/node_modules/.vite/deps/firebase_analytics.js?v=88f03216:456:39)
+[2m2:26:42 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mExpanded Read & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562642930:8:23)
+    at http://localhost:8081/src/lib/audioService.ts?t=1786562642930:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8081/src/lib/audioService.ts?t=1786562642930:17:9)
+    at playKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562642930:205:10)
+    at async playWord (http://localhost:8081/src/routes/read-spell.$topicId.tsx?t=1786562642930&tsr-split=component:67:4)
+[2m2:26:42 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mExpanded Read & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562642930:8:23)
+    at http://localhost:8081/src/lib/audioService.ts?t=1786562642930:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8081/src/lib/audioService.ts?t=1786562642930:17:9)
+    at playKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562642930:214:10)
+    at async playWord (http://localhost:8081/src/routes/read-spell.$topicId.tsx?t=1786562642930&tsr-split=component:67:4)
+[2m2:26:42 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562642930:8:23)
+    at http://localhost:8081/src/lib/audioService.ts?t=1786562642930:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8081/src/lib/audioService.ts?t=1786562642930:17:9)
+    at playKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562642930:214:10)
+    at async playWord (http://localhost:8081/src/routes/read-spell.$topicId.tsx?t=1786562642930&tsr-split=component:67:4)
+[2m2:26:43 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Unable to play audio: /audio/read-spell-v1/rs-technology-003.mp3
+    at audio.onerror (http://localhost:8081/src/lib/audioService.ts?t=1786562642930:37:32)
+[2m2:26:45 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mExpanded Read & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562642930:8:23)
+    at http://localhost:8081/src/lib/audioService.ts?t=1786562642930:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8081/src/lib/audioService.ts?t=1786562642930:17:9)
+    at playKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562642930:205:10)
+    at async playWord (http://localhost:8081/src/routes/read-spell.$topicId.tsx?t=1786562642930&tsr-split=component:67:4)
+[2m2:26:45 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mExpanded Read & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562642930:8:23)
+    at http://localhost:8081/src/lib/audioService.ts?t=1786562642930:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8081/src/lib/audioService.ts?t=1786562642930:17:9)
+    at playKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562642930:214:10)
+    at async playWord (http://localhost:8081/src/routes/read-spell.$topicId.tsx?t=1786562642930&tsr-split=component:67:4)
+[2m2:26:45 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562642930:8:23)
+    at http://localhost:8081/src/lib/audioService.ts?t=1786562642930:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8081/src/lib/audioService.ts?t=1786562642930:17:9)
+    at playKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562642930:214:10)
+    at async playWord (http://localhost:8081/src/routes/read-spell.$topicId.tsx?t=1786562642930&tsr-split=component:67:4)
+[2m2:26:45 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Unable to play audio: /audio/read-spell-v1/rs-technology-003.mp3
+    at audio.onerror (http://localhost:8081/src/lib/audioService.ts?t=1786562642930:37:32)
+[2m2:36:01 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22m[2026-08-12T19:36:01.895Z]  @firebase/analytics: Failed to fetch this Firebase app's measurement ID from the server. Falling back to the measurement ID G-HGVH42V8DL provided in the "measurementId" field in the local Firebase config. [Analytics: Dynamic config fetch failed: [403] Requests to this API firebase.googleapis.com method google.firebase.service.v1alpha.DynamicConfigService.GetDynamicWebConfig are blocked. (analytics/config-fetch-failed).]
+[2m2:36:01 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFirebaseError: Installations: Create Installation request failed with error "403 PERMISSION_DENIED: Requests to this API firebaseinstallations.googleapis.com method google.firebase.installations.v1.FirebaseInstallationsService.CreateInstallation are blocked." (installations/request-failed).
+    at getErrorFromResponse (http://localhost:8081/node_modules/.vite/deps/firebase_analytics.js?v=88f03216:83:25)
+    at async createInstallationRequest (http://localhost:8081/node_modules/.vite/deps/firebase_analytics.js?v=88f03216:162:15)
+    at async registerInstallation (http://localhost:8081/node_modules/.vite/deps/firebase_analytics.js?v=88f03216:456:39)
+[2m2:36:44 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mExpanded Read & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562642930:8:23)
+    at http://localhost:8081/src/lib/audioService.ts?t=1786562642930:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8081/src/lib/audioService.ts?t=1786562642930:17:9)
+    at playKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562642930:205:10)
+    at async playWord (http://localhost:8081/src/routes/read-spell.$topicId.tsx?t=1786563144192&tsr-split=component:67:4)
+[2m2:36:44 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mExpanded Read & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562642930:8:23)
+    at http://localhost:8081/src/lib/audioService.ts?t=1786562642930:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8081/src/lib/audioService.ts?t=1786562642930:17:9)
+    at playKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562642930:214:10)
+    at async playWord (http://localhost:8081/src/routes/read-spell.$topicId.tsx?t=1786563144192&tsr-split=component:67:4)
+[2m2:36:44 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562642930:8:23)
+    at http://localhost:8081/src/lib/audioService.ts?t=1786562642930:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8081/src/lib/audioService.ts?t=1786562642930:17:9)
+    at playKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562642930:214:10)
+    at async playWord (http://localhost:8081/src/routes/read-spell.$topicId.tsx?t=1786563144192&tsr-split=component:67:4)
+[2m2:36:44 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Unable to play audio: /audio/read-spell-v1/rs-services-003.mp3
+    at audio.onerror (http://localhost:8081/src/lib/audioService.ts?t=1786562642930:37:32)
+[2m2:42:34 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22m[2026-08-12T19:42:34.768Z]  @firebase/analytics: Failed to fetch this Firebase app's measurement ID from the server. Falling back to the measurement ID G-HGVH42V8DL provided in the "measurementId" field in the local Firebase config. [Analytics: Dynamic config fetch failed: [403] Requests to this API firebase.googleapis.com method google.firebase.service.v1alpha.DynamicConfigService.GetDynamicWebConfig are blocked. (analytics/config-fetch-failed).]
+[2m2:42:34 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFirebaseError: Installations: Create Installation request failed with error "403 PERMISSION_DENIED: Requests to this API firebaseinstallations.googleapis.com method google.firebase.installations.v1.FirebaseInstallationsService.CreateInstallation are blocked." (installations/request-failed).
+    at getErrorFromResponse (http://localhost:8081/node_modules/.vite/deps/firebase_analytics.js?v=88f03216:83:25)
+    at async createInstallationRequest (http://localhost:8081/node_modules/.vite/deps/firebase_analytics.js?v=88f03216:162:15)
+    at async registerInstallation (http://localhost:8081/node_modules/.vite/deps/firebase_analytics.js?v=88f03216:456:39)
+[2m2:43:22 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mExpanded Read & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562642930:8:23)
+    at http://localhost:8081/src/lib/audioService.ts?t=1786562642930:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8081/src/lib/audioService.ts?t=1786562642930:17:9)
+    at playKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562642930:205:10)
+    at async playWord (http://localhost:8081/src/routes/read-spell.$topicId.tsx?t=1786563588003&tsr-split=component:67:4)
+[2m2:43:22 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mExpanded Read & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562642930:8:23)
+    at http://localhost:8081/src/lib/audioService.ts?t=1786562642930:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8081/src/lib/audioService.ts?t=1786562642930:17:9)
+    at playKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562642930:214:10)
+    at async playWord (http://localhost:8081/src/routes/read-spell.$topicId.tsx?t=1786563588003&tsr-split=component:67:4)
+[2m2:43:22 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562642930:8:23)
+    at http://localhost:8081/src/lib/audioService.ts?t=1786562642930:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8081/src/lib/audioService.ts?t=1786562642930:17:9)
+    at playKhmerAudio (http://localhost:8081/src/lib/audioService.ts?t=1786562642930:214:10)
+    at async playWord (http://localhost:8081/src/routes/read-spell.$topicId.tsx?t=1786563588003&tsr-split=component:67:4)
+[2m2:43:22 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Unable to play audio: /audio/read-spell-v1/rs-directions-004.mp3
+    at audio.onerror (http://localhost:8081/src/lib/audioService.ts?t=1786562642930:37:32)
+[2m3:09:32 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22m[2026-08-12T20:09:32.450Z]  @firebase/analytics: Failed to fetch this Firebase app's measurement ID from the server. Falling back to the measurement ID G-HGVH42V8DL provided in the "measurementId" field in the local Firebase config. [Analytics: Dynamic config fetch failed: [403] Requests to this API firebase.googleapis.com method google.firebase.service.v1alpha.DynamicConfigService.GetDynamicWebConfig are blocked. (analytics/config-fetch-failed).]
+[2m3:09:32 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFirebaseError: Installations: Create Installation request failed with error "403 PERMISSION_DENIED: Requests to this API firebaseinstallations.googleapis.com method google.firebase.installations.v1.FirebaseInstallationsService.CreateInstallation are blocked." (installations/request-failed).
+    at getErrorFromResponse (http://localhost:8081/node_modules/.vite/deps/firebase_analytics.js?v=88f03216:83:25)
+    at async createInstallationRequest (http://localhost:8081/node_modules/.vite/deps/firebase_analytics.js?v=88f03216:162:15)
+    at async registerInstallation (http://localhost:8081/node_modules/.vite/deps/firebase_analytics.js?v=88f03216:456:39)
+[2m3:31:54 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22m[2026-08-12T20:31:54.955Z]  @firebase/analytics: Failed to fetch this Firebase app's measurement ID from the server. Falling back to the measurement ID G-HGVH42V8DL provided in the "measurementId" field in the local Firebase config. [Analytics: Dynamic config fetch failed: [403] Requests to this API firebase.googleapis.com method google.firebase.service.v1alpha.DynamicConfigService.GetDynamicWebConfig are blocked. (analytics/config-fetch-failed).]
+[2m3:31:55 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFirebaseError: Installations: Create Installation request failed with error "403 PERMISSION_DENIED: Requests to this API firebaseinstallations.googleapis.com method google.firebase.installations.v1.FirebaseInstallationsService.CreateInstallation are blocked." (installations/request-failed).
+    at getErrorFromResponse (http://localhost:8081/node_modules/.vite/deps/firebase_analytics.js?v=88f03216:83:25)
+    at async createInstallationRequest (http://localhost:8081/node_modules/.vite/deps/firebase_analytics.js?v=88f03216:162:15)
+    at async registerInstallation (http://localhost:8081/node_modules/.vite/deps/firebase_analytics.js?v=88f03216:456:39)
+[2m3:34:31 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22m[2026-08-12T20:34:31.419Z]  @firebase/analytics: Failed to fetch this Firebase app's measurement ID from the server. Falling back to the measurement ID G-HGVH42V8DL provided in the "measurementId" field in the local Firebase config. [Analytics: Dynamic config fetch failed: [403] Requests to this API firebase.googleapis.com method google.firebase.service.v1alpha.DynamicConfigService.GetDynamicWebConfig are blocked. (analytics/config-fetch-failed).]
+[2m3:34:31 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFirebaseError: Installations: Create Installation request failed with error "403 PERMISSION_DENIED: Requests to this API firebaseinstallations.googleapis.com method google.firebase.installations.v1.FirebaseInstallationsService.CreateInstallation are blocked." (installations/request-failed).
+    at getErrorFromResponse (http://localhost:8081/node_modules/.vite/deps/firebase_analytics.js?v=88f03216:83:25)
+    at async createInstallationRequest (http://localhost:8081/node_modules/.vite/deps/firebase_analytics.js?v=88f03216:162:15)
+    at async registerInstallation (http://localhost:8081/node_modules/.vite/deps/firebase_analytics.js?v=88f03216:456:39)
+[2m3:34:39 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22m[2026-08-12T20:34:39.228Z]  @firebase/analytics: Failed to fetch this Firebase app's measurement ID from the server. Falling back to the measurement ID G-HGVH42V8DL provided in the "measurementId" field in the local Firebase config. [Analytics: Dynamic config fetch failed: [403] Requests to this API firebase.googleapis.com method google.firebase.service.v1alpha.DynamicConfigService.GetDynamicWebConfig are blocked. (analytics/config-fetch-failed).]
+[2m3:34:39 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFirebaseError: Installations: Create Installation request failed with error "403 PERMISSION_DENIED: Requests to this API firebaseinstallations.googleapis.com method google.firebase.installations.v1.FirebaseInstallationsService.CreateInstallation are blocked." (installations/request-failed).
+    at getErrorFromResponse (http://localhost:8081/node_modules/.vite/deps/firebase_analytics.js?v=88f03216:83:25)
+    at async createInstallationRequest (http://localhost:8081/node_modules/.vite/deps/firebase_analytics.js?v=88f03216:162:15)
+    at async registerInstallation (http://localhost:8081/node_modules/.vite/deps/firebase_analytics.js?v=88f03216:456:39)
+[2m3:35:36 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22m[2026-08-12T20:35:36.401Z]  @firebase/analytics: Failed to fetch this Firebase app's measurement ID from the server. Falling back to the measurement ID G-HGVH42V8DL provided in the "measurementId" field in the local Firebase config. [Analytics: Dynamic config fetch failed: [403] Requests to this API firebase.googleapis.com method google.firebase.service.v1alpha.DynamicConfigService.GetDynamicWebConfig are blocked. (analytics/config-fetch-failed).]
+[2m3:35:36 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFirebaseError: Installations: Create Installation request failed with error "403 PERMISSION_DENIED: Requests to this API firebaseinstallations.googleapis.com method google.firebase.installations.v1.FirebaseInstallationsService.CreateInstallation are blocked." (installations/request-failed).
+    at getErrorFromResponse (http://localhost:8081/node_modules/.vite/deps/firebase_analytics.js?v=88f03216:83:25)
+    at async createInstallationRequest (http://localhost:8081/node_modules/.vite/deps/firebase_analytics.js?v=88f03216:162:15)
+    at async registerInstallation (http://localhost:8081/node_modules/.vite/deps/firebase_analytics.js?v=88f03216:456:39)
+[2m3:50:05 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22m[2026-08-12T20:50:05.801Z]  @firebase/analytics: Failed to fetch this Firebase app's measurement ID from the server. Falling back to the measurement ID G-HGVH42V8DL provided in the "measurementId" field in the local Firebase config. [Analytics: Dynamic config fetch failed: [403] Requests to this API firebase.googleapis.com method google.firebase.service.v1alpha.DynamicConfigService.GetDynamicWebConfig are blocked. (analytics/config-fetch-failed).]
+[2m3:50:05 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFirebaseError: Installations: Create Installation request failed with error "403 PERMISSION_DENIED: Requests to this API firebaseinstallations.googleapis.com method google.firebase.installations.v1.FirebaseInstallationsService.CreateInstallation are blocked." (installations/request-failed).
+    at getErrorFromResponse (http://localhost:8081/node_modules/.vite/deps/firebase_analytics.js?v=88f03216:83:25)
+    at async createInstallationRequest (http://localhost:8081/node_modules/.vite/deps/firebase_analytics.js?v=88f03216:162:15)
+    at async registerInstallation (http://localhost:8081/node_modules/.vite/deps/firebase_analytics.js?v=88f03216:456:39)
+[2m3:53:16 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22m[2026-08-12T20:53:16.570Z]  @firebase/analytics: Failed to fetch this Firebase app's measurement ID from the server. Falling back to the measurement ID G-HGVH42V8DL provided in the "measurementId" field in the local Firebase config. [Analytics: Dynamic config fetch failed: [403] Requests to this API firebase.googleapis.com method google.firebase.service.v1alpha.DynamicConfigService.GetDynamicWebConfig are blocked. (analytics/config-fetch-failed).]
+[2m3:53:16 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFirebaseError: Installations: Create Installation request failed with error "403 PERMISSION_DENIED: Requests to this API firebaseinstallations.googleapis.com method google.firebase.installations.v1.FirebaseInstallationsService.CreateInstallation are blocked." (installations/request-failed).
+    at getErrorFromResponse (http://localhost:8081/node_modules/.vite/deps/firebase_analytics.js?v=88f03216:83:25)
+    at async createInstallationRequest (http://localhost:8081/node_modules/.vite/deps/firebase_analytics.js?v=88f03216:162:15)
+    at async registerInstallation (http://localhost:8081/node_modules/.vite/deps/firebase_analytics.js?v=88f03216:456:39)

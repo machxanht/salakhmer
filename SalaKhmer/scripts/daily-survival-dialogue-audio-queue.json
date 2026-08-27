@@ -1,0 +1,1032 @@
+{
+  "schemaVersion": 1,
+  "title": "SalaKhmer Daily Survival Dialogues — Azure Audio Queue",
+  "language": "km-KH",
+  "generationRule": "Create Azure audio only after Khmer text review. Generate each turn separately so speakers and playback speed remain controllable in Android, iOS, and web.",
+  "totalDialogues": 10,
+  "totalTurns": 50,
+  "dialogues": [
+    {
+      "id": "dialogue-01-first-meeting",
+      "title": "Meeting someone",
+      "situation": "Maya meets Dara for the first time.",
+      "turns": [
+        [
+          "Maya",
+          "តើអ្នកឈ្មោះអ្វី?",
+          "What is your name?",
+          "neak chmuoh avei"
+        ],
+        [
+          "Dara",
+          "ខ្ញុំឈ្មោះ...",
+          "My name is...",
+          "khnhom chmuoh"
+        ],
+        [
+          "Maya",
+          "ខ្ញុំមកពី...",
+          "I am from...",
+          "khnhom mok pi"
+        ],
+        [
+          "Dara",
+          "ខ្ញុំជាជនបរទេស",
+          "I am a foreigner",
+          "khnhom chea chun borotes"
+        ],
+        [
+          "Maya",
+          "រីករាយដែលបានស្គាល់អ្នក",
+          "Nice to meet you",
+          "rik-reay del ban skoa neak"
+        ]
+      ]
+    },
+    {
+      "id": "dialogue-02-polite-hello",
+      "title": "A polite hello",
+      "situation": "Dara greets an older neighbour respectfully.",
+      "turns": [
+        [
+          "Dara",
+          "ជំរាបសួរ",
+          "Hello (formal)",
+          "chom-reap-sou"
+        ],
+        [
+          "Neighbour",
+          "សួស្តី",
+          "Hello / hi",
+          "sous-dei"
+        ],
+        [
+          "Dara",
+          "សូមទោស",
+          "Sorry / excuse me",
+          "som-toh"
+        ],
+        [
+          "Neighbour",
+          "អរគុណ",
+          "Thank you",
+          "aw-kun"
+        ],
+        [
+          "Dara",
+          "លាហើយ",
+          "Goodbye",
+          "lea-haeuy"
+        ]
+      ]
+    },
+    {
+      "id": "dialogue-03-new-friend",
+      "title": "Making a new friend",
+      "situation": "Two people exchange a little information after meeting.",
+      "turns": [
+        [
+          "Maya",
+          "ខ្ញុំមកពី...",
+          "I am from...",
+          "khnhom mok pi"
+        ],
+        [
+          "Dara",
+          "រីករាយដែលបានស្គាល់អ្នក",
+          "Nice to meet you",
+          "rik-reay del ban skoa neak"
+        ],
+        [
+          "Maya",
+          "ខ្ញុំឈ្មោះ...",
+          "My name is...",
+          "khnhom chmuoh"
+        ],
+        [
+          "Dara",
+          "តើអ្នកឈ្មោះអ្វី?",
+          "What is your name?",
+          "neak chmuoh avei"
+        ],
+        [
+          "Maya",
+          "អរគុណ",
+          "Thank you",
+          "aw-kun"
+        ]
+      ]
+    },
+    {
+      "id": "dialogue-04-market-price",
+      "title": "Asking a market price",
+      "situation": "Maya asks a vendor about an item.",
+      "turns": [
+        [
+          "Maya",
+          "ថ្លៃប៉ុន្មាន?",
+          "How much does it cost?",
+          "tlai pon-man"
+        ],
+        [
+          "Maya",
+          "ថ្លៃពេក",
+          "Too expensive",
+          "tlai pek"
+        ],
+        [
+          "Maya",
+          "សូមបញ្ចុះតម្លៃបានទេ?",
+          "Can you lower the price?",
+          "som banchoh domlai ban te"
+        ],
+        [
+          "Vendor",
+          "មួយ",
+          "One",
+          "muoy"
+        ],
+        [
+          "Maya",
+          "ពីរ",
+          "Two",
+          "pi"
+        ]
+      ]
+    },
+    {
+      "id": "dialogue-05-market-size",
+      "title": "Finding the right size",
+      "situation": "Maya is shopping for clothing.",
+      "turns": [
+        [
+          "Maya",
+          "មានទំហំតូចជាងនេះទេ?",
+          "Do you have a smaller size?",
+          "mean tomhom touch cheang nih te"
+        ],
+        [
+          "Maya",
+          "ខ្ញុំយកមួយនេះ",
+          "I will take this one",
+          "khnhom yok muoy nih"
+        ],
+        [
+          "Vendor",
+          "មានពណ៌ផ្សេងទៀតទេ?",
+          "Do you have another color?",
+          "mean por pseng tiet te"
+        ],
+        [
+          "Maya",
+          "ខ្ញុំមើលសិន",
+          "I will look first",
+          "khnhom merl sen"
+        ],
+        [
+          "Maya",
+          "ខ្ញុំចង់ទិញ...",
+          "I want to buy...",
+          "khnhom chong tɨnh"
+        ]
+      ]
+    },
+    {
+      "id": "dialogue-06-looking-first",
+      "title": "Looking before buying",
+      "situation": "A vendor offers help; Maya is still deciding.",
+      "turns": [
+        [
+          "Vendor",
+          "មានពណ៌ផ្សេងទៀតទេ?",
+          "Do you have another color?",
+          "mean por pseng tiet te"
+        ],
+        [
+          "Maya",
+          "ខ្ញុំមើលសិន",
+          "I will look first",
+          "khnhom merl sen"
+        ],
+        [
+          "Maya",
+          "មានទំហំតូចជាងនេះទេ?",
+          "Do you have a smaller size?",
+          "mean tomhom touch cheang nih te"
+        ],
+        [
+          "Vendor",
+          "ថ្លៃប៉ុន្មាន?",
+          "How much does it cost?",
+          "tlai pon-man"
+        ],
+        [
+          "Maya",
+          "ខ្ញុំយកមួយនេះ",
+          "I will take this one",
+          "khnhom yok muoy nih"
+        ]
+      ]
+    },
+    {
+      "id": "dialogue-07-ordering-food",
+      "title": "Ordering at a restaurant",
+      "situation": "Maya is ready to choose food.",
+      "turns": [
+        [
+          "Maya",
+          "សូមមើលម៉ឺនុយ",
+          "Please show me the menu",
+          "som merl menu"
+        ],
+        [
+          "Maya",
+          "ខ្ញុំចង់បាន...",
+          "I would like...",
+          "khnhom chong ban"
+        ],
+        [
+          "Maya",
+          "មិនហឹរទេ សូមអរគុណ",
+          "Not spicy, please",
+          "min heur te som aw-kun"
+        ],
+        [
+          "Server",
+          "សូមទឹកមួយកែវ",
+          "A glass of water, please",
+          "som tɨk muoy kaev"
+        ],
+        [
+          "Maya",
+          "សូមគិតលុយ",
+          "The bill, please",
+          "som ket luy"
+        ]
+      ]
+    },
+    {
+      "id": "dialogue-08-restaurant-request",
+      "title": "A simple food request",
+      "situation": "Maya asks for a mild meal and water.",
+      "turns": [
+        [
+          "Maya",
+          "មិនហឹរទេ សូមអរគុណ",
+          "Not spicy, please",
+          "min heur te som aw-kun"
+        ],
+        [
+          "Maya",
+          "សូមទឹកមួយកែវ",
+          "A glass of water, please",
+          "som tɨk muoy kaev"
+        ],
+        [
+          "Server",
+          "សូមមើលម៉ឺនុយ",
+          "Please show me the menu",
+          "som merl menu"
+        ],
+        [
+          "Maya",
+          "ខ្ញុំចង់បាន...",
+          "I would like...",
+          "khnhom chong ban"
+        ],
+        [
+          "Maya",
+          "សូមគិតលុយ",
+          "The bill, please",
+          "som ket luy"
+        ]
+      ]
+    },
+    {
+      "id": "dialogue-09-tuk-tuk",
+      "title": "Taking a tuk-tuk",
+      "situation": "Maya asks a driver for a ride.",
+      "turns": [
+        [
+          "Maya",
+          "ខ្ញុំចង់ទៅ...",
+          "I want to go to...",
+          "khnhom chong tov"
+        ],
+        [
+          "Maya",
+          "ទៅផ្សារនេះថ្លៃប៉ុន្មាន?",
+          "How much to this market?",
+          "tov psar nih tlai pon-man"
+        ],
+        [
+          "Driver",
+          "បត់ស្តាំ",
+          "Turn right",
+          "bot sdam"
+        ],
+        [
+          "Driver",
+          "បត់ឆ្វេង",
+          "Turn left",
+          "bot chhveng"
+        ],
+        [
+          "Maya",
+          "សូមឈប់នៅទីនេះ",
+          "Please stop here",
+          "som chhob nov ti nih"
+        ]
+      ]
+    },
+    {
+      "id": "dialogue-10-buying-a-sim",
+      "title": "Buying a SIM card",
+      "situation": "Maya arrives at a phone shop.",
+      "turns": [
+        [
+          "Maya",
+          "ខ្ញុំចង់ទិញស៊ីមកាត",
+          "I want to buy a SIM card",
+          "khnhom chong tɨnh sim kat"
+        ],
+        [
+          "Maya",
+          "មានអ៊ីនធឺណិតទេ?",
+          "Does it include internet?",
+          "mean internet te"
+        ],
+        [
+          "Shop assistant",
+          "សូមជួយចុះឈ្មោះឲ្យខ្ញុំ",
+          "Please help me register it",
+          "som chuoy choh chhmoh aoy khnhom"
+        ],
+        [
+          "Maya",
+          "លេខទូរសព្ទរបស់ខ្ញុំគឺ...",
+          "My phone number is...",
+          "lek torosap robos khnhom ku"
+        ],
+        [
+          "Maya",
+          "សេវាមិនដំណើរការ",
+          "The service is not working",
+          "seva min damnaerka"
+        ]
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "dialogue-01-first-meeting-turn-01",
+      "dialogueId": "dialogue-01-first-meeting",
+      "dialogueTitle": "Meeting someone",
+      "speaker": "Maya",
+      "khmer": "តើអ្នកឈ្មោះអ្វី?",
+      "english": "What is your name?",
+      "romanization": "neak chmuoh avei",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-01-first-meeting-turn-01.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-01-first-meeting-turn-02",
+      "dialogueId": "dialogue-01-first-meeting",
+      "dialogueTitle": "Meeting someone",
+      "speaker": "Dara",
+      "khmer": "ខ្ញុំឈ្មោះ...",
+      "english": "My name is...",
+      "romanization": "khnhom chmuoh",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-01-first-meeting-turn-02.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-01-first-meeting-turn-03",
+      "dialogueId": "dialogue-01-first-meeting",
+      "dialogueTitle": "Meeting someone",
+      "speaker": "Maya",
+      "khmer": "ខ្ញុំមកពី...",
+      "english": "I am from...",
+      "romanization": "khnhom mok pi",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-01-first-meeting-turn-03.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-01-first-meeting-turn-04",
+      "dialogueId": "dialogue-01-first-meeting",
+      "dialogueTitle": "Meeting someone",
+      "speaker": "Dara",
+      "khmer": "ខ្ញុំជាជនបរទេស",
+      "english": "I am a foreigner",
+      "romanization": "khnhom chea chun borotes",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-01-first-meeting-turn-04.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-01-first-meeting-turn-05",
+      "dialogueId": "dialogue-01-first-meeting",
+      "dialogueTitle": "Meeting someone",
+      "speaker": "Maya",
+      "khmer": "រីករាយដែលបានស្គាល់អ្នក",
+      "english": "Nice to meet you",
+      "romanization": "rik-reay del ban skoa neak",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-01-first-meeting-turn-05.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-02-polite-hello-turn-01",
+      "dialogueId": "dialogue-02-polite-hello",
+      "dialogueTitle": "A polite hello",
+      "speaker": "Dara",
+      "khmer": "ជំរាបសួរ",
+      "english": "Hello (formal)",
+      "romanization": "chom-reap-sou",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-02-polite-hello-turn-01.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-02-polite-hello-turn-02",
+      "dialogueId": "dialogue-02-polite-hello",
+      "dialogueTitle": "A polite hello",
+      "speaker": "Neighbour",
+      "khmer": "សួស្តី",
+      "english": "Hello / hi",
+      "romanization": "sous-dei",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-02-polite-hello-turn-02.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-02-polite-hello-turn-03",
+      "dialogueId": "dialogue-02-polite-hello",
+      "dialogueTitle": "A polite hello",
+      "speaker": "Dara",
+      "khmer": "សូមទោស",
+      "english": "Sorry / excuse me",
+      "romanization": "som-toh",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-02-polite-hello-turn-03.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-02-polite-hello-turn-04",
+      "dialogueId": "dialogue-02-polite-hello",
+      "dialogueTitle": "A polite hello",
+      "speaker": "Neighbour",
+      "khmer": "អរគុណ",
+      "english": "Thank you",
+      "romanization": "aw-kun",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-02-polite-hello-turn-04.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-02-polite-hello-turn-05",
+      "dialogueId": "dialogue-02-polite-hello",
+      "dialogueTitle": "A polite hello",
+      "speaker": "Dara",
+      "khmer": "លាហើយ",
+      "english": "Goodbye",
+      "romanization": "lea-haeuy",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-02-polite-hello-turn-05.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-03-new-friend-turn-01",
+      "dialogueId": "dialogue-03-new-friend",
+      "dialogueTitle": "Making a new friend",
+      "speaker": "Maya",
+      "khmer": "ខ្ញុំមកពី...",
+      "english": "I am from...",
+      "romanization": "khnhom mok pi",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-03-new-friend-turn-01.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-03-new-friend-turn-02",
+      "dialogueId": "dialogue-03-new-friend",
+      "dialogueTitle": "Making a new friend",
+      "speaker": "Dara",
+      "khmer": "រីករាយដែលបានស្គាល់អ្នក",
+      "english": "Nice to meet you",
+      "romanization": "rik-reay del ban skoa neak",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-03-new-friend-turn-02.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-03-new-friend-turn-03",
+      "dialogueId": "dialogue-03-new-friend",
+      "dialogueTitle": "Making a new friend",
+      "speaker": "Maya",
+      "khmer": "ខ្ញុំឈ្មោះ...",
+      "english": "My name is...",
+      "romanization": "khnhom chmuoh",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-03-new-friend-turn-03.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-03-new-friend-turn-04",
+      "dialogueId": "dialogue-03-new-friend",
+      "dialogueTitle": "Making a new friend",
+      "speaker": "Dara",
+      "khmer": "តើអ្នកឈ្មោះអ្វី?",
+      "english": "What is your name?",
+      "romanization": "neak chmuoh avei",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-03-new-friend-turn-04.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-03-new-friend-turn-05",
+      "dialogueId": "dialogue-03-new-friend",
+      "dialogueTitle": "Making a new friend",
+      "speaker": "Maya",
+      "khmer": "អរគុណ",
+      "english": "Thank you",
+      "romanization": "aw-kun",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-03-new-friend-turn-05.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-04-market-price-turn-01",
+      "dialogueId": "dialogue-04-market-price",
+      "dialogueTitle": "Asking a market price",
+      "speaker": "Maya",
+      "khmer": "ថ្លៃប៉ុន្មាន?",
+      "english": "How much does it cost?",
+      "romanization": "tlai pon-man",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-04-market-price-turn-01.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-04-market-price-turn-02",
+      "dialogueId": "dialogue-04-market-price",
+      "dialogueTitle": "Asking a market price",
+      "speaker": "Maya",
+      "khmer": "ថ្លៃពេក",
+      "english": "Too expensive",
+      "romanization": "tlai pek",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-04-market-price-turn-02.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-04-market-price-turn-03",
+      "dialogueId": "dialogue-04-market-price",
+      "dialogueTitle": "Asking a market price",
+      "speaker": "Maya",
+      "khmer": "សូមបញ្ចុះតម្លៃបានទេ?",
+      "english": "Can you lower the price?",
+      "romanization": "som banchoh domlai ban te",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-04-market-price-turn-03.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-04-market-price-turn-04",
+      "dialogueId": "dialogue-04-market-price",
+      "dialogueTitle": "Asking a market price",
+      "speaker": "Vendor",
+      "khmer": "មួយ",
+      "english": "One",
+      "romanization": "muoy",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-04-market-price-turn-04.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-04-market-price-turn-05",
+      "dialogueId": "dialogue-04-market-price",
+      "dialogueTitle": "Asking a market price",
+      "speaker": "Maya",
+      "khmer": "ពីរ",
+      "english": "Two",
+      "romanization": "pi",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-04-market-price-turn-05.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-05-market-size-turn-01",
+      "dialogueId": "dialogue-05-market-size",
+      "dialogueTitle": "Finding the right size",
+      "speaker": "Maya",
+      "khmer": "មានទំហំតូចជាងនេះទេ?",
+      "english": "Do you have a smaller size?",
+      "romanization": "mean tomhom touch cheang nih te",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-05-market-size-turn-01.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-05-market-size-turn-02",
+      "dialogueId": "dialogue-05-market-size",
+      "dialogueTitle": "Finding the right size",
+      "speaker": "Maya",
+      "khmer": "ខ្ញុំយកមួយនេះ",
+      "english": "I will take this one",
+      "romanization": "khnhom yok muoy nih",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-05-market-size-turn-02.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-05-market-size-turn-03",
+      "dialogueId": "dialogue-05-market-size",
+      "dialogueTitle": "Finding the right size",
+      "speaker": "Vendor",
+      "khmer": "មានពណ៌ផ្សេងទៀតទេ?",
+      "english": "Do you have another color?",
+      "romanization": "mean por pseng tiet te",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-05-market-size-turn-03.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-05-market-size-turn-04",
+      "dialogueId": "dialogue-05-market-size",
+      "dialogueTitle": "Finding the right size",
+      "speaker": "Maya",
+      "khmer": "ខ្ញុំមើលសិន",
+      "english": "I will look first",
+      "romanization": "khnhom merl sen",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-05-market-size-turn-04.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-05-market-size-turn-05",
+      "dialogueId": "dialogue-05-market-size",
+      "dialogueTitle": "Finding the right size",
+      "speaker": "Maya",
+      "khmer": "ខ្ញុំចង់ទិញ...",
+      "english": "I want to buy...",
+      "romanization": "khnhom chong tɨnh",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-05-market-size-turn-05.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-06-looking-first-turn-01",
+      "dialogueId": "dialogue-06-looking-first",
+      "dialogueTitle": "Looking before buying",
+      "speaker": "Vendor",
+      "khmer": "មានពណ៌ផ្សេងទៀតទេ?",
+      "english": "Do you have another color?",
+      "romanization": "mean por pseng tiet te",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-06-looking-first-turn-01.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-06-looking-first-turn-02",
+      "dialogueId": "dialogue-06-looking-first",
+      "dialogueTitle": "Looking before buying",
+      "speaker": "Maya",
+      "khmer": "ខ្ញុំមើលសិន",
+      "english": "I will look first",
+      "romanization": "khnhom merl sen",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-06-looking-first-turn-02.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-06-looking-first-turn-03",
+      "dialogueId": "dialogue-06-looking-first",
+      "dialogueTitle": "Looking before buying",
+      "speaker": "Maya",
+      "khmer": "មានទំហំតូចជាងនេះទេ?",
+      "english": "Do you have a smaller size?",
+      "romanization": "mean tomhom touch cheang nih te",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-06-looking-first-turn-03.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-06-looking-first-turn-04",
+      "dialogueId": "dialogue-06-looking-first",
+      "dialogueTitle": "Looking before buying",
+      "speaker": "Vendor",
+      "khmer": "ថ្លៃប៉ុន្មាន?",
+      "english": "How much does it cost?",
+      "romanization": "tlai pon-man",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-06-looking-first-turn-04.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-06-looking-first-turn-05",
+      "dialogueId": "dialogue-06-looking-first",
+      "dialogueTitle": "Looking before buying",
+      "speaker": "Maya",
+      "khmer": "ខ្ញុំយកមួយនេះ",
+      "english": "I will take this one",
+      "romanization": "khnhom yok muoy nih",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-06-looking-first-turn-05.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-07-ordering-food-turn-01",
+      "dialogueId": "dialogue-07-ordering-food",
+      "dialogueTitle": "Ordering at a restaurant",
+      "speaker": "Maya",
+      "khmer": "សូមមើលម៉ឺនុយ",
+      "english": "Please show me the menu",
+      "romanization": "som merl menu",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-07-ordering-food-turn-01.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-07-ordering-food-turn-02",
+      "dialogueId": "dialogue-07-ordering-food",
+      "dialogueTitle": "Ordering at a restaurant",
+      "speaker": "Maya",
+      "khmer": "ខ្ញុំចង់បាន...",
+      "english": "I would like...",
+      "romanization": "khnhom chong ban",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-07-ordering-food-turn-02.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-07-ordering-food-turn-03",
+      "dialogueId": "dialogue-07-ordering-food",
+      "dialogueTitle": "Ordering at a restaurant",
+      "speaker": "Maya",
+      "khmer": "មិនហឹរទេ សូមអរគុណ",
+      "english": "Not spicy, please",
+      "romanization": "min heur te som aw-kun",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-07-ordering-food-turn-03.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-07-ordering-food-turn-04",
+      "dialogueId": "dialogue-07-ordering-food",
+      "dialogueTitle": "Ordering at a restaurant",
+      "speaker": "Server",
+      "khmer": "សូមទឹកមួយកែវ",
+      "english": "A glass of water, please",
+      "romanization": "som tɨk muoy kaev",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-07-ordering-food-turn-04.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-07-ordering-food-turn-05",
+      "dialogueId": "dialogue-07-ordering-food",
+      "dialogueTitle": "Ordering at a restaurant",
+      "speaker": "Maya",
+      "khmer": "សូមគិតលុយ",
+      "english": "The bill, please",
+      "romanization": "som ket luy",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-07-ordering-food-turn-05.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-08-restaurant-request-turn-01",
+      "dialogueId": "dialogue-08-restaurant-request",
+      "dialogueTitle": "A simple food request",
+      "speaker": "Maya",
+      "khmer": "មិនហឹរទេ សូមអរគុណ",
+      "english": "Not spicy, please",
+      "romanization": "min heur te som aw-kun",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-08-restaurant-request-turn-01.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-08-restaurant-request-turn-02",
+      "dialogueId": "dialogue-08-restaurant-request",
+      "dialogueTitle": "A simple food request",
+      "speaker": "Maya",
+      "khmer": "សូមទឹកមួយកែវ",
+      "english": "A glass of water, please",
+      "romanization": "som tɨk muoy kaev",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-08-restaurant-request-turn-02.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-08-restaurant-request-turn-03",
+      "dialogueId": "dialogue-08-restaurant-request",
+      "dialogueTitle": "A simple food request",
+      "speaker": "Server",
+      "khmer": "សូមមើលម៉ឺនុយ",
+      "english": "Please show me the menu",
+      "romanization": "som merl menu",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-08-restaurant-request-turn-03.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-08-restaurant-request-turn-04",
+      "dialogueId": "dialogue-08-restaurant-request",
+      "dialogueTitle": "A simple food request",
+      "speaker": "Maya",
+      "khmer": "ខ្ញុំចង់បាន...",
+      "english": "I would like...",
+      "romanization": "khnhom chong ban",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-08-restaurant-request-turn-04.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-08-restaurant-request-turn-05",
+      "dialogueId": "dialogue-08-restaurant-request",
+      "dialogueTitle": "A simple food request",
+      "speaker": "Maya",
+      "khmer": "សូមគិតលុយ",
+      "english": "The bill, please",
+      "romanization": "som ket luy",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-08-restaurant-request-turn-05.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-09-tuk-tuk-turn-01",
+      "dialogueId": "dialogue-09-tuk-tuk",
+      "dialogueTitle": "Taking a tuk-tuk",
+      "speaker": "Maya",
+      "khmer": "ខ្ញុំចង់ទៅ...",
+      "english": "I want to go to...",
+      "romanization": "khnhom chong tov",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-09-tuk-tuk-turn-01.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-09-tuk-tuk-turn-02",
+      "dialogueId": "dialogue-09-tuk-tuk",
+      "dialogueTitle": "Taking a tuk-tuk",
+      "speaker": "Maya",
+      "khmer": "ទៅផ្សារនេះថ្លៃប៉ុន្មាន?",
+      "english": "How much to this market?",
+      "romanization": "tov psar nih tlai pon-man",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-09-tuk-tuk-turn-02.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-09-tuk-tuk-turn-03",
+      "dialogueId": "dialogue-09-tuk-tuk",
+      "dialogueTitle": "Taking a tuk-tuk",
+      "speaker": "Driver",
+      "khmer": "បត់ស្តាំ",
+      "english": "Turn right",
+      "romanization": "bot sdam",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-09-tuk-tuk-turn-03.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-09-tuk-tuk-turn-04",
+      "dialogueId": "dialogue-09-tuk-tuk",
+      "dialogueTitle": "Taking a tuk-tuk",
+      "speaker": "Driver",
+      "khmer": "បត់ឆ្វេង",
+      "english": "Turn left",
+      "romanization": "bot chhveng",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-09-tuk-tuk-turn-04.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-09-tuk-tuk-turn-05",
+      "dialogueId": "dialogue-09-tuk-tuk",
+      "dialogueTitle": "Taking a tuk-tuk",
+      "speaker": "Maya",
+      "khmer": "សូមឈប់នៅទីនេះ",
+      "english": "Please stop here",
+      "romanization": "som chhob nov ti nih",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-09-tuk-tuk-turn-05.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-10-buying-a-sim-turn-01",
+      "dialogueId": "dialogue-10-buying-a-sim",
+      "dialogueTitle": "Buying a SIM card",
+      "speaker": "Maya",
+      "khmer": "ខ្ញុំចង់ទិញស៊ីមកាត",
+      "english": "I want to buy a SIM card",
+      "romanization": "khnhom chong tɨnh sim kat",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-10-buying-a-sim-turn-01.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-10-buying-a-sim-turn-02",
+      "dialogueId": "dialogue-10-buying-a-sim",
+      "dialogueTitle": "Buying a SIM card",
+      "speaker": "Maya",
+      "khmer": "មានអ៊ីនធឺណិតទេ?",
+      "english": "Does it include internet?",
+      "romanization": "mean internet te",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-10-buying-a-sim-turn-02.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-10-buying-a-sim-turn-03",
+      "dialogueId": "dialogue-10-buying-a-sim",
+      "dialogueTitle": "Buying a SIM card",
+      "speaker": "Shop assistant",
+      "khmer": "សូមជួយចុះឈ្មោះឲ្យខ្ញុំ",
+      "english": "Please help me register it",
+      "romanization": "som chuoy choh chhmoh aoy khnhom",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-10-buying-a-sim-turn-03.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-10-buying-a-sim-turn-04",
+      "dialogueId": "dialogue-10-buying-a-sim",
+      "dialogueTitle": "Buying a SIM card",
+      "speaker": "Maya",
+      "khmer": "លេខទូរសព្ទរបស់ខ្ញុំគឺ...",
+      "english": "My phone number is...",
+      "romanization": "lek torosap robos khnhom ku",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-10-buying-a-sim-turn-04.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    },
+    {
+      "id": "dialogue-10-buying-a-sim-turn-05",
+      "dialogueId": "dialogue-10-buying-a-sim",
+      "dialogueTitle": "Buying a SIM card",
+      "speaker": "Maya",
+      "khmer": "សេវាមិនដំណើរការ",
+      "english": "The service is not working",
+      "romanization": "seva min damnaerka",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "daily-survival-dialogues/dialogue-10-buying-a-sim-turn-05.mp3",
+      "reviewStatus": "pending-khmer-text-review",
+      "audioStatus": "not-generated"
+    }
+  ]
+}

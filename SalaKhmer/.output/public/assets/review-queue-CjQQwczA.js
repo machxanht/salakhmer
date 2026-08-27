@@ -1,0 +1,1 @@
+function e(e,t){return(e.find(e=>e.id===t.id)?e.map(e=>e.id===t.id?{...e,...t,attempts:e.attempts+1,updatedAt:new Date().toISOString()}:e):[{...t,attempts:1,updatedAt:new Date().toISOString()},...e]).slice(0,100)}function t(e,t){return e.filter(e=>e.id!==t)}export{t as n,e as t};

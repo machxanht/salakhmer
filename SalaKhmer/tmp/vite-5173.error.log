@@ -1,0 +1,972 @@
+[33mThe plugin "vite-tsconfig-paths" is detected. Vite now supports tsconfig paths resolution natively via the [1mresolve.tsconfigPaths[22m option. You can remove the plugin and set [1mresolve.tsconfigPaths: true[22m in your Vite config instead.[39m
+[2m5:49:01 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReviewed native alphabet audio is unavailable: Error: Unable to play audio: https://salakhmer-cms-api.oliverkhang.workers.dev/api/alphabet-audio/c-kha
+    at audio.onerror (http://127.0.0.1:5173/src/lib/audioService.ts:15:32)
+[2m5:49:01 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReviewed native alphabet audio is unavailable: Error: Unable to play audio: https://salakhmer-cms-api.oliverkhang.workers.dev/api/alphabet-audio/c-ka
+    at audio.onerror (http://127.0.0.1:5173/src/lib/audioService.ts:15:32)
+[2m8:54:26 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mGoogle popup error: FirebaseError: Firebase: Error (auth/network-request-failed).
+    at createErrorInternal (http://127.0.0.1:5173/node_modules/.vite/deps/firebase_auth.js?v=fd17dfd5:435:35)
+    at _fail (http://127.0.0.1:5173/node_modules/.vite/deps/firebase_auth.js?v=fd17dfd5:408:8)
+    at _performFetchWithErrorHandling (http://127.0.0.1:5173/node_modules/.vite/deps/firebase_auth.js?v=fd17dfd5:763:3)
+    at async _performSignInRequest (http://127.0.0.1:5173/node_modules/.vite/deps/firebase_auth.js?v=fd17dfd5:767:25)
+    at async _signInWithCredential (http://127.0.0.1:5173/node_modules/.vite/deps/firebase_auth.js?v=fd17dfd5:4732:19)
+    at async PopupOperation.onAuthEvent (http://127.0.0.1:5173/node_modules/.vite/deps/firebase_auth.js?v=fd17dfd5:7824:17)
+[2m8:54:26 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m🔴 Auth Google error: FirebaseError: Firebase: Error (auth/network-request-failed).
+    at createErrorInternal (http://127.0.0.1:5173/node_modules/.vite/deps/firebase_auth.js?v=fd17dfd5:435:35)
+    at _fail (http://127.0.0.1:5173/node_modules/.vite/deps/firebase_auth.js?v=fd17dfd5:408:8)
+    at _performFetchWithErrorHandling (http://127.0.0.1:5173/node_modules/.vite/deps/firebase_auth.js?v=fd17dfd5:763:3)
+    at async _performSignInRequest (http://127.0.0.1:5173/node_modules/.vite/deps/firebase_auth.js?v=fd17dfd5:767:25)
+    at async _signInWithCredential (http://127.0.0.1:5173/node_modules/.vite/deps/firebase_auth.js?v=fd17dfd5:4732:19)
+    at async PopupOperation.onAuthEvent (http://127.0.0.1:5173/node_modules/.vite/deps/firebase_auth.js?v=fd17dfd5:7824:17)
+[2m8:54:59 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[2026-08-09T13:54:59.460Z]  @firebase/firestore: Firestore (12.17.0): Could not reach Cloud Firestore backend. Backend didn't respond within 10 seconds.
+This typically indicates that your device does not have a healthy Internet connection at the moment. The client will operate in offline mode until it is able to successfully connect to the backend.
+[2m8:54:59 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFailed to load user profile (Firestore error): FirebaseError: Failed to get document because the client is offline.
+[2m8:54:59 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFailed to merge Google profile (check Firebase rules): FirebaseError: Failed to get document because the client is offline.
+[2m9:03:13 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mGoogle popup error: FirebaseError: Firebase: Error (auth/popup-closed-by-user).
+    at createErrorInternal (http://127.0.0.1:5173/node_modules/.vite/deps/firebase_auth.js?v=fd17dfd5:435:35)
+    at _createError (http://127.0.0.1:5173/node_modules/.vite/deps/firebase_auth.js?v=fd17dfd5:411:9)
+    at http://127.0.0.1:5173/node_modules/.vite/deps/firebase_auth.js?v=fd17dfd5:8029:18
+[2m9:03:13 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m🔴 Auth Google error: FirebaseError: Firebase: Error (auth/popup-closed-by-user).
+    at createErrorInternal (http://127.0.0.1:5173/node_modules/.vite/deps/firebase_auth.js?v=fd17dfd5:435:35)
+    at _createError (http://127.0.0.1:5173/node_modules/.vite/deps/firebase_auth.js?v=fd17dfd5:411:9)
+    at http://127.0.0.1:5173/node_modules/.vite/deps/firebase_auth.js?v=fd17dfd5:8029:18
+[2m1:03:24 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mError[22m: Database is closing/hidden
+[39m > IndexedDBLocalPersistence._openDb node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:8317:18
+ > IndexedDBLocalPersistence._withRetries node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:8332:38
+ > node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:8450:23
+ > IndexedDBLocalPersistence._withPendingWrite node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:8442:18
+ > IndexedDBLocalPersistence._set node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:8449:20
+ > PersistenceUserManager.setCurrentUser node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:2095:32
+ > AuthImpl.directlySetCurrentUser node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:3137:43
+ > AuthImpl.reloadAndSetCurrentUserOrClear node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:2859:20
+ > node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:2704:12
+
+[2m1:21:26 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mError: useAuth must be used within an AuthProviderComponent
+    at useAuth (http://127.0.0.1:5173/src/hooks/useAuth.tsx:233:9)
+    at AuthGate (http://127.0.0.1:5173/src/routes/__root.tsx?t=1786272696004:279:24)
+    at Object.react_stack_bottom_frame (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:12864:12)
+    at renderWithHooks (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:4211:19)
+    at updateFunctionComponent (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:5567:16)
+    at beginWork (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:6138:20)
+    at runWithFiberInDEV (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:850:66)
+    at performUnitOfWork (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:8427:92)
+    at workLoopSync (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:8323:37)
+    at renderRootSync (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:8307:6)
+[2m1:21:26 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mError: useAuth must be used within an AuthProviderComponent
+    at useAuth (http://127.0.0.1:5173/src/hooks/useAuth.tsx:233:9)
+    at AuthGate (http://127.0.0.1:5173/src/routes/__root.tsx?t=1786272696004:279:24)
+    at Object.react_stack_bottom_frame (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:12864:12)
+    at renderWithHooks (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:4211:19)
+    at updateFunctionComponent (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:5567:16)
+    at beginWork (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:6138:20)
+    at runWithFiberInDEV (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:850:66)
+    at performUnitOfWork (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:8427:92)
+    at workLoopSync (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:8323:37)
+    at renderRootSync (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:8307:6)
+[2m1:21:26 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mError: useAuth must be used within an AuthProviderComponent
+    at useAuth (http://127.0.0.1:5173/src/hooks/useAuth.tsx:233:9)
+    at AuthGate (http://127.0.0.1:5173/src/routes/__root.tsx?t=1786272696004:279:24)
+    at Object.react_stack_bottom_frame (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:12864:12)
+    at renderWithHooks (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:4211:19)
+    at updateFunctionComponent (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:5567:16)
+    at beginWork (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:6138:20)
+    at runWithFiberInDEV (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:850:66)
+    at performUnitOfWork (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:8427:92)
+    at workLoopSync (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:8323:37)
+    at renderRootSync (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:8307:6)
+[2m1:21:26 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mError: useAuth must be used within an AuthProviderComponent
+    at useAuth (http://127.0.0.1:5173/src/hooks/useAuth.tsx:233:9)
+    at AuthGate (http://127.0.0.1:5173/src/routes/__root.tsx?t=1786272696004:279:24)
+    at Object.react_stack_bottom_frame (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:12864:12)
+    at renderWithHooks (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:4211:19)
+    at updateFunctionComponent (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:5567:16)
+    at beginWork (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:6138:20)
+    at runWithFiberInDEV (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:850:66)
+    at performUnitOfWork (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:8427:92)
+    at workLoopSync (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:8323:37)
+    at renderRootSync (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:8307:6)
+[2m1:21:26 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mError: useAuth must be used within an AuthProviderComponent
+    at useAuth (http://127.0.0.1:5173/src/hooks/useAuth.tsx:233:9)
+    at AuthGate (http://127.0.0.1:5173/src/routes/__root.tsx?t=1786272696004:279:24)
+    at Object.react_stack_bottom_frame (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:12864:12)
+    at renderWithHooks (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:4211:19)
+    at updateFunctionComponent (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:5567:16)
+    at beginWork (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:6138:20)
+    at runWithFiberInDEV (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:850:66)
+    at performUnitOfWork (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:8427:92)
+    at workLoopSync (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:8323:37)
+    at renderRootSync (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:8307:6)
+
+The above error occurred in the <AuthGate> component.
+
+React will try to recreate this component tree from scratch using the error boundary you provided, CatchBoundaryImpl.
+
+[2m1:21:26 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mWarning: Error in route match: __root__/
+[2m1:21:26 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mError: useAuth must be used within an AuthProviderComponent
+    at useAuth (http://127.0.0.1:5173/src/hooks/useAuth.tsx:233:9)
+    at AuthGate (http://127.0.0.1:5173/src/routes/__root.tsx?t=1786272696004:279:24)
+    at Object.react_stack_bottom_frame (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:12864:12)
+    at renderWithHooks (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:4211:19)
+    at updateFunctionComponent (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:5567:16)
+    at beginWork (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:6138:20)
+    at runWithFiberInDEV (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:850:66)
+    at performUnitOfWork (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:8427:92)
+    at workLoopSync (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:8323:37)
+    at renderRootSync (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:8307:6)
+[2m1:21:26 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mError: useAuth must be used within an AuthProviderComponent
+    at useAuth (http://127.0.0.1:5173/src/hooks/useAuth.tsx:233:9)
+    at AuthGate (http://127.0.0.1:5173/src/routes/__root.tsx?t=1786272696004:279:24)
+    at Object.react_stack_bottom_frame (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:12864:12)
+    at renderWithHooks (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:4211:19)
+    at updateFunctionComponent (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:5567:16)
+    at beginWork (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:6138:20)
+    at runWithFiberInDEV (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:850:66)
+    at performUnitOfWork (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:8427:92)
+    at workLoopSync (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:8323:37)
+    at renderRootSync (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:8307:6)
+[2m1:21:26 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mError: useAuth must be used within an AuthProviderComponent
+    at useAuth (http://127.0.0.1:5173/src/hooks/useAuth.tsx:233:9)
+    at AuthGate (http://127.0.0.1:5173/src/routes/__root.tsx?t=1786272696004:279:24)
+    at Object.react_stack_bottom_frame (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:12864:12)
+    at renderWithHooks (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:4211:19)
+    at updateFunctionComponent (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:5567:16)
+    at beginWork (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:6138:20)
+    at runWithFiberInDEV (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:850:66)
+    at performUnitOfWork (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:8427:92)
+    at workLoopSync (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:8323:37)
+    at renderRootSync (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:8307:6)
+[2m1:21:26 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mError: useAuth must be used within an AuthProviderComponent
+    at useAuth (http://127.0.0.1:5173/src/hooks/useAuth.tsx:233:9)
+    at AuthGate (http://127.0.0.1:5173/src/routes/__root.tsx?t=1786272696004:279:24)
+    at Object.react_stack_bottom_frame (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:12864:12)
+    at renderWithHooks (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:4211:19)
+    at updateFunctionComponent (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:5567:16)
+    at beginWork (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:6138:20)
+    at runWithFiberInDEV (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:850:66)
+    at performUnitOfWork (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:8427:92)
+    at workLoopSync (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:8323:37)
+    at renderRootSync (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:8307:6)
+[2m1:21:26 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mError: useAuth must be used within an AuthProviderComponent
+    at useAuth (http://127.0.0.1:5173/src/hooks/useAuth.tsx:233:9)
+    at AuthGate (http://127.0.0.1:5173/src/routes/__root.tsx?t=1786272696004:279:24)
+    at Object.react_stack_bottom_frame (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:12864:12)
+    at renderWithHooks (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:4211:19)
+    at updateFunctionComponent (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:5567:16)
+    at beginWork (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:6138:20)
+    at runWithFiberInDEV (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:850:66)
+    at performUnitOfWork (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:8427:92)
+    at workLoopSync (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:8323:37)
+    at renderRootSync (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:8307:6)
+
+The above error occurred in the <AuthGate> component.
+
+React will try to recreate this component tree from scratch using the error boundary you provided, CatchBoundaryImpl.
+
+[2m1:21:26 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mWarning: Error in route match: __root__/
+[2m1:22:37 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mImported Azure dialogue audio is unavailable: Error: Unable to play audio: https://salakhmer-cms-api.oliverkhang.workers.dev/assets/audio%2Fa1-master-5000%2Fa1-master-d0001-t01.mp3
+    at audio.onerror (http://localhost:5173/src/lib/audioService.ts?t=1786342456336:15:32)
+[2m1:22:37 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mError[22m: This dialogue audio is still being prepared.
+[39m > playKhmerAudio src/lib/audioService.ts:92:12
+    90 |      } catch (reason) {
+    91 |        console.error("Imported Azure dialogue audio is unavailable:", reason);
+    92 |        throw new Error("This dialogue audio is still being prepared.");
+       |              ^
+    93 |      }
+    94 |    }
+ > onPlayAudio src/routes/lesson.$lessonId.tsx:223:0
+
+[2m1:22:38 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mImported Azure dialogue audio is unavailable: Error: Unable to play audio: https://salakhmer-cms-api.oliverkhang.workers.dev/assets/audio%2Fa1-master-5000%2Fa1-master-d0001-t01.mp3
+    at audio.onerror (http://localhost:5173/src/lib/audioService.ts?t=1786342456336:15:32)
+[2m1:22:38 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mError[22m: This dialogue audio is still being prepared.
+[39m > playKhmerAudio src/lib/audioService.ts:92:12
+    90 |      } catch (reason) {
+    91 |        console.error("Imported Azure dialogue audio is unavailable:", reason);
+    92 |        throw new Error("This dialogue audio is still being prepared.");
+       |              ^
+    93 |      }
+    94 |    }
+ > onPlayAudio src/routes/lesson.$lessonId.tsx:223:0
+
+[2m1:22:38 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mImported Azure dialogue audio is unavailable: Error: Unable to play audio: https://salakhmer-cms-api.oliverkhang.workers.dev/assets/audio%2Fa1-master-5000%2Fa1-master-d0001-t01.mp3
+    at audio.onerror (http://localhost:5173/src/lib/audioService.ts?t=1786342456336:15:32)
+[2m1:22:38 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mError[22m: This dialogue audio is still being prepared.
+[39m > playKhmerAudio src/lib/audioService.ts:92:12
+    90 |      } catch (reason) {
+    91 |        console.error("Imported Azure dialogue audio is unavailable:", reason);
+    92 |        throw new Error("This dialogue audio is still being prepared.");
+       |              ^
+    93 |      }
+    94 |    }
+ > onPlayAudio src/routes/lesson.$lessonId.tsx:223:0
+
+[2m1:22:38 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mImported Azure dialogue audio is unavailable: Error: Unable to play audio: https://salakhmer-cms-api.oliverkhang.workers.dev/assets/audio%2Fa1-master-5000%2Fa1-master-d0001-t01.mp3
+    at audio.onerror (http://localhost:5173/src/lib/audioService.ts?t=1786342456336:15:32)
+[2m1:22:38 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mError[22m: This dialogue audio is still being prepared.
+[39m > playKhmerAudio src/lib/audioService.ts:92:12
+    90 |      } catch (reason) {
+    91 |        console.error("Imported Azure dialogue audio is unavailable:", reason);
+    92 |        throw new Error("This dialogue audio is still being prepared.");
+       |              ^
+    93 |      }
+    94 |    }
+ > onPlayAudio src/routes/lesson.$lessonId.tsx:223:0
+
+[2m1:23:37 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mImported Azure dialogue audio is unavailable: Error: Unable to play audio: https://salakhmer-cms-api.oliverkhang.workers.dev/assets/audio%2Fa1-master-5000%2Fa1-master-d0001-t01.mp3
+    at audio.onerror (http://localhost:5173/src/lib/audioService.ts?t=1786342456336:15:32)
+[2m1:23:37 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mError[22m: This dialogue audio is still being prepared.
+[39m > playKhmerAudio src/lib/audioService.ts:92:12
+    90 |      } catch (reason) {
+    91 |        console.error("Imported Azure dialogue audio is unavailable:", reason);
+    92 |        throw new Error("This dialogue audio is still being prepared.");
+       |              ^
+    93 |      }
+    94 |    }
+ > onPlayAudio src/routes/lesson.$lessonId.tsx:223:0
+
+[2m1:23:38 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mImported Azure dialogue audio is unavailable: Error: Unable to play audio: https://salakhmer-cms-api.oliverkhang.workers.dev/assets/audio%2Fa1-master-5000%2Fa1-master-d0001-t01.mp3
+    at audio.onerror (http://localhost:5173/src/lib/audioService.ts?t=1786342456336:15:32)
+[2m1:23:38 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mError[22m: This dialogue audio is still being prepared.
+[39m > playKhmerAudio src/lib/audioService.ts:92:12
+    90 |      } catch (reason) {
+    91 |        console.error("Imported Azure dialogue audio is unavailable:", reason);
+    92 |        throw new Error("This dialogue audio is still being prepared.");
+       |              ^
+    93 |      }
+    94 |    }
+ > onPlayAudio src/routes/lesson.$lessonId.tsx:223:0
+
+[2m1:23:38 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mImported Azure dialogue audio is unavailable: Error: Unable to play audio: https://salakhmer-cms-api.oliverkhang.workers.dev/assets/audio%2Fa1-master-5000%2Fa1-master-d0001-t01.mp3
+    at audio.onerror (http://localhost:5173/src/lib/audioService.ts?t=1786342456336:15:32)
+[2m1:23:38 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mError[22m: This dialogue audio is still being prepared.
+[39m > playKhmerAudio src/lib/audioService.ts:92:12
+    90 |      } catch (reason) {
+    91 |        console.error("Imported Azure dialogue audio is unavailable:", reason);
+    92 |        throw new Error("This dialogue audio is still being prepared.");
+       |              ^
+    93 |      }
+    94 |    }
+ > onPlayAudio src/routes/lesson.$lessonId.tsx:223:0
+
+[2m1:23:43 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mImported Azure dialogue audio is unavailable: Error: Unable to play audio: https://salakhmer-cms-api.oliverkhang.workers.dev/assets/audio%2Fa1-master-5000%2Fa1-master-d0001-t03.mp3
+    at audio.onerror (http://localhost:5173/src/lib/audioService.ts?t=1786342456336:15:32)
+[2m1:23:43 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mError[22m: This dialogue audio is still being prepared.
+[39m > playKhmerAudio src/lib/audioService.ts:92:12
+    90 |      } catch (reason) {
+    91 |        console.error("Imported Azure dialogue audio is unavailable:", reason);
+    92 |        throw new Error("This dialogue audio is still being prepared.");
+       |              ^
+    93 |      }
+    94 |    }
+ > onPlayAudio src/routes/lesson.$lessonId.tsx:223:0
+
+[2m1:23:44 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mImported Azure dialogue audio is unavailable: Error: Unable to play audio: https://salakhmer-cms-api.oliverkhang.workers.dev/assets/audio%2Fa1-master-5000%2Fa1-master-d0001-t03.mp3
+    at audio.onerror (http://localhost:5173/src/lib/audioService.ts?t=1786342456336:15:32)
+[2m1:23:44 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mError[22m: This dialogue audio is still being prepared.
+[39m > playKhmerAudio src/lib/audioService.ts:92:12
+    90 |      } catch (reason) {
+    91 |        console.error("Imported Azure dialogue audio is unavailable:", reason);
+    92 |        throw new Error("This dialogue audio is still being prepared.");
+       |              ^
+    93 |      }
+    94 |    }
+ > onPlayAudio src/routes/lesson.$lessonId.tsx:223:0
+
+[2m1:23:44 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mImported Azure dialogue audio is unavailable: Error: Unable to play audio: https://salakhmer-cms-api.oliverkhang.workers.dev/assets/audio%2Fa1-master-5000%2Fa1-master-d0001-t03.mp3
+    at audio.onerror (http://localhost:5173/src/lib/audioService.ts?t=1786342456336:15:32)
+[2m1:23:44 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mError[22m: This dialogue audio is still being prepared.
+[39m > playKhmerAudio src/lib/audioService.ts:92:12
+    90 |      } catch (reason) {
+    91 |        console.error("Imported Azure dialogue audio is unavailable:", reason);
+    92 |        throw new Error("This dialogue audio is still being prepared.");
+       |              ^
+    93 |      }
+    94 |    }
+ > onPlayAudio src/routes/lesson.$lessonId.tsx:223:0
+
+[2m1:23:44 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mImported Azure dialogue audio is unavailable: Error: Unable to play audio: https://salakhmer-cms-api.oliverkhang.workers.dev/assets/audio%2Fa1-master-5000%2Fa1-master-d0001-t03.mp3
+    at audio.onerror (http://localhost:5173/src/lib/audioService.ts?t=1786342456336:15:32)
+[2m1:23:44 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mError[22m: This dialogue audio is still being prepared.
+[39m > playKhmerAudio src/lib/audioService.ts:92:12
+    90 |      } catch (reason) {
+    91 |        console.error("Imported Azure dialogue audio is unavailable:", reason);
+    92 |        throw new Error("This dialogue audio is still being prepared.");
+       |              ^
+    93 |      }
+    94 |    }
+ > onPlayAudio src/routes/lesson.$lessonId.tsx:223:0
+
+[2m2:17:09 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] ReferenceError: featuredMasterA1AudioLesson is not defined
+    at http://127.0.0.1:5173/src/lib/mock-lessons.ts?t=1786346228955:116:6
+[2m2:17:09 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/routes/home.tsx?tsr-split=component. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m2:17:09 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] ReferenceError: featuredMasterA1AudioLesson is not defined
+    at http://127.0.0.1:5173/src/lib/mock-lessons.ts?t=1786346228955:116:6
+[2m2:17:09 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/hooks/useAuth.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m2:17:09 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] ReferenceError: featuredMasterA1AudioLesson is not defined
+    at http://127.0.0.1:5173/src/lib/mock-lessons.ts?t=1786346228955:116:6
+[2m2:17:09 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/routes/home.tsx?tsr-split=component. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m2:17:09 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] ReferenceError: featuredMasterA1AudioLesson is not defined
+    at http://127.0.0.1:5173/src/lib/mock-lessons.ts?t=1786346228955:116:6
+[2m2:17:09 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/hooks/useAuth.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m2:17:09 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] ReferenceError: featuredMasterA1AudioLesson is not defined
+    at http://localhost:5173/src/lib/mock-lessons.ts?t=1786346228955:116:6
+[2m2:17:09 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/hooks/useAuth.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m2:17:09 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] ReferenceError: featuredMasterA1AudioLesson is not defined
+    at http://localhost:5173/src/lib/mock-lessons.ts?t=1786346228955:116:6
+[2m2:17:09 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/hooks/useAuth.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m2:17:09 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] ReferenceError: featuredMasterA1AudioLesson is not defined
+    at http://localhost:5173/src/lib/mock-lessons.ts?t=1786346228955:116:6
+[2m2:17:09 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/routes/lesson.$lessonId.tsx?tsr-split=component. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m2:17:09 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] ReferenceError: featuredMasterA1AudioLesson is not defined
+    at http://localhost:5173/src/lib/mock-lessons.ts?t=1786346228955:116:6
+[2m2:17:09 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/hooks/useAuth.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m2:17:09 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] ReferenceError: featuredMasterA1AudioLesson is not defined
+    at http://localhost:5173/src/lib/mock-lessons.ts?t=1786346228955:116:6
+[2m2:17:09 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/routes/lesson.$lessonId.tsx?tsr-split=component. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m2:17:09 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] ReferenceError: featuredMasterA1AudioLesson is not defined
+    at http://localhost:5173/src/lib/mock-lessons.ts?t=1786346228955:116:6
+[2m2:17:09 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/hooks/useAuth.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m2:17:09 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] ReferenceError: featuredMasterA1AudioLesson is not defined
+    at http://localhost:5173/src/lib/mock-lessons.ts?t=1786346228955:116:6
+[2m2:17:09 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/routes/home.tsx?tsr-split=component. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m2:17:09 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] ReferenceError: featuredMasterA1AudioLesson is not defined
+    at http://localhost:5173/src/lib/mock-lessons.ts?t=1786346228955:116:6
+[2m2:17:09 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/hooks/useAuth.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m2:17:09 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] ReferenceError: featuredMasterA1AudioLesson is not defined
+    at http://localhost:5173/src/lib/mock-lessons.ts?t=1786346228955:116:6
+[2m2:17:09 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/hooks/useAuth.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m2:17:09 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] ReferenceError: featuredMasterA1AudioLesson is not defined
+    at http://localhost:5173/src/lib/mock-lessons.ts?t=1786346228955:116:6
+[2m2:17:09 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/routes/home.tsx?tsr-split=component. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m2:17:09 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] ReferenceError: featuredMasterA1AudioLesson is not defined
+    at http://localhost:5173/src/lib/mock-lessons.ts?t=1786346228955:116:6
+[2m2:17:09 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/routes/category.$categoryId.tsx?tsr-split=component. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m2:17:09 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] ReferenceError: featuredMasterA1AudioLesson is not defined
+    at http://localhost:5173/src/lib/mock-lessons.ts?t=1786346228955:116:6
+[2m2:17:09 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/routes/lesson.$lessonId.tsx?tsr-split=component. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m2:17:09 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] ReferenceError: featuredMasterA1AudioLesson is not defined
+    at http://localhost:5173/src/lib/mock-lessons.ts?t=1786346228955:116:6
+[2m2:17:09 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/hooks/useAuth.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m2:17:09 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] ReferenceError: featuredMasterA1AudioLesson is not defined
+    at http://localhost:5173/src/lib/mock-lessons.ts?t=1786346228955:116:6
+[2m2:17:09 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/routes/home.tsx?tsr-split=component. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m2:17:09 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] ReferenceError: featuredMasterA1AudioLesson is not defined
+    at http://localhost:5173/src/lib/mock-lessons.ts?t=1786346228955:116:6
+[2m2:17:09 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/routes/category.$categoryId.tsx?tsr-split=component. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m2:17:09 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] ReferenceError: featuredMasterA1AudioLesson is not defined
+    at http://localhost:5173/src/lib/mock-lessons.ts?t=1786346228955:116:6
+[2m2:17:09 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/routes/lesson.$lessonId.tsx?tsr-split=component. This could be due to syntax errors or importing non-existent modules. (see errors above)
+ReferenceError: featuredMasterA1AudioLesson is not defined
+    at eval (E:\AI\Antigravity\SalaKhmer\src\lib\mock-lessons.ts:212:9)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\hooks\useAuth.tsx:16:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\routes\__root.tsx:2:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3) (status 500)
+caused by: ReferenceError: featuredMasterA1AudioLesson is not defined
+    at eval (E:\AI\Antigravity\SalaKhmer\src\lib\mock-lessons.ts:212:9)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\hooks\useAuth.tsx:16:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\routes\__root.tsx:2:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+ReferenceError: featuredMasterA1AudioLesson is not defined
+    at eval (E:\AI\Antigravity\SalaKhmer\src\lib\mock-lessons.ts:212:9)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\hooks\useAuth.tsx:16:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\routes\__root.tsx:2:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3) (status 500)
+caused by: ReferenceError: featuredMasterA1AudioLesson is not defined
+    at eval (E:\AI\Antigravity\SalaKhmer\src\lib\mock-lessons.ts:212:9)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\hooks\useAuth.tsx:16:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\routes\__root.tsx:2:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+ReferenceError: featuredMasterA1AudioLesson is not defined
+    at eval (E:\AI\Antigravity\SalaKhmer\src\lib\mock-lessons.ts:212:9)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\hooks\useAuth.tsx:16:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\routes\__root.tsx:2:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3) (status 500)
+caused by: ReferenceError: featuredMasterA1AudioLesson is not defined
+    at eval (E:\AI\Antigravity\SalaKhmer\src\lib\mock-lessons.ts:212:9)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\hooks\useAuth.tsx:16:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\routes\__root.tsx:2:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+ReferenceError: featuredMasterA1AudioLesson is not defined
+    at eval (E:\AI\Antigravity\SalaKhmer\src\lib\mock-lessons.ts:212:9)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\hooks\useAuth.tsx:16:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\routes\__root.tsx:2:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3) (status 500)
+caused by: ReferenceError: featuredMasterA1AudioLesson is not defined
+    at eval (E:\AI\Antigravity\SalaKhmer\src\lib\mock-lessons.ts:212:9)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\hooks\useAuth.tsx:16:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\routes\__root.tsx:2:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+[2m2:17:10 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] ReferenceError: featuredMasterA1AudioLesson is not defined
+    at http://127.0.0.1:5173/src/lib/mock-lessons.ts?t=1786346228955:116:6
+[2m2:17:10 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/routes/profile.tsx?tsr-split=component. This could be due to syntax errors or importing non-existent modules. (see errors above)
+ReferenceError: featuredMasterA1AudioLesson is not defined
+    at eval (E:\AI\Antigravity\SalaKhmer\src\lib\mock-lessons.ts:212:9)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\hooks\useAuth.tsx:16:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\routes\__root.tsx:2:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3) (status 500)
+caused by: ReferenceError: featuredMasterA1AudioLesson is not defined
+    at eval (E:\AI\Antigravity\SalaKhmer\src\lib\mock-lessons.ts:212:9)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\hooks\useAuth.tsx:16:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\routes\__root.tsx:2:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+ReferenceError: featuredMasterA1AudioLesson is not defined
+    at eval (E:\AI\Antigravity\SalaKhmer\src\lib\mock-lessons.ts:212:9)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\hooks\useAuth.tsx:16:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\routes\__root.tsx:2:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3) (status 500)
+caused by: ReferenceError: featuredMasterA1AudioLesson is not defined
+    at eval (E:\AI\Antigravity\SalaKhmer\src\lib\mock-lessons.ts:212:9)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\hooks\useAuth.tsx:16:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\routes\__root.tsx:2:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+ReferenceError: featuredMasterA1AudioLesson is not defined
+    at eval (E:\AI\Antigravity\SalaKhmer\src\lib\mock-lessons.ts:212:9)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\hooks\useAuth.tsx:16:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\routes\__root.tsx:2:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3) (status 500)
+caused by: ReferenceError: featuredMasterA1AudioLesson is not defined
+    at eval (E:\AI\Antigravity\SalaKhmer\src\lib\mock-lessons.ts:212:9)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\hooks\useAuth.tsx:16:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\routes\__root.tsx:2:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+ReferenceError: featuredMasterA1AudioLesson is not defined
+    at eval (E:\AI\Antigravity\SalaKhmer\src\lib\mock-lessons.ts:212:9)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\hooks\useAuth.tsx:16:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\routes\__root.tsx:2:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3) (status 500)
+caused by: ReferenceError: featuredMasterA1AudioLesson is not defined
+    at eval (E:\AI\Antigravity\SalaKhmer\src\lib\mock-lessons.ts:212:9)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\hooks\useAuth.tsx:16:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\routes\__root.tsx:2:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+ReferenceError: featuredMasterA1AudioLesson is not defined
+    at eval (E:\AI\Antigravity\SalaKhmer\src\lib\mock-lessons.ts:212:9)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\hooks\useAuth.tsx:16:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\routes\__root.tsx:2:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3) (status 500)
+caused by: ReferenceError: featuredMasterA1AudioLesson is not defined
+    at eval (E:\AI\Antigravity\SalaKhmer\src\lib\mock-lessons.ts:212:9)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\hooks\useAuth.tsx:16:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\routes\__root.tsx:2:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+ReferenceError: featuredMasterA1AudioLesson is not defined
+    at eval (E:\AI\Antigravity\SalaKhmer\src\lib\mock-lessons.ts:212:9)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\hooks\useAuth.tsx:16:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\routes\__root.tsx:2:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3) (status 500)
+caused by: ReferenceError: featuredMasterA1AudioLesson is not defined
+    at eval (E:\AI\Antigravity\SalaKhmer\src\lib\mock-lessons.ts:212:9)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\hooks\useAuth.tsx:16:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\routes\__root.tsx:2:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+[2m2:33:19 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mEncountered two children with the same key, `Sreymom`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+[2m2:33:19 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mEncountered two children with the same key, `Piseth`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+[2m2:33:25 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mEncountered two children with the same key, `Sreymom`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+[2m2:33:25 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mEncountered two children with the same key, `Piseth`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+[2m2:33:37 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mEncountered two children with the same key, `Sreymom`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+[2m2:33:37 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mEncountered two children with the same key, `Piseth`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+[2m2:34:59 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22m[2026-08-10T07:34:59.768Z]  @firebase/analytics: Failed to fetch this Firebase app's measurement ID from the server. Falling back to the measurement ID G-HGVH42V8DL provided in the "measurementId" field in the local Firebase config. [Failed to fetch]
+[2m2:35:00 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[2026-08-10T07:35:00.460Z]  @firebase/firestore: Firestore (12.17.0): Could not reach Cloud Firestore backend. Connection failed 1 times. Most recent error: FirebaseError: [code=unknown]: Fetching auth token failed: Firebase: Error (auth/network-request-failed).
+This typically indicates that your device does not have a healthy Internet connection at the moment. The client will operate in offline mode until it is able to successfully connect to the backend.
+[2m2:35:00 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFailed to load user profile (Firestore error): FirebaseError: Failed to get document because the client is offline.
+[2m2:37:54 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mEncountered two children with the same key, `Sreymom`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+[2m2:37:54 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mEncountered two children with the same key, `Piseth`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+[2m2:37:56 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mEncountered two children with the same key, `Sreymom`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+[2m2:37:56 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mEncountered two children with the same key, `Piseth`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+[2m2:38:03 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mEncountered two children with the same key, `Sreymom`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+[2m2:38:03 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mEncountered two children with the same key, `Piseth`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+[2m3:15:36 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mEncountered two children with the same key, `Sreymom`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+[2m3:15:36 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mEncountered two children with the same key, `Piseth`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+[2m3:15:42 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mEncountered two children with the same key, `Sreymom`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+[2m3:15:42 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mEncountered two children with the same key, `Piseth`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+[2m3:24:53 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mEncountered two children with the same key, `Sreymom`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+[2m3:24:53 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mEncountered two children with the same key, `Piseth`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+[2m3:25:00 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mEncountered two children with the same key, `Sreymom`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+[2m3:25:00 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mEncountered two children with the same key, `Piseth`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+[2m3:31:35 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReviewed native alphabet audio is unavailable: Error: Unable to play audio: https://salakhmer-cms-api.oliverkhang.workers.dev/api/alphabet-audio/c-ka
+    at audio.onerror (http://localhost:5173/src/lib/audioService.ts?t=1786343119679:18:32)
+[2m3:31:36 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReviewed native alphabet audio is unavailable: Error: Unable to play audio: https://salakhmer-cms-api.oliverkhang.workers.dev/api/alphabet-audio/c-kha
+    at audio.onerror (http://localhost:5173/src/lib/audioService.ts?t=1786343119679:18:32)
+[2m3:31:37 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReviewed native alphabet audio is unavailable: Error: Unable to play audio: https://salakhmer-cms-api.oliverkhang.workers.dev/api/alphabet-audio/c-cha
+    at audio.onerror (http://localhost:5173/src/lib/audioService.ts?t=1786343119679:18:32)
+[2m3:31:38 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReviewed native alphabet audio is unavailable: Error: Unable to play audio: https://salakhmer-cms-api.oliverkhang.workers.dev/api/alphabet-audio/c-da
+    at audio.onerror (http://localhost:5173/src/lib/audioService.ts?t=1786343119679:18:32)
+[2m3:31:38 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReviewed native alphabet audio is unavailable: Error: Unable to play audio: https://salakhmer-cms-api.oliverkhang.workers.dev/api/alphabet-audio/c-chha
+    at audio.onerror (http://localhost:5173/src/lib/audioService.ts?t=1786343119679:18:32)
+[2m3:37:00 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+
+[31m[PARSE_ERROR] [0mUnexpected token
+ -  in src/components/ConversationTranscriptLesson.tsx at 3365..3366
+[39m
+  Plugin: [35mvite:oxc[39m
+  File: [36mE:/AI/Antigravity/SalaKhmer/src/components/ConversationTranscriptLesson.tsx[39m
+      at transformWithOxc (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:4090:19)
+      at TransformPluginContext.transform (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:4161:26)
+      at EnvironmentPluginContainer.transform (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:30796:51)
+      at async loadAndTransform (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:20594:26)
+[2m3:37:00 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+
+[31m[PARSE_ERROR] [0mUnexpected token
+ -  in src/components/ConversationTranscriptLesson.tsx at 3365..3366
+[39m
+  Plugin: [35mvite:oxc[39m
+  File: [36mE:/AI/Antigravity/SalaKhmer/src/components/ConversationTranscriptLesson.tsx[39m
+      at transformWithOxc (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:4090:19)
+      at TransformPluginContext.transform (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:4161:26)
+      at EnvironmentPluginContainer.transform (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:30796:51)
+      at async loadAndTransform (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:20594:26)
+[2m3:37:00 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/components/ConversationTranscriptLesson.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m3:37:00 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/components/ConversationTranscriptLesson.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m3:40:43 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+
+[31m[PARSE_ERROR] [0mUnexpected token
+ -  in src/components/ConversationTranscriptLesson.tsx at 5317..5318
+[39m
+  Plugin: [35mvite:oxc[39m
+  File: [36mE:/AI/Antigravity/SalaKhmer/src/components/ConversationTranscriptLesson.tsx[39m
+      at transformWithOxc (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:4090:19)
+      at TransformPluginContext.transform (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:4161:26)
+      at EnvironmentPluginContainer.transform (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:30796:51)
+      at async loadAndTransform (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:20594:26)
+[2m3:40:43 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+
+[31m[PARSE_ERROR] [0mUnexpected token
+ -  in src/components/ConversationTranscriptLesson.tsx at 5317..5318
+[39m
+  Plugin: [35mvite:oxc[39m
+  File: [36mE:/AI/Antigravity/SalaKhmer/src/components/ConversationTranscriptLesson.tsx[39m
+      at transformWithOxc (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:4090:19)
+      at TransformPluginContext.transform (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:4161:26)
+      at EnvironmentPluginContainer.transform (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:30796:51)
+      at async loadAndTransform (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:20594:26)
+[2m3:40:43 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/components/ConversationTranscriptLesson.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m3:40:43 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/components/ConversationTranscriptLesson.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m3:41:38 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+
+[31m[PARSE_ERROR] [0mUnexpected token
+ -  in src/components/ConversationTranscriptLesson.tsx at 5346..5347
+[39m
+  Plugin: [35mvite:oxc[39m
+  File: [36mE:/AI/Antigravity/SalaKhmer/src/components/ConversationTranscriptLesson.tsx[39m
+      at transformWithOxc (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:4090:19)
+      at TransformPluginContext.transform (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:4161:26)
+      at EnvironmentPluginContainer.transform (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:30796:51)
+      at async loadAndTransform (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:20594:26)
+      at async viteTransformMiddleware (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:25092:20)
+[2m3:41:38 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/components/ConversationTranscriptLesson.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m3:41:38 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+
+[31m[PARSE_ERROR] [0mUnexpected token
+ -  in src/components/ConversationTranscriptLesson.tsx at 5346..5347
+[39m
+  Plugin: [35mvite:oxc[39m
+  File: [36mE:/AI/Antigravity/SalaKhmer/src/components/ConversationTranscriptLesson.tsx[39m
+      at transformWithOxc (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:4090:19)
+      at TransformPluginContext.transform (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:4161:26)
+      at EnvironmentPluginContainer.transform (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:30796:51)
+      at async loadAndTransform (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:20594:26)
+      at async viteTransformMiddleware (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:25092:20)
+[2m3:41:38 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/components/ConversationTranscriptLesson.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m3:42:17 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+
+[31m[PARSE_ERROR] [0mUnexpected token
+ -  in src/components/ConversationTranscriptLesson.tsx at 5348..5349
+[39m
+  Plugin: [35mvite:oxc[39m
+  File: [36mE:/AI/Antigravity/SalaKhmer/src/components/ConversationTranscriptLesson.tsx[39m
+      at transformWithOxc (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:4090:19)
+      at TransformPluginContext.transform (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:4161:26)
+      at EnvironmentPluginContainer.transform (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:30796:51)
+      at async loadAndTransform (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:20594:26)
+      at async viteTransformMiddleware (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:25092:20)
+[2m3:42:17 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/components/ConversationTranscriptLesson.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m3:42:54 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+
+[31m[PARSE_ERROR] [0mUnexpected token
+ -  in src/components/ConversationTranscriptLesson.tsx at 5308..5309
+[39m
+  Plugin: [35mvite:oxc[39m
+  File: [36mE:/AI/Antigravity/SalaKhmer/src/components/ConversationTranscriptLesson.tsx[39m
+      at transformWithOxc (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:4090:19)
+      at TransformPluginContext.transform (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:4161:26)
+      at EnvironmentPluginContainer.transform (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:30796:51)
+      at async loadAndTransform (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:20594:26)
+      at async viteTransformMiddleware (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:25092:20)
+[2m3:42:54 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/components/ConversationTranscriptLesson.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m3:46:16 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mEncountered two children with the same key, `Sreymom`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+[2m3:46:16 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mEncountered two children with the same key, `Piseth`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+[2m3:47:40 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mEncountered two children with the same key, `Sreymom`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+[2m3:47:40 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mEncountered two children with the same key, `Piseth`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+[2m3:47:43 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mEncountered two children with the same key, `Sreymom`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+[2m3:47:44 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mEncountered two children with the same key, `Piseth`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+[2m3:48:17 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mEncountered two children with the same key, `Sreymom`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+[2m3:48:17 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mEncountered two children with the same key, `Piseth`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+[2m3:48:25 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mEncountered two children with the same key, `Sreymom`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+[2m3:48:25 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mEncountered two children with the same key, `Piseth`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+[2m3:51:54 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReviewed native alphabet audio is unavailable: Error: Unable to play audio: https://salakhmer-cms-api.oliverkhang.workers.dev/api/alphabet-audio/c-ka
+    at audio.onerror (http://localhost:5173/src/lib/audioService.ts?t=1786343119679:18:32)
+[2m3:51:55 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReviewed native alphabet audio is unavailable: Error: Unable to play audio: https://salakhmer-cms-api.oliverkhang.workers.dev/api/alphabet-audio/c-kha
+    at audio.onerror (http://localhost:5173/src/lib/audioService.ts?t=1786343119679:18:32)
+[2m3:51:56 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReviewed native alphabet audio is unavailable: Error: Unable to play audio: https://salakhmer-cms-api.oliverkhang.workers.dev/api/alphabet-audio/c-cha
+    at audio.onerror (http://localhost:5173/src/lib/audioService.ts?t=1786343119679:18:32)
+[2m3:51:56 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReviewed native alphabet audio is unavailable: Error: Unable to play audio: https://salakhmer-cms-api.oliverkhang.workers.dev/api/alphabet-audio/c-kha
+    at audio.onerror (http://localhost:5173/src/lib/audioService.ts?t=1786343119679:18:32)
+[2m4:07:52 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mImported Azure dialogue audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:5173/src/lib/audioService.ts?t=1786352529038:8:23)
+    at onClick (http://localhost:5173/src/components/ConversationTranscriptLesson.tsx?t=1786352632936:85:10)
+    at executeDispatch (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:9139:5)
+    at runWithFiberInDEV (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:850:66)
+    at processDispatchQueue (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:9165:27)
+    at http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:9452:5
+    at batchedUpdates$1 (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:2042:12)
+    at dispatchEventForPluginEventSystem (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:9238:4)
+    at dispatchEvent (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:11317:29)
+    at dispatchDiscreteEvent (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:11299:56)
+[2m4:51:51 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReviewed native alphabet audio is unavailable: Error: Unable to play audio: https://salakhmer-cms-api.oliverkhang.workers.dev/api/alphabet-audio/c-ka
+    at audio.onerror (http://localhost:5173/src/lib/audioService.ts?t=1786352529038:37:32)
+[2m4:51:51 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReviewed native alphabet audio is unavailable: Error: Unable to play audio: https://salakhmer-cms-api.oliverkhang.workers.dev/api/alphabet-audio/c-kha
+    at audio.onerror (http://localhost:5173/src/lib/audioService.ts?t=1786352529038:37:32)
+[2m4:51:52 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReviewed native alphabet audio is unavailable: Error: Unable to play audio: https://salakhmer-cms-api.oliverkhang.workers.dev/api/alphabet-audio/c-cha
+    at audio.onerror (http://localhost:5173/src/lib/audioService.ts?t=1786352529038:37:32)
+[2m4:51:53 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReviewed native alphabet audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:5173/src/lib/audioService.ts?t=1786352529038:8:23)
+    at http://localhost:5173/src/lib/audioService.ts?t=1786352529038:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:5173/src/lib/audioService.ts?t=1786352529038:17:9)
+    at playKhmerAudio (http://localhost:5173/src/lib/audioService.ts?t=1786352529038:87:10)
+    at handlePlay (http://localhost:5173/src/routes/grid-lesson.$lessonId.tsx?t=1786352529038&tsr-split=component:88:8)
+    at onClick (http://localhost:5173/src/routes/grid-lesson.$lessonId.tsx?t=1786352529038&tsr-split=component:526:18)
+    at executeDispatch (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:9139:5)
+    at runWithFiberInDEV (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:850:66)
+    at processDispatchQueue (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:9165:27)
+[2m4:51:53 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReviewed native alphabet audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:5173/src/lib/audioService.ts?t=1786352529038:8:23)
+    at http://localhost:5173/src/lib/audioService.ts?t=1786352529038:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:5173/src/lib/audioService.ts?t=1786352529038:17:9)
+    at playKhmerAudio (http://localhost:5173/src/lib/audioService.ts?t=1786352529038:87:10)
+    at handlePlay (http://localhost:5173/src/routes/grid-lesson.$lessonId.tsx?t=1786352529038&tsr-split=component:88:8)
+    at onClick (http://localhost:5173/src/routes/grid-lesson.$lessonId.tsx?t=1786352529038&tsr-split=component:526:18)
+    at executeDispatch (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:9139:5)
+    at runWithFiberInDEV (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:850:66)
+    at processDispatchQueue (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:9165:27)
+[2m4:51:53 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReviewed native alphabet audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:5173/src/lib/audioService.ts?t=1786352529038:8:23)
+    at http://localhost:5173/src/lib/audioService.ts?t=1786352529038:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:5173/src/lib/audioService.ts?t=1786352529038:17:9)
+    at playKhmerAudio (http://localhost:5173/src/lib/audioService.ts?t=1786352529038:87:10)
+    at handlePlay (http://localhost:5173/src/routes/grid-lesson.$lessonId.tsx?t=1786352529038&tsr-split=component:88:8)
+    at onClick (http://localhost:5173/src/routes/grid-lesson.$lessonId.tsx?t=1786352529038&tsr-split=component:526:18)
+    at executeDispatch (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:9139:5)
+    at runWithFiberInDEV (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:850:66)
+    at processDispatchQueue (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:9165:27)
+[2m4:51:53 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReviewed native alphabet audio is unavailable: Error: Unable to play audio: https://salakhmer-cms-api.oliverkhang.workers.dev/api/alphabet-audio/c-tha1
+    at audio.onerror (http://localhost:5173/src/lib/audioService.ts?t=1786352529038:37:32)
+[2m4:51:57 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReviewed native alphabet audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:5173/src/lib/audioService.ts?t=1786352529038:8:23)
+    at http://localhost:5173/src/lib/audioService.ts?t=1786352529038:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:5173/src/lib/audioService.ts?t=1786352529038:17:9)
+    at playKhmerAudio (http://localhost:5173/src/lib/audioService.ts?t=1786352529038:87:10)
+    at handlePlay (http://localhost:5173/src/routes/grid-lesson.$lessonId.tsx?t=1786352529038&tsr-split=component:88:8)
+    at onClick (http://localhost:5173/src/routes/grid-lesson.$lessonId.tsx?t=1786352529038&tsr-split=component:526:18)
+    at executeDispatch (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:9139:5)
+    at runWithFiberInDEV (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:850:66)
+    at processDispatchQueue (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:9165:27)
+[2m4:51:57 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReviewed native alphabet audio is unavailable: Error: Unable to play audio: https://salakhmer-cms-api.oliverkhang.workers.dev/api/alphabet-audio/c-kha
+    at audio.onerror (http://localhost:5173/src/lib/audioService.ts?t=1786352529038:37:32)
+[2m5:00:43 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReviewed native alphabet audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:5173/src/lib/audioService.ts?t=1786352529038:8:23)
+    at http://localhost:5173/src/lib/audioService.ts?t=1786352529038:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:5173/src/lib/audioService.ts?t=1786352529038:17:9)
+    at playKhmerAudio (http://localhost:5173/src/lib/audioService.ts?t=1786352529038:87:10)
+    at handlePlay (http://localhost:5173/src/routes/grid-lesson.$lessonId.tsx?t=1786352529038&tsr-split=component:88:8)
+    at onClick (http://localhost:5173/src/routes/grid-lesson.$lessonId.tsx?t=1786352529038&tsr-split=component:526:18)
+    at executeDispatch (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:9139:5)
+    at runWithFiberInDEV (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:850:66)
+    at processDispatchQueue (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:9165:27)
+[2m5:00:44 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReviewed native alphabet audio is unavailable: Error: Unable to play audio: https://salakhmer-cms-api.oliverkhang.workers.dev/api/alphabet-audio/c-kha
+    at audio.onerror (http://localhost:5173/src/lib/audioService.ts?t=1786352529038:37:32)
+[2m5:13:03 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mImported Azure dialogue audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://127.0.0.1:5173/src/lib/audioService.ts?t=1786352529038:8:23)
+    at onClick (http://127.0.0.1:5173/src/components/ConversationTranscriptLesson.tsx?t=1786356233142:86:10)
+    at executeDispatch (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:9139:5)
+    at runWithFiberInDEV (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:850:66)
+    at processDispatchQueue (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:9165:27)
+    at http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:9452:5
+    at batchedUpdates$1 (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:2042:12)
+    at dispatchEventForPluginEventSystem (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:9238:4)
+    at dispatchEvent (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:11317:29)
+    at dispatchDiscreteEvent (http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=49304edb:11299:56)
+[2m7:43:49 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mError[22m: Database is closing/hidden
+[39m > IndexedDBLocalPersistence._openDb node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:8317:18
+ > IndexedDBLocalPersistence._withRetries node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:8332:38
+ > IndexedDBLocalPersistence._get node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:8456:32
+ > PersistenceUserManager.getCurrentUser node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:2098:44
+ > AuthImpl.initializeCurrentUser node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:2764:69
+ > node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:2704:23
+
+[2m8:00:53 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mError[22m: Database is closing/hidden
+[39m > IndexedDBLocalPersistence._openDb node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:8317:18
+ > IndexedDBLocalPersistence._withRetries node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:8332:38
+ > node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:8450:23
+ > IndexedDBLocalPersistence._withPendingWrite node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:8442:18
+ > IndexedDBLocalPersistence._set node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:8449:20
+ > PersistenceUserManager.setCurrentUser node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:2095:32
+ > AuthImpl.directlySetCurrentUser node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:3137:43
+ > AuthImpl.reloadAndSetCurrentUserOrClear node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:2859:20
+ > node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:2704:12
+
+[2m10:01:17 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReviewed native alphabet audio is unavailable: Error: Unable to play audio: https://salakhmer-cms-api.oliverkhang.workers.dev/api/alphabet-audio/c-cha
+    at audio.onerror (http://localhost:5173/src/lib/audioService.ts?t=1786352529038:37:32)
+[33mThe plugin "vite-tsconfig-paths" is detected. Vite now supports tsconfig paths resolution natively via the [1mresolve.tsconfigPaths[22m option. You can remove the plugin and set [1mresolve.tsconfigPaths: true[22m in your Vite config instead.[39m
+[2m11:48:14 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mError[22m: Database is closing/hidden
+[39m > IndexedDBLocalPersistence._openDb node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:8317:18
+ > IndexedDBLocalPersistence._withRetries node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:8332:38
+ > node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:8450:23
+ > IndexedDBLocalPersistence._withPendingWrite node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:8442:18
+ > IndexedDBLocalPersistence._set node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:8449:20
+ > PersistenceUserManager.setCurrentUser node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:2095:32
+ > AuthImpl.directlySetCurrentUser node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:3137:43
+ > AuthImpl.reloadAndSetCurrentUserOrClear node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:2859:20
+ > node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:2704:12
+
+[2m11:48:22 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mError[22m: Database is closing/hidden
+[39m > IndexedDBLocalPersistence._openDb node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:8317:18
+ > IndexedDBLocalPersistence._withRetries node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:8332:38
+ > node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:8450:23
+ > IndexedDBLocalPersistence._withPendingWrite node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:8442:18
+ > IndexedDBLocalPersistence._set node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:8449:20
+ > PersistenceUserManager.setCurrentUser node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:2095:32
+ > AuthImpl.directlySetCurrentUser node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:3137:43
+ > AuthImpl.reloadAndSetCurrentUserOrClear node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:2859:20
+ > node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:2704:12
+
+[2m12:21:05 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mError[22m: Database is closing/hidden
+[39m > IndexedDBLocalPersistence._openDb node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:8317:18
+ > IndexedDBLocalPersistence._withRetries node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:8332:38
+ > node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:8450:23
+ > IndexedDBLocalPersistence._withPendingWrite node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:8442:18
+ > IndexedDBLocalPersistence._set node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:8449:20
+ > PersistenceUserManager.setCurrentUser node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:2095:32
+ > AuthImpl.directlySetCurrentUser node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:3137:43
+ > AuthImpl.reloadAndSetCurrentUserOrClear node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:2859:20
+ > node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:2704:12
+
+[2m1:11:07 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mError[22m: Database is closing/hidden
+[39m > IndexedDBLocalPersistence._openDb node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:8317:18
+ > IndexedDBLocalPersistence._withRetries node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:8332:38
+ > node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:8450:23
+ > IndexedDBLocalPersistence._withPendingWrite node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:8442:18
+ > IndexedDBLocalPersistence._set node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:8449:20
+ > PersistenceUserManager.setCurrentUser node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:2095:32
+ > AuthImpl.directlySetCurrentUser node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:3137:43
+ > AuthImpl.reloadAndSetCurrentUserOrClear node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:2859:20
+ > node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:2704:12
+
+[2m4:43:53 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Unable to play audio: /audio/read-spell-v1/rs-family-001.mp3
+    at audio.onerror (http://localhost:5173/src/lib/audioService.ts?t=1786404206365:37:32)
+[2m4:43:54 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Unable to play audio: /audio/read-spell-v1/rs-family-001.mp3
+    at audio.onerror (http://localhost:5173/src/lib/audioService.ts?t=1786404206365:37:32)
+[2m4:43:55 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:5173/src/lib/audioService.ts?t=1786404206365:8:23)
+    at http://localhost:5173/src/lib/audioService.ts?t=1786404206365:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:5173/src/lib/audioService.ts?t=1786404206365:17:9)
+    at playKhmerAudio (http://localhost:5173/src/lib/audioService.ts?t=1786404206365:121:10)
+    at playWord (http://localhost:5173/src/routes/read-spell.$topicId.tsx?t=1786437393887&tsr-split=component:58:10)
+    at onClick (http://localhost:5173/src/routes/read-spell.$topicId.tsx?t=1786437393887&tsr-split=component:250:26)
+    at executeDispatch (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=1d9bc855:9139:5)
+    at runWithFiberInDEV (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=1d9bc855:850:66)
+    at processDispatchQueue (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=1d9bc855:9165:27)
+[2m4:43:55 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Unable to play audio: /audio/read-spell-v1/rs-family-001.mp3
+    at audio.onerror (http://localhost:5173/src/lib/audioService.ts?t=1786404206365:37:32)
+[2m4:43:56 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Unable to play audio: /audio/read-spell-v1/rs-family-002.mp3
+    at audio.onerror (http://localhost:5173/src/lib/audioService.ts?t=1786404206365:37:32)
+[2m4:43:56 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:5173/src/lib/audioService.ts?t=1786404206365:8:23)
+    at http://localhost:5173/src/lib/audioService.ts?t=1786404206365:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:5173/src/lib/audioService.ts?t=1786404206365:17:9)
+    at playKhmerAudio (http://localhost:5173/src/lib/audioService.ts?t=1786404206365:121:10)
+    at playWord (http://localhost:5173/src/routes/read-spell.$topicId.tsx?t=1786437393887&tsr-split=component:58:10)
+    at onClick (http://localhost:5173/src/routes/read-spell.$topicId.tsx?t=1786437393887&tsr-split=component:250:26)
+    at executeDispatch (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=1d9bc855:9139:5)
+    at runWithFiberInDEV (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=1d9bc855:850:66)
+    at processDispatchQueue (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=1d9bc855:9165:27)
+[2m4:43:56 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Unable to play audio: /audio/read-spell-v1/rs-family-002.mp3
+    at audio.onerror (http://localhost:5173/src/lib/audioService.ts?t=1786404206365:37:32)
+[2m4:43:57 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Unable to play audio: /audio/read-spell-v1/rs-family-002.mp3
+    at audio.onerror (http://localhost:5173/src/lib/audioService.ts?t=1786404206365:37:32)
+[2m4:43:57 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Unable to play audio: /audio/read-spell-v1/rs-family-002.mp3
+    at audio.onerror (http://localhost:5173/src/lib/audioService.ts?t=1786404206365:37:32)
+[2m4:43:58 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Unable to play audio: /audio/read-spell-v1/rs-family-003.mp3
+    at audio.onerror (http://localhost:5173/src/lib/audioService.ts?t=1786404206365:37:32)
+[2m4:43:59 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Unable to play audio: /audio/read-spell-v1/rs-family-003.mp3
+    at audio.onerror (http://localhost:5173/src/lib/audioService.ts?t=1786404206365:37:32)
+[2m4:44:45 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Unable to play audio: /audio/read-spell-v1/rs-family-001.mp3
+    at audio.onerror (http://localhost:5173/src/lib/audioService.ts?t=1786404206365:37:32)
+[2m4:44:46 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Unable to play audio: /audio/read-spell-v1/rs-family-001.mp3
+    at audio.onerror (http://localhost:5173/src/lib/audioService.ts?t=1786404206365:37:32)
+[2m4:44:54 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mImported Azure dialogue audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:5173/src/lib/audioService.ts?t=1786404206365:8:23)
+    at playAll (http://localhost:5173/src/components/ConversationTranscriptLesson.tsx:43:4)
+    at onClick (http://localhost:5173/src/components/ConversationTranscriptLesson.tsx:242:30)
+    at executeDispatch (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=1d9bc855:9139:5)
+    at runWithFiberInDEV (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=1d9bc855:850:66)
+    at processDispatchQueue (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=1d9bc855:9165:27)
+    at http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=1d9bc855:9452:5
+    at batchedUpdates$1 (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=1d9bc855:2042:12)
+    at dispatchEventForPluginEventSystem (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=1d9bc855:9238:4)
+    at dispatchEvent (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=1d9bc855:11317:29)
+[2m4:49:30 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReviewed native alphabet audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:5173/src/lib/audioService.ts?t=1786404206365:8:23)
+    at http://localhost:5173/src/lib/audioService.ts?t=1786404206365:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:5173/src/lib/audioService.ts?t=1786404206365:17:9)
+    at playKhmerAudio (http://localhost:5173/src/lib/audioService.ts?t=1786404206365:98:10)
+    at handlePlay (http://localhost:5173/src/routes/grid-lesson.$lessonId.tsx?tsr-split=component:88:8)
+    at onClick (http://localhost:5173/src/routes/grid-lesson.$lessonId.tsx?tsr-split=component:526:18)
+    at executeDispatch (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=1d9bc855:9139:5)
+    at runWithFiberInDEV (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=1d9bc855:850:66)
+    at processDispatchQueue (http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=1d9bc855:9165:27)
+[2m4:49:30 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReviewed native alphabet audio is unavailable: Error: Unable to play audio: https://salakhmer-cms-api.oliverkhang.workers.dev/api/alphabet-audio/c-kha
+    at audio.onerror (http://localhost:5173/src/lib/audioService.ts?t=1786404206365:37:32)
+[2m4:49:31 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReviewed native alphabet audio is unavailable: Error: Unable to play audio: https://salakhmer-cms-api.oliverkhang.workers.dev/api/alphabet-audio/c-cha
+    at audio.onerror (http://localhost:5173/src/lib/audioService.ts?t=1786404206365:37:32)
+[2m4:49:32 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReviewed native alphabet audio is unavailable: Error: Unable to play audio: https://salakhmer-cms-api.oliverkhang.workers.dev/api/alphabet-audio/c-ka
+    at audio.onerror (http://localhost:5173/src/lib/audioService.ts?t=1786404206365:37:32)
+[2m4:49:33 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReviewed native alphabet audio is unavailable: Error: Unable to play audio: https://salakhmer-cms-api.oliverkhang.workers.dev/api/alphabet-audio/c-kha
+    at audio.onerror (http://localhost:5173/src/lib/audioService.ts?t=1786404206365:37:32)
+[2m4:49:34 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReviewed native alphabet audio is unavailable: Error: Unable to play audio: https://salakhmer-cms-api.oliverkhang.workers.dev/api/alphabet-audio/c-kha
+    at audio.onerror (http://localhost:5173/src/lib/audioService.ts?t=1786404206365:37:32)
+[2m4:49:34 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReviewed native alphabet audio is unavailable: Error: Unable to play audio: https://salakhmer-cms-api.oliverkhang.workers.dev/api/alphabet-audio/c-da
+    at audio.onerror (http://localhost:5173/src/lib/audioService.ts?t=1786404206365:37:32)
+[2m4:49:35 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReviewed native alphabet audio is unavailable: Error: Unable to play audio: https://salakhmer-cms-api.oliverkhang.workers.dev/api/alphabet-audio/c-chha
+    at audio.onerror (http://localhost:5173/src/lib/audioService.ts?t=1786404206365:37:32)
+[2m4:55:31 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mEncountered two children with the same key, `Sreymom`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+[2m4:55:31 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mEncountered two children with the same key, `Piseth`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+[2m4:55:50 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mEncountered two children with the same key, `Sreymom`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+[2m4:55:50 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mEncountered two children with the same key, `Piseth`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+[2m4:55:56 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mEncountered two children with the same key, `Sreymom`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
+[2m4:55:56 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mEncountered two children with the same key, `Piseth`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.

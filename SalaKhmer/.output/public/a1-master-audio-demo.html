@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SalaKhmer A1 master audio demo</title>
+    <style>
+      body{margin:0;background:#fff8ea;color:#402713;font-family:Arial,sans-serif;padding:24px}main{max-width:720px;margin:auto}.speeds{display:flex;gap:8px;margin:14px 0 22px}.speed,button{border:0;border-radius:999px;padding:10px 15px;font-weight:700;cursor:pointer}.speed{background:#f2e6ce;color:#5b4027}.speed.active,button{background:#efa51b;color:#30200d}.turn{padding:16px;margin:10px 0;border:1px solid #ead1a2;border-radius:16px;background:#fff}.speaker{font-size:12px;color:#926f4e;font-weight:800;text-transform:uppercase;margin:0}.khmer{font-family:"Noto Sans Khmer","Khmer OS",sans-serif;font-size:27px;font-weight:700;margin:8px 0}.english{margin:0;color:#5b4027}.phonetic{margin:6px 0 12px;font-size:13px;color:#896d55}button:disabled{opacity:.45;cursor:wait}
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>A1 Master audio demo</h1>
+      <p>Dialogue 1 — Azure Khmer voices. Playback speed affects listening only; it does not create extra MP3 files.</p>
+      <div class="speeds"><button class="speed" data-rate="0.6">0.6×</button><button class="speed active" data-rate="1">1×</button><button class="speed" data-rate="1.25">1.25×</button></div>
+      <div id="turns"></div>
+    </main>
+    <script>
+      const lines = [
+        ["Dara · male", "សួស្តី Maya! សុខសប្បាយទេនៅ ភ្នំពេញ?", "Hello Maya! How are you at Phnom Penh?", "soo-uhs-day maya! sok-sop-bay teh noh pnom pen?", "a1-master-d0001-t01"],
+        ["Maya · female", "ចាស សុខសប្បាយ។ ចុះ Dara វិញ?", "Yes, I am fine. How about Dara?", "jah sok-sop-bay. choh dara ving?", "a1-master-d0001-t02"],
+        ["Dara · male", "បាទ ខ្ញុំសុខសប្បាយដែរ។ អរគុណច្រើន!", "Yes, I am fine too. Thank you very much!", "baht khnyom sok-sop-bay dae. aw-kun chreun!", "a1-master-d0001-t03"],
+        ["Maya · female", "ចាស មិនអីទេ! សូមឲ្យមានថ្ងៃល្អ។", "Yes, you're welcome! Have a nice day.", "jah min-ei-teh! sohm oy mohn thngai l-aw.", "a1-master-d0001-t04"],
+        ["Dara · male", "បាទ អរគុណ! ជួបគ្នាថ្ងៃស្អែកនៅ ភ្នំពេញ។", "Yes, thank you! See you tomorrow at Phnom Penh.", "baht aw-kun! chuop knyea thngai saek noh pnom pen.", "a1-master-d0001-t05"],
+      ];
+      let rate = 1;
+      document.querySelector('#turns').innerHTML = lines.map(([speaker,khmer,english,phonetic,id]) => `<section class="turn"><p class="speaker">${speaker}</p><p class="khmer">${khmer}</p><p class="english">${english}</p><p class="phonetic">${phonetic}</p><button data-audio="${id}">Play</button></section>`).join('');
+      document.querySelectorAll('.speed').forEach(button => button.onclick = () => { rate = Number(button.dataset.rate); document.querySelectorAll('.speed').forEach(item => item.classList.toggle('active', item === button)); });
+      document.querySelectorAll('[data-audio]').forEach(button => button.onclick = async () => { const audio = new Audio(`/audio/a1-master-5000/${button.dataset.audio}.mp3`); audio.playbackRate = rate; button.disabled = true; try { await audio.play(); await new Promise(resolve => audio.onended = resolve); } finally { button.disabled = false; } });
+    </script>
+  </body>
+</html>

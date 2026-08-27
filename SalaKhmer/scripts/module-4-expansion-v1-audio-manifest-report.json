@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-08-12T10:55:44.380Z",
+  "manifest": "scripts/module-4-expansion-v1-audio-manifest.json",
+  "moduleId": "module_4",
+  "inputs": [
+    "src/lib/module-content-expansion.ts"
+  ],
+  "totalDiscoveredStrings": 20,
+  "uniqueSynthesizableItems": 20,
+  "estimatedAzureCharacters": 167,
+  "excluded": "One-glyph / non-Khmer / mixed-language strings are excluded by design.",
+  "nextStep": "Approved manifest ready. Run audio:module-expansion with --input=<manifest>."
+}

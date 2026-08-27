@@ -1,0 +1,1399 @@
+
+> dev
+> vite dev --port 8080 --strictPort
+
+[33mThe plugin "vite-tsconfig-paths" is detected. Vite now supports tsconfig paths resolution natively via the [1mresolve.tsconfigPaths[22m option. You can remove the plugin and set [1mresolve.tsconfigPaths: true[22m in your Vite config instead.[39m
+
+  [32m[1mVITE[22m v8.2.0[39m  [2mready in [0m[1m32319[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m8080[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.1.140:[1m8080[22m/[39m  [2mEthernet[22m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+[2m9:25:34 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m connected.
+[2m9:27:11 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts:8:23)
+    at http://localhost:8080/src/lib/audioService.ts:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts:121:10)
+    at playWord (http://localhost:8080/src/routes/read-spell.$topicId.tsx?tsr-split=component:58:10)
+    at onClick (http://localhost:8080/src/routes/read-spell.$topicId.tsx?tsr-split=component:250:26)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+[2m9:27:12 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts:8:23)
+    at http://localhost:8080/src/lib/audioService.ts:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts:121:10)
+    at playWord (http://localhost:8080/src/routes/read-spell.$topicId.tsx?tsr-split=component:58:10)
+    at onClick (http://localhost:8080/src/routes/read-spell.$topicId.tsx?tsr-split=component:250:26)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+[2m9:27:13 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts:8:23)
+    at http://localhost:8080/src/lib/audioService.ts:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts:121:10)
+    at playWord (http://localhost:8080/src/routes/read-spell.$topicId.tsx?tsr-split=component:58:10)
+    at onClick (http://localhost:8080/src/routes/read-spell.$topicId.tsx?tsr-split=component:250:26)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+[2m9:27:15 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts:8:23)
+    at http://localhost:8080/src/lib/audioService.ts:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts:121:10)
+    at playWord (http://localhost:8080/src/routes/read-spell.$topicId.tsx?tsr-split=component:58:10)
+    at onClick (http://localhost:8080/src/routes/read-spell.$topicId.tsx?tsr-split=component:250:26)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+[2m9:27:21 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts:8:23)
+    at http://localhost:8080/src/lib/audioService.ts:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts:121:10)
+    at playWord (http://localhost:8080/src/routes/read-spell.$topicId.tsx?tsr-split=component:58:10)
+    at onClick (http://localhost:8080/src/routes/read-spell.$topicId.tsx?tsr-split=component:250:26)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+[2m9:27:31 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts:8:23)
+    at http://localhost:8080/src/lib/audioService.ts:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts:121:10)
+    at playWord (http://localhost:8080/src/routes/read-spell.$topicId.tsx?tsr-split=component:58:10)
+    at onClick (http://localhost:8080/src/routes/read-spell.$topicId.tsx?tsr-split=component:250:26)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+[2m9:28:54 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mImported Azure dialogue audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts:8:23)
+    at onClick (http://localhost:8080/src/components/ConversationTranscriptLesson.tsx:86:10)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+    at http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9452:5
+    at batchedUpdates$1 (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:2042:12)
+    at dispatchEventForPluginEventSystem (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9238:4)
+    at dispatchEvent (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:11317:29)
+    at dispatchDiscreteEvent (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:11299:56)
+[2m9:29:05 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mImported Azure dialogue audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts:8:23)
+    at onClick (http://localhost:8080/src/components/ConversationTranscriptLesson.tsx:86:10)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+    at http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9452:5
+    at batchedUpdates$1 (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:2042:12)
+    at dispatchEventForPluginEventSystem (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9238:4)
+    at dispatchEvent (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:11317:29)
+    at dispatchDiscreteEvent (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:11299:56)
+[2m9:29:17 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mImported Azure dialogue audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts:8:23)
+    at onClick (http://localhost:8080/src/components/ConversationTranscriptLesson.tsx:86:10)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+    at http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9452:5
+    at batchedUpdates$1 (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:2042:12)
+    at dispatchEventForPluginEventSystem (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9238:4)
+    at dispatchEvent (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:11317:29)
+    at dispatchDiscreteEvent (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:11299:56)
+[2m9:29:27 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mImported Azure dialogue audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts:8:23)
+    at onClick (http://localhost:8080/src/components/ConversationTranscriptLesson.tsx:86:10)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+    at http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9452:5
+    at batchedUpdates$1 (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:2042:12)
+    at dispatchEventForPluginEventSystem (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9238:4)
+    at dispatchEvent (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:11317:29)
+    at dispatchDiscreteEvent (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:11299:56)
+[2m9:29:35 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mImported Azure dialogue audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts:8:23)
+    at onClick (http://localhost:8080/src/components/ConversationTranscriptLesson.tsx:86:10)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+    at http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9452:5
+    at batchedUpdates$1 (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:2042:12)
+    at dispatchEventForPluginEventSystem (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9238:4)
+    at dispatchEvent (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:11317:29)
+    at dispatchDiscreteEvent (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:11299:56)
+[2m9:29:39 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mImported Azure dialogue audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts:8:23)
+    at onClick (http://localhost:8080/src/components/ConversationTranscriptLesson.tsx:86:10)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+    at http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9452:5
+    at batchedUpdates$1 (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:2042:12)
+    at dispatchEventForPluginEventSystem (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9238:4)
+    at dispatchEvent (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:11317:29)
+    at dispatchDiscreteEvent (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:11299:56)
+[2m9:29:55 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mImported Azure dialogue audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts:8:23)
+    at onClick (http://localhost:8080/src/components/ConversationTranscriptLesson.tsx:86:10)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+    at http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9452:5
+    at batchedUpdates$1 (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:2042:12)
+    at dispatchEventForPluginEventSystem (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9238:4)
+    at dispatchEvent (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:11317:29)
+    at dispatchDiscreteEvent (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:11299:56)
+[2m9:30:12 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mImported Azure dialogue audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts:8:23)
+    at onClick (http://localhost:8080/src/components/ConversationTranscriptLesson.tsx:86:10)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+    at http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9452:5
+    at batchedUpdates$1 (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:2042:12)
+    at dispatchEventForPluginEventSystem (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9238:4)
+    at dispatchEvent (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:11317:29)
+    at dispatchDiscreteEvent (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:11299:56)
+[2m9:38:47 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/hooks/useAuth.tsx, /src/components/LovableAppShell.tsx, /src/routes/category.$categoryId.tsx?tsr-split=component, /src/routes/lesson.$lessonId.tsx?tsr-split=component[22m
+[2m9:38:47 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/lib/mock-lessons.ts[22m
+[2m9:38:47 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m program reload
+[2m9:38:47 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/src/hooks/useAuth.tsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m9:38:47 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/__root.tsx, /src/routes/login.tsx?tsr-split=component, /src/routes/home.tsx?tsr-split=component, /src/components/LovableAppShell.tsx, /src/routes/category.$categoryId.tsx?tsr-split=component, /src/components/AlphabetGrid.tsx, /src/components/SpellingBreakdown.tsx, /src/components/AudioSpeedSettings.tsx, /src/routes/grid-lesson.$lessonId.tsx?tsr-split=component, /src/routes/lesson.$lessonId.tsx?tsr-split=component, /src/routes/profile.tsx?tsr-split=component[22m
+[2m9:38:47 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/src/components/LovableAppShell.tsx[22m Could not Fast Refresh ("LOVABLE_MODULES" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m9:38:47 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/home.tsx?tsr-split=component, /src/routes/category.$categoryId.tsx?tsr-split=component, /src/routes/learn.tsx?tsr-split=component, /src/routes/read-spell.$topicId.tsx?tsr-split=component, /src/routes/profile.tsx?tsr-split=component[22m
+[2m9:39:24 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/hooks/useAuth.tsx, /src/components/LovableAppShell.tsx, /src/routes/category.$categoryId.tsx?tsr-split=component, /src/routes/lesson.$lessonId.tsx?tsr-split=component[22m
+[2m9:39:24 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/lib/mock-lessons.ts[22m
+[2m9:39:24 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/src/hooks/useAuth.tsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m9:39:24 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/__root.tsx, /src/routes/login.tsx?tsr-split=component, /src/routes/home.tsx?tsr-split=component, /src/components/LovableAppShell.tsx, /src/routes/category.$categoryId.tsx?tsr-split=component, /src/components/AlphabetGrid.tsx, /src/components/SpellingBreakdown.tsx, /src/components/AudioSpeedSettings.tsx, /src/routes/grid-lesson.$lessonId.tsx?tsr-split=component, /src/routes/lesson.$lessonId.tsx?tsr-split=component, /src/routes/profile.tsx?tsr-split=component[22m
+[2m9:39:24 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/src/components/LovableAppShell.tsx[22m Could not Fast Refresh ("LOVABLE_MODULES" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m9:39:24 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/home.tsx?tsr-split=component, /src/routes/category.$categoryId.tsx?tsr-split=component, /src/routes/learn.tsx?tsr-split=component, /src/routes/read-spell.$topicId.tsx?tsr-split=component, /src/routes/profile.tsx?tsr-split=component[22m
+[2m9:40:44 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m9:40:44 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m9:40:44 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m9:40:44 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m9:43:02 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/LovableAppShell.tsx[22m
+[2m9:43:02 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/LovableAppShell.tsx[22m
+[2m9:43:02 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/src/components/LovableAppShell.tsx[22m Could not Fast Refresh (new export)
+[2m9:43:02 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/home.tsx?tsr-split=component, /src/routes/category.$categoryId.tsx?tsr-split=component, /src/routes/learn.tsx?tsr-split=component, /src/routes/read-spell.$topicId.tsx?tsr-split=component, /src/routes/profile.tsx?tsr-split=component[22m
+[2m9:43:22 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/category.$categoryId.tsx, /src/routes/category.$categoryId.tsx?tsr-split=component[22m
+[2m9:43:22 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/category.$categoryId.tsx[22m
+[2m9:43:39 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m9:43:39 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m9:43:39 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m9:43:39 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m9:43:49 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m9:43:53 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m9:43:53 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m9:43:53 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m9:44:54 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReviewed native alphabet audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts:8:23)
+    at http://localhost:8080/src/lib/audioService.ts:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts:98:10)
+    at handlePlay (http://localhost:8080/src/routes/grid-lesson.$lessonId.tsx?t=1786459164157&tsr-split=component:88:8)
+    at onClick (http://localhost:8080/src/routes/grid-lesson.$lessonId.tsx?t=1786459164157&tsr-split=component:526:18)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+[2m9:44:55 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReviewed native alphabet audio is unavailable: Error: Unable to play audio: https://salakhmer-cms-api.oliverkhang.workers.dev/api/alphabet-audio/c-kha
+    at audio.onerror (http://localhost:8080/src/lib/audioService.ts:37:32)
+[2m9:47:57 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/lib/i18n.tsx[22m
+[2m9:47:57 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/lib/i18n.tsx[22m
+[2m9:47:57 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m program reload
+[2m9:47:57 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/src/lib/i18n.tsx[22m Could not Fast Refresh ("LOCALES" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m9:47:57 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/__root.tsx, /src/routes/login.tsx?tsr-split=component, /src/routes/index.tsx?tsr-split=component, /src/components/LovableAppShell.tsx, /src/routes/lesson.$lessonId.tsx?tsr-split=component, /src/routes/category.$categoryId.tsx?tsr-split=component[22m
+[2m9:47:58 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/src/components/LovableAppShell.tsx[22m Could not Fast Refresh ("LOVABLE_MODULES" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m9:47:58 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/home.tsx?tsr-split=component, /src/routes/category.$categoryId.tsx?tsr-split=component, /src/routes/learn.tsx?tsr-split=component, /src/routes/read-spell.$topicId.tsx?tsr-split=component, /src/routes/profile.tsx?tsr-split=component, /src/routes/apply.tsx?tsr-split=component[22m
+[2m9:48:19 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/learn.tsx, /src/routes/learn.tsx?tsr-split=component[22m
+[2m9:48:19 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/learn.tsx[22m
+[2m9:48:48 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/category.$categoryId.tsx, /src/routes/category.$categoryId.tsx?tsr-split=component[22m
+[2m9:48:48 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/category.$categoryId.tsx[22m
+[2m9:49:06 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m9:49:06 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m9:49:06 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m9:49:06 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m9:49:18 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m9:49:18 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m9:49:18 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m9:49:18 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m6:38:50 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReviewed native alphabet audio is unavailable: Error: Unable to play audio: https://salakhmer-cms-api.oliverkhang.workers.dev/api/alphabet-audio/c-ko
+    at audio.onerror (http://localhost:8080/src/lib/audioService.ts:37:32)
+[2m6:44:21 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/lib/i18n.tsx[22m
+[2m6:44:21 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/lib/i18n.tsx[22m
+[2m6:44:21 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m program reload
+[2m6:44:21 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/src/lib/i18n.tsx[22m Could not Fast Refresh ("LOCALES" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m6:44:21 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/__root.tsx, /src/routes/login.tsx?tsr-split=component, /src/routes/index.tsx?tsr-split=component, /src/components/LovableAppShell.tsx, /src/routes/lesson.$lessonId.tsx?tsr-split=component, /src/routes/category.$categoryId.tsx?tsr-split=component, /src/routes/learn.tsx?tsr-split=component[22m
+[2m6:44:22 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/src/components/LovableAppShell.tsx[22m Could not Fast Refresh ("LOVABLE_MODULES" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m6:44:22 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/home.tsx?tsr-split=component, /src/routes/category.$categoryId.tsx?tsr-split=component, /src/routes/learn.tsx?tsr-split=component, /src/routes/read-spell.$topicId.tsx?tsr-split=component, /src/routes/profile.tsx?tsr-split=component, /src/routes/apply.tsx?tsr-split=component[22m
+[2m6:44:37 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/home.tsx, /src/routes/home.tsx?tsr-split=component[22m
+[2m6:44:37 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/home.tsx[22m
+[2m6:44:48 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/home.tsx, /src/routes/home.tsx?tsr-split=component[22m
+[2m6:44:48 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/home.tsx[22m
+[2m6:44:49 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReferenceError: t is not defined
+    at HomePage (http://localhost:8080/src/routes/home.tsx?t=1786491888992&tsr-split=component:97:21)
+    at Object.react_stack_bottom_frame (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:12864:12)
+    at renderWithHooks (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:4211:19)
+    at updateFunctionComponent (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:5567:16)
+    at beginWork (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:6138:20)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at performUnitOfWork (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:8427:92)
+    at workLoopSync (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:8323:37)
+    at renderRootSync (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:8307:6)
+    at performWorkOnRoot (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:7955:181)
+[2m6:44:49 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReferenceError: t is not defined
+    at HomePage (http://localhost:8080/src/routes/home.tsx?t=1786491888992&tsr-split=component:97:21)
+    at Object.react_stack_bottom_frame (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:12864:12)
+    at renderWithHooks (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:4211:19)
+    at updateFunctionComponent (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:5567:16)
+    at beginWork (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:6138:20)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at performUnitOfWork (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:8427:92)
+    at workLoopSync (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:8323:37)
+    at renderRootSync (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:8307:6)
+    at performWorkOnRoot (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:7955:181)
+[2m6:44:49 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReferenceError: t is not defined
+    at HomePage (http://localhost:8080/src/routes/home.tsx?t=1786491888992&tsr-split=component:97:21)
+    at Object.react_stack_bottom_frame (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:12864:12)
+    at renderWithHooks (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:4211:19)
+    at updateFunctionComponent (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:5567:16)
+    at beginWork (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:6138:20)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at performUnitOfWork (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:8427:92)
+    at workLoopSync (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:8323:37)
+    at renderRootSync (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:8307:6)
+    at performWorkOnRoot (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:7992:27)
+[2m6:44:49 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReferenceError: t is not defined
+    at HomePage (http://localhost:8080/src/routes/home.tsx?t=1786491888992&tsr-split=component:97:21)
+    at Object.react_stack_bottom_frame (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:12864:12)
+    at renderWithHooks (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:4211:19)
+    at updateFunctionComponent (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:5567:16)
+    at beginWork (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:6138:20)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at performUnitOfWork (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:8427:92)
+    at workLoopSync (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:8323:37)
+    at renderRootSync (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:8307:6)
+    at performWorkOnRoot (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:7992:27)
+[2m6:44:49 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReferenceError: t is not defined
+    at HomePage (http://localhost:8080/src/routes/home.tsx?t=1786491888992&tsr-split=component:97:21)
+    at Object.react_stack_bottom_frame (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:12864:12)
+    at renderWithHooks (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:4211:19)
+    at updateFunctionComponent (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:5567:16)
+    at beginWork (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:6138:20)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at performUnitOfWork (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:8427:92)
+    at workLoopSync (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:8323:37)
+    at renderRootSync (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:8307:6)
+    at performWorkOnRoot (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:7992:27)
+
+The above error occurred in the <HomePage> component.
+
+React will try to recreate this component tree from scratch using the error boundary you provided, CatchBoundaryImpl.
+
+[2m6:44:49 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mWarning: Error in route match: __root__/
+[2m6:44:49 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReferenceError: t is not defined
+    at HomePage (http://localhost:8080/src/routes/home.tsx?t=1786491888992&tsr-split=component:97:21)
+    at Object.react_stack_bottom_frame (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:12864:12)
+    at renderWithHooks (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:4211:19)
+    at updateFunctionComponent (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:5567:16)
+    at beginWork (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:6138:20)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at performUnitOfWork (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:8427:92)
+    at workLoopSync (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:8323:37)
+    at renderRootSync (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:8307:6)
+    at performWorkOnRoot (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:7955:181)
+[2m6:44:49 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReferenceError: t is not defined
+    at HomePage (http://localhost:8080/src/routes/home.tsx?t=1786491888992&tsr-split=component:97:21)
+    at Object.react_stack_bottom_frame (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:12864:12)
+    at renderWithHooks (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:4211:19)
+    at updateFunctionComponent (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:5567:16)
+    at beginWork (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:6138:20)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at performUnitOfWork (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:8427:92)
+    at workLoopSync (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:8323:37)
+    at renderRootSync (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:8307:6)
+    at performWorkOnRoot (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:7955:181)
+[2m6:44:49 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReferenceError: t is not defined
+    at HomePage (http://localhost:8080/src/routes/home.tsx?t=1786491888992&tsr-split=component:97:21)
+    at Object.react_stack_bottom_frame (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:12864:12)
+    at renderWithHooks (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:4211:19)
+    at updateFunctionComponent (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:5567:16)
+    at beginWork (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:6138:20)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at performUnitOfWork (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:8427:92)
+    at workLoopSync (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:8323:37)
+    at renderRootSync (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:8307:6)
+    at performWorkOnRoot (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:7992:27)
+[2m6:44:49 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReferenceError: t is not defined
+    at HomePage (http://localhost:8080/src/routes/home.tsx?t=1786491888992&tsr-split=component:97:21)
+    at Object.react_stack_bottom_frame (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:12864:12)
+    at renderWithHooks (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:4211:19)
+    at updateFunctionComponent (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:5567:16)
+    at beginWork (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:6138:20)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at performUnitOfWork (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:8427:92)
+    at workLoopSync (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:8323:37)
+    at renderRootSync (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:8307:6)
+    at performWorkOnRoot (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:7992:27)
+[2m6:44:49 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReferenceError: t is not defined
+    at HomePage (http://localhost:8080/src/routes/home.tsx?t=1786491888992&tsr-split=component:97:21)
+    at Object.react_stack_bottom_frame (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:12864:12)
+    at renderWithHooks (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:4211:19)
+    at updateFunctionComponent (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:5567:16)
+    at beginWork (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:6138:20)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at performUnitOfWork (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:8427:92)
+    at workLoopSync (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:8323:37)
+    at renderRootSync (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:8307:6)
+    at performWorkOnRoot (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:7992:27)
+
+The above error occurred in the <HomePage> component.
+
+React will try to recreate this component tree from scratch using the error boundary you provided, CatchBoundaryImpl.
+
+[2m6:44:49 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mWarning: Error in route match: __root__/
+[2m6:45:00 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/home.tsx, /src/routes/home.tsx?tsr-split=component[22m
+[2m6:45:00 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/home.tsx[22m
+[2m6:45:01 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReferenceError: t is not defined
+    at HomePage (http://localhost:8080/src/routes/home.tsx?t=1786491888992&tsr-split=component:97:21)
+    at Object.react_stack_bottom_frame (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:12864:12)
+    at renderWithHooks (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:4211:19)
+    at updateFunctionComponent (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:5567:16)
+    at beginWork (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:6138:20)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at performUnitOfWork (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:8427:92)
+    at workLoopSync (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:8323:37)
+    at renderRootSync (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:8307:6)
+    at performWorkOnRoot (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:7955:181)
+[2m6:45:01 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReferenceError: t is not defined
+    at HomePage (http://localhost:8080/src/routes/home.tsx?t=1786491888992&tsr-split=component:97:21)
+    at Object.react_stack_bottom_frame (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:12864:12)
+    at renderWithHooks (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:4211:19)
+    at updateFunctionComponent (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:5567:16)
+    at beginWork (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:6138:20)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at performUnitOfWork (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:8427:92)
+    at workLoopSync (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:8323:37)
+    at renderRootSync (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:8307:6)
+    at performWorkOnRoot (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:7955:181)
+[2m6:45:01 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReferenceError: t is not defined
+    at HomePage (http://localhost:8080/src/routes/home.tsx?t=1786491888992&tsr-split=component:97:21)
+    at Object.react_stack_bottom_frame (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:12864:12)
+    at renderWithHooks (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:4211:19)
+    at updateFunctionComponent (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:5567:16)
+    at beginWork (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:6138:20)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at performUnitOfWork (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:8427:92)
+    at workLoopSync (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:8323:37)
+    at renderRootSync (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:8307:6)
+    at performWorkOnRoot (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:7992:27)
+[2m6:45:01 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReferenceError: t is not defined
+    at HomePage (http://localhost:8080/src/routes/home.tsx?t=1786491888992&tsr-split=component:97:21)
+    at Object.react_stack_bottom_frame (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:12864:12)
+    at renderWithHooks (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:4211:19)
+    at updateFunctionComponent (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:5567:16)
+    at beginWork (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:6138:20)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at performUnitOfWork (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:8427:92)
+    at workLoopSync (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:8323:37)
+    at renderRootSync (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:8307:6)
+    at performWorkOnRoot (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:7992:27)
+[2m6:45:01 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReferenceError: t is not defined
+    at HomePage (http://localhost:8080/src/routes/home.tsx?t=1786491888992&tsr-split=component:97:21)
+    at Object.react_stack_bottom_frame (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:12864:12)
+    at renderWithHooks (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:4211:19)
+    at updateFunctionComponent (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:5567:16)
+    at beginWork (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:6138:20)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at performUnitOfWork (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:8427:92)
+    at workLoopSync (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:8323:37)
+    at renderRootSync (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:8307:6)
+    at performWorkOnRoot (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:7992:27)
+
+The above error occurred in the <HomePage> component.
+
+React will try to recreate this component tree from scratch using the error boundary you provided, CatchBoundaryImpl.
+
+[2m6:45:01 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mWarning: Error in route match: __root__/
+[2m6:45:23 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/apply.tsx, /src/routes/apply.tsx?tsr-split=component[22m
+[2m6:45:23 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/apply.tsx[22m
+[2m6:45:44 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/profile.tsx, /src/routes/profile.tsx?tsr-split=component[22m
+[2m6:45:44 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/profile.tsx[22m
+[2m6:46:18 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/read-spell.$topicId.tsx, /src/routes/read-spell.$topicId.tsx?tsr-split=component[22m
+[2m6:46:18 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/read-spell.$topicId.tsx[22m
+[2m6:47:01 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/grid-lesson.$lessonId.tsx, /src/routes/grid-lesson.$lessonId.tsx?tsr-split=component[22m
+[2m6:47:01 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/grid-lesson.$lessonId.tsx[22m
+[2m6:47:19 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/lib/i18n.tsx[22m
+[2m6:47:19 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/lib/i18n.tsx[22m
+[2m6:47:19 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/src/lib/i18n.tsx[22m Could not Fast Refresh ("LOCALES" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m6:47:19 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/__root.tsx, /src/routes/login.tsx?tsr-split=component, /src/routes/index.tsx?tsr-split=component, /src/components/LovableAppShell.tsx, /src/routes/lesson.$lessonId.tsx?tsr-split=component, /src/routes/category.$categoryId.tsx?tsr-split=component, /src/routes/learn.tsx?tsr-split=component, /src/routes/home.tsx?tsr-split=component, /src/routes/apply.tsx?tsr-split=component, /src/routes/profile.tsx?tsr-split=component, /src/routes/read-spell.$topicId.tsx?tsr-split=component and 1 more[22m
+[2m6:47:20 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/src/components/LovableAppShell.tsx[22m Could not Fast Refresh ("LOVABLE_MODULES" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m6:47:20 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/home.tsx?tsr-split=component, /src/routes/category.$categoryId.tsx?tsr-split=component, /src/routes/learn.tsx?tsr-split=component, /src/routes/read-spell.$topicId.tsx?tsr-split=component, /src/routes/profile.tsx?tsr-split=component, /src/routes/apply.tsx?tsr-split=component[22m
+[2m6:48:05 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m6:48:05 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m6:48:05 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m6:48:05 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m6:52:52 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/category.$categoryId.tsx, /src/routes/category.$categoryId.tsx?tsr-split=component[22m
+[2m6:52:52 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/category.$categoryId.tsx[22m
+[2m6:52:52 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Failed to resolve import "@/lib/read-spell-localization" from "src/routes/category.$categoryId.tsx?tsr-split=component". Does the file exist?
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mE:/AI/Antigravity/SalaKhmer/src/routes/category.$categoryId.tsx?tsr-split=component[39m:31:0
+[33m  14 |  import { useLocale } from "@/lib/i18n";
+  15 |  import { getPublishedModuleContent } from "@/lib/cms-content";
+  16 |  import { getLocalizedReadSpellTopic } from "@/lib/read-spell-localization";
+     |                                              ^
+  17 |  import { Route } from "E:/AI/Antigravity/SalaKhmer/src/routes/category.$categoryId.tsx";
+  18 |  var _jsxFileName = "E:/AI/Antigravity/SalaKhmer/src/routes/category.$categoryId.tsx?tsr-split=component";[39m
+[2m6:52:52 AM[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "@/lib/read-spell-localization" from "src/routes/category.$categoryId.tsx?tsr-split=component". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mE:/AI/Antigravity/SalaKhmer/src/routes/category.$categoryId.tsx?tsr-split=component[39m:31:0
+[33m  14 |  import { useLocale } from "@/lib/i18n";
+  15 |  import { getPublishedModuleContent } from "@/lib/cms-content";
+  16 |  import { getLocalizedReadSpellTopic } from "@/lib/read-spell-localization";
+     |                                              ^
+  17 |  import { Route } from "E:/AI/Antigravity/SalaKhmer/src/routes/category.$categoryId.tsx";
+  18 |  var _jsxFileName = "E:/AI/Antigravity/SalaKhmer/src/routes/category.$categoryId.tsx?tsr-split=component";[39m
+      at TransformPluginContext._formatLog (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:31011:39)
+      at TransformPluginContext.error (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:31008:14)
+      at normalizeUrl (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:27957:18)
+      at async file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:28025:30
+      at async Promise.all (index 15)
+      at async TransformPluginContext.transform (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:27993:4)
+      at async EnvironmentPluginContainer.transform (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:30796:14)
+      at async loadAndTransform (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:20594:26)
+[2m6:52:52 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/routes/category.$categoryId.tsx?tsr-split=component. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m6:53:41 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/category.$categoryId.tsx[22m
+[2m6:54:12 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/read-spell.$topicId.tsx, /src/routes/read-spell.$topicId.tsx?tsr-split=component[22m
+[2m6:54:12 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/read-spell.$topicId.tsx[22m
+[2m6:54:12 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m program reload
+[2m6:54:39 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/admin.tsx[22m
+[2m6:54:39 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/admin.tsx[22m
+[2m6:55:10 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/admin.tsx[22m
+[2m6:55:10 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/admin.tsx[22m
+[2m6:55:30 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m6:55:30 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m6:55:30 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m6:55:30 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m6:55:42 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m6:55:42 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m6:55:42 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m6:55:42 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m9:13:20 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/lesson.$lessonId.tsx?tsr-split=component[22m
+[2m9:13:21 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/ActivityRenderer.tsx[22m
+[2m9:15:03 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/hooks/useAuth.tsx, /src/components/LovableAppShell.tsx, /src/routes/category.$categoryId.tsx?tsr-split=component, /src/routes/lesson.$lessonId.tsx?tsr-split=component[22m
+[2m9:15:03 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/lib/mock-lessons.ts[22m
+[2m9:15:03 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m program reload
+[2m9:15:03 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] ReferenceError: buildCoreReviewLessons is not defined
+    at http://localhost:8080/src/lib/mock-lessons.ts?t=1786500903503:589:6
+[2m9:15:03 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/hooks/useAuth.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m9:15:03 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] ReferenceError: buildCoreReviewLessons is not defined
+    at http://localhost:8080/src/lib/mock-lessons.ts?t=1786500903503:589:6
+[2m9:15:03 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/hooks/useAuth.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m9:15:03 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] ReferenceError: buildCoreReviewLessons is not defined
+    at http://localhost:8080/src/lib/mock-lessons.ts?t=1786500903503:589:6
+[2m9:15:03 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/hooks/useAuth.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m9:15:03 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] ReferenceError: buildCoreReviewLessons is not defined
+    at http://localhost:8080/src/lib/mock-lessons.ts?t=1786500903503:589:6
+[2m9:15:03 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/components/LovableAppShell.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m9:15:03 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] ReferenceError: buildCoreReviewLessons is not defined
+    at http://localhost:8080/src/lib/mock-lessons.ts?t=1786500903503:589:6
+[2m9:15:03 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/routes/lesson.$lessonId.tsx?tsr-split=component. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m9:15:03 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] ReferenceError: buildCoreReviewLessons is not defined
+    at http://localhost:8080/src/lib/mock-lessons.ts?t=1786500903503:589:6
+[2m9:15:03 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/components/LovableAppShell.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m9:15:03 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] ReferenceError: buildCoreReviewLessons is not defined
+    at http://localhost:8080/src/lib/mock-lessons.ts?t=1786500903503:589:6
+[2m9:15:03 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/routes/category.$categoryId.tsx?tsr-split=component. This could be due to syntax errors or importing non-existent modules. (see errors above)
+ReferenceError: buildCoreReviewLessons is not defined
+    at eval (E:\AI\Antigravity\SalaKhmer\src\lib\mock-lessons.ts:416:8)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\hooks\useAuth.tsx:16:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\routes\__root.tsx:2:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3) (status 500)
+caused by: ReferenceError: buildCoreReviewLessons is not defined
+    at eval (E:\AI\Antigravity\SalaKhmer\src\lib\mock-lessons.ts:416:8)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\hooks\useAuth.tsx:16:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\routes\__root.tsx:2:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+ReferenceError: buildCoreReviewLessons is not defined
+    at eval (E:\AI\Antigravity\SalaKhmer\src\lib\mock-lessons.ts:416:8)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\hooks\useAuth.tsx:16:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\routes\__root.tsx:2:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3) (status 500)
+caused by: ReferenceError: buildCoreReviewLessons is not defined
+    at eval (E:\AI\Antigravity\SalaKhmer\src\lib\mock-lessons.ts:416:8)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\hooks\useAuth.tsx:16:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\routes\__root.tsx:2:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+ReferenceError: buildCoreReviewLessons is not defined
+    at eval (E:\AI\Antigravity\SalaKhmer\src\lib\mock-lessons.ts:416:8)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\hooks\useAuth.tsx:16:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\routes\__root.tsx:2:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3) (status 500)
+caused by: ReferenceError: buildCoreReviewLessons is not defined
+    at eval (E:\AI\Antigravity\SalaKhmer\src\lib\mock-lessons.ts:416:8)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\hooks\useAuth.tsx:16:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\routes\__root.tsx:2:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+ReferenceError: buildCoreReviewLessons is not defined
+    at eval (E:\AI\Antigravity\SalaKhmer\src\lib\mock-lessons.ts:416:8)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\hooks\useAuth.tsx:16:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\routes\__root.tsx:2:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3) (status 500)
+caused by: ReferenceError: buildCoreReviewLessons is not defined
+    at eval (E:\AI\Antigravity\SalaKhmer\src\lib\mock-lessons.ts:416:8)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\hooks\useAuth.tsx:16:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+    at async ModuleRunner.directRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1263:59)
+    at async ModuleRunner.cachedRequest (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1170:73)
+    at async eval (E:\AI\Antigravity\SalaKhmer\src\routes\__root.tsx:2:1)
+    at async ESModulesEvaluator.runInlinedModule (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/module-runner.js:1010:3)
+[2m9:15:52 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/hooks/useAuth.tsx, /src/components/LovableAppShell.tsx, /src/routes/category.$categoryId.tsx?tsr-split=component, /src/routes/lesson.$lessonId.tsx?tsr-split=component[22m
+[2m9:15:52 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/lib/mock-lessons.ts[22m
+[2m9:15:52 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m program reload
+[2m9:15:52 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSalaKhmer content validation issues [{"lessonId":"review-24","activityIndex":2,"message":"Ordering items and answer must contain the same number of entries."},{"lessonId":"review-27","activityIndex":2,"message":"Ordering items and answer must contain the same number of entries."}]
+[2m9:15:52 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/src/hooks/useAuth.tsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m9:15:52 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/__root.tsx, /src/routes/login.tsx?tsr-split=component, /src/routes/home.tsx?tsr-split=component, /src/components/LovableAppShell.tsx, /src/routes/category.$categoryId.tsx?tsr-split=component, /src/components/AlphabetGrid.tsx, /src/components/SpellingBreakdown.tsx, /src/components/AudioSpeedSettings.tsx, /src/routes/grid-lesson.$lessonId.tsx?tsr-split=component, /src/routes/lesson.$lessonId.tsx?tsr-split=component, /src/routes/profile.tsx?tsr-split=component and 1 more[22m
+[2m9:15:52 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSalaKhmer content validation issues [{"lessonId":"review-24","activityIndex":2,"message":"Ordering items and answer must contain the same number of entries."},{"lessonId":"review-27","activityIndex":2,"message":"Ordering items and answer must contain the same number of entries."}]
+[2m9:15:52 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/src/components/LovableAppShell.tsx[22m Could not Fast Refresh ("LOVABLE_MODULES" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m9:15:52 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/home.tsx?tsr-split=component, /src/routes/category.$categoryId.tsx?tsr-split=component, /src/routes/learn.tsx?tsr-split=component, /src/routes/read-spell.$topicId.tsx?tsr-split=component, /src/routes/profile.tsx?tsr-split=component, /src/routes/apply.tsx?tsr-split=component[22m
+[2m9:16:05 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/hooks/useAuth.tsx, /src/components/LovableAppShell.tsx, /src/routes/category.$categoryId.tsx?tsr-split=component, /src/routes/lesson.$lessonId.tsx?tsr-split=component[22m
+[2m9:16:05 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/lib/mock-lessons.ts[22m
+[2m9:16:06 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSalaKhmer content validation issues [{"lessonId":"review-24","activityIndex":2,"message":"Ordering items and answer must contain the same number of entries."},{"lessonId":"review-27","activityIndex":2,"message":"Ordering items and answer must contain the same number of entries."}]
+[2m9:16:06 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/src/hooks/useAuth.tsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m9:16:06 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/__root.tsx, /src/routes/login.tsx?tsr-split=component, /src/routes/home.tsx?tsr-split=component, /src/components/LovableAppShell.tsx, /src/routes/category.$categoryId.tsx?tsr-split=component, /src/components/AlphabetGrid.tsx, /src/components/SpellingBreakdown.tsx, /src/components/AudioSpeedSettings.tsx, /src/routes/grid-lesson.$lessonId.tsx?tsr-split=component, /src/routes/lesson.$lessonId.tsx?tsr-split=component, /src/routes/profile.tsx?tsr-split=component and 1 more[22m
+[2m9:16:06 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/src/components/LovableAppShell.tsx[22m Could not Fast Refresh ("LOVABLE_MODULES" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m9:16:06 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/home.tsx?tsr-split=component, /src/routes/category.$categoryId.tsx?tsr-split=component, /src/routes/learn.tsx?tsr-split=component, /src/routes/read-spell.$topicId.tsx?tsr-split=component, /src/routes/profile.tsx?tsr-split=component, /src/routes/apply.tsx?tsr-split=component[22m
+[2m9:16:06 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSalaKhmer content validation issues [{"lessonId":"review-24","activityIndex":2,"message":"Ordering items and answer must contain the same number of entries."},{"lessonId":"review-27","activityIndex":2,"message":"Ordering items and answer must contain the same number of entries."}]
+SalaKhmer content validation issues [
+  {
+    lessonId: 'review-24',
+    activityIndex: 2,
+    message: 'Ordering items and answer must contain the same number of entries.'
+  },
+  {
+    lessonId: 'review-27',
+    activityIndex: 2,
+    message: 'Ordering items and answer must contain the same number of entries.'
+  }
+]
+[2m9:16:08 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSalaKhmer content validation issues [{"lessonId":"review-24","activityIndex":2,"message":"Ordering items and answer must contain the same number of entries."},{"lessonId":"review-27","activityIndex":2,"message":"Ordering items and answer must contain the same number of entries."}]
+[2m9:16:08 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mError[22m: Database is closing/hidden
+[39m > IndexedDBLocalPersistence._openDb node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:8317:18
+ > IndexedDBLocalPersistence._withRetries node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:8332:38
+ > IndexedDBLocalPersistence._get node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:8456:32
+ > PersistenceUserManager.getCurrentUser node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:2098:44
+ > AuthImpl.initializeCurrentUser node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:2764:69
+ > node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:2704:23
+
+[2m9:16:09 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mError[22m: Database is closing/hidden
+[39m > IndexedDBLocalPersistence._openDb node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:8317:18
+ > IndexedDBLocalPersistence._withRetries node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:8332:38
+ > IndexedDBLocalPersistence._get node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:8456:32
+ > PersistenceUserManager.getCurrentUser node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:2098:44
+ > AuthImpl.initializeCurrentUser node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:2764:69
+ > node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:2704:23
+
+[2m9:16:23 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m9:16:23 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m9:16:23 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m9:16:23 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m9:16:53 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/lesson.$lessonId.tsx, /src/routes/lesson.$lessonId.tsx?tsr-split=component[22m
+[2m9:16:53 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/lesson.$lessonId.tsx[22m
+[2m9:16:53 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m program reload
+SalaKhmer content validation issues [
+  {
+    lessonId: 'review-24',
+    activityIndex: 2,
+    message: 'Ordering items and answer must contain the same number of entries.'
+  },
+  {
+    lessonId: 'review-27',
+    activityIndex: 2,
+    message: 'Ordering items and answer must contain the same number of entries.'
+  }
+]
+[2m9:17:22 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSalaKhmer content validation issues [{"lessonId":"review-24","activityIndex":2,"message":"Ordering items and answer must contain the same number of entries."},{"lessonId":"review-27","activityIndex":2,"message":"Ordering items and answer must contain the same number of entries."}]
+[2m9:17:51 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mImported Azure dialogue audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts:8:23)
+    at onClick (http://localhost:8080/src/components/ConversationTranscriptLesson.tsx:86:10)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+    at http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9452:5
+    at batchedUpdates$1 (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:2042:12)
+    at dispatchEventForPluginEventSystem (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9238:4)
+    at dispatchEvent (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:11317:29)
+    at dispatchDiscreteEvent (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:11299:56)
+[2m9:19:58 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReviewed native alphabet audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts:8:23)
+    at http://localhost:8080/src/lib/audioService.ts:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts:98:10)
+    at handlePlay (http://localhost:8080/src/routes/grid-lesson.$lessonId.tsx?t=1786500965927&tsr-split=component:90:8)
+    at onClick (http://localhost:8080/src/routes/grid-lesson.$lessonId.tsx?t=1786500965927&tsr-split=component:529:18)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+[2m9:19:58 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReviewed native alphabet audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts:8:23)
+    at http://localhost:8080/src/lib/audioService.ts:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts:98:10)
+    at handlePlay (http://localhost:8080/src/routes/grid-lesson.$lessonId.tsx?t=1786500965927&tsr-split=component:90:8)
+    at onClick (http://localhost:8080/src/routes/grid-lesson.$lessonId.tsx?t=1786500965927&tsr-split=component:529:18)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+[2m9:19:59 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mReviewed native alphabet audio is unavailable: Error: Unable to play audio: https://salakhmer-cms-api.oliverkhang.workers.dev/api/alphabet-audio/c-tha1
+    at audio.onerror (http://localhost:8080/src/lib/audioService.ts:37:32)
+[2m9:23:24 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/SpellingBreakdown.tsx, /src/routes/grid-lesson.$lessonId.tsx?tsr-split=component, /src/routes/read-spell.$topicId.tsx?tsr-split=component, /src/routes/lesson.$lessonId.tsx?tsr-split=component, /src/components/ConversationTranscriptLesson.tsx, /src/routes/apply.tsx?tsr-split=component[22m
+[2m9:23:24 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/lib/audioService.ts[22m
+[2m9:24:14 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m9:24:14 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m9:24:14 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m9:24:14 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m9:24:36 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m9:24:36 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m9:24:36 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m9:24:36 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m9:24:53 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:8:23)
+    at http://localhost:8080/src/lib/audioService.ts?t=1786501404851:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:140:10)
+    at playWord (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786500965927&tsr-split=component:66:10)
+    at onClick (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786500965927&tsr-split=component:264:27)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+[2m9:24:53 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:8:23)
+    at http://localhost:8080/src/lib/audioService.ts?t=1786501404851:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:140:10)
+    at playWord (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786500965927&tsr-split=component:66:10)
+    at onClick (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786500965927&tsr-split=component:264:27)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+[2m9:24:57 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSalaKhmer content validation issues [{"lessonId":"review-24","activityIndex":2,"message":"Ordering items and answer must contain the same number of entries."},{"lessonId":"review-27","activityIndex":2,"message":"Ordering items and answer must contain the same number of entries."}]
+[2m9:25:11 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/lib/i18n.tsx[22m
+[2m9:25:11 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/lib/i18n.tsx[22m
+[2m9:25:11 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m program reload
+[2m9:25:11 AM[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+
+[31m[PARSE_ERROR] [0mUnexpected token
+     [38;5;246m╭[0m[38;5;246m─[0m[38;5;246m[[0m src/lib/i18n.tsx:128:3 [38;5;246m][0m
+     [38;5;246m│[0m
+ [38;5;246m128 │[0m [38;5;249m [0m[38;5;249m [0m|[38;5;249m [0m[38;5;249m"[0m[38;5;249mq[0m[38;5;249mu[0m[38;5;249mi[0m[38;5;249mc[0m[38;5;249mk[0m[38;5;249mR[0m[38;5;249me[0m[38;5;249mc[0m[38;5;249ma[0m[38;5;249ml[0m[38;5;249ml[0m[38;5;249m"[0m
+ [38;5;240m    │[0m   ┬  
+ [38;5;240m    │[0m   ╰── 
+[38;5;246m─────╯[0m
+[39m
+  Plugin: [35mvite:oxc[39m
+  File: [36mE:/AI/Antigravity/SalaKhmer/src/lib/i18n.tsx[39m
+      at transformWithOxc (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:4090:19)
+      at TransformPluginContext.transform (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:4161:26)
+      at EnvironmentPluginContainer.transform (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:30796:51)
+      at async loadAndTransform (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:20594:26)
+[2m9:25:11 AM[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+
+[31m[PARSE_ERROR] [0mUnexpected token
+     [38;5;246m╭[0m[38;5;246m─[0m[38;5;246m[[0m src/lib/i18n.tsx:128:3 [38;5;246m][0m
+     [38;5;246m│[0m
+ [38;5;246m128 │[0m [38;5;249m [0m[38;5;249m [0m|[38;5;249m [0m[38;5;249m"[0m[38;5;249mq[0m[38;5;249mu[0m[38;5;249mi[0m[38;5;249mc[0m[38;5;249mk[0m[38;5;249mR[0m[38;5;249me[0m[38;5;249mc[0m[38;5;249ma[0m[38;5;249ml[0m[38;5;249ml[0m[38;5;249m"[0m
+ [38;5;240m    │[0m   ┬  
+ [38;5;240m    │[0m   ╰── 
+[38;5;246m─────╯[0m
+[39m
+  Plugin: [35mvite:oxc[39m
+  File: [36mE:/AI/Antigravity/SalaKhmer/src/lib/i18n.tsx[39m
+      at transformWithOxc (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:4090:19)
+      at TransformPluginContext.transform (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:4161:26)
+      at EnvironmentPluginContainer.transform (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:30796:51)
+      at async loadAndTransform (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:20594:26)
+[2m9:25:11 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/lib/i18n.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m9:25:11 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/lib/i18n.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m9:25:11 AM[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+
+[31m[PARSE_ERROR] [0mUnexpected token
+     [38;5;246m╭[0m[38;5;246m─[0m[38;5;246m[[0m src/lib/i18n.tsx:128:3 [38;5;246m][0m
+     [38;5;246m│[0m
+ [38;5;246m128 │[0m [38;5;249m [0m[38;5;249m [0m|[38;5;249m [0m[38;5;249m"[0m[38;5;249mq[0m[38;5;249mu[0m[38;5;249mi[0m[38;5;249mc[0m[38;5;249mk[0m[38;5;249mR[0m[38;5;249me[0m[38;5;249mc[0m[38;5;249ma[0m[38;5;249ml[0m[38;5;249ml[0m[38;5;249m"[0m
+ [38;5;240m    │[0m   ┬  
+ [38;5;240m    │[0m   ╰── 
+[38;5;246m─────╯[0m
+[39m
+  Plugin: [35mvite:oxc[39m
+  File: [36mE:/AI/Antigravity/SalaKhmer/src/lib/i18n.tsx[39m
+      at transformWithOxc (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:4090:19)
+      at TransformPluginContext.transform (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:4161:26)
+      at EnvironmentPluginContainer.transform (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:30796:51)
+      at async loadAndTransform (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:20594:26)
+      at async viteTransformMiddleware (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:25092:20)
+[2m9:25:11 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/lib/i18n.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m9:25:25 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/lib/i18n.tsx[22m
+[2m9:25:25 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/lib/i18n.tsx[22m
+[2m9:25:25 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/src/lib/i18n.tsx[22m Could not Fast Refresh ("LOCALES" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m9:25:25 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/__root.tsx, /src/routes/login.tsx?tsr-split=component, /src/routes/index.tsx?tsr-split=component, /src/components/LovableAppShell.tsx, /src/routes/lesson.$lessonId.tsx?tsr-split=component, /src/routes/category.$categoryId.tsx?tsr-split=component, /src/routes/learn.tsx?tsr-split=component, /src/routes/home.tsx?tsr-split=component, /src/routes/apply.tsx?tsr-split=component, /src/routes/profile.tsx?tsr-split=component, /src/routes/read-spell.$topicId.tsx?tsr-split=component and 1 more[22m
+[2m9:25:25 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/src/components/LovableAppShell.tsx[22m Could not Fast Refresh ("LOVABLE_MODULES" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m9:25:25 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/home.tsx?tsr-split=component, /src/routes/category.$categoryId.tsx?tsr-split=component, /src/routes/learn.tsx?tsr-split=component, /src/routes/read-spell.$topicId.tsx?tsr-split=component, /src/routes/profile.tsx?tsr-split=component, /src/routes/apply.tsx?tsr-split=component[22m
+[2m9:26:15 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/lib/i18n.tsx[22m
+[2m9:26:15 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/lib/i18n.tsx[22m
+[2m9:26:15 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/src/lib/i18n.tsx[22m Could not Fast Refresh ("LOCALES" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m9:26:15 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/__root.tsx, /src/routes/login.tsx?tsr-split=component, /src/routes/index.tsx?tsr-split=component, /src/components/LovableAppShell.tsx, /src/routes/lesson.$lessonId.tsx?tsr-split=component, /src/routes/category.$categoryId.tsx?tsr-split=component, /src/routes/learn.tsx?tsr-split=component, /src/routes/home.tsx?tsr-split=component, /src/routes/apply.tsx?tsr-split=component, /src/routes/profile.tsx?tsr-split=component, /src/routes/read-spell.$topicId.tsx?tsr-split=component and 1 more[22m
+[2m9:26:16 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/src/components/LovableAppShell.tsx[22m Could not Fast Refresh ("LOVABLE_MODULES" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m9:26:16 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/home.tsx?tsr-split=component, /src/routes/category.$categoryId.tsx?tsr-split=component, /src/routes/learn.tsx?tsr-split=component, /src/routes/read-spell.$topicId.tsx?tsr-split=component, /src/routes/profile.tsx?tsr-split=component, /src/routes/apply.tsx?tsr-split=component[22m
+[2m9:26:25 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mGoogle Khmer TTS was unavailable; using browser speech fallback. Error: Unable to play audio: https://translate.googleapis.com/translate_tts?ie=UTF-8&tl=km&client=gtx&q=%E1%9E%80
+    at audio.onerror (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:37:32)
+[2m9:26:26 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mGoogle Khmer TTS was unavailable; using browser speech fallback. Error: Unable to play audio: https://translate.googleapis.com/translate_tts?ie=UTF-8&tl=km&client=gtx&q=%E1%9E%81
+    at audio.onerror (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:37:32)
+[2m9:26:26 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mGoogle Khmer TTS was unavailable; using browser speech fallback. Error: Unable to play audio: https://translate.googleapis.com/translate_tts?ie=UTF-8&tl=km&client=gtx&q=%E1%9E%85
+    at audio.onerror (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:37:32)
+[2m9:26:31 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mGoogle Khmer TTS was unavailable; using browser speech fallback. Error: Unable to play audio: https://translate.googleapis.com/translate_tts?ie=UTF-8&tl=km&client=gtx&q=%E1%9E%86
+    at audio.onerror (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:37:32)
+[2m9:26:31 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mGoogle Khmer TTS was unavailable; using browser speech fallback. Error: Unable to play audio: https://translate.googleapis.com/translate_tts?ie=UTF-8&tl=km&client=gtx&q=%E1%9E%8A
+    at audio.onerror (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:37:32)
+[2m9:26:32 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mGoogle Khmer TTS was unavailable; using browser speech fallback. Error: Unable to play audio: https://translate.googleapis.com/translate_tts?ie=UTF-8&tl=km&client=gtx&q=%E1%9E%8B
+    at audio.onerror (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:37:32)
+[2m9:26:33 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mGoogle Khmer TTS was unavailable; using browser speech fallback. Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:8:23)
+    at http://localhost:8080/src/lib/audioService.ts?t=1786501404851:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:113:10)
+    at handlePlay (http://localhost:8080/src/routes/grid-lesson.$lessonId.tsx?tsr-split=component:90:8)
+    at onClick (http://localhost:8080/src/routes/grid-lesson.$lessonId.tsx?tsr-split=component:529:18)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+[2m9:26:34 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mGoogle Khmer TTS was unavailable; using browser speech fallback. Error: Unable to play audio: https://translate.googleapis.com/translate_tts?ie=UTF-8&tl=km&client=gtx&q=%E1%9E%8F
+    at audio.onerror (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:37:32)
+[2m9:27:12 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m9:27:12 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m9:27:12 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m9:27:12 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+SalaKhmer content validation issues [
+  {
+    lessonId: 'review-24',
+    activityIndex: 2,
+    message: 'Ordering items and answer must contain the same number of entries.'
+  },
+  {
+    lessonId: 'review-27',
+    activityIndex: 2,
+    message: 'Ordering items and answer must contain the same number of entries.'
+  }
+]
+[2m9:27:15 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSalaKhmer content validation issues [{"lessonId":"review-24","activityIndex":2,"message":"Ordering items and answer must contain the same number of entries."},{"lessonId":"review-27","activityIndex":2,"message":"Ordering items and answer must contain the same number of entries."}]
+[2m9:27:23 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mGoogle Khmer TTS was unavailable; using browser speech fallback. Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:8:23)
+    at http://localhost:8080/src/lib/audioService.ts?t=1786501404851:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:113:10)
+    at handlePlay (http://localhost:8080/src/routes/grid-lesson.$lessonId.tsx?t=1786501575607&tsr-split=component:90:8)
+    at onClick (http://localhost:8080/src/routes/grid-lesson.$lessonId.tsx?t=1786501575607&tsr-split=component:529:18)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+[2m9:27:24 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mGoogle Khmer TTS was unavailable; using browser speech fallback. Error: Unable to play audio: https://translate.googleapis.com/translate_tts?ie=UTF-8&tl=km&client=gtx&q=%E1%9E%81
+    at audio.onerror (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:37:32)
+[2m9:27:25 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mGoogle Khmer TTS was unavailable; using browser speech fallback. Error: Unable to play audio: https://translate.googleapis.com/translate_tts?ie=UTF-8&tl=km&client=gtx&q=%E1%9E%85
+    at audio.onerror (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:37:32)
+[2m9:27:27 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mGoogle Khmer TTS was unavailable; using browser speech fallback. Error: Unable to play audio: https://translate.googleapis.com/translate_tts?ie=UTF-8&tl=km&client=gtx&q=%E1%9E%8A
+    at audio.onerror (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:37:32)
+[2m9:27:35 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mGoogle Khmer TTS was unavailable; using browser speech fallback. Error: Unable to play audio: https://translate.googleapis.com/translate_tts?ie=UTF-8&tl=km&client=gtx&q=%E1%9E%9F
+    at audio.onerror (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:37:32)
+[2m9:27:46 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m9:27:46 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m9:27:46 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m9:27:46 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m9:28:03 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSalaKhmer content validation issues [{"lessonId":"review-24","activityIndex":2,"message":"Ordering items and answer must contain the same number of entries."},{"lessonId":"review-27","activityIndex":2,"message":"Ordering items and answer must contain the same number of entries."}]
+[2m9:28:24 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m9:28:24 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m9:28:24 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m9:28:24 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m9:28:28 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSalaKhmer content validation issues [{"lessonId":"review-24","activityIndex":2,"message":"Ordering items and answer must contain the same number of entries."},{"lessonId":"review-27","activityIndex":2,"message":"Ordering items and answer must contain the same number of entries."}]
+[2m9:28:53 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m9:28:53 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m9:28:53 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m9:28:53 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m9:30:25 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSalaKhmer content validation issues [{"lessonId":"review-24","activityIndex":2,"message":"Ordering items and answer must contain the same number of entries."},{"lessonId":"review-27","activityIndex":2,"message":"Ordering items and answer must contain the same number of entries."}]
+[2m9:30:32 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mGoogle Khmer TTS was unavailable; using browser speech fallback. Error: Unable to play audio: https://translate.googleapis.com/translate_tts?ie=UTF-8&tl=km&client=gtx&q=%E1%9E%81
+    at audio.onerror (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:37:32)
+[2m9:30:33 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mGoogle Khmer TTS was unavailable; using browser speech fallback. Error: Unable to play audio: https://translate.googleapis.com/translate_tts?ie=UTF-8&tl=km&client=gtx&q=%E1%9E%85
+    at audio.onerror (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:37:32)
+[2m9:32:05 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSalaKhmer content validation issues [{"lessonId":"review-24","activityIndex":2,"message":"Ordering items and answer must contain the same number of entries."},{"lessonId":"review-27","activityIndex":2,"message":"Ordering items and answer must contain the same number of entries."}]
+[2m9:32:16 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSalaKhmer content validation issues [{"lessonId":"review-24","activityIndex":2,"message":"Ordering items and answer must contain the same number of entries."},{"lessonId":"review-27","activityIndex":2,"message":"Ordering items and answer must contain the same number of entries."}]
+[2m9:34:54 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:8:23)
+    at http://localhost:8080/src/lib/audioService.ts?t=1786501404851:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:140:10)
+    at playWord (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786501575607&tsr-split=component:66:10)
+    at onClick (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786501575607&tsr-split=component:264:27)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+[2m9:34:54 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:8:23)
+    at http://localhost:8080/src/lib/audioService.ts?t=1786501404851:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:140:10)
+    at playWord (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786501575607&tsr-split=component:66:10)
+    at onClick (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786501575607&tsr-split=component:264:27)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+[2m9:35:02 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:8:23)
+    at http://localhost:8080/src/lib/audioService.ts?t=1786501404851:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:140:10)
+    at playWord (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786501575607&tsr-split=component:66:10)
+    at onClick (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786501575607&tsr-split=component:264:27)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+[2m9:35:03 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:8:23)
+    at http://localhost:8080/src/lib/audioService.ts?t=1786501404851:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:140:10)
+    at playWord (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786501575607&tsr-split=component:66:10)
+    at onClick (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786501575607&tsr-split=component:264:27)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+[2m9:35:03 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:8:23)
+    at http://localhost:8080/src/lib/audioService.ts?t=1786501404851:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:140:10)
+    at playWord (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786501575607&tsr-split=component:66:10)
+    at onClick (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786501575607&tsr-split=component:264:27)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+[2m9:35:07 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSalaKhmer content validation issues [{"lessonId":"review-24","activityIndex":2,"message":"Ordering items and answer must contain the same number of entries."},{"lessonId":"review-27","activityIndex":2,"message":"Ordering items and answer must contain the same number of entries."}]
+[2m9:35:18 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:8:23)
+    at http://localhost:8080/src/lib/audioService.ts?t=1786501404851:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:140:10)
+    at playWord (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786501575607&tsr-split=component:66:10)
+    at onClick (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786501575607&tsr-split=component:264:27)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+[2m9:35:19 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:8:23)
+    at http://localhost:8080/src/lib/audioService.ts?t=1786501404851:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:140:10)
+    at playWord (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786501575607&tsr-split=component:66:10)
+    at onClick (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786501575607&tsr-split=component:264:27)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+[2m9:35:19 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:8:23)
+    at http://localhost:8080/src/lib/audioService.ts?t=1786501404851:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:140:10)
+    at playWord (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786501575607&tsr-split=component:66:10)
+    at onClick (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786501575607&tsr-split=component:264:27)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+[2m9:35:19 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:8:23)
+    at http://localhost:8080/src/lib/audioService.ts?t=1786501404851:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:140:10)
+    at playWord (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786501575607&tsr-split=component:66:10)
+    at onClick (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786501575607&tsr-split=component:264:27)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+[2m9:35:19 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:8:23)
+    at http://localhost:8080/src/lib/audioService.ts?t=1786501404851:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:140:10)
+    at playWord (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786501575607&tsr-split=component:66:10)
+    at onClick (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786501575607&tsr-split=component:264:27)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+[2m9:35:21 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:8:23)
+    at http://localhost:8080/src/lib/audioService.ts?t=1786501404851:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:140:10)
+    at playWord (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786501575607&tsr-split=component:66:10)
+    at onClick (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786501575607&tsr-split=component:264:27)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+[2m9:35:21 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:8:23)
+    at http://localhost:8080/src/lib/audioService.ts?t=1786501404851:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:140:10)
+    at playWord (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786501575607&tsr-split=component:66:10)
+    at onClick (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786501575607&tsr-split=component:264:27)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+[2m9:36:16 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:8:23)
+    at http://localhost:8080/src/lib/audioService.ts?t=1786501404851:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:140:10)
+    at playWord (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786501575607&tsr-split=component:66:10)
+    at onClick (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786501575607&tsr-split=component:264:27)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+[2m9:36:17 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:8:23)
+    at http://localhost:8080/src/lib/audioService.ts?t=1786501404851:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:140:10)
+    at playWord (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786501575607&tsr-split=component:66:10)
+    at onClick (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786501575607&tsr-split=component:264:27)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+[2m9:36:18 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:8:23)
+    at http://localhost:8080/src/lib/audioService.ts?t=1786501404851:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:140:10)
+    at playWord (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786501575607&tsr-split=component:66:10)
+    at onClick (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786501575607&tsr-split=component:264:27)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+[2m9:36:19 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:8:23)
+    at http://localhost:8080/src/lib/audioService.ts?t=1786501404851:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:140:10)
+    at playWord (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786501575607&tsr-split=component:66:10)
+    at onClick (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786501575607&tsr-split=component:264:27)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+[2m9:36:24 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:8:23)
+    at http://localhost:8080/src/lib/audioService.ts?t=1786501404851:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:140:10)
+    at playWord (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786501575607&tsr-split=component:66:10)
+    at onClick (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786501575607&tsr-split=component:264:27)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+[2m9:36:49 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mImported Azure dialogue audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:8:23)
+    at http://localhost:8080/src/lib/audioService.ts?t=1786501404851:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:130:10)
+    at playAll (http://localhost:8080/src/components/ConversationTranscriptLesson.tsx?t=1786501404851:52:11)
+    at onClick (http://localhost:8080/src/components/ConversationTranscriptLesson.tsx?t=1786501404851:242:30)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+[2m9:36:53 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mImported Azure dialogue audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786501404851:8:23)
+    at onClick (http://localhost:8080/src/components/ConversationTranscriptLesson.tsx?t=1786501404851:86:10)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+    at http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9452:5
+    at batchedUpdates$1 (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:2042:12)
+    at dispatchEventForPluginEventSystem (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9238:4)
+    at dispatchEvent (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:11317:29)
+    at dispatchDiscreteEvent (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:11299:56)
+[2m9:41:13 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/category.$categoryId.tsx, /src/routes/category.$categoryId.tsx?tsr-split=component[22m
+[2m9:41:13 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/category.$categoryId.tsx[22m
+[2m9:41:13 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m program reload
+[2m9:41:17 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/grid-lesson.$lessonId.tsx, /src/routes/grid-lesson.$lessonId.tsx?tsr-split=component[22m
+[2m9:41:17 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/grid-lesson.$lessonId.tsx[22m
+[2m9:42:03 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/SpellingBreakdown.tsx, /src/routes/grid-lesson.$lessonId.tsx?tsr-split=component, /src/routes/read-spell.$topicId.tsx?tsr-split=component, /src/routes/lesson.$lessonId.tsx?tsr-split=component, /src/components/ConversationTranscriptLesson.tsx, /src/routes/apply.tsx?tsr-split=component, /src/routes/practice.tsx?tsr-split=component[22m
+[2m9:42:03 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/lib/audioService.ts[22m
+[2m9:43:11 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mImported Azure dialogue audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:8:23)
+    at http://localhost:8080/src/lib/audioService.ts?t=1786502523443:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:138:10)
+    at playLine (http://localhost:8080/src/components/ConversationTranscriptLesson.tsx?t=1786502523443:35:10)
+    at onPlay (http://localhost:8080/src/components/ConversationTranscriptLesson.tsx?t=1786502523443:193:28)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+[2m9:43:13 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mImported Azure dialogue audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:8:23)
+    at onClick (http://localhost:8080/src/components/ConversationTranscriptLesson.tsx?t=1786502523443:86:10)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+    at http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9452:5
+    at batchedUpdates$1 (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:2042:12)
+    at dispatchEventForPluginEventSystem (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9238:4)
+    at dispatchEvent (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:11317:29)
+    at dispatchDiscreteEvent (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:11299:56)
+SalaKhmer content validation issues [
+  {
+    lessonId: 'review-24',
+    activityIndex: 2,
+    message: 'Ordering items and answer must contain the same number of entries.'
+  },
+  {
+    lessonId: 'review-27',
+    activityIndex: 2,
+    message: 'Ordering items and answer must contain the same number of entries.'
+  }
+]
+[2m9:43:18 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSalaKhmer content validation issues [{"lessonId":"review-24","activityIndex":2,"message":"Ordering items and answer must contain the same number of entries."},{"lessonId":"review-27","activityIndex":2,"message":"Ordering items and answer must contain the same number of entries."}]
+[2m9:44:31 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSalaKhmer content validation issues [{"lessonId":"review-24","activityIndex":2,"message":"Ordering items and answer must contain the same number of entries."},{"lessonId":"review-27","activityIndex":2,"message":"Ordering items and answer must contain the same number of entries."}]
+[2m9:45:02 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSalaKhmer content validation issues [{"lessonId":"review-24","activityIndex":2,"message":"Ordering items and answer must contain the same number of entries."},{"lessonId":"review-27","activityIndex":2,"message":"Ordering items and answer must contain the same number of entries."}]
+[2m9:45:25 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/category.$categoryId.tsx, /src/routes/category.$categoryId.tsx?tsr-split=component[22m
+[2m9:45:25 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/category.$categoryId.tsx[22m
+[2m9:45:25 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m program reload
+[2m9:45:41 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/category.$categoryId.tsx, /src/routes/category.$categoryId.tsx?tsr-split=component[22m
+[2m9:45:41 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/category.$categoryId.tsx[22m
+SalaKhmer content validation issues [
+  {
+    lessonId: 'review-24',
+    activityIndex: 2,
+    message: 'Ordering items and answer must contain the same number of entries.'
+  },
+  {
+    lessonId: 'review-27',
+    activityIndex: 2,
+    message: 'Ordering items and answer must contain the same number of entries.'
+  }
+]
+[2m9:46:13 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSalaKhmer content validation issues [{"lessonId":"review-24","activityIndex":2,"message":"Ordering items and answer must contain the same number of entries."},{"lessonId":"review-27","activityIndex":2,"message":"Ordering items and answer must contain the same number of entries."}]
+[2m9:46:17 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mLocal Google Khmer TTS is unavailable; trying direct Google TTS. Error: Unable to play audio: /audio/google-alphabet-v1/c-ka.mp3
+    at audio.onerror (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:37:32)
+[2m9:46:19 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mLocal Google Khmer TTS is unavailable; trying direct Google TTS. Error: Unable to play audio: /audio/google-alphabet-v1/c-kha.mp3
+    at audio.onerror (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:37:32)
+[2m9:46:20 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mLocal Google Khmer TTS is unavailable; trying direct Google TTS. Error: Unable to play audio: /audio/google-alphabet-v1/c-cha.mp3
+    at audio.onerror (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:37:32)
+[2m9:46:55 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m9:46:55 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m9:46:55 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m9:46:55 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m9:48:21 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:8:23)
+    at http://localhost:8080/src/lib/audioService.ts?t=1786502523443:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:148:10)
+    at playWord (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786502523443&tsr-split=component:66:10)
+    at onClick (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786502523443&tsr-split=component:264:27)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+[2m9:48:21 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:8:23)
+    at http://localhost:8080/src/lib/audioService.ts?t=1786502523443:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:148:10)
+    at playWord (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786502523443&tsr-split=component:66:10)
+    at onClick (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786502523443&tsr-split=component:264:27)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+[2m9:48:36 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m9:48:36 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m9:48:36 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m9:48:36 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m9:49:14 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m9:49:14 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m9:49:14 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m9:49:14 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m9:50:54 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSalaKhmer content validation issues [{"lessonId":"review-24","activityIndex":2,"message":"Ordering items and answer must contain the same number of entries."},{"lessonId":"review-27","activityIndex":2,"message":"Ordering items and answer must contain the same number of entries."}]
+[2m9:51:05 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mLocal Google Khmer TTS is unavailable; trying direct Google TTS. Error: Unable to play audio: /audio/google-alphabet-v1/c-ka.mp3
+    at audio.onerror (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:37:32)
+[2m9:51:06 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mLocal Google Khmer TTS is unavailable; trying direct Google TTS. Error: Unable to play audio: /audio/google-alphabet-v1/c-kha.mp3
+    at audio.onerror (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:37:32)
+[2m9:51:07 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mLocal Google Khmer TTS is unavailable; trying direct Google TTS. Error: Unable to play audio: /audio/google-alphabet-v1/c-cha.mp3
+    at audio.onerror (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:37:32)
+[2m9:51:54 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mLocal Google Khmer TTS is unavailable; trying direct Google TTS. Error: Unable to play audio: /audio/google-alphabet-v1/c-da.mp3
+    at audio.onerror (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:37:32)
+[2m9:51:58 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mLocal Google Khmer TTS is unavailable; trying direct Google TTS. Error: Unable to play audio: /audio/google-alphabet-v1/c-pha.mp3
+    at audio.onerror (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:37:32)
+[2m9:51:59 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mLocal Google Khmer TTS is unavailable; trying direct Google TTS. Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:8:23)
+    at http://localhost:8080/src/lib/audioService.ts?t=1786502523443:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:121:11)
+[2m9:51:59 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mLocal Google Khmer TTS is unavailable; trying direct Google TTS. Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:8:23)
+    at http://localhost:8080/src/lib/audioService.ts?t=1786502523443:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:126:12)
+[2m9:52:14 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mLocal Google Khmer TTS is unavailable; trying direct Google TTS. Error: Unable to play audio: /audio/google-alphabet-v1/c-cha.mp3
+    at audio.onerror (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:37:32)
+[2m9:52:14 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mLocal Google Khmer TTS is unavailable; trying direct Google TTS. Error: Unable to play audio: /audio/google-alphabet-v1/c-ka.mp3
+    at audio.onerror (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:37:32)
+[2m9:52:15 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mLocal Google Khmer TTS is unavailable; trying direct Google TTS. Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:8:23)
+    at http://localhost:8080/src/lib/audioService.ts?t=1786502523443:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:121:11)
+[2m9:52:15 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mLocal Google Khmer TTS is unavailable; trying direct Google TTS. Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:8:23)
+    at http://localhost:8080/src/lib/audioService.ts?t=1786502523443:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:126:12)
+[2m9:53:12 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/category.$categoryId.tsx, /src/routes/category.$categoryId.tsx?tsr-split=component[22m
+[2m9:53:12 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/category.$categoryId.tsx[22m
+[2m9:53:12 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m program reload
+[2m9:53:29 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m9:53:29 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m9:53:29 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m9:53:29 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m9:54:10 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m9:54:10 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m9:54:10 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m9:54:10 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+SalaKhmer content validation issues [
+  {
+    lessonId: 'review-24',
+    activityIndex: 2,
+    message: 'Ordering items and answer must contain the same number of entries.'
+  },
+  {
+    lessonId: 'review-27',
+    activityIndex: 2,
+    message: 'Ordering items and answer must contain the same number of entries.'
+  }
+]
+[2m9:56:46 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/grid-lesson.$lessonId.tsx, /src/routes/grid-lesson.$lessonId.tsx?tsr-split=component[22m
+[2m9:56:46 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/grid-lesson.$lessonId.tsx[22m
+[2m9:56:46 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m program reload
+[2m9:57:03 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m9:57:03 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m9:57:03 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m9:57:03 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m9:57:32 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m9:57:32 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m9:57:32 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m9:57:32 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m9:58:10 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:8:23)
+    at http://localhost:8080/src/lib/audioService.ts?t=1786502523443:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:148:10)
+    at playWord (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786502523443&tsr-split=component:66:10)
+    at onClick (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786502523443&tsr-split=component:264:27)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+[2m9:58:11 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:8:23)
+    at http://localhost:8080/src/lib/audioService.ts?t=1786502523443:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:148:10)
+    at playWord (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786502523443&tsr-split=component:66:10)
+    at onClick (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786502523443&tsr-split=component:264:27)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+[2m9:58:11 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:8:23)
+    at http://localhost:8080/src/lib/audioService.ts?t=1786502523443:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:148:10)
+    at playWord (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786502523443&tsr-split=component:66:10)
+    at onClick (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786502523443&tsr-split=component:264:27)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+SalaKhmer content validation issues [
+  {
+    lessonId: 'review-24',
+    activityIndex: 2,
+    message: 'Ordering items and answer must contain the same number of entries.'
+  },
+  {
+    lessonId: 'review-27',
+    activityIndex: 2,
+    message: 'Ordering items and answer must contain the same number of entries.'
+  }
+]
+[2m9:59:24 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mSalaKhmer content validation issues [{"lessonId":"review-24","activityIndex":2,"message":"Ordering items and answer must contain the same number of entries."},{"lessonId":"review-27","activityIndex":2,"message":"Ordering items and answer must contain the same number of entries."}]
+[2m9:59:28 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:8:23)
+    at http://localhost:8080/src/lib/audioService.ts?t=1786502523443:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:148:10)
+    at playWord (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786502523443&tsr-split=component:66:10)
+    at onClick (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786502523443&tsr-split=component:264:27)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+[2m9:59:28 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:8:23)
+    at http://localhost:8080/src/lib/audioService.ts?t=1786502523443:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:148:10)
+    at playWord (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786502523443&tsr-split=component:66:10)
+    at onClick (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786502523443&tsr-split=component:264:27)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+[2m9:59:28 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:8:23)
+    at http://localhost:8080/src/lib/audioService.ts?t=1786502523443:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:148:10)
+    at playWord (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786502523443&tsr-split=component:66:10)
+    at onClick (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786502523443&tsr-split=component:264:27)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+[2m9:59:29 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:8:23)
+    at http://localhost:8080/src/lib/audioService.ts?t=1786502523443:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:148:10)
+    at playWord (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786502523443&tsr-split=component:66:10)
+    at onClick (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786502523443&tsr-split=component:264:27)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+[2m9:59:29 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:8:23)
+    at http://localhost:8080/src/lib/audioService.ts?t=1786502523443:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:148:10)
+    at playWord (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786502523443&tsr-split=component:66:10)
+    at onClick (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786502523443&tsr-split=component:264:27)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+[2m9:59:29 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:8:23)
+    at http://localhost:8080/src/lib/audioService.ts?t=1786502523443:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:17:9)
+    at playKhmerAudio (http://localhost:8080/src/lib/audioService.ts?t=1786502523443:148:10)
+    at playWord (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786502523443&tsr-split=component:66:10)
+    at onClick (http://localhost:8080/src/routes/read-spell.$topicId.tsx?t=1786502523443&tsr-split=component:264:27)
+    at executeDispatch (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9139:5)
+    at runWithFiberInDEV (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:850:66)
+    at processDispatchQueue (http://localhost:8080/node_modules/.vite/deps/react-dom_client.js?v=88f03216:9165:27)
+[2m9:59:53 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/SpellingBreakdown.tsx, /src/routes/grid-lesson.$lessonId.tsx?tsr-split=component, /src/routes/read-spell.$topicId.tsx?tsr-split=component, /src/routes/lesson.$lessonId.tsx?tsr-split=component, /src/components/ConversationTranscriptLesson.tsx, /src/routes/apply.tsx?tsr-split=component, /src/routes/practice.tsx?tsr-split=component[22m
+[2m9:59:53 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/lib/audioService.ts[22m
+[2m9:59:53 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m program reload
+SalaKhmer content validation issues [
+  {
+    lessonId: 'review-24',
+    activityIndex: 2,
+    message: 'Ordering items and answer must contain the same number of entries.'
+  },
+  {
+    lessonId: 'review-27',
+    activityIndex: 2,
+    message: 'Ordering items and answer must contain the same number of entries.'
+  }
+]

@@ -1,0 +1,67 @@
+SALA KHMER — APPROVED SCRIPT BASICS KNOWLEDGE BASE
+Version: 1. This is the only approved source for Script Basics answers.
+
+Global rules
+- Khmer has no category called “independent consonants”.
+- The SalaKhmer Reading Bridge is a beginner reading shortcut; it is not an exact Khmer spelling system.
+- Do not invent a character, pronunciation, series, or category that is absent from this file.
+
+LEVEL 1 — A-SERIES CONSONANTS (15)
+ក K-aw; ខ K-aw (aspirated); ច Ch-aw; ឆ Ch-aw (aspirated); ដ D-aw; ឋ T-aw; ណ N-aw; ត T-aw; ថ T-aw (aspirated); ប B-aw; ផ P-aw (aspirated, P not F); ស S-aw; ហ H-aw; ឡ L-aw; អ Aw (vowel carrier).
+For this level, the learner cue ends in “aw”, like “law”.
+
+LEVEL 2 — O-SERIES CONSONANTS (18)
+គ K-o; ឃ K-o (aspirated); ង Ng-o; ជ Ch-o; ឈ Ch-o (aspirated); ញ Ny-o; ឌ D-o; ឍ T-o; ទ T-o; ធ T-o (aspirated); ន N-o; ព P-o; ភ P-o (aspirated, P not F); ម M-o; យ Y-o; រ R-o; ល L-o; វ V-o.
+For this level, the learner cue ends in “o”, like “go”.
+
+LEVEL 3 — SUB-CONSONANTS (COENG)
+Sub-consonants are smaller forms used below a main consonant in Khmer word building. They begin with the coeng sign ្.
+Approved forms: ្ក ្ខ ្គ ្ឃ ្ង ្ច ្ឆ ្ជ ្ឈ ្ញ ្ដ ្ឋ ្ឌ ្ឍ ្ណ ្ត ្ថ ្ទ ្ធ ្ន ្ប ្ផ ្ព ្ភ ្ម ្យ ្រ ្ល ្វ ្ស ្ហ ្អ.
+
+LEVEL 4 — DEPENDENT VOWELS
+Dependent vowels do not stand alone in ordinary Khmer spelling; their classroom sound differs with A-series and O-series contexts.
+ា: A=ah, O=ear
+ិ: A=ih, O=ee
+ី: A=ee, O=ee
+ឹ: A=ue, O=ue
+ឺ: A=uee, O=uee
+ុ: A=u, O=oo
+ូ: A=oo, O=oo
+ួ: A=uor, O=uor
+ើ: A=eur, O=eur
+ឿ: A=uer, O=uer
+ៀ: A=ier, O=ier
+េ: A=ay, O=ay
+ែ: A=ae, O=ae
+ៃ: A=ay, O=ey
+ោ: A=ao, O=ow
+ៅ: A=au, O=ov
+ុំ: A=um, O=um
+ំ: A=om, O=um
+ាំ: A=am, O=oam
+ះ: A=ah, O=eah
+ុះ: A=uh, O=ush
+េះ: A=eh, O=ih
+ែះ: A=eh, O=eh
+ោះ: A=oh, O=uoh
+
+LEVEL 5 — INDEPENDENT VOWELS (15)
+ឥ: I / Ih — like “i” in “it”.
+ឦ: Ee — like “ee” in “see”.
+ឧ: U — like “u” in “put”.
+ឨ: Uu — like “oo” in “boot”.
+ឩ: Oo — like “oo” in “cool”.
+ឪ: Ov / Au — like “oh” blending into “v”, or “ow”.
+ឫ: Rue — like “rue” with a rolled R.
+ឬ: Ruee — long “rue”, heavily rolled R.
+ឭ: Lue — like “loo”.
+ឮ: Luee — long “loo”.
+ឯ: Eh / Ae — like “ai” in “air”.
+ឰ: Ai — like “i” in “hi”.
+ឱ: O — like “o” in “so”.
+ឲ: Aoy / Ao — like “oy” in “boy”.
+ឳ: Au — like “ow” in “cow”.
+
+LEVEL 6 — KHMER NUMERALS
+០ Soun (0); ១ Moi (1); ២ Pi (2); ៣ Bei (3); ៤ Buon (4); ៥ Pram (5); ៦ Pram Moi (6); ៧ Pram Pi (7); ៨ Pram Bei (8); ៩ Pram Buon (9).
+Approved larger examples: ១០០ Moi Roy (100); ១០០០ Moi Poan (1000); ១០០០០ Moi Meun (10000); ១០០០០០០ Moi Lean (1000000); ១០០០០០០០០០ Moi Koat (1000000000).

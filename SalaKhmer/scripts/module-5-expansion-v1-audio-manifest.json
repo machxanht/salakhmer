@@ -1,0 +1,199 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-08-12T10:55:45.263Z",
+  "moduleId": "module_5",
+  "inputs": [
+    "src/lib/module-content-expansion.ts"
+  ],
+  "sourceSelection": {
+    "variableName": "reviewSeeds",
+    "tupleIndex": 1
+  },
+  "generationRule": "Review Khmer text first. Generate only items marked approved-for-azure. Complete Khmer words and sentences only; no isolated alphabet characters or vowel signs.",
+  "outputPrefix": "audio/module-expansion-v1/module_5/",
+  "totalDiscoveredStrings": 15,
+  "uniqueSynthesizableItems": 15,
+  "estimatedAzureCharacters": 300,
+  "items": [
+    {
+      "id": "module-5-expansion-v1-12b8a4b7d855fd0c",
+      "moduleId": "module_5",
+      "khmer": "ខ្ញុំចង់ផ្ញើកញ្ចប់នេះ។",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_5/module-5-expansion-v1-12b8a4b7d855fd0c.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/module-content-expansion.ts:521"
+      ]
+    },
+    {
+      "id": "module-5-expansion-v1-1988dba7140f79c5",
+      "moduleId": "module_5",
+      "khmer": "ខ្ញុំរកទូរស័ព្ទមិនឃើញទេ។",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_5/module-5-expansion-v1-1988dba7140f79c5.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/module-content-expansion.ts:518"
+      ]
+    },
+    {
+      "id": "module-5-expansion-v1-1c60bf303b391c5f",
+      "moduleId": "module_5",
+      "khmer": "ម៉ាស៊ីនត្រជាក់មិនដំណើរការ។",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_5/module-5-expansion-v1-1c60bf303b391c5f.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/module-content-expansion.ts:509"
+      ]
+    },
+    {
+      "id": "module-5-expansion-v1-3a5034ec5cd0a127",
+      "moduleId": "module_5",
+      "khmer": "យើងជួបគ្នាម៉ោងប្រាំពីរ។",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_5/module-5-expansion-v1-3a5034ec5cd0a127.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/module-content-expansion.ts:517"
+      ]
+    },
+    {
+      "id": "module-5-expansion-v1-3ef670f45baf08fc",
+      "moduleId": "module_5",
+      "khmer": "តើឡានចេញម៉ោងប៉ុន្មាន?",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_5/module-5-expansion-v1-3ef670f45baf08fc.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/module-content-expansion.ts:508"
+      ]
+    },
+    {
+      "id": "module-5-expansion-v1-41f3946a2d138178",
+      "moduleId": "module_5",
+      "khmer": "កុំប្រើភ្លើងហ្វ្លាស។",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_5/module-5-expansion-v1-41f3946a2d138178.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/module-content-expansion.ts:522"
+      ]
+    },
+    {
+      "id": "module-5-expansion-v1-4807b16f8da9a8c8",
+      "moduleId": "module_5",
+      "khmer": "សូមហៅឡានពេទ្យ។",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_5/module-5-expansion-v1-4807b16f8da9a8c8.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/module-content-expansion.ts:519"
+      ]
+    },
+    {
+      "id": "module-5-expansion-v1-6d3ec76adc4477d5",
+      "moduleId": "module_5",
+      "khmer": "សូមនិយាយយឺតជាងនេះ។",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_5/module-5-expansion-v1-6d3ec76adc4477d5.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/module-content-expansion.ts:515"
+      ]
+    },
+    {
+      "id": "module-5-expansion-v1-6f84853a29a1465c",
+      "moduleId": "module_5",
+      "khmer": "សូមធ្វើឲ្យរួចមុនថ្ងៃសុក្រ។",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_5/module-5-expansion-v1-6f84853a29a1465c.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/module-content-expansion.ts:516"
+      ]
+    },
+    {
+      "id": "module-5-expansion-v1-7df4169a923ca786",
+      "moduleId": "module_5",
+      "khmer": "ខ្ញុំឈឺក្បាល។",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_5/module-5-expansion-v1-7df4169a923ca786.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/module-content-expansion.ts:510"
+      ]
+    },
+    {
+      "id": "module-5-expansion-v1-915d1714dc512fbb",
+      "moduleId": "module_5",
+      "khmer": "សូមយកកង់មកវិញមុនម៉ោងប្រាំមួយ។",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_5/module-5-expansion-v1-915d1714dc512fbb.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/module-content-expansion.ts:520"
+      ]
+    },
+    {
+      "id": "module-5-expansion-v1-97d3c6cee9e6afbd",
+      "moduleId": "module_5",
+      "khmer": "ខ្ញុំមានអាឡែស៊ីសណ្តែកដី។",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_5/module-5-expansion-v1-97d3c6cee9e6afbd.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/module-content-expansion.ts:513"
+      ]
+    },
+    {
+      "id": "module-5-expansion-v1-a010243cd78d32bd",
+      "moduleId": "module_5",
+      "khmer": "កុំដាក់ស្ករ។",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_5/module-5-expansion-v1-a010243cd78d32bd.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/module-content-expansion.ts:512"
+      ]
+    },
+    {
+      "id": "module-5-expansion-v1-ee42c70d52763269",
+      "moduleId": "module_5",
+      "khmer": "ខ្ញុំនឹងយកឆ័ត្រ។",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_5/module-5-expansion-v1-ee42c70d52763269.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/module-content-expansion.ts:514"
+      ]
+    },
+    {
+      "id": "module-5-expansion-v1-f0ddd152082cf6ea",
+      "moduleId": "module_5",
+      "khmer": "ធនាគារនៅឯណា?",
+      "voice": "km-KH-SreymomNeural",
+      "outputKey": "module-expansion-v1/module_5/module-5-expansion-v1-f0ddd152082cf6ea.mp3",
+      "reviewStatus": "approved-for-azure",
+      "audioStatus": "not-generated",
+      "sources": [
+        "src/lib/module-content-expansion.ts:511"
+      ]
+    }
+  ]
+}

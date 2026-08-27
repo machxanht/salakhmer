@@ -1,0 +1,1026 @@
+{
+  "version": 1,
+  "records": [
+    {
+      "id": "dSIXmCc1D0o",
+      "label": "រឹ",
+      "group": "independent-vowel",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        1,
+        11,
+        25,
+        34,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "v7tJlEQrzP8",
+      "label": "រឺ",
+      "group": "independent-vowel",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        12,
+        31,
+        33
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "-Fmk4_N9FwA",
+      "label": "លឹ",
+      "group": "independent-vowel",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        1,
+        10,
+        23,
+        32,
+        34
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "tG7An22CNpo",
+      "label": "លឺ",
+      "group": "independent-vowel",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        8,
+        22,
+        31,
+        33
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "WiGx-3jtszI",
+      "label": "អិ",
+      "group": "independent-vowel",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        2,
+        15,
+        26,
+        34,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "h5z0dMnwmTE",
+      "label": "អី",
+      "group": "independent-vowel",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        12,
+        25,
+        33,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "UySiRlCscM4",
+      "label": "អុ, អ៊ុ",
+      "group": "independent-vowel",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        7,
+        20,
+        34,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "vLQ8CIxJmsA",
+      "label": "អូ, អ៊ូ",
+      "group": "independent-vowel",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        4,
+        16,
+        33,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "x9WCQe60Y6E",
+      "label": "អូវ",
+      "group": "independent-vowel",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        7,
+        21,
+        33,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "sNpvR0Uuc5s",
+      "label": "អែ",
+      "group": "independent-vowel",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        9,
+        19,
+        30,
+        32
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "AjiXyD-V3c8",
+      "label": "អៃ",
+      "group": "independent-vowel",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        2,
+        15,
+        23,
+        31,
+        33
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "2JduamasQOY",
+      "label": "អោ",
+      "group": "independent-vowel",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        8,
+        20,
+        31,
+        33
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "00j7IjzStlw",
+      "label": "អៅ",
+      "group": "independent-vowel",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        3,
+        16,
+        30,
+        32
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "YY_diXbrD_Q",
+      "label": "អា",
+      "group": "dependent-vowel",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        15,
+        20,
+        25,
+        27
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "48zP9ZPuIwo",
+      "label": "អិ",
+      "group": "dependent-vowel",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        13,
+        19,
+        24,
+        27
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "QDNdmbV9L5k",
+      "label": "អី",
+      "group": "dependent-vowel",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        3,
+        7,
+        12,
+        28,
+        29
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "wuFXule1s5I",
+      "label": "អឹ",
+      "group": "dependent-vowel",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        2,
+        8,
+        15,
+        29,
+        31
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "o5I3tlfu4oU",
+      "label": "អឺ",
+      "group": "dependent-vowel",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        3,
+        9,
+        32,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "YfF9qXohAys",
+      "label": "អុ",
+      "group": "dependent-vowel",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        2,
+        14,
+        18,
+        21,
+        25,
+        26
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "MRNfNt5YbG8",
+      "label": "អូ",
+      "group": "dependent-vowel",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        3,
+        17,
+        28,
+        32,
+        33
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "vpWIGNxIvWM",
+      "label": "អួ",
+      "group": "dependent-vowel",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        2,
+        6,
+        12,
+        25,
+        31,
+        32
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "hWkNepbjrgw",
+      "label": "អើ",
+      "group": "dependent-vowel",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        11,
+        22,
+        34,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "ZW0OuwwmxbA",
+      "label": "អឿ",
+      "group": "dependent-vowel",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        1,
+        4,
+        12,
+        21,
+        34,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "jebHyNnfHhk",
+      "label": "អៀ",
+      "group": "dependent-vowel",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        14,
+        22,
+        34,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "k-RWuUUSTGo",
+      "label": "អេ",
+      "group": "dependent-vowel",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        8,
+        22,
+        29,
+        31
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "RodoZdbds70",
+      "label": "អែ",
+      "group": "dependent-vowel",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        9,
+        22,
+        33,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "7A80F78YFMk",
+      "label": "អៃ",
+      "group": "dependent-vowel",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        10,
+        20,
+        33,
+        34
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "_vQ4Pwrah4s",
+      "label": "អោ",
+      "group": "dependent-vowel",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        11,
+        27,
+        34,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "un3VeIKi194",
+      "label": "អៅ",
+      "group": "dependent-vowel",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        10,
+        21,
+        34,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "bNonPYLVcfA",
+      "label": "អុំ",
+      "group": "dependent-vowel",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        1,
+        13,
+        24,
+        29,
+        33,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "VOBsaNKvoA4",
+      "label": "អំ",
+      "group": "dependent-vowel",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        30,
+        2
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "wyQn8iitRVw",
+      "label": "អាំ",
+      "group": "dependent-vowel",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        7,
+        15,
+        26,
+        29,
+        30
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "CXe3HLcz_P4",
+      "label": "អះ",
+      "group": "dependent-vowel",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        1,
+        7,
+        12,
+        15
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "S_HRTB1j-qw",
+      "label": "អុះ",
+      "group": "dependent-vowel",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        11,
+        15,
+        27,
+        31,
+        33
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "--Xi1uHtwcY",
+      "label": "អេះ",
+      "group": "dependent-vowel",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        5,
+        17,
+        28,
+        32,
+        33
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "gyCGzcJxIBM",
+      "label": "អោះ",
+      "group": "dependent-vowel",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        4,
+        13,
+        22,
+        32,
+        33
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "JwJ0GUS1GRM",
+      "label": "អៈ",
+      "group": "dependent-vowel",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        8,
+        23,
+        33,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "yvZfoJyc6Lw",
+      "label": "អា",
+      "group": "dependent-vowel",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        1,
+        13,
+        24,
+        34,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "TmlN73zSQ8I",
+      "label": "ក",
+      "group": "consonant",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        2,
+        14,
+        23,
+        34,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "M9SXYmwMBnA",
+      "label": "ខ",
+      "group": "consonant",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        2,
+        9,
+        24,
+        30,
+        32
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "leHEF9DW39M",
+      "label": "គ",
+      "group": "consonant",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        16,
+        24,
+        34,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "XhQ49geiDac",
+      "label": "ឃ",
+      "group": "consonant",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        10,
+        24,
+        34,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "7yutJvZP_qE",
+      "label": "ង",
+      "group": "consonant",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        3,
+        16,
+        24,
+        34,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "gEYW6mF0GL8",
+      "label": "ច",
+      "group": "consonant",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        5,
+        16,
+        25,
+        34,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "QwQGvY-zPxc",
+      "label": "ឆ",
+      "group": "consonant",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        1,
+        15,
+        25,
+        34,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "gO0A3ZM4mAg",
+      "label": "ជ",
+      "group": "consonant",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        3,
+        16,
+        24,
+        34,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "gUG9hyLvyiE",
+      "label": "ឈ",
+      "group": "consonant",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        10,
+        22,
+        34,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "Ybi4fqNkxuA",
+      "label": "ញ",
+      "group": "consonant",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        13,
+        25,
+        34,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "o6GqExbA9l8",
+      "label": "ដ",
+      "group": "consonant",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        3,
+        16,
+        26,
+        33,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "Yc_9hvMC-YE",
+      "label": "ឋ",
+      "group": "consonant",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        4,
+        20,
+        34,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "y6b0sFaS_do",
+      "label": "ឌ",
+      "group": "consonant",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        7,
+        14,
+        23,
+        34,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "aK4pQvT-ojM",
+      "label": "ឍ",
+      "group": "consonant",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        10,
+        22,
+        34,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "j5rCUd5KMGE",
+      "label": "ណ",
+      "group": "consonant",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        11,
+        25,
+        34,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "KkS-vUOOklE",
+      "label": "ត",
+      "group": "consonant",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        1,
+        13,
+        24,
+        34,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "VjG8fm3olTo",
+      "label": "ថ",
+      "group": "consonant",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        4,
+        15,
+        25,
+        33,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "dWLq-0CpfoE",
+      "label": "ទ",
+      "group": "consonant",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        16,
+        27,
+        29,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "Jqk9KhAZ-sk",
+      "label": "ធ",
+      "group": "consonant",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        4,
+        16,
+        24,
+        34,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "W-uArp1Shng",
+      "label": "ន",
+      "group": "consonant",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        8,
+        17,
+        26,
+        34,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "Mv5R6hUNYXM",
+      "label": "ប",
+      "group": "consonant",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        17,
+        25,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "jDWu0mOGO9Y",
+      "label": "ផ",
+      "group": "consonant",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        3,
+        16,
+        25,
+        33,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "MhllaRsDKic",
+      "label": "ព",
+      "group": "consonant",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        2,
+        14,
+        26,
+        33,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "Edc5cmWuNbI",
+      "label": "ភ",
+      "group": "consonant",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        13,
+        24,
+        34,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "bVBqvd2g4ME",
+      "label": "ម",
+      "group": "consonant",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        1,
+        13,
+        22,
+        33,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "5sdyDJCwlso",
+      "label": "យ",
+      "group": "consonant",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        11,
+        23,
+        34,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "y6CvoGSYMmw",
+      "label": "រ",
+      "group": "consonant",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        4,
+        11,
+        25,
+        31,
+        32
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "2NMnFuip7AE",
+      "label": "ល",
+      "group": "consonant",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        9,
+        22,
+        34,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "frYfq4c4g88",
+      "label": "វ",
+      "group": "consonant",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        16,
+        27,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "CbAexmmxLaM",
+      "label": "ស",
+      "group": "consonant",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        13,
+        25,
+        34,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "wEx5wCvZnQ8",
+      "label": "ហ",
+      "group": "consonant",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        3,
+        14,
+        25,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "GLBrRw8UGgY",
+      "label": "ឡ",
+      "group": "consonant",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        10,
+        24,
+        34,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    },
+    {
+      "id": "fB2O1aQUTJM",
+      "label": "អ",
+      "group": "consonant",
+      "status": "needs-owner-review",
+      "sampledFrameIndexes": [
+        0,
+        4,
+        18,
+        33,
+        35
+      ],
+      "warning": "The stages come from the original lower animation, but native review confirms exact direction and pen lifts."
+    }
+  ]
+}

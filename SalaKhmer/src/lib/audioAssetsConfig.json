@@ -1,0 +1,509 @@
+{
+  "alpha-1-ka": {
+    "id": "alpha-1-ka",
+    "text_khmer": "ក",
+    "text_english": "ka",
+    "audio_url": "/audio/alpha-1-ka.mp3",
+    "license_type": "Local"
+  },
+  "alpha-1-kha": {
+    "id": "alpha-1-kha",
+    "text_khmer": "ខ",
+    "text_english": "kha",
+    "audio_url": "/audio/alpha-1-kha.mp3",
+    "license_type": "Local"
+  },
+  "alpha-1-ko": {
+    "id": "alpha-1-ko",
+    "text_khmer": "គ",
+    "text_english": "ko",
+    "audio_url": "/audio/alpha-1-ko.mp3",
+    "license_type": "Local"
+  },
+  "alpha-1-kho": {
+    "id": "alpha-1-kho",
+    "text_khmer": "ឃ",
+    "text_english": "kho",
+    "audio_url": "/audio/alpha-1-kho.mp3",
+    "license_type": "Local"
+  },
+  "alpha-1-ngo": {
+    "id": "alpha-1-ngo",
+    "text_khmer": "ង",
+    "text_english": "ngo",
+    "audio_url": "/audio/alpha-1-ngo.mp3",
+    "license_type": "Local"
+  },
+  "alpha-1-test": {
+    "id": "alpha-1-test",
+    "text_khmer": "ខ្ញុំ ចូលចិត្ត រៀន ភាសា ខ្មែរ",
+    "text_english": "Khnhom cholchet rean phiasa khmer",
+    "audio_url": "/audio/alpha-1-test.mp3",
+    "license_type": "Local"
+  },
+  "anki-e19e81e19f": {
+    "id": "anki-e19e81e19f",
+    "text_khmer": "ខះ",
+    "text_english": "",
+    "audio_url": "/audio/anki/sah1.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19e82e19f": {
+    "id": "anki-e19e82e19f",
+    "text_khmer": "គោះ",
+    "text_english": "",
+    "audio_url": "/audio/anki/poh2.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19e83e19f": {
+    "id": "anki-e19e83e19f",
+    "text_khmer": "ឃ្មុំ",
+    "text_english": "",
+    "audio_url": "/audio/anki/bee.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19e8fe19f": {
+    "id": "anki-e19e8fe19f",
+    "text_khmer": "ត្រីងៀត",
+    "text_english": "",
+    "audio_url": "/audio/anki/dryfish.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19e85e19f": {
+    "id": "anki-e19e85e19f",
+    "text_khmer": "ច្បារ",
+    "text_english": "",
+    "audio_url": "/audio/anki/garden.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19e86e19f": {
+    "id": "anki-e19e86e19f",
+    "text_khmer": "ឆ្មា",
+    "text_english": "",
+    "audio_url": "/audio/anki/cat.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19e87e19f": {
+    "id": "anki-e19e87e19f",
+    "text_khmer": "ជ្រូក",
+    "text_english": "",
+    "audio_url": "/audio/anki/pig.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19e88e19e": {
+    "id": "anki-e19e88e19e",
+    "text_khmer": "ឈូក",
+    "text_english": "",
+    "audio_url": "/audio/anki/lotus.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19e89e19e": {
+    "id": "anki-e19e89e19e",
+    "text_khmer": "ញញួរ",
+    "text_english": "",
+    "audio_url": "/audio/anki/hammer.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19e8ae19e": {
+    "id": "anki-e19e8ae19e",
+    "text_khmer": "ដើមឈើ",
+    "text_english": "",
+    "audio_url": "/audio/anki/tree.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19e8be19e": {
+    "id": "anki-e19e8be19e",
+    "text_khmer": "ឋានសួគ៌ (heaven)",
+    "text_english": "",
+    "audio_url": "/audio/anki/heaven.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19e8ce19e": {
+    "id": "anki-e19e8ce19e",
+    "text_khmer": "ឌុកឌឿ",
+    "text_english": "",
+    "audio_url": "/audio/anki/caterpillar.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19e8de19e": {
+    "id": "anki-e19e8de19e",
+    "text_khmer": "ឍាមរា",
+    "text_english": "",
+    "audio_url": "/audio/anki/goose.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19e9ae19e": {
+    "id": "anki-e19e9ae19e",
+    "text_khmer": "រដ្ឋាភិបាល",
+    "text_english": "",
+    "audio_url": "/audio/anki/government.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19e8fe19e": {
+    "id": "anki-e19e8fe19e",
+    "text_khmer": "តឿ",
+    "text_english": "",
+    "audio_url": "/audio/anki/tuer1.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19e90e19e": {
+    "id": "anki-e19e90e19e",
+    "text_khmer": "ថូ",
+    "text_english": "",
+    "audio_url": "/audio/anki/vase.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19e91e19e": {
+    "id": "anki-e19e91e19e",
+    "text_khmer": "ទា",
+    "text_english": "",
+    "audio_url": "/audio/anki/duck.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19e92e19f": {
+    "id": "anki-e19e92e19f",
+    "text_khmer": "ធំ",
+    "text_english": "",
+    "audio_url": "/audio/anki/big.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19e93e19f": {
+    "id": "anki-e19e93e19f",
+    "text_khmer": "នេះ",
+    "text_english": "",
+    "audio_url": "/audio/anki/neh2.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19e94e19e": {
+    "id": "anki-e19e94e19e",
+    "text_khmer": "បុបា្ផ",
+    "text_english": "",
+    "audio_url": "/audio/anki/flower_lit.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19e95e19f": {
+    "id": "anki-e19e95e19f",
+    "text_khmer": "ផ្អែម",
+    "text_english": "",
+    "audio_url": "/audio/anki/sweet.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19e96e19f": {
+    "id": "anki-e19e96e19f",
+    "text_khmer": "ព្ធសូរ",
+    "text_english": "",
+    "audio_url": "/audio/anki/siva.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19e9fe19f": {
+    "id": "anki-e19e9fe19f",
+    "text_khmer": "ស្ល",
+    "text_english": "",
+    "audio_url": "/audio/anki/cook.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19e98e19e": {
+    "id": "anki-e19e98e19e",
+    "text_khmer": "មាន់",
+    "text_english": "",
+    "audio_url": "/audio/anki/chicken.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19e99e19e": {
+    "id": "anki-e19e99e19e",
+    "text_khmer": "យាយ",
+    "text_english": "",
+    "audio_url": "/audio/anki/grandmother.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19e9be19f": {
+    "id": "anki-e19e9be19f",
+    "text_khmer": "ល្ហុង",
+    "text_english": "",
+    "audio_url": "/audio/anki/papaya.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19e9ce19f": {
+    "id": "anki-e19e9ce19f",
+    "text_khmer": "វែនតា",
+    "text_english": "",
+    "audio_url": "/audio/anki/glass.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19e9fe19e": {
+    "id": "anki-e19e9fe19e",
+    "text_khmer": "សាលា",
+    "text_english": "",
+    "audio_url": "/audio/anki/school.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19ea0e19e": {
+    "id": "anki-e19ea0e19e",
+    "text_khmer": "ហត្បា",
+    "text_english": "",
+    "audio_url": "/audio/anki/arm.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19ea1": {
+    "id": "anki-e19ea1",
+    "text_khmer": "ឡ",
+    "text_english": "",
+    "audio_url": "/audio/anki/lor.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19ea2e19e": {
+    "id": "anki-e19ea2e19e",
+    "text_khmer": "អណ្ដើក",
+    "text_english": "",
+    "audio_url": "/audio/anki/turtle.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19e80e19f": {
+    "id": "anki-e19e80e19f",
+    "text_khmer": "កោះ",
+    "text_english": "",
+    "audio_url": "/audio/anki/koh1 (1).mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19e80e19e": {
+    "id": "anki-e19e80e19e",
+    "text_khmer": "កាំ",
+    "text_english": "",
+    "audio_url": "/audio/anki/cam1.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19e98e19f": {
+    "id": "anki-e19e98e19f",
+    "text_khmer": "ម្ហូប",
+    "text_english": "",
+    "audio_url": "/audio/anki/food.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19e9ce19e": {
+    "id": "anki-e19e9ce19e",
+    "text_khmer": "វិវឌ",
+    "text_english": "",
+    "audio_url": "/audio/anki/evolve.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19e94e19f": {
+    "id": "anki-e19e94e19f",
+    "text_khmer": "ប្ញស",
+    "text_english": "",
+    "audio_url": "/audio/anki/root.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19e96e19e": {
+    "id": "anki-e19e96e19e",
+    "text_khmer": "ពុ្យះ",
+    "text_english": "",
+    "audio_url": "/audio/anki/storm.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19e91e19f": {
+    "id": "anki-e19e91e19f",
+    "text_khmer": "ទះ",
+    "text_english": "",
+    "audio_url": "/audio/anki/tah2.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19e82e19e": {
+    "id": "anki-e19e82e19e",
+    "text_khmer": "គាំ",
+    "text_english": "",
+    "audio_url": "/audio/anki/kam2.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19e85e19e": {
+    "id": "anki-e19e85e19e",
+    "text_khmer": "ចុះ",
+    "text_english": "",
+    "audio_url": "/audio/anki/duh1.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19e87e19e": {
+    "id": "anki-e19e87e19e",
+    "text_khmer": "ជុះ",
+    "text_english": "",
+    "audio_url": "/audio/anki/cuh2.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19e97e19f": {
+    "id": "anki-e19e97e19f",
+    "text_khmer": "ភៅ",
+    "text_english": "",
+    "audio_url": "/audio/anki/book (1).mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19ea5e19e": {
+    "id": "anki-e19ea5e19e",
+    "text_khmer": "ឥឡូវ",
+    "text_english": "",
+    "audio_url": "/audio/anki/now (1).mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19ea6e19e": {
+    "id": "anki-e19ea6e19e",
+    "text_khmer": "ឦសាន",
+    "text_english": "",
+    "audio_url": "/audio/anki/northeast.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19ea7e19e": {
+    "id": "anki-e19ea7e19e",
+    "text_khmer": "ឧទាហរណ៏",
+    "text_english": "",
+    "audio_url": "/audio/anki/example.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19eaae19e": {
+    "id": "anki-e19eaae19e",
+    "text_khmer": "ឪពុក",
+    "text_english": "",
+    "audio_url": "/audio/anki/father.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19eac": {
+    "id": "anki-e19eac",
+    "text_khmer": "ឬ",
+    "text_english": "",
+    "audio_url": "/audio/anki/rii.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19e9ae19f": {
+    "id": "anki-e19e9ae19f",
+    "text_khmer": "រំព្ញក",
+    "text_english": "",
+    "audio_url": "/audio/anki/remind.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19eae": {
+    "id": "anki-e19eae",
+    "text_khmer": "ឮ",
+    "text_english": "",
+    "audio_url": "/audio/anki/lii.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19eafe19e": {
+    "id": "anki-e19eafe19e",
+    "text_khmer": "ឯនោះ",
+    "text_english": "",
+    "audio_url": "/audio/anki/overthere.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "anki-e19eb1e19e": {
+    "id": "anki-e19eb1e19e",
+    "text_khmer": "ឱសថ",
+    "text_english": "",
+    "audio_url": "/audio/anki/medicine.mp3",
+    "license_type": "Anki_Deck_Extraction"
+  },
+  "g1-1": {
+    "id": "g1-1",
+    "text_khmer": "សួស្ដី",
+    "audio_url": "/audio/anki/hello.mp3",
+    "license_type": "Local Anki"
+  },
+  "g4-2": {
+    "id": "g4-2",
+    "text_khmer": "ខ្ញុំល្អ",
+    "audio_url": "/audio/anki/good.mp3",
+    "license_type": "Local Anki"
+  },
+  "g5-1": {
+    "id": "g5-1",
+    "text_khmer": "អរគុណ",
+    "audio_url": "/audio/anki/អរគុណ - thank you.mp3",
+    "license_type": "Local Anki"
+  },
+  "g5-3": {
+    "id": "g5-3",
+    "text_khmer": "សូមទោស",
+    "audio_url": "/audio/anki/sorry.mp3",
+    "license_type": "Local Anki"
+  },
+  "g5-5": {
+    "id": "g5-5",
+    "text_khmer": "សូមមេត្តា",
+    "audio_url": "/audio/anki/please.mp3",
+    "license_type": "Local Anki"
+  },
+  "g7-1": {
+    "id": "g7-1",
+    "text_khmer": "អ្នកអាយុប៉ុន្មាន?",
+    "audio_url": "/audio/anki/age.mp3",
+    "license_type": "Local Anki"
+  },
+  "g7-3": {
+    "id": "g7-3",
+    "text_khmer": "ចាស់",
+    "audio_url": "/audio/anki/ចាស់ - old, mature.mp3",
+    "license_type": "Local Anki"
+  },
+  "g7-4": {
+    "id": "g7-4",
+    "text_khmer": "ក្មេង",
+    "audio_url": "/audio/anki/ក្មេង - child.mp3",
+    "license_type": "Local Anki"
+  },
+  "g8-1": {
+    "id": "g8-1",
+    "text_khmer": "មួយ",
+    "audio_url": "/audio/anki/មួយ - one.mp3",
+    "license_type": "Local Anki"
+  },
+  "g8-2": {
+    "id": "g8-2",
+    "text_khmer": "ពីរ",
+    "audio_url": "/audio/anki/two.mp3",
+    "license_type": "Local Anki"
+  },
+  "g8-3": {
+    "id": "g8-3",
+    "text_khmer": "បី",
+    "audio_url": "/audio/anki/three.mp3",
+    "license_type": "Local Anki"
+  },
+  "g8-4": {
+    "id": "g8-4",
+    "text_khmer": "បួន",
+    "audio_url": "/audio/anki/four.mp3",
+    "license_type": "Local Anki"
+  },
+  "g8-5": {
+    "id": "g8-5",
+    "text_khmer": "ប្រាំ",
+    "audio_url": "/audio/anki/five.mp3",
+    "license_type": "Local Anki"
+  },
+  "g9-1": {
+    "id": "g9-1",
+    "text_khmer": "បាទ",
+    "audio_url": "/audio/anki/yes male.mp3",
+    "license_type": "Local Anki"
+  },
+  "g9-3": {
+    "id": "g9-3",
+    "text_khmer": "ទេ",
+    "audio_url": "/audio/anki/no.mp3",
+    "license_type": "Local Anki"
+  },
+  "g10-4": {
+    "id": "g10-4",
+    "text_khmer": "សូមនិយាយយឺតៗ",
+    "audio_url": "/audio/anki/slow.mp3",
+    "license_type": "Local Anki"
+  },
+  "g10-5": {
+    "id": "g10-5",
+    "text_khmer": "ត្រូវ",
+    "audio_url": "/audio/anki/ត្រូវ - must.mp3",
+    "license_type": "Local Anki"
+  },
+  "g9-2": {
+    "id": "g9-2",
+    "text_khmer": "ចាស",
+    "audio_url": "/audio/anki/yes female.mp3",
+    "license_type": "Local Anki"
+  }
+}

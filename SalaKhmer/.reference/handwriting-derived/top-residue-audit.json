@@ -1,0 +1,819 @@
+[
+  {
+    "id": "dSIXmCc1D0o",
+    "label": "រឹ",
+    "removed": [
+      {
+        "x": 91,
+        "y": 0,
+        "width": 136,
+        "height": 59,
+        "area": 3336
+      }
+    ]
+  },
+  {
+    "id": "v7tJlEQrzP8",
+    "label": "រឺ",
+    "removed": [
+      {
+        "x": 0,
+        "y": 0,
+        "width": 320,
+        "height": 82,
+        "area": 26240
+      }
+    ]
+  },
+  {
+    "id": "-Fmk4_N9FwA",
+    "label": "លឹ",
+    "removed": [
+      {
+        "x": 83,
+        "y": 0,
+        "width": 136,
+        "height": 51,
+        "area": 3127
+      }
+    ]
+  },
+  {
+    "id": "tG7An22CNpo",
+    "label": "លឺ",
+    "removed": [
+      {
+        "x": 104,
+        "y": 0,
+        "width": 159,
+        "height": 52,
+        "area": 3692
+      }
+    ]
+  },
+  {
+    "id": "WiGx-3jtszI",
+    "label": "អិ",
+    "removed": []
+  },
+  {
+    "id": "h5z0dMnwmTE",
+    "label": "អី",
+    "removed": [
+      {
+        "x": 79,
+        "y": 0,
+        "width": 43,
+        "height": 27,
+        "area": 863
+      },
+      {
+        "x": 137,
+        "y": 0,
+        "width": 95,
+        "height": 27,
+        "area": 1745
+      }
+    ]
+  },
+  {
+    "id": "UySiRlCscM4",
+    "label": "អុ, អ៊ុ",
+    "removed": []
+  },
+  {
+    "id": "vLQ8CIxJmsA",
+    "label": "អូ, អ៊ូ",
+    "removed": []
+  },
+  {
+    "id": "x9WCQe60Y6E",
+    "label": "អូវ",
+    "removed": []
+  },
+  {
+    "id": "sNpvR0Uuc5s",
+    "label": "អែ",
+    "removed": []
+  },
+  {
+    "id": "AjiXyD-V3c8",
+    "label": "អៃ",
+    "removed": [
+      {
+        "x": 101,
+        "y": 0,
+        "width": 68,
+        "height": 24,
+        "area": 1086
+      }
+    ]
+  },
+  {
+    "id": "2JduamasQOY",
+    "label": "អោ",
+    "removed": []
+  },
+  {
+    "id": "00j7IjzStlw",
+    "label": "អៅ",
+    "removed": []
+  },
+  {
+    "id": "YY_diXbrD_Q",
+    "label": "អា",
+    "removed": []
+  },
+  {
+    "id": "48zP9ZPuIwo",
+    "label": "អិ",
+    "removed": []
+  },
+  {
+    "id": "QDNdmbV9L5k",
+    "label": "អី",
+    "removed": []
+  },
+  {
+    "id": "wuFXule1s5I",
+    "label": "អឹ",
+    "removed": [
+      {
+        "x": 163,
+        "y": 0,
+        "width": 28,
+        "height": 33,
+        "area": 355
+      }
+    ]
+  },
+  {
+    "id": "o5I3tlfu4oU",
+    "label": "អឺ",
+    "removed": [
+      {
+        "x": 201,
+        "y": 1,
+        "width": 29,
+        "height": 34,
+        "area": 369
+      }
+    ]
+  },
+  {
+    "id": "YfF9qXohAys",
+    "label": "អុ",
+    "removed": []
+  },
+  {
+    "id": "MRNfNt5YbG8",
+    "label": "អូ",
+    "removed": [
+      {
+        "x": 159,
+        "y": 8,
+        "width": 30,
+        "height": 29,
+        "area": 380
+      }
+    ]
+  },
+  {
+    "id": "vpWIGNxIvWM",
+    "label": "អួ",
+    "removed": []
+  },
+  {
+    "id": "hWkNepbjrgw",
+    "label": "អើ",
+    "removed": []
+  },
+  {
+    "id": "ZW0OuwwmxbA",
+    "label": "អឿ",
+    "removed": []
+  },
+  {
+    "id": "jebHyNnfHhk",
+    "label": "អៀ",
+    "removed": []
+  },
+  {
+    "id": "k-RWuUUSTGo",
+    "label": "អេ",
+    "removed": []
+  },
+  {
+    "id": "RodoZdbds70",
+    "label": "អែ",
+    "removed": []
+  },
+  {
+    "id": "7A80F78YFMk",
+    "label": "អៃ",
+    "removed": []
+  },
+  {
+    "id": "_vQ4Pwrah4s",
+    "label": "អោ",
+    "removed": []
+  },
+  {
+    "id": "un3VeIKi194",
+    "label": "អៅ",
+    "removed": []
+  },
+  {
+    "id": "bNonPYLVcfA",
+    "label": "អុំ",
+    "removed": []
+  },
+  {
+    "id": "VOBsaNKvoA4",
+    "label": "អំ",
+    "removed": [
+      {
+        "x": 120,
+        "y": 0,
+        "width": 64,
+        "height": 5,
+        "area": 120
+      }
+    ]
+  },
+  {
+    "id": "wyQn8iitRVw",
+    "label": "អាំ",
+    "removed": []
+  },
+  {
+    "id": "CXe3HLcz_P4",
+    "label": "អះ",
+    "removed": []
+  },
+  {
+    "id": "S_HRTB1j-qw",
+    "label": "អុះ",
+    "removed": []
+  },
+  {
+    "id": "--Xi1uHtwcY",
+    "label": "អេះ",
+    "removed": [
+      {
+        "x": 255,
+        "y": 0,
+        "width": 65,
+        "height": 25,
+        "area": 150
+      }
+    ]
+  },
+  {
+    "id": "gyCGzcJxIBM",
+    "label": "អោះ",
+    "removed": []
+  },
+  {
+    "id": "JwJ0GUS1GRM",
+    "label": "អៈ",
+    "removed": [
+      {
+        "x": 75,
+        "y": 0,
+        "width": 38,
+        "height": 6,
+        "area": 171
+      },
+      {
+        "x": 174,
+        "y": 0,
+        "width": 39,
+        "height": 6,
+        "area": 169
+      }
+    ]
+  },
+  {
+    "id": "yvZfoJyc6Lw",
+    "label": "អា",
+    "removed": [
+      {
+        "x": 49,
+        "y": 0,
+        "width": 37,
+        "height": 7,
+        "area": 169
+      },
+      {
+        "x": 142,
+        "y": 0,
+        "width": 37,
+        "height": 7,
+        "area": 169
+      }
+    ]
+  },
+  {
+    "id": "TmlN73zSQ8I",
+    "label": "ក",
+    "removed": [
+      {
+        "x": 238,
+        "y": 40,
+        "width": 26,
+        "height": 17,
+        "area": 127
+      }
+    ]
+  },
+  {
+    "id": "M9SXYmwMBnA",
+    "label": "ខ",
+    "removed": [
+      {
+        "x": 115,
+        "y": 0,
+        "width": 84,
+        "height": 8,
+        "area": 506
+      }
+    ]
+  },
+  {
+    "id": "leHEF9DW39M",
+    "label": "គ",
+    "removed": []
+  },
+  {
+    "id": "XhQ49geiDac",
+    "label": "ឃ",
+    "removed": [
+      {
+        "x": 91,
+        "y": 0,
+        "width": 56,
+        "height": 7,
+        "area": 284
+      },
+      {
+        "x": 171,
+        "y": 0,
+        "width": 56,
+        "height": 7,
+        "area": 284
+      }
+    ]
+  },
+  {
+    "id": "7yutJvZP_qE",
+    "label": "ង",
+    "removed": []
+  },
+  {
+    "id": "gEYW6mF0GL8",
+    "label": "ច",
+    "removed": [
+      {
+        "x": 125,
+        "y": 0,
+        "width": 72,
+        "height": 7,
+        "area": 375
+      }
+    ]
+  },
+  {
+    "id": "QwQGvY-zPxc",
+    "label": "ឆ",
+    "removed": [
+      {
+        "x": 81,
+        "y": 0,
+        "width": 33,
+        "height": 7,
+        "area": 170
+      },
+      {
+        "x": 163,
+        "y": 0,
+        "width": 46,
+        "height": 7,
+        "area": 234
+      }
+    ]
+  },
+  {
+    "id": "gO0A3ZM4mAg",
+    "label": "ជ",
+    "removed": [
+      {
+        "x": 101,
+        "y": 0,
+        "width": 26,
+        "height": 7,
+        "area": 130
+      },
+      {
+        "x": 193,
+        "y": 0,
+        "width": 29,
+        "height": 7,
+        "area": 144
+      }
+    ]
+  },
+  {
+    "id": "gUG9hyLvyiE",
+    "label": "ឈ",
+    "removed": [
+      {
+        "x": 139,
+        "y": 0,
+        "width": 43,
+        "height": 7,
+        "area": 214
+      },
+      {
+        "x": 201,
+        "y": 0,
+        "width": 43,
+        "height": 7,
+        "area": 211
+      }
+    ]
+  },
+  {
+    "id": "Ybi4fqNkxuA",
+    "label": "ញ",
+    "removed": [
+      {
+        "x": 174,
+        "y": 0,
+        "width": 43,
+        "height": 6,
+        "area": 194
+      }
+    ]
+  },
+  {
+    "id": "o6GqExbA9l8",
+    "label": "ដ",
+    "removed": [
+      {
+        "x": 99,
+        "y": 0,
+        "width": 28,
+        "height": 7,
+        "area": 146
+      },
+      {
+        "x": 191,
+        "y": 0,
+        "width": 30,
+        "height": 7,
+        "area": 157
+      }
+    ]
+  },
+  {
+    "id": "Yc_9hvMC-YE",
+    "label": "ឋ",
+    "removed": [
+      {
+        "x": 123,
+        "y": 0,
+        "width": 73,
+        "height": 7,
+        "area": 392
+      }
+    ]
+  },
+  {
+    "id": "y6b0sFaS_do",
+    "label": "ឌ",
+    "removed": [
+      {
+        "x": 110,
+        "y": 0,
+        "width": 52,
+        "height": 7,
+        "area": 265
+      },
+      {
+        "x": 189,
+        "y": 0,
+        "width": 32,
+        "height": 25,
+        "area": 627
+      }
+    ]
+  },
+  {
+    "id": "aK4pQvT-ojM",
+    "label": "ឍ",
+    "removed": [
+      {
+        "x": 72,
+        "y": 0,
+        "width": 35,
+        "height": 7,
+        "area": 181
+      },
+      {
+        "x": 140,
+        "y": 0,
+        "width": 29,
+        "height": 7,
+        "area": 147
+      },
+      {
+        "x": 206,
+        "y": 0,
+        "width": 39,
+        "height": 7,
+        "area": 193
+      }
+    ]
+  },
+  {
+    "id": "j5rCUd5KMGE",
+    "label": "ណ",
+    "removed": [
+      {
+        "x": 23,
+        "y": 0,
+        "width": 36,
+        "height": 7,
+        "area": 181
+      },
+      {
+        "x": 189,
+        "y": 0,
+        "width": 26,
+        "height": 7,
+        "area": 125
+      }
+    ]
+  },
+  {
+    "id": "KkS-vUOOklE",
+    "label": "ត",
+    "removed": [
+      {
+        "x": 108,
+        "y": 0,
+        "width": 40,
+        "height": 7,
+        "area": 194
+      }
+    ]
+  },
+  {
+    "id": "VjG8fm3olTo",
+    "label": "ថ",
+    "removed": [
+      {
+        "x": 123,
+        "y": 0,
+        "width": 74,
+        "height": 8,
+        "area": 423
+      }
+    ]
+  },
+  {
+    "id": "dWLq-0CpfoE",
+    "label": "ទ",
+    "removed": [
+      {
+        "x": 127,
+        "y": 0,
+        "width": 62,
+        "height": 7,
+        "area": 322
+      }
+    ]
+  },
+  {
+    "id": "Jqk9KhAZ-sk",
+    "label": "ធ",
+    "removed": [
+      {
+        "x": 99,
+        "y": 0,
+        "width": 28,
+        "height": 7,
+        "area": 144
+      },
+      {
+        "x": 190,
+        "y": 0,
+        "width": 30,
+        "height": 7,
+        "area": 157
+      }
+    ]
+  },
+  {
+    "id": "W-uArp1Shng",
+    "label": "ន",
+    "removed": [
+      {
+        "x": 94,
+        "y": 0,
+        "width": 35,
+        "height": 8,
+        "area": 202
+      },
+      {
+        "x": 165,
+        "y": 0,
+        "width": 49,
+        "height": 8,
+        "area": 269
+      }
+    ]
+  },
+  {
+    "id": "Mv5R6hUNYXM",
+    "label": "ប",
+    "removed": [
+      {
+        "x": 121,
+        "y": 0,
+        "width": 76,
+        "height": 8,
+        "area": 439
+      }
+    ]
+  },
+  {
+    "id": "jDWu0mOGO9Y",
+    "label": "ផ",
+    "removed": [
+      {
+        "x": 99,
+        "y": 0,
+        "width": 26,
+        "height": 7,
+        "area": 122
+      },
+      {
+        "x": 191,
+        "y": 0,
+        "width": 28,
+        "height": 7,
+        "area": 131
+      }
+    ]
+  },
+  {
+    "id": "MhllaRsDKic",
+    "label": "ព",
+    "removed": [
+      {
+        "x": 108,
+        "y": 0,
+        "width": 40,
+        "height": 7,
+        "area": 201
+      }
+    ]
+  },
+  {
+    "id": "Edc5cmWuNbI",
+    "label": "ភ",
+    "removed": [
+      {
+        "x": 84,
+        "y": 0,
+        "width": 40,
+        "height": 7,
+        "area": 212
+      }
+    ]
+  },
+  {
+    "id": "bVBqvd2g4ME",
+    "label": "ម",
+    "removed": [
+      {
+        "x": 122,
+        "y": 0,
+        "width": 74,
+        "height": 8,
+        "area": 422
+      }
+    ]
+  },
+  {
+    "id": "5sdyDJCwlso",
+    "label": "យ",
+    "removed": [
+      {
+        "x": 91,
+        "y": 0,
+        "width": 56,
+        "height": 7,
+        "area": 288
+      },
+      {
+        "x": 171,
+        "y": 0,
+        "width": 56,
+        "height": 7,
+        "area": 290
+      }
+    ]
+  },
+  {
+    "id": "y6CvoGSYMmw",
+    "label": "រ",
+    "removed": [
+      {
+        "x": 128,
+        "y": 0,
+        "width": 42,
+        "height": 7,
+        "area": 222
+      }
+    ]
+  },
+  {
+    "id": "2NMnFuip7AE",
+    "label": "ល",
+    "removed": [
+      {
+        "x": 76,
+        "y": 0,
+        "width": 32,
+        "height": 7,
+        "area": 154
+      },
+      {
+        "x": 169,
+        "y": 0,
+        "width": 55,
+        "height": 7,
+        "area": 263
+      }
+    ]
+  },
+  {
+    "id": "frYfq4c4g88",
+    "label": "វ",
+    "removed": [
+      {
+        "x": 126,
+        "y": 0,
+        "width": 40,
+        "height": 7,
+        "area": 195
+      }
+    ]
+  },
+  {
+    "id": "CbAexmmxLaM",
+    "label": "ស",
+    "removed": []
+  },
+  {
+    "id": "wEx5wCvZnQ8",
+    "label": "ហ",
+    "removed": [
+      {
+        "x": 92,
+        "y": 0,
+        "width": 55,
+        "height": 7,
+        "area": 273
+      }
+    ]
+  },
+  {
+    "id": "GLBrRw8UGgY",
+    "label": "ឡ",
+    "removed": []
+  },
+  {
+    "id": "fB2O1aQUTJM",
+    "label": "អ",
+    "removed": [
+      {
+        "x": 75,
+        "y": 0,
+        "width": 38,
+        "height": 6,
+        "area": 171
+      },
+      {
+        "x": 174,
+        "y": 0,
+        "width": 39,
+        "height": 6,
+        "area": 169
+      }
+    ]
+  }
+]

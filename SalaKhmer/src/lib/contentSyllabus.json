@@ -1,0 +1,2126 @@
+{
+  "modules": [
+    {
+      "id": "module_1",
+      "title": "THE FULL KHMER SCRIPT ENGINE",
+      "data": [
+        {
+          "id": "m1_1",
+          "text": "ក",
+          "series": "Aâ",
+          "phonetic": "Kâ",
+          "audio": "m1_1_ka.mp3",
+          "meaning": "Consonant Kâ"
+        },
+        {
+          "id": "m1_2",
+          "text": "ខ",
+          "series": "Aâ",
+          "phonetic": "Khâ",
+          "audio": "m1_2_kha.mp3",
+          "meaning": "Consonant Khâ"
+        },
+        {
+          "id": "m1_3",
+          "text": "គ",
+          "series": "O",
+          "phonetic": "Kô",
+          "audio": "m1_3_ko.mp3",
+          "meaning": "Consonant Kô"
+        },
+        {
+          "id": "m1_4",
+          "text": "ឃ",
+          "series": "O",
+          "phonetic": "Khô",
+          "audio": "m1_4_kho.mp3",
+          "meaning": "Consonant Khô"
+        },
+        {
+          "id": "m1_5",
+          "text": "ង",
+          "series": "O",
+          "phonetic": "Ngô",
+          "audio": "m1_5_ngo.mp3",
+          "meaning": "Consonant Ngô"
+        },
+        {
+          "id": "m1_6",
+          "text": "ច",
+          "series": "Aâ",
+          "phonetic": "Châ",
+          "audio": "m1_6_cha.mp3",
+          "meaning": "Consonant Châ"
+        },
+        {
+          "id": "m1_7",
+          "text": "ឆ",
+          "series": "Aâ",
+          "phonetic": "Chhâ",
+          "audio": "m1_7_chha.mp3",
+          "meaning": "Consonant Chhâ"
+        },
+        {
+          "id": "m1_8",
+          "text": "ជ",
+          "series": "O",
+          "phonetic": "Chô",
+          "audio": "m1_8_cho.mp3",
+          "meaning": "Consonant Chô"
+        },
+        {
+          "id": "m1_9",
+          "text": "ឈ",
+          "series": "O",
+          "phonetic": "Chhô",
+          "audio": "m1_9_chho.mp3",
+          "meaning": "Consonant Chhô"
+        },
+        {
+          "id": "m1_10",
+          "text": "ញ",
+          "series": "O",
+          "phonetic": "Nghô",
+          "audio": "m1_10_ngho.mp3",
+          "meaning": "Consonant Nghô"
+        },
+        {
+          "id": "m1_11",
+          "text": "ដ",
+          "series": "Aâ",
+          "phonetic": "Dâ",
+          "audio": "m1_11_da.mp3",
+          "meaning": "Consonant Dâ"
+        },
+        {
+          "id": "m1_12",
+          "text": "ឋ",
+          "series": "Aâ",
+          "phonetic": "Thâ",
+          "audio": "m1_12_tha.mp3",
+          "meaning": "Consonant Thâ"
+        },
+        {
+          "id": "m1_13",
+          "text": "ឌ",
+          "series": "O",
+          "phonetic": "Dô",
+          "audio": "m1_13_do.mp3",
+          "meaning": "Consonant Dô"
+        },
+        {
+          "id": "m1_14",
+          "text": "ឍ",
+          "series": "O",
+          "phonetic": "Thô",
+          "audio": "m1_14_tho.mp3",
+          "meaning": "Consonant Thô"
+        },
+        {
+          "id": "m1_15",
+          "text": "ណ",
+          "series": "Aâ",
+          "phonetic": "Nâ",
+          "audio": "m1_15_na.mp3",
+          "meaning": "Consonant Nâ"
+        },
+        {
+          "id": "m1_16",
+          "text": "ត",
+          "series": "Aâ",
+          "phonetic": "Tâ",
+          "audio": "m1_16_ta.mp3",
+          "meaning": "Consonant Tâ"
+        },
+        {
+          "id": "m1_17",
+          "text": "ថ",
+          "series": "Aâ",
+          "phonetic": "Thâ_t",
+          "audio": "m1_17_that.mp3",
+          "meaning": "Consonant Thâ"
+        },
+        {
+          "id": "m1_18",
+          "text": "ទ",
+          "series": "O",
+          "phonetic": "Tô",
+          "audio": "m1_18_to.mp3",
+          "meaning": "Consonant Tô"
+        },
+        {
+          "id": "m1_19",
+          "text": "ធ",
+          "series": "O",
+          "phonetic": "Thô_t",
+          "audio": "m1_19_thot.mp3",
+          "meaning": "Consonant Thô"
+        },
+        {
+          "id": "m1_20",
+          "text": "ន",
+          "series": "O",
+          "phonetic": "Nô",
+          "audio": "m1_20_no.mp3",
+          "meaning": "Consonant Nô"
+        },
+        {
+          "id": "m1_21",
+          "text": "ប",
+          "series": "Aâ",
+          "phonetic": "Bâ",
+          "audio": "m1_21_ba.mp3",
+          "meaning": "Consonant Bâ"
+        },
+        {
+          "id": "m1_22",
+          "text": "ផ",
+          "series": "Aâ",
+          "phonetic": "Phâ",
+          "audio": "m1_22_pha.mp3",
+          "meaning": "Consonant Phâ"
+        },
+        {
+          "id": "m1_23",
+          "text": "ព",
+          "series": "O",
+          "phonetic": "Pô",
+          "audio": "m1_23_po.mp3",
+          "meaning": "Consonant Pô"
+        },
+        {
+          "id": "m1_24",
+          "text": "ភ",
+          "series": "O",
+          "phonetic": "Phô",
+          "audio": "m1_24_pho.mp3",
+          "meaning": "Consonant Phô"
+        },
+        {
+          "id": "m1_25",
+          "text": "ម",
+          "series": "O",
+          "phonetic": "Mô",
+          "audio": "m1_25_mo.mp3",
+          "meaning": "Consonant Mô"
+        },
+        {
+          "id": "m1_26",
+          "text": "យ",
+          "series": "O",
+          "phonetic": "Yô",
+          "audio": "m1_26_yo.mp3",
+          "meaning": "Consonant Yô"
+        },
+        {
+          "id": "m1_27",
+          "text": "រ",
+          "series": "O",
+          "phonetic": "Rô",
+          "audio": "m1_27_ro.mp3",
+          "meaning": "Consonant Rô"
+        },
+        {
+          "id": "m1_28",
+          "text": "ល",
+          "series": "O",
+          "phonetic": "Lô",
+          "audio": "m1_28_lo.mp3",
+          "meaning": "Consonant Lô"
+        },
+        {
+          "id": "m1_29",
+          "text": "វ",
+          "series": "O",
+          "phonetic": "Vô",
+          "audio": "m1_29_vo.mp3",
+          "meaning": "Consonant Vô"
+        },
+        {
+          "id": "m1_30",
+          "text": "ស",
+          "series": "Aâ",
+          "phonetic": "Sâ",
+          "audio": "m1_30_sa.mp3",
+          "meaning": "Consonant Sâ"
+        },
+        {
+          "id": "m1_31",
+          "text": "ហ",
+          "series": "Aâ",
+          "phonetic": "Hâ",
+          "audio": "m1_31_ha.mp3",
+          "meaning": "Consonant Hâ"
+        },
+        {
+          "id": "m1_32",
+          "text": "ឡ",
+          "series": "Aâ",
+          "phonetic": "Lâ",
+          "audio": "m1_32_la.mp3",
+          "meaning": "Consonant Lâ"
+        },
+        {
+          "id": "m1_33",
+          "text": "អ",
+          "series": "Aâ",
+          "phonetic": "Â",
+          "audio": "m1_33_a.mp3",
+          "meaning": "Consonant Â"
+        },
+        {
+          "id": "m1_34",
+          "text": "ា",
+          "name": "Srak Ah",
+          "phonetic_ao": "Ah",
+          "phonetic_o": "Eah",
+          "audio": "m1_34_ah.mp3"
+        },
+        {
+          "id": "m1_35",
+          "text": "ិ",
+          "name": "Srak Eh",
+          "phonetic_ao": "Eh",
+          "phonetic_o": "Ih",
+          "audio": "m1_35_eh.mp3"
+        },
+        {
+          "id": "m1_36",
+          "text": "ី",
+          "name": "Srak Ey",
+          "phonetic_ao": "Ey",
+          "phonetic_o": "Ee",
+          "audio": "m1_36_ey.mp3"
+        },
+        {
+          "id": "m1_37",
+          "text": "ឹ",
+          "name": "Srak Euk",
+          "phonetic_ao": "Euk",
+          "phonetic_o": "Ueh",
+          "audio": "m1_37_euk.mp3"
+        },
+        {
+          "id": "m1_38",
+          "text": "ឺ",
+          "name": "Srak Eue",
+          "phonetic_ao": "Eue",
+          "phonetic_o": "Uee",
+          "audio": "m1_38_eue.mp3"
+        },
+        {
+          "id": "m1_39",
+          "text": "ុ",
+          "name": "Srak Oh",
+          "phonetic_ao": "Oh",
+          "phonetic_o": "Oo",
+          "audio": "m1_39_oh.mp3"
+        },
+        {
+          "id": "m1_40",
+          "text": "ូ",
+          "name": "Srak Oo",
+          "phonetic_ao": "Oo",
+          "phonetic_o": "Ooo",
+          "audio": "m1_40_ooo.mp3"
+        },
+        {
+          "id": "m1_41",
+          "text": "ួ",
+          "name": "Srak Uoa",
+          "phonetic_ao": "Uoa",
+          "phonetic_o": "Uoa",
+          "audio": "m1_41_uoa.mp3"
+        },
+        {
+          "id": "m1_42",
+          "text": "ើ",
+          "name": "Srak Oeu",
+          "phonetic_ao": "Oeu",
+          "phonetic_o": "Eeu",
+          "audio": "m1_42_oeu.mp3"
+        },
+        {
+          "id": "m1_43",
+          "text": "ឿ",
+          "name": "Srak Uea",
+          "phonetic_ao": "Uea",
+          "phonetic_o": "Uea",
+          "audio": "m1_43_uea.mp3"
+        },
+        {
+          "id": "m1_44",
+          "text": "ៀ",
+          "name": "Srak Iea",
+          "phonetic_ao": "Iea",
+          "phonetic_o": "Iea",
+          "audio": "m1_44_iea.mp3"
+        },
+        {
+          "id": "m1_45",
+          "text": "េ",
+          "name": "Srak Ea",
+          "phonetic_ao": "Ea",
+          "phonetic_o": "Ay",
+          "audio": "m1_45_ea.mp3"
+        },
+        {
+          "id": "m1_46",
+          "text": "ែ",
+          "name": "Srak Ae",
+          "phonetic_ao": "Ae",
+          "phonetic_o": "Ae-o",
+          "audio": "m1_46_ae.mp3"
+        },
+        {
+          "id": "m1_47",
+          "text": "ៃ",
+          "name": "Srak Ay",
+          "phonetic_ao": "Ay",
+          "phonetic_o": "Ey-o",
+          "audio": "m1_47_ay.mp3"
+        },
+        {
+          "id": "m1_48",
+          "text": "ោ",
+          "name": "Srak Ao",
+          "phonetic_ao": "Ao",
+          "phonetic_o": "Oo-a",
+          "audio": "m1_48_ao.mp3"
+        },
+        {
+          "id": "m1_49",
+          "text": "ៅ",
+          "name": "Srak Au",
+          "phonetic_ao": "Au",
+          "phonetic_o": "Oww",
+          "audio": "m1_49_au.mp3"
+        },
+        {
+          "id": "m1_50",
+          "text": "ុំ",
+          "name": "Srak Om",
+          "phonetic_ao": "Om",
+          "phonetic_o": "Oom",
+          "audio": "m1_50_om.mp3"
+        },
+        {
+          "id": "m1_51",
+          "text": "ំ",
+          "name": "Srak Um",
+          "phonetic_ao": "Um",
+          "phonetic_o": "Uum",
+          "audio": "m1_51_um.mp3"
+        },
+        {
+          "id": "m1_52",
+          "text": "ាំ",
+          "name": "Srak Am",
+          "phonetic_ao": "Am",
+          "phonetic_o": "Eam",
+          "audio": "m1_52_am.mp3"
+        },
+        {
+          "id": "m1_53",
+          "text": "ះ",
+          "name": "Srak Ah-h",
+          "phonetic_ao": "Ah-h",
+          "phonetic_o": "Eah-h",
+          "audio": "m1_53_ahh.mp3"
+        },
+        {
+          "id": "m1_54",
+          "text": "ុះ",
+          "name": "Srak Oh-h",
+          "phonetic_ao": "Oh-h",
+          "phonetic_o": "Ooh-h",
+          "audio": "m1_54_ohh.mp3"
+        },
+        {
+          "id": "m1_55",
+          "text": "េះ",
+          "name": "Srak Eh-h",
+          "phonetic_ao": "Eh-h",
+          "phonetic_o": "Ih-h",
+          "audio": "m1_55_ehh.mp3"
+        },
+        {
+          "id": "m1_56",
+          "text": "ោះ",
+          "name": "Srak Aw-h",
+          "phonetic_ao": "Aw-h",
+          "phonetic_o": "Uaw-h",
+          "audio": "m1_56_awh.mp3"
+        },
+        {
+          "id": "m1_57",
+          "text": "ៈ",
+          "name": "Srak Reah",
+          "phonetic_ao": "Ah",
+          "phonetic_o": "Eah",
+          "audio": "m1_57_reah.mp3"
+        }
+      ]
+    },
+    {
+      "id": "module_2",
+      "title": "EXHAUSTIVE SPELLING BREAKDOWN ENGINE",
+      "data": [
+        {
+          "id": "m2_1",
+          "word": "កែប",
+          "breakdown": "Ko - sRak Ae - Bo",
+          "final": "Kep",
+          "meaning": "Kep Province",
+          "audio": "m2_1.mp3"
+        },
+        {
+          "id": "m2_2",
+          "word": "បាយ",
+          "breakdown": "Bo - sRak Ah - Yo",
+          "final": "Bay",
+          "meaning": "Rice",
+          "audio": "m2_2.mp3"
+        },
+        {
+          "id": "m2_3",
+          "word": "ទឹក",
+          "breakdown": "To - sRak Euk - Ko",
+          "final": "Teuk",
+          "meaning": "Water",
+          "audio": "m2_3.mp3"
+        },
+        {
+          "id": "m2_4",
+          "word": "សាលា",
+          "breakdown": "So - sRak Ah - Lo - sRak Ah",
+          "final": "Sa-la",
+          "meaning": "School",
+          "audio": "m2_4.mp3"
+        },
+        {
+          "id": "m2_5",
+          "word": "ស្រលាញ់",
+          "breakdown": "So - Ro - sRak Ah - Gno",
+          "final": "Sro-lanh",
+          "meaning": "Love",
+          "audio": "m2_5.mp3"
+        },
+        {
+          "id": "m2_6",
+          "word": "ដំរី",
+          "breakdown": "Do - sRak Um - Ro - sRak Ey",
+          "final": "Dom-rey",
+          "meaning": "Elephant",
+          "audio": "m2_6.mp3"
+        },
+        {
+          "id": "m2_7",
+          "word": "ឆ្មា",
+          "breakdown": "Chhâ - Mo - sRak Ah",
+          "final": "Chhma",
+          "meaning": "Cat",
+          "audio": "m2_7.mp3"
+        },
+        {
+          "id": "m2_8",
+          "word": "ឆ្កែ",
+          "breakdown": "Chhâ - Ka - sRak Ae",
+          "final": "Chhkae",
+          "meaning": "Dog",
+          "audio": "m2_8.mp3"
+        },
+        {
+          "id": "m2_9",
+          "word": "មាន់",
+          "breakdown": "Mo - sRak Meam - No",
+          "final": "Moan",
+          "meaning": "Chicken",
+          "audio": "m2_9.mp3"
+        },
+        {
+          "id": "m2_10",
+          "word": "ទា",
+          "breakdown": "To - sRak Iea",
+          "final": "Tea",
+          "meaning": "Duck",
+          "audio": "m2_10.mp3"
+        },
+        {
+          "id": "m2_11",
+          "word": "ត្រី",
+          "breakdown": "To - Ro - sRak Ey",
+          "final": "Trey",
+          "meaning": "Fish",
+          "audio": "m2_11.mp3"
+        },
+        {
+          "id": "m2_12",
+          "word": "ផ្ទះ",
+          "breakdown": "Pho - To - sRak Ah-h",
+          "final": "Phteah",
+          "meaning": "House",
+          "audio": "m2_12.mp3"
+        },
+        {
+          "id": "m2_13",
+          "word": "ឡាន",
+          "breakdown": "Lo - sRak Ah - No",
+          "final": "Lan",
+          "meaning": "Car",
+          "audio": "m2_13.mp3"
+        },
+        {
+          "id": "m2_14",
+          "word": "ម៉ូតូ",
+          "breakdown": "Mo - sRak Ao - To - sRak Oo",
+          "final": "Mo-to",
+          "meaning": "Motorbike",
+          "audio": "m2_14.mp3"
+        },
+        {
+          "id": "m2_15",
+          "word": "កង់",
+          "breakdown": "Ko - sRak Um - Ngo",
+          "final": "Kong",
+          "meaning": "Bicycle",
+          "audio": "m2_15.mp3"
+        },
+        {
+          "id": "m2_16",
+          "word": "សមុទ្រ",
+          "breakdown": "So - Mô - sRak Oh - To - Ro",
+          "final": "Sa-mot",
+          "meaning": "Sea",
+          "audio": "m2_16.mp3"
+        },
+        {
+          "id": "m2_17",
+          "word": "ភ្នំ",
+          "breakdown": "Pho - No - sRak Om",
+          "final": "Phnom",
+          "meaning": "Mountain",
+          "audio": "m2_17.mp3"
+        },
+        {
+          "id": "m2_18",
+          "word": "ទន្លេ",
+          "breakdown": "To - No - Lo - sRak Ea",
+          "final": "Ton-le",
+          "meaning": "River",
+          "audio": "m2_18.mp3"
+        },
+        {
+          "id": "m2_19",
+          "word": "ផ្សារ",
+          "breakdown": "Pho - So - sRak Ah - Ro",
+          "final": "Phsar",
+          "meaning": "Market",
+          "audio": "m2_19.mp3"
+        },
+        {
+          "id": "m2_20",
+          "word": "លុយ",
+          "breakdown": "Lo - sRak Oh - Yo",
+          "final": "Luy",
+          "meaning": "Money",
+          "audio": "m2_20.mp3"
+        },
+        {
+          "id": "m2_21",
+          "word": "មាស",
+          "breakdown": "Mo - sRak Ea - So",
+          "final": "Meas",
+          "meaning": "Gold",
+          "audio": "m2_21.mp3"
+        },
+        {
+          "id": "m2_22",
+          "word": "ប្រាក់",
+          "breakdown": "Po - Ro - sRak Ah - Ko",
+          "final": "Prak",
+          "meaning": "Silver",
+          "audio": "m2_22.mp3"
+        },
+        {
+          "id": "m2_23",
+          "word": "ដៃ",
+          "breakdown": "Do - sRak Ay",
+          "final": "Dai",
+          "meaning": "Hand",
+          "audio": "m2_23.mp3"
+        },
+        {
+          "id": "m2_24",
+          "word": "ជើង",
+          "breakdown": "Cho - sRak Oeu - Ngo",
+          "final": "Cheung",
+          "meaning": "Leg",
+          "audio": "m2_24.mp3"
+        },
+        {
+          "id": "m2_25",
+          "word": "ក្បាល",
+          "breakdown": "Ko - Bo - sRak Ah - Lo",
+          "final": "Kbal",
+          "meaning": "Head",
+          "audio": "m2_25.mp3"
+        },
+        {
+          "id": "m2_26",
+          "word": "ភ្នែក",
+          "breakdown": "Pho - No - sRak Ae - Ko",
+          "final": "Phneik",
+          "meaning": "Eye",
+          "audio": "m2_26.mp3"
+        },
+        {
+          "id": "m2_27",
+          "word": "ច្រមុះ",
+          "breakdown": "Châ - Ro - sRak Oh-h",
+          "final": "Chromoh",
+          "meaning": "Nose",
+          "audio": "m2_27.mp3"
+        },
+        {
+          "id": "m2_28",
+          "word": "មាត់",
+          "breakdown": "Mo - sRak Meam - To",
+          "final": "Moat",
+          "meaning": "Mouth",
+          "audio": "m2_28.mp3"
+        },
+        {
+          "id": "m2_29",
+          "word": "ធ្មេញ",
+          "breakdown": "Tho - Mo - sRak Eh - Ngo",
+          "final": "Thmenh",
+          "meaning": "Tooth",
+          "audio": "m2_29.mp3"
+        },
+        {
+          "id": "m2_30",
+          "word": "សក់",
+          "breakdown": "So - sRak Um - Ko",
+          "final": "Sok",
+          "meaning": "Hair",
+          "audio": "m2_30.mp3"
+        },
+        {
+          "id": "m2_31",
+          "word": "ក្រុង",
+          "breakdown": "Ko - Ro - sRak Om - Ngo",
+          "final": "Krong",
+          "meaning": "City",
+          "audio": "m2_31.mp3"
+        },
+        {
+          "id": "m2_32",
+          "word": "ស្រែ",
+          "breakdown": "So - Ro - sRak Ae",
+          "final": "Srae",
+          "meaning": "Ricefield",
+          "audio": "m2_32.mp3"
+        },
+        {
+          "id": "m2_33",
+          "word": "ដើមឈើ",
+          "breakdown": "Do - sRak Oeu - Mô - Chhâ - sRak Oeu",
+          "final": "Deum-chhoe",
+          "meaning": "Tree",
+          "audio": "m2_33.mp3"
+        },
+        {
+          "id": "m2_34",
+          "word": "ផ្កា",
+          "breakdown": "Pho - Ka - sRak Ah",
+          "final": "Phka",
+          "meaning": "Flower",
+          "audio": "m2_34.mp3"
+        },
+        {
+          "id": "m2_35",
+          "word": "ផ្លែឈើ",
+          "breakdown": "Pho - Lo - sRak Ae - Chhâ - sRak Oeu",
+          "final": "Phlae-chhoe",
+          "meaning": "Fruit",
+          "audio": "m2_35.mp3"
+        },
+        {
+          "id": "m2_36",
+          "word": "ខ្យល់",
+          "breakdown": "Khâ - Yo - Lo",
+          "final": "Khyol",
+          "meaning": "Wind",
+          "audio": "m2_36.mp3"
+        },
+        {
+          "id": "m2_37",
+          "word": "ភ្លើង",
+          "breakdown": "Pho - Lo - sRak Oeu - Ngo",
+          "final": "Phleung",
+          "meaning": "Fire",
+          "audio": "m2_37.mp3"
+        },
+        {
+          "id": "m2_38",
+          "word": "ដី",
+          "breakdown": "Do - sRak Ey",
+          "final": "Dei",
+          "meaning": "Earth",
+          "audio": "m2_38.mp3"
+        },
+        {
+          "id": "m2_39",
+          "word": "មេឃ",
+          "breakdown": "Mo - sRak Ea - Ko",
+          "final": "Mek",
+          "meaning": "Sky",
+          "audio": "m2_39.mp3"
+        },
+        {
+          "id": "m2_40",
+          "word": "ថ្ងៃ",
+          "breakdown": "Tho - Ngô - sRak Ay",
+          "final": "Thngai",
+          "meaning": "Day",
+          "audio": "m2_40.mp3"
+        },
+        {
+          "id": "m2_41",
+          "word": "យប់",
+          "breakdown": "Yo - Bo",
+          "final": "Yob",
+          "meaning": "Night",
+          "audio": "m2_41.mp3"
+        },
+        {
+          "id": "m2_42",
+          "word": "សៀវភៅ",
+          "breakdown": "So - sRak Iea - Vo - Pho - sRak Au",
+          "final": "Siev-phov",
+          "meaning": "Book",
+          "audio": "m2_42.mp3"
+        },
+        {
+          "id": "m2_43",
+          "word": "ប៊ិច",
+          "breakdown": "Bo - sRak Eh - Ko",
+          "final": "Bich",
+          "meaning": "Pen",
+          "audio": "m2_43.mp3"
+        },
+        {
+          "id": "m2_44",
+          "word": "តុ",
+          "breakdown": "To - sRak Oh",
+          "final": "Tok",
+          "meaning": "Table",
+          "audio": "m2_44.mp3"
+        },
+        {
+          "id": "m2_45",
+          "word": "កៅអី",
+          "breakdown": "Ko - sRak Au - Â - sRak Ey",
+          "final": "Kao-ei",
+          "meaning": "Chair",
+          "audio": "m2_45.mp3"
+        },
+        {
+          "id": "m2_46",
+          "word": "អាវ",
+          "breakdown": "Â - sRak Ah - Vo",
+          "final": "Av",
+          "meaning": "Shirt",
+          "audio": "m2_46.mp3"
+        },
+        {
+          "id": "m2_47",
+          "word": "ខោ",
+          "breakdown": "Khâ - sRak Ao",
+          "final": "Khao",
+          "meaning": "Pants",
+          "audio": "m2_47.mp3"
+        },
+        {
+          "id": "m2_48",
+          "word": "ស្បែកជើង",
+          "breakdown": "So - Bo - sRak Ae - Ko - Cho - sRak Oeu - Ngo",
+          "final": "Sbaek-cheung",
+          "meaning": "Shoes",
+          "audio": "m2_48.mp3"
+        },
+        {
+          "id": "m2_49",
+          "word": "មួក",
+          "breakdown": "Mo - sRak Uoa - Ko",
+          "final": "Muok",
+          "meaning": "Hat",
+          "audio": "m2_49.mp3"
+        },
+        {
+          "id": "m2_50",
+          "word": "កាបូប",
+          "breakdown": "Ko - sRak Ah - Bo - sRak Oo - Bo",
+          "final": "Ka-bob",
+          "meaning": "Bag",
+          "audio": "m2_50.mp3"
+        }
+      ]
+    },
+    {
+      "id": "module_3",
+      "title": "SITUATIONAL DIALOGUES",
+      "data": [
+        {
+          "id": "m3_1",
+          "khmer": "ជំរាបសួរ",
+          "latin": "Chom reab sour",
+          "english": "Hello (Formal)",
+          "voice": "km-KH-SreymomNeural",
+          "audio": "m3_1.mp3"
+        },
+        {
+          "id": "m3_2",
+          "khmer": "សួស្តី",
+          "latin": "Sous-dei",
+          "english": "Hi (Casual)",
+          "voice": "km-KH-PisethNeural",
+          "audio": "m3_2.mp3"
+        },
+        {
+          "id": "m3_3",
+          "khmer": "សូមគិតលុយ",
+          "latin": "Som kit luy",
+          "english": "Check, please",
+          "voice": "km-KH-SreymomNeural",
+          "audio": "m3_3.mp3"
+        },
+        {
+          "id": "m3_4",
+          "khmer": "ទៅផ្សារធំថ្មីថ្លៃប៉ុន្មាន?",
+          "latin": "To phsar thum thmei thlai ponman?",
+          "english": "How much to Central Market?",
+          "voice": "km-KH-PisethNeural",
+          "audio": "m3_4.mp3"
+        },
+        {
+          "id": "m3_5",
+          "khmer": "ថ្លៃណាស់!",
+          "latin": "Thlai nah!",
+          "english": "Too expensive!",
+          "voice": "km-KH-SreymomNeural",
+          "audio": "m3_5.mp3"
+        },
+        {
+          "id": "m3_6",
+          "khmer": "ចុះថ្លៃបន្តិចបានទេ?",
+          "latin": "Joh thlai bntich ban te?",
+          "english": "Can you lower the price?",
+          "voice": "km-KH-PisethNeural",
+          "audio": "m3_6.mp3"
+        },
+        {
+          "id": "m3_7",
+          "khmer": "អរគុណ",
+          "latin": "Or-kun",
+          "english": "Thank you",
+          "voice": "km-KH-SreymomNeural",
+          "audio": "m3_7.mp3"
+        },
+        {
+          "id": "m3_8",
+          "khmer": "ជម្រាបលា",
+          "latin": "Chom reab lea",
+          "english": "Goodbye (Formal)",
+          "voice": "km-KH-PisethNeural",
+          "audio": "m3_8.mp3"
+        },
+        {
+          "id": "m3_9",
+          "khmer": "តើលោកសុខសប្បាយទេ?",
+          "latin": "Toe lok sok sabbay te?",
+          "english": "How are you?",
+          "voice": "km-KH-SreymomNeural",
+          "audio": "m3_9.mp3"
+        },
+        {
+          "id": "m3_10",
+          "khmer": "ខ្ញុំសុខសប្បាយទេ",
+          "latin": "Knhom sok sabbay te",
+          "english": "I am fine",
+          "voice": "km-KH-PisethNeural",
+          "audio": "m3_10.mp3"
+        },
+        {
+          "id": "m3_11",
+          "khmer": "ចុះអ្នកវិញ?",
+          "latin": "Joh nak vinh?",
+          "english": "And you?",
+          "voice": "km-KH-SreymomNeural",
+          "audio": "m3_11.mp3"
+        },
+        {
+          "id": "m3_12",
+          "khmer": "សូមទោស",
+          "latin": "Som toh",
+          "english": "Sorry / Excuse me",
+          "voice": "km-KH-PisethNeural",
+          "audio": "m3_12.mp3"
+        },
+        {
+          "id": "m3_13",
+          "khmer": "មិនអីទេ",
+          "latin": "Mun ey te",
+          "english": "It's alright",
+          "voice": "km-KH-SreymomNeural",
+          "audio": "m3_13.mp3"
+        },
+        {
+          "id": "m3_14",
+          "khmer": "បាទ",
+          "latin": "Bat",
+          "english": "Yes (Male)",
+          "voice": "km-KH-PisethNeural",
+          "audio": "m3_14.mp3"
+        },
+        {
+          "id": "m3_15",
+          "khmer": "ចាស",
+          "latin": "Jas",
+          "english": "Yes (Female)",
+          "voice": "km-KH-SreymomNeural",
+          "audio": "m3_15.mp3"
+        },
+        {
+          "id": "m3_16",
+          "khmer": "ទេ",
+          "latin": "Te",
+          "english": "No",
+          "voice": "km-KH-PisethNeural",
+          "audio": "m3_16.mp3"
+        },
+        {
+          "id": "m3_17",
+          "khmer": "ខ្ញុំមិនយល់ទេ",
+          "latin": "Knhom mun yol te",
+          "english": "I don't understand",
+          "voice": "km-KH-SreymomNeural",
+          "audio": "m3_17.mp3"
+        },
+        {
+          "id": "m3_18",
+          "khmer": "សូមនិយាយយឺតៗ",
+          "latin": "Som niyay yeut yeut",
+          "english": "Please speak slowly",
+          "voice": "km-KH-PisethNeural",
+          "audio": "m3_18.mp3"
+        },
+        {
+          "id": "m3_19",
+          "khmer": "តើបន្ទប់ទឹកនៅឯណា?",
+          "latin": "Toe bontob teuk nouv ae na?",
+          "english": "Where is the restroom?",
+          "voice": "km-KH-SreymomNeural",
+          "audio": "m3_19.mp3"
+        },
+        {
+          "id": "m3_20",
+          "khmer": "ខ្ញុំចង់បានទឹកមួយដប",
+          "latin": "Knhom jong ban teuk mouy dop",
+          "english": "I want a bottle of water",
+          "voice": "km-KH-PisethNeural",
+          "audio": "m3_20.mp3"
+        },
+        {
+          "id": "m3_21",
+          "khmer": "ញ៉ាំបាយនៅ?",
+          "latin": "Nham bay nouv?",
+          "english": "Have you eaten yet?",
+          "voice": "km-KH-SreymomNeural",
+          "audio": "m3_21.mp3"
+        },
+        {
+          "id": "m3_22",
+          "khmer": "ញ៉ាំហើយ",
+          "latin": "Nham hoy",
+          "english": "Already eaten",
+          "voice": "km-KH-PisethNeural",
+          "audio": "m3_22.mp3"
+        },
+        {
+          "id": "m3_23",
+          "khmer": "ឆ្ងាញ់ណាស់",
+          "latin": "Chhnganh nah",
+          "english": "Very delicious",
+          "voice": "km-KH-SreymomNeural",
+          "audio": "m3_23.mp3"
+        },
+        {
+          "id": "m3_24",
+          "khmer": "តើនេះជាអ្វី?",
+          "latin": "Toe nih jea ov-vey?",
+          "english": "What is this?",
+          "voice": "km-KH-PisethNeural",
+          "audio": "m3_24.mp3"
+        },
+        {
+          "id": "m3_25",
+          "khmer": "នេះថ្លៃប៉ុន្មាន?",
+          "latin": "Nih thlai ponman?",
+          "english": "How much is this?",
+          "voice": "km-KH-SreymomNeural",
+          "audio": "m3_25.mp3"
+        },
+        {
+          "id": "m3_26",
+          "khmer": "ខ្ញុំទិញអាហ្នឹង",
+          "latin": "Knhom tinh ar nung",
+          "english": "I will buy that",
+          "voice": "km-KH-PisethNeural",
+          "audio": "m3_26.mp3"
+        },
+        {
+          "id": "m3_27",
+          "khmer": "សូមជួយខ្ញុំផង",
+          "latin": "Som chuoy knhom phong",
+          "english": "Please help me",
+          "voice": "km-KH-SreymomNeural",
+          "audio": "m3_27.mp3"
+        },
+        {
+          "id": "m3_28",
+          "khmer": "តើអ្នកឈ្មោះអ្វី?",
+          "latin": "Toe nak chhmuah ov-vey?",
+          "english": "What is your name?",
+          "voice": "km-KH-PisethNeural",
+          "audio": "m3_28.mp3"
+        },
+        {
+          "id": "m3_29",
+          "khmer": "ខ្ញុំឈ្មោះ...",
+          "latin": "Knhom chhmuah...",
+          "english": "My name is...",
+          "voice": "km-KH-SreymomNeural",
+          "audio": "m3_29.mp3"
+        },
+        {
+          "id": "m3_30",
+          "khmer": "រីករាយដែលបានស្គាល់",
+          "latin": "Rikray dael ban skoal",
+          "english": "Nice to meet you",
+          "voice": "km-KH-PisethNeural",
+          "audio": "m3_30.mp3"
+        },
+        {
+          "id": "m3_31",
+          "khmer": "ខ្ញុំមកពីស្រុកណា",
+          "latin": "Knhom mok pi srok na",
+          "english": "Where do you come from?",
+          "voice": "km-KH-SreymomNeural",
+          "audio": "m3_31.mp3"
+        },
+        {
+          "id": "m3_32",
+          "khmer": "ខ្ញុំមកពីវៀតណាម",
+          "latin": "Knhom mok pi Viet Nam",
+          "english": "I come from Vietnam",
+          "voice": "km-KH-PisethNeural",
+          "audio": "m3_32.mp3"
+        },
+        {
+          "id": "m3_33",
+          "khmer": "តើអ្នកអាយុប៉ុន្មាន?",
+          "latin": "Toe nak ayu ponman?",
+          "english": "How old are you?",
+          "voice": "km-KH-SreymomNeural",
+          "audio": "m3_33.mp3"
+        },
+        {
+          "id": "m3_34",
+          "khmer": "ឈប់ទីនេះ",
+          "latin": "Chhob ti nih",
+          "english": "Stop here",
+          "voice": "km-KH-PisethNeural",
+          "audio": "m3_34.mp3"
+        },
+        {
+          "id": "m3_35",
+          "khmer": "បត់ឆ្វេង",
+          "latin": "Bot chveng",
+          "english": "Turn left",
+          "voice": "km-KH-SreymomNeural",
+          "audio": "m3_35.mp3"
+        },
+        {
+          "id": "m3_36",
+          "khmer": "បត់ស្តាំ",
+          "latin": "Bot sdam",
+          "english": "Turn right",
+          "voice": "km-KH-PisethNeural",
+          "audio": "m3_36.mp3"
+        },
+        {
+          "id": "m3_37",
+          "khmer": "ទៅត្រង់",
+          "latin": "To trong",
+          "english": "Go straight",
+          "voice": "km-KH-SreymomNeural",
+          "audio": "m3_37.mp3"
+        },
+        {
+          "id": "m3_38",
+          "khmer": "មានបន្ទប់ទំនេរទេ?",
+          "latin": "Mien bontob tomnei te?",
+          "english": "Do you have vacant rooms?",
+          "voice": "km-KH-PisethNeural",
+          "audio": "m3_38.mp3"
+        },
+        {
+          "id": "m3_39",
+          "khmer": "មួយយប់ថ្លៃប៉ុន្មាន?",
+          "latin": "Mouy yob thlai ponman?",
+          "english": "How much per night?",
+          "voice": "km-KH-SreymomNeural",
+          "audio": "m3_39.mp3"
+        },
+        {
+          "id": "m3_40",
+          "khmer": "សូមហៅពេទ្យឲ្យខ្ញុំ",
+          "latin": "Som hav pet oy knhom",
+          "english": "Please call a doctor for me",
+          "voice": "km-KH-PisethNeural",
+          "audio": "m3_40.mp3"
+        },
+        {
+          "id": "m3_41",
+          "khmer": "ក្តៅណាស់",
+          "latin": "Kdau nah",
+          "english": "Very hot",
+          "voice": "km-KH-SreymomNeural",
+          "audio": "m3_41.mp3"
+        },
+        {
+          "id": "m3_42",
+          "khmer": "ត្រជាក់ណាស់",
+          "latin": "Trocheak nah",
+          "english": "Very cold",
+          "voice": "km-KH-PisethNeural",
+          "audio": "m3_42.mp3"
+        },
+        {
+          "id": "m3_43",
+          "khmer": "រីករាយថ្ងៃខួបកំណើត",
+          "latin": "Rikray thngai khuob komneut",
+          "english": "Happy Birthday",
+          "voice": "km-KH-SreymomNeural",
+          "audio": "m3_43.mp3"
+        },
+        {
+          "id": "m3_44",
+          "khmer": "រីករាយឆ្នាំថ្មី",
+          "latin": "Rikray chnam thmei",
+          "english": "Happy New Year",
+          "voice": "km-KH-PisethNeural",
+          "audio": "m3_44.mp3"
+        },
+        {
+          "id": "m3_45",
+          "khmer": "ខ្ញុំស្រឡាញ់អ្នក",
+          "latin": "Knhom srolanh nak",
+          "english": "I love you",
+          "voice": "km-KH-SreymomNeural",
+          "audio": "m3_45.mp3"
+        },
+        {
+          "id": "m3_46",
+          "khmer": "ជួបគ្នាម៉ោងប៉ុន្មាន?",
+          "latin": "Chuob knha moung ponman?",
+          "english": "What time do we meet?",
+          "voice": "km-KH-PisethNeural",
+          "audio": "m3_46.mp3"
+        },
+        {
+          "id": "m3_47",
+          "khmer": "ហត់អត់?",
+          "latin": "Hot ot?",
+          "english": "Are you tired?",
+          "voice": "km-KH-SreymomNeural",
+          "audio": "m3_47.mp3"
+        },
+        {
+          "id": "m3_48",
+          "khmer": "សប្បាយចិត្តណាស់",
+          "latin": "Sabbay chut nah",
+          "english": "Very happy",
+          "voice": "km-KH-PisethNeural",
+          "audio": "m3_48.mp3"
+        },
+        {
+          "id": "m3_49",
+          "khmer": "ពិតមែនទេ?",
+          "latin": "Pit maen te?",
+          "english": "Really?",
+          "voice": "km-KH-SreymomNeural",
+          "audio": "m3_49.mp3"
+        },
+        {
+          "id": "m3_50",
+          "khmer": "លាហើយ",
+          "latin": "Lea hoy",
+          "english": "Bye bye",
+          "voice": "km-KH-PisethNeural",
+          "audio": "m3_50.mp3"
+        }
+      ]
+    },
+    {
+      "id": "module_4",
+      "title": "INTERACTIVE WRITING VECTOR PATHS",
+      "data": [
+        {
+          "id": "m4_1",
+          "char": "ក",
+          "strokes": 3,
+          "path": "M 10,80 Q 20,40 50,40 L 50,90 M 50,40 C 70,40 80,50 80,90",
+          "guide": "Draw loop, pull up arch, pull down stem."
+        },
+        {
+          "id": "m4_2",
+          "char": "ខ",
+          "strokes": 2,
+          "path": "M 30,40 C 20,40 20,60 30,60 L 30,90 L 70,90",
+          "guide": "Form left inner swirl, drop down, corner right line."
+        },
+        {
+          "id": "m4_3",
+          "char": "គ",
+          "strokes": 3,
+          "path": "M 10,40 Q 30,40 40,60 L 40,90 M 40,60 Q 60,40 80,90",
+          "guide": "Left baseline twist, center nodule, long right tail drop."
+        },
+        {
+          "id": "m4_4",
+          "char": "ឃ",
+          "strokes": 3,
+          "path": "M 15,40 L 15,90 M 15,60 C 35,40 45,90 45,90 L 80,90",
+          "guide": "Left strict spine, center wave hook, flat foundation plate."
+        },
+        {
+          "id": "m4_5",
+          "char": "ង",
+          "strokes": 2,
+          "path": "M 20,40 L 60,40 L 40,90",
+          "guide": "Top head bar left to right, angled lightning drop to ground."
+        },
+        {
+          "id": "m4_6",
+          "char": "ច",
+          "strokes": 2,
+          "path": "M 10,90 L 40,40 L 80,90",
+          "guide": "Upward left dynamic stroke, sharp crest, downward ground drop."
+        },
+        {
+          "id": "m4_7",
+          "char": "ឆ",
+          "strokes": 3,
+          "path": "M 20,40 C 40,20 60,60 60,90",
+          "guide": "Top crown peak swirl, main structural shell line downward."
+        },
+        {
+          "id": "m4_8",
+          "char": "ជ",
+          "strokes": 3,
+          "path": "M 10,60 C 30,20 70,40 70,90",
+          "guide": "Left wave loop, upper horizontal bar hook, stem dropdown."
+        },
+        {
+          "id": "m4_9",
+          "char": "ឈ",
+          "strokes": 4,
+          "path": "M 20,40 L 20,90 L 60,90",
+          "guide": "Dual spine block left, bottom platform tie, vertical line up."
+        },
+        {
+          "id": "m4_10",
+          "char": "ញ",
+          "strokes": 3,
+          "path": "M 15,40 C 45,15 65,90 65,90",
+          "guide": "High left accent point, descending shell body, feet mark."
+        },
+        {
+          "id": "m4_11",
+          "char": "ដ",
+          "strokes": 3,
+          "path": "M 10,40 L 80,40 L 45,90",
+          "guide": "Flat wide hat brim line, sudden anchor drop straight down."
+        },
+        {
+          "id": "m4_12",
+          "char": "ឋ",
+          "strokes": 3,
+          "path": "M 30,30 L 30,90 L 70,90",
+          "guide": "Square layout loop start, deep drop, extended flat shoe base."
+        },
+        {
+          "id": "m4_13",
+          "char": "ឌ",
+          "strokes": 3,
+          "path": "M 20,50 L 50,50 L 50,90",
+          "guide": "Center intersection cross, main vertical beam downward layout."
+        },
+        {
+          "id": "m4_14",
+          "char": "ឍ",
+          "strokes": 4,
+          "path": "M 10,40 L 80,40 L 20,90",
+          "guide": "Zigzag crown sequence, sweeping left tail drop to corner."
+        },
+        {
+          "id": "m4_15",
+          "char": "ណ",
+          "strokes": 3,
+          "path": "M 30,40 C 50,20 80,60 50,90",
+          "guide": "Loop node construction, vertical balance beam extraction."
+        },
+        {
+          "id": "m4_16",
+          "char": "ត",
+          "strokes": 3,
+          "path": "M 10,40 L 45,90 L 80,40",
+          "guide": "V-shape body outline, central anchor point distribution."
+        },
+        {
+          "id": "m4_17",
+          "char": "ថ",
+          "strokes": 2,
+          "path": "M 15,90 L 15,40 L 75,40",
+          "guide": "Left dynamic lift, high horizontal beam left-to-right."
+        },
+        {
+          "id": "m4_18",
+          "char": "ទ",
+          "strokes": 3,
+          "path": "M 20,40 L 20,90 M 20,60 L 80,90",
+          "guide": "Main structural left spine, long slide bar to right floor."
+        },
+        {
+          "id": "m4_19",
+          "char": "ធ",
+          "strokes": 3,
+          "path": "M 10,40 C 40,40 40,90 80,90",
+          "guide": "Double middle hump curve execution, right flat plate alignment."
+        },
+        {
+          "id": "m4_20",
+          "char": "ន",
+          "strokes": 2,
+          "path": "M 20,40 L 20,90 L 70,40",
+          "guide": "Vertical ground line pull, high ascending diagonal right stroke."
+        },
+        {
+          "id": "m4_21",
+          "char": "ប",
+          "strokes": 2,
+          "path": "M 15,40 L 15,90 L 75,90",
+          "guide": "Left outer frame line down, long horizontal floor foundation."
+        },
+        {
+          "id": "m4_22",
+          "char": "ផ",
+          "strokes": 3,
+          "path": "M 20,40 C 30,60 50,60 60,40",
+          "guide": "U-shape belly layout, bottom balance nodes distribution."
+        },
+        {
+          "id": "m4_23",
+          "char": "ព",
+          "strokes": 3,
+          "path": "M 15,40 L 15,90 M 15,90 C 45,90 75,40 75,40",
+          "guide": "Left corner baseline lift, sweeping scoop curve to right top."
+        },
+        {
+          "id": "m4_24",
+          "char": "ភ",
+          "strokes": 3,
+          "path": "M 10,40 C 40,10 70,60 40,90",
+          "guide": "High left loop crest hook, heavy downforce right stem draw."
+        },
+        {
+          "id": "m4_25",
+          "char": "ម",
+          "strokes": 2,
+          "path": "M 25,40 C 25,90 75,90 75,40",
+          "guide": "Deep bucket curve shell loop, double side vertical boundary."
+        },
+        {
+          "id": "m4_26",
+          "char": "យ",
+          "strokes": 3,
+          "path": "M 10,40 L 40,90 L 70,40",
+          "guide": "Symmetrical trident wave layout, bottom vertex intersection."
+        },
+        {
+          "id": "m4_27",
+          "char": "រ",
+          "strokes": 2,
+          "path": "M 20,90 L 20,40 C 40,40 60,60 60,90",
+          "guide": "Left high vertical drop, soft parachute loop to right ground."
+        },
+        {
+          "id": "m4_28",
+          "char": "ល",
+          "strokes": 3,
+          "path": "M 15,90 C 15,40 45,40 45,90",
+          "guide": "Double rolling arch structure, rhythmic identical pattern loops."
+        },
+        {
+          "id": "m4_29",
+          "char": "វ",
+          "strokes": 2,
+          "path": "M 20,40 C 50,40 50,90 20,90",
+          "guide": "C-shape backward moon crescent curve line boundary trace."
+        },
+        {
+          "id": "m4_30",
+          "char": "ស",
+          "strokes": 3,
+          "path": "M 10,40 L 10,90 M 10,40 L 80,40",
+          "guide": "Left column lock line, right hand shelf extension bar trace."
+        },
+        {
+          "id": "m4_31",
+          "char": "ហ",
+          "strokes": 4,
+          "path": "M 20,40 L 20,90 M 20,40 L 60,40 L 60,90",
+          "guide": "H-frame structural block trace, dual support layout execution."
+        },
+        {
+          "id": "m4_32",
+          "char": "ឡ",
+          "strokes": 3,
+          "path": "M 15,40 L 75,40 L 45,90",
+          "guide": "Top protective horizontal ceiling mark, diagonal anchor slash."
+        },
+        {
+          "id": "m4_33",
+          "char": "អ",
+          "strokes": 3,
+          "path": "M 20,40 C 20,90 80,90 80,40",
+          "guide": "Grand baseline circular orbit envelope wrap around construction."
+        },
+        {
+          "id": "m4_34",
+          "char": "កា",
+          "strokes": 4,
+          "path": "M_Consonant_1_Then_Add_Right_Vertical_Bar",
+          "guide": "Draw character ក first, then drop an independent bar right."
+        },
+        {
+          "id": "m4_35",
+          "char": "កិ",
+          "strokes": 4,
+          "path": "M_Consonant_1_Then_Add_Top_Hat_Curve",
+          "guide": "Draw character ក first, then place a small cap over head."
+        },
+        {
+          "id": "m4_36",
+          "char": "កី",
+          "strokes": 5,
+          "path": "M_Consonant_1_Then_Add_Top_Hat_With_Tooth",
+          "guide": "Draw character ក, add cap over head, draw vertical micro tooth."
+        },
+        {
+          "id": "m4_37",
+          "char": "កឹ",
+          "strokes": 4,
+          "path": "M_Consonant_1_Then_Add_Top_Hollow_Circle",
+          "guide": "Draw character ក, top small circle accent without filling."
+        },
+        {
+          "id": "m4_38",
+          "char": "កឺ",
+          "strokes": 5,
+          "path": "M_Consonant_1_Then_Add_Top_Circle_Double_Line",
+          "guide": "Draw character ក, upper cap accented with parallel twin lines."
+        },
+        {
+          "id": "m4_39",
+          "char": "កុ",
+          "strokes": 4,
+          "path": "M_Consonant_1_Then_Add_Bottom_Tail_Drop",
+          "guide": "Draw character ក, anchor a small micro hook underneath floor."
+        },
+        {
+          "id": "m4_40",
+          "char": "កូ",
+          "strokes": 4,
+          "path": "M_Consonant_1_Then_Add_Bottom_Long_Coil",
+          "guide": "Draw character ក, expand bottom tail into a full loop swirl."
+        },
+        {
+          "id": "m4_41",
+          "char": "កួ",
+          "strokes": 4,
+          "path": "M_Consonant_1_Then_Add_Upper_Right_Accent",
+          "guide": "Draw character ក, crown accented right side with horn curve."
+        },
+        {
+          "id": "m4_42",
+          "char": "កើ",
+          "strokes": 5,
+          "path": "M_Consonant_1_Then_Add_Front_E_And_Top_Cap",
+          "guide": "Draw front panel flap element first, then basic character block."
+        },
+        {
+          "id": "m4_43",
+          "char": "កឿ",
+          "strokes": 5,
+          "path": "M_Consonant_1_Then_Add_Complex_Triple_Accent",
+          "guide": "Left shield bar, center main character, upper crescent tail combo."
+        },
+        {
+          "id": "m4_44",
+          "char": "កៀ",
+          "strokes": 4,
+          "path": "M_Consonant_1_Then_Add_Left_E_Flag",
+          "guide": "Draw extreme left vertical flag bar first, then main character."
+        },
+        {
+          "id": "m4_45",
+          "char": "កេ",
+          "strokes": 4,
+          "path": "M_Consonant_1_Left_Single_E_Hook",
+          "guide": "Left side standalone hook node allocation, right target block."
+        },
+        {
+          "id": "m4_46",
+          "char": "កែ",
+          "strokes": 5,
+          "path": "M_Consonant_1_Left_Double_E_Hook",
+          "guide": "Double twin flag bars drawn on left edge concurrently frame."
+        },
+        {
+          "id": "m4_47",
+          "char": "កៃ",
+          "strokes": 4,
+          "path": "M_Consonant_1_Left_Flag_Top_Spoon_Accent",
+          "guide": "Left flag bar deployed, upper right side added micro drop."
+        },
+        {
+          "id": "m4_48",
+          "char": "កោ",
+          "strokes": 5,
+          "path": "M_Consonant_1_Left_Flag_Right_Bar_Wrap",
+          "guide": "Full sandwich layout box container enclosure initialization process."
+        },
+        {
+          "id": "m4_49",
+          "char": "កៅ",
+          "strokes": 5,
+          "path": "M_Consonant_1_Left_Flag_Right_Short_Hook",
+          "guide": "Left component setup, right terminal short anchor hook line."
+        },
+        {
+          "id": "m4_50",
+          "char": "កុំ",
+          "strokes": 5,
+          "path": "M_Consonant_1_Top_Dot_Bottom_Hook",
+          "guide": "Simultaneous top dot drop and floor tail hook execution bundle."
+        }
+      ]
+    },
+    {
+      "id": "module_5",
+      "title": "4-IN-1 AUTOMATED COMPETENCY TESTS",
+      "data": [
+        {
+          "id": "m5_1",
+          "type": "listening",
+          "q_audio": "m3_1.mp3",
+          "options": ["ជំរាបសួរ", "សួស្តី", "អរគុណ", "លាហើយ"],
+          "correct": "ជំរាបសួរ",
+          "score": 10
+        },
+        {
+          "id": "m5_2",
+          "type": "reading",
+          "q_text": "សូមគិតលុយ",
+          "options": ["Hello", "Thank you", "Check, please", "Water"],
+          "correct": "Check, please",
+          "score": 10
+        },
+        {
+          "id": "m5_3",
+          "type": "writing",
+          "scrambled": ["លុយ", "សូម", "គិត"],
+          "correct": ["សូម", "គិត", "លុយ"],
+          "score": 20
+        },
+        {
+          "id": "m5_4",
+          "type": "reading",
+          "q_text": "បាយ",
+          "options": ["Rice", "Bread", "Meat", "Water"],
+          "correct": "Rice",
+          "score": 10
+        },
+        {
+          "id": "m5_5",
+          "type": "listening",
+          "q_audio": "m3_7.mp3",
+          "options": ["សួស្តី", "អរគុណ", "ទេ", "បាទ"],
+          "correct": "អរគុណ",
+          "score": 10
+        },
+        {
+          "id": "m5_6",
+          "type": "reading",
+          "q_text": "ទឹក",
+          "options": ["Fire", "Earth", "Water", "Sky"],
+          "correct": "Water",
+          "score": 10
+        },
+        {
+          "id": "m5_7",
+          "type": "writing",
+          "scrambled": ["ធំ", "ផ្សារ", "ថ្មី"],
+          "correct": ["ផ្សារ", "ធំ", "ថ្មី"],
+          "score": 20
+        },
+        {
+          "id": "m5_8",
+          "type": "listening",
+          "q_audio": "m1_1.mp3",
+          "options": ["ក", "ខ", "គ", "ឃ"],
+          "correct": "ក",
+          "score": 10
+        },
+        {
+          "id": "m5_9",
+          "type": "reading",
+          "q_text": "ឆ្មា",
+          "options": ["Dog", "Cat", "Bird", "Fish"],
+          "correct": "Cat",
+          "score": 10
+        },
+        {
+          "id": "m5_10",
+          "type": "listening",
+          "q_audio": "m3_5.mp3",
+          "options": ["ថ្លៃណាស់", "មិនអីទេ", "សូមទោស", "ចាស"],
+          "correct": "ថ្លៃណាស់",
+          "score": 10
+        },
+        {
+          "id": "m5_11",
+          "type": "reading",
+          "q_text": "ឆ្កែ",
+          "options": ["Horse", "Cat", "Dog", "Cow"],
+          "correct": "Dog",
+          "score": 10
+        },
+        {
+          "id": "m5_12",
+          "type": "writing",
+          "scrambled": ["សុខ", "តើ", "លោក", "ទេ", "សប្បាយ"],
+          "correct": ["តើ", "លោក", "សុខ", "សប្បាយ", "ទេ"],
+          "score": 20
+        },
+        {
+          "id": "m5_13",
+          "type": "listening",
+          "q_audio": "m1_2.mp3",
+          "options": ["ក", "ខ", "គ", "ឃ"],
+          "correct": "ខ",
+          "score": 10
+        },
+        {
+          "id": "m5_14",
+          "type": "reading",
+          "q_text": "ផ្ទះ",
+          "options": ["Car", "School", "Market", "House"],
+          "correct": "House",
+          "score": 10
+        },
+        {
+          "id": "m5_15",
+          "type": "listening",
+          "q_audio": "m3_16.mp3",
+          "options": ["បាទ", "ចាស", "ទេ", "អរគុណ"],
+          "correct": "ទេ",
+          "score": 10
+        },
+        {
+          "id": "m5_16",
+          "type": "reading",
+          "q_text": "លុយ",
+          "options": ["Gold", "Money", "Silver", "Diamond"],
+          "correct": "Money",
+          "score": 10
+        },
+        {
+          "id": "m5_17",
+          "type": "writing",
+          "scrambled": ["មិន", "ទេ", "អី"],
+          "correct": ["មិន", "អី", "ទេ"],
+          "score": 20
+        },
+        {
+          "id": "m5_18",
+          "type": "listening",
+          "q_audio": "m1_3.mp3",
+          "options": ["ក", "ខ", "គ", "ឃ"],
+          "correct": "គ",
+          "score": 10
+        },
+        {
+          "id": "m5_19",
+          "type": "reading",
+          "q_text": "ផ្សារ",
+          "options": ["Hotel", "Market", "Pagoda", "Airport"],
+          "correct": "Market",
+          "score": 10
+        },
+        {
+          "id": "m5_20",
+          "type": "listening",
+          "q_audio": "m3_12.mp3",
+          "options": ["សូមទោស", "អរគុណ", "សួស្តី", "លាហើយ"],
+          "correct": "សូមទោស",
+          "score": 10
+        },
+        {
+          "id": "m5_21",
+          "type": "reading",
+          "q_text": "ត្រី",
+          "options": ["Chicken", "Duck", "Fish", "Pork"],
+          "correct": "Fish",
+          "score": 10
+        },
+        {
+          "id": "m5_22",
+          "type": "writing",
+          "scrambled": ["ដប", "មួយ", "ទឹក"],
+          "correct": ["ទឹក", "មួយ", "ដប"],
+          "score": 20
+        },
+        {
+          "id": "m5_23",
+          "type": "listening",
+          "q_audio": "m1_5.mp3",
+          "options": ["ច", "ឆ", "ជ", "ង"],
+          "correct": "ង",
+          "score": 10
+        },
+        {
+          "id": "m5_24",
+          "type": "reading",
+          "q_text": "ឡាន",
+          "options": ["Bicycle", "Train", "Car", "Plane"],
+          "correct": "Car",
+          "score": 10
+        },
+        {
+          "id": "m5_25",
+          "type": "listening",
+          "q_audio": "m3_35.mp3",
+          "options": ["បត់ឆ្វេង", "បត់ស្តាំ", "ទៅត្រង់", "ឈប់"],
+          "correct": "បត់ឆ្វេង",
+          "score": 10
+        },
+        {
+          "id": "m5_26",
+          "type": "reading",
+          "q_text": "បត់ស្តាំ",
+          "options": ["Turn left", "Turn right", "Go straight", "Stop"],
+          "correct": "Turn right",
+          "score": 10
+        },
+        {
+          "id": "m5_27",
+          "type": "writing",
+          "scrambled": ["ទី", "ឈប់", "នេះ"],
+          "correct": ["ឈប់", "ទី", "នេះ"],
+          "score": 20
+        },
+        {
+          "id": "m5_28",
+          "type": "listening",
+          "q_audio": "m1_6.mp3",
+          "options": ["ច", "ឆ", "ជ", "ឈ"],
+          "correct": "ច",
+          "score": 10
+        },
+        {
+          "id": "m5_29",
+          "type": "reading",
+          "q_text": "ភ្នំ",
+          "options": ["River", "Sea", "Lake", "Mountain"],
+          "correct": "Mountain",
+          "score": 10
+        },
+        {
+          "id": "m5_30",
+          "type": "listening",
+          "q_audio": "m3_41.mp3",
+          "options": ["ក្តៅណាស់", "ត្រជាក់ណាស់", "សប្បាយចិត្ត", "ហត់អត់"],
+          "correct": "ក្តៅណាស់",
+          "score": 10
+        },
+        {
+          "id": "m5_31",
+          "type": "reading",
+          "q_text": "ត្រជាក់ណាស់",
+          "options": ["Very hot", "Very cold", "Very tired", "Very happy"],
+          "correct": "Very cold",
+          "score": 10
+        },
+        {
+          "id": "m5_32",
+          "type": "writing",
+          "scrambled": ["អ្នក", "ស្រឡាញ់", "ខ្ញុំ"],
+          "correct": ["ខ្ញុំ", "ស្រឡាញ់", "អ្នក"],
+          "score": 20
+        },
+        {
+          "id": "m5_33",
+          "type": "listening",
+          "q_audio": "m1_30.mp3",
+          "options": ["ហ", "ឡ", "អ", "ស"],
+          "correct": "ស",
+          "score": 10
+        },
+        {
+          "id": "m5_34",
+          "type": "reading",
+          "q_text": "សៀវភៅ",
+          "options": ["Pen", "Book", "Pencil", "Paper"],
+          "correct": "Book",
+          "score": 10
+        },
+        {
+          "id": "m5_35",
+          "type": "listening",
+          "q_audio": "m3_50.mp3",
+          "options": ["សួស្តី", "អរគុណ", "លាហើយ", "សូមទោស"],
+          "correct": "លាហើយ",
+          "score": 10
+        },
+        {
+          "id": "m5_36",
+          "type": "reading",
+          "q_text": "ប៊ិច",
+          "options": ["Ruler", "Eraser", "Pen", "Bag"],
+          "correct": "Pen",
+          "score": 10
+        },
+        {
+          "id": "m5_37",
+          "type": "writing",
+          "scrambled": ["ឆ្នាំ", "រីករាយ", "ថ្មី"],
+          "correct": ["រីករាយ", "ឆ្នាំ", "ថ្មី"],
+          "score": 20
+        },
+        {
+          "id": "m5_38",
+          "type": "listening",
+          "q_audio": "m2_1.mp3",
+          "options": ["កែប", "បាយ", "ទឹក", "សាលា"],
+          "correct": "កែប",
+          "score": 10
+        },
+        {
+          "id": "m5_39",
+          "type": "reading",
+          "q_text": "កៅអី",
+          "options": ["Table", "Door", "Window", "Chair"],
+          "correct": "Chair",
+          "score": 10
+        },
+        {
+          "id": "m5_40",
+          "type": "listening",
+          "q_audio": "m2_2.mp3",
+          "options": ["កង់", "ឡាន", "បាយ", "ផ្ទះ"],
+          "correct": "បាយ",
+          "score": 10
+        },
+        {
+          "id": "m5_41",
+          "type": "reading",
+          "q_text": "អាវ",
+          "options": ["Shirt", "Pants", "Hat", "Shoes"],
+          "correct": "Shirt",
+          "score": 10
+        },
+        {
+          "id": "m5_42",
+          "type": "writing",
+          "scrambled": ["ឈ្មោះ", "អ្វី", "អ្នក", "តើ"],
+          "correct": ["តើ", "អ្នក", "ឈ្មោះ", "អ្វី"],
+          "score": 20
+        },
+        {
+          "id": "m5_43",
+          "type": "listening",
+          "q_audio": "m2_3.mp3",
+          "options": ["ដី", "មេឃ", "ថ្ងៃ", "ទឹក"],
+          "correct": "ទឹក",
+          "score": 10
+        },
+        {
+          "id": "m5_44",
+          "type": "reading",
+          "q_text": "ខោ",
+          "options": ["Socks", "Tie", "Pants", "Shirt"],
+          "correct": "Pants",
+          "score": 10
+        },
+        {
+          "id": "m5_45",
+          "type": "listening",
+          "q_audio": "m2_4.mp3",
+          "options": ["ផ្សារ", "សាលា", "ភ្នំ", "សមុទ្រ"],
+          "correct": "សាលា",
+          "score": 10
+        },
+        {
+          "id": "m5_46",
+          "type": "reading",
+          "q_text": "មួក",
+          "options": ["Gloves", "Coat", "Hat", "Belt"],
+          "correct": "Hat",
+          "score": 10
+        },
+        {
+          "id": "m5_47",
+          "type": "writing",
+          "scrambled": ["គិត", "សូម", "លុយ"],
+          "correct": ["សូម", "គិត", "លុយ"],
+          "score": 20
+        },
+        {
+          "id": "m5_48",
+          "type": "listening",
+          "q_audio": "m2_5.mp3",
+          "options": ["ស្រលាញ់", "ស្អប់", "ខ្លាច", "ខឹង"],
+          "correct": "ស្រលាញ់",
+          "score": 10
+        },
+        {
+          "id": "m5_49",
+          "type": "reading",
+          "q_text": "កាបូប",
+          "options": ["Wallet", "Bag", "Suitcase", "Box"],
+          "correct": "Bag",
+          "score": 10
+        },
+        {
+          "id": "m5_50",
+          "type": "listening",
+          "q_audio": "m3_23.mp3",
+          "options": ["ឆ្ងាញ់ណាស់", "អត់ឆ្ងាញ់", "ហឹរណាស់", "ផ្អែមណាស់"],
+          "correct": "ឆ្ងាញ់ណាស់",
+          "score": 10
+        }
+      ]
+    },
+    {
+      "id": "module_6",
+      "title": "CAMBODIA HANDBOOK",
+      "data": [
+        {
+          "id": "m6_1",
+          "title": "Angkor Wat (អង្គរវត្ត)",
+          "content_km": "អង្គរវត្តគឺជាប្រាសាទដ៏ធំបំផុតនៅក្នុងប្រទេសកម្ពុជា។",
+          "content_vi": "Angkor Wat là ngôi đền lớn nhất ở Campuchia.",
+          "content_en": "Angkor Wat is the largest temple in Cambodia.",
+          "audio": "m6_1.mp3",
+          "voice": "km-KH-PisethNeural"
+        },
+        {
+          "id": "m6_2",
+          "title": "Amok (អាម៉ុក)",
+          "content_km": "អាម៉ុកគឺជាម្ហូបប្រពៃណីរបស់ខ្មែរដែលធ្វើពីត្រីនិងខ្ទិះដូង។",
+          "content_vi": "Amok là món ăn truyền thống của người Khmer làm từ cá và nước cốt dừa.",
+          "content_en": "Amok is a traditional Khmer dish made of fish and coconut milk.",
+          "audio": "m6_2.mp3",
+          "voice": "km-KH-SreymomNeural"
+        },
+        {
+          "id": "m6_3",
+          "title": "Khmer New Year (ចូលឆ្នាំខ្មែរ)",
+          "content_km": "ពិធីបុណ្យចូលឆ្នាំខ្មែរប្រារព្ធនៅពាក់កណ្តាលខែមេសាជារៀងរាល់ឆ្នាំ។",
+          "content_vi": "Tết Khmer được tổ chức vào giữa tháng 4 hàng năm.",
+          "content_en": "Khmer New Year is celebrated in mid-April every year.",
+          "audio": "m6_3.mp3",
+          "voice": "km-KH-PisethNeural"
+        },
+        {
+          "id": "m6_4",
+          "title": "Tonle Sap (ទន្លេសាប)",
+          "content_km": "ទន្លេសាបគឺជាបឹងទឹកសាបដ៏ធំបំផុតនៅអាស៊ីអាគ្នេយ៍។",
+          "content_vi": "Tonle Sap là hồ nước ngọt lớn nhất ở Đông Nam Á.",
+          "content_en": "Tonle Sap is the largest freshwater lake in Southeast Asia.",
+          "audio": "m6_4.mp3",
+          "voice": "km-KH-SreymomNeural"
+        },
+        {
+          "id": "m6_5",
+          "title": "Apsara Dance (របាំអប្សរា)",
+          "content_km": "របាំអប្សរាជារបាំព្រះរាជទ្រព្យដ៏ល្បីល្បាញរបស់កម្ពុជា។",
+          "content_vi": "Điệu múa Apsara là điệu múa cung đình nổi tiếng của Campuchia.",
+          "content_en": "Apsara Dance is the famous royal dance of Cambodia.",
+          "audio": "m6_5.mp3",
+          "voice": "km-KH-PisethNeural"
+        },
+        {
+          "id": "m6_6",
+          "title": "Phnom Penh (ភ្នំពេញ)",
+          "content_km": "ភ្នំពេញគឺជារាជធានីនិងជាទីក្រុងធំបំផុតរបស់ប្រទេសកម្ពុជា។",
+          "content_vi": "Phnom Penh là thủ đô và là thành phố lớn nhất của Campuchia.",
+          "content_en": "Phnom Penh is the capital and largest city of Cambodia.",
+          "audio": "m6_6.mp3",
+          "voice": "km-KH-SreymomNeural"
+        },
+        {
+          "id": "m6_7",
+          "title": "Krama (ក្រមា)",
+          "content_km": "ក្រមាគឺជាក្រណាត់ប្រពៃណីខ្មែរដែលប្រើសម្រាប់រុំក្បាលនិងជូតខ្លួន។",
+          "content_vi": "Krama là chiếc khăn truyền thống của người Khmer dùng để quấn đầu và lau người.",
+          "content_en": "Krama is a traditional Khmer scarf used for wrapping the head and wiping the body.",
+          "audio": "m6_7.mp3",
+          "voice": "km-KH-PisethNeural"
+        },
+        {
+          "id": "m6_8",
+          "title": "Pchum Ben (បុណ្យភ្ជុំបិណ្ឌ)",
+          "content_km": "បុណ្យភ្ជុំបិណ្ឌគឺជាពិធីបុណ្យឧទ្ទិសកុសលដល់អ្នកដែលបានចែកឋានទៅហើយ។",
+          "content_vi": "Pchum Ben là lễ hội tưởng nhớ những người đã khuất.",
+          "content_en": "Pchum Ben is a festival dedicated to remembering those who have passed away.",
+          "audio": "m6_8.mp3",
+          "voice": "km-KH-SreymomNeural"
+        },
+        {
+          "id": "m6_9",
+          "title": "Tuk Tuk (រ៉ឺម៉កកង់បី)",
+          "content_km": "រ៉ឺម៉កកង់បីគឺជាមធ្យោបាយធ្វើដំណើរដ៏ពេញនិយមនៅកម្ពុជា។",
+          "content_vi": "Xe Tuk Tuk là phương tiện đi lại phổ biến ở Campuchia.",
+          "content_en": "Tuk Tuk is a popular mode of transportation in Cambodia.",
+          "audio": "m6_9.mp3",
+          "voice": "km-KH-PisethNeural"
+        },
+        {
+          "id": "m6_10",
+          "title": "Kampot Pepper (ម្រេចកំពត)",
+          "content_km": "ម្រេចកំពតមានភាពល្បីល្បាញទូទាំងពិភពលោកដោយសាររសជាតិដ៏ឈ្ងុយឆ្ងាញ់។",
+          "content_vi": "Hạt tiêu Kampot nổi tiếng trên toàn thế giới vì hương vị thơm ngon.",
+          "content_en": "Kampot pepper is world-famous for its delicious flavor.",
+          "audio": "m6_10.mp3",
+          "voice": "km-KH-SreymomNeural"
+        }
+      ]
+    }
+  ]
+}

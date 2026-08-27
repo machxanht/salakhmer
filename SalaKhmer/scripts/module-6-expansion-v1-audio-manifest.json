@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-08-12T10:52:55.705Z",
+  "moduleId": "module_6",
+  "inputs": [
+    "src/components/KingdomInsights.tsx"
+  ],
+  "generationRule": "Review Khmer text first. Generate only items marked approved-for-azure. Complete Khmer words and sentences only; no isolated alphabet characters or vowel signs.",
+  "outputPrefix": "audio/module-expansion-v1/module_6/",
+  "totalDiscoveredStrings": 0,
+  "uniqueSynthesizableItems": 0,
+  "estimatedAzureCharacters": 0,
+  "items": []
+}

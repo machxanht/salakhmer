@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "title": "SalaKhmer English-first content factory",
+  "sourcePolicy": "Create original teaching text. Use external courses only for topic sequencing and pedagogy; never copy their sentences, audio, images, or exercises.",
+  "qualityGate": "A native Khmer reviewer must approve Khmer spelling and naturalness before Azure audio generation.",
+  "azureF0": {
+    "monthlyCharacterLimit": 500000,
+    "safeGenerationLimit": 450000,
+    "requestStrategy": "one request at a time; 3.25 seconds between newly created files; resumable",
+    "notFor": ["isolated Khmer alphabet letter names"]
+  },
+  "learningPath": [
+    { "level": "A0.1", "name": "Script readiness", "targetItems": 260, "content": ["consonant recognition", "vowel signs", "guided spelling", "numbers"] },
+    { "level": "A0.2", "name": "First survival words", "targetItems": 600, "content": ["greetings", "people", "food", "places", "common actions"] },
+    { "level": "A1.1", "name": "Useful phrases", "targetItems": 1000, "content": ["politeness", "introductions", "shopping", "transport", "food"] },
+    { "level": "A1.2", "name": "Daily conversations", "targetItems": 1500, "content": ["five-to-six-turn dialogues", "question patterns", "numbers", "time"] },
+    { "level": "A1.3", "name": "Living in Cambodia", "targetItems": 1500, "content": ["hotel", "SIM", "health", "directions", "family", "work"] },
+    { "level": "A2.1", "name": "Expanded daily life", "targetItems": 1800, "content": ["plans", "opinions", "requests", "past and future context"] },
+    { "level": "A2.2", "name": "Stories and culture", "targetItems": 1700, "content": ["short original readings", "culture notes", "descriptions", "retelling"] },
+    { "level": "B1.1", "name": "Natural conversations", "targetItems": 1800, "content": ["longer dialogues", "social situations", "problem solving"] },
+    { "level": "B1.2", "name": "Work and services", "targetItems": 1600, "content": ["appointments", "services", "workplace", "formal language"] },
+    { "level": "B1.3", "name": "Independent reading", "targetItems": 1400, "content": ["articles", "stories", "listening comprehension", "review"] }
+  ],
+  "targetTotalItems": 12160,
+  "releaseRule": "Publish in reviewed batches of 100 to 500 items; never expose unreviewed Khmer text or audio to learners."
+}

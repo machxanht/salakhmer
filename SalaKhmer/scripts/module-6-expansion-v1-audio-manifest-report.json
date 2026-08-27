@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-08-12T10:52:55.705Z",
+  "manifest": "scripts/module-6-expansion-v1-audio-manifest.json",
+  "moduleId": "module_6",
+  "inputs": [
+    "src/components/KingdomInsights.tsx"
+  ],
+  "totalDiscoveredStrings": 0,
+  "uniqueSynthesizableItems": 0,
+  "estimatedAzureCharacters": 0,
+  "excluded": "One-glyph / non-Khmer / mixed-language strings are excluded by design.",
+  "nextStep": "Approved manifest ready. Run audio:module-expansion with --input=<manifest>."
+}

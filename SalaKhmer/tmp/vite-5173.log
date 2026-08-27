@@ -1,0 +1,663 @@
+
+> dev
+> vite dev --host 127.0.0.1 --port 5173
+
+
+  [32m[1mVITE[22m v8.2.0[39m  [2mready in [0m[1m3111[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5173[22m/[39m
+[2m5:46:18 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m connected.
+[2m5:51:27 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/__root.tsx[22m
+[2m5:51:27 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/__root.tsx[22m
+[2m5:51:27 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m program reload
+[2m5:51:36 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/__root.tsx[22m
+[2m5:51:36 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/__root.tsx[22m
+File E:\AI\Antigravity\SalaKhmer\src\routeTree.gen.ts was modified by another process during processing.
+[2m9:09:26 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/routeTree.gen.ts[22m
+[2m9:09:26 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routeTree.gen.ts[22m
+[2m9:09:26 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m program reload
+[2m9:10:53 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m9:10:53 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m9:11:06 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/ui-preview.tsx[22m
+[2m9:11:06 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/ui-preview.tsx[22m
+[2m9:11:06 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m program reload
+[2m1:14:16 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/SpellingBreakdown.tsx, /src/routes/lesson.$lessonId.tsx?tsr-split=component, /src/routes/grid-lesson.$lessonId.tsx?tsr-split=component[22m
+[2m1:15:34 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m1:15:34 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m1:15:34 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m1:15:34 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m1:21:26 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/hooks/useAuth.tsx, /src/routes/home.tsx?tsr-split=component, /src/routes/profile.tsx?tsr-split=component, /src/routes/category.$categoryId.tsx?tsr-split=component, /src/routes/lesson.$lessonId.tsx?tsr-split=component[22m
+[2m1:21:26 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/lib/mock-lessons.ts[22m
+[2m1:21:26 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m program reload
+[2m1:21:26 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/src/hooks/useAuth.tsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m1:21:26 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/__root.tsx, /src/routes/home.tsx?tsr-split=component, /src/components/Onboarding.tsx, /src/components/AngkorRelicsMap.tsx, /src/components/ReviewQueueCard.tsx, /src/routes/profile.tsx?tsr-split=component, /src/components/UserProfileDashboard.tsx, /src/components/AudioSpeedSettings.tsx, /src/routes/login.tsx?tsr-split=component, /src/routes/admin.tsx?tsr-split=component, /src/routes/category.$categoryId.tsx?tsr-split=component, /src/components/AlphabetGrid.tsx and 3 more[22m
+[2m1:21:49 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m1:21:49 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m1:21:49 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m1:21:49 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m1:22:06 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m1:22:06 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m1:22:06 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m1:22:06 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m1:25:19 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/SpellingBreakdown.tsx, /src/routes/lesson.$lessonId.tsx?tsr-split=component, /src/routes/grid-lesson.$lessonId.tsx?tsr-split=component[22m
+[2m1:25:19 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/lib/audioService.ts[22m
+[2m1:25:19 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m program reload
+[2m1:25:43 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m1:25:43 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m1:25:43 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m1:25:43 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m1:26:01 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m1:26:01 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m1:26:02 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m1:26:02 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m2:10:39 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/lesson.$lessonId.tsx, /src/routes/lesson.$lessonId.tsx?tsr-split=component[22m
+[2m2:10:39 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/lesson.$lessonId.tsx[22m
+[2m2:10:39 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m program reload
+[2m2:11:07 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m2:11:07 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m2:11:07 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m2:11:07 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m2:12:23 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/ConversationTranscriptLesson.tsx[22m
+[2m2:12:23 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/ConversationTranscriptLesson.tsx[22m
+[2m2:12:23 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m program reload
+[2m2:12:23 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/lesson.$lessonId.tsx, /src/routes/lesson.$lessonId.tsx?tsr-split=component[22m
+[2m2:12:23 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/lesson.$lessonId.tsx[22m
+[2m2:17:08 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/hooks/useAuth.tsx, /src/routes/home.tsx?tsr-split=component, /src/routes/profile.tsx?tsr-split=component, /src/routes/category.$categoryId.tsx?tsr-split=component, /src/routes/lesson.$lessonId.tsx?tsr-split=component[22m
+[2m2:17:08 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/lib/mock-lessons.ts[22m
+[2m2:17:08 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m program reload
+[2m2:17:17 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/hooks/useAuth.tsx, /src/routes/home.tsx?tsr-split=component, /src/routes/profile.tsx?tsr-split=component, /src/routes/category.$categoryId.tsx?tsr-split=component, /src/routes/lesson.$lessonId.tsx?tsr-split=component[22m
+[2m2:17:17 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/lib/mock-lessons.ts[22m
+[2m2:17:17 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m program reload
+[2m2:17:17 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/src/hooks/useAuth.tsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m2:17:17 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/__root.tsx, /src/routes/home.tsx?tsr-split=component, /src/components/Onboarding.tsx, /src/components/AngkorRelicsMap.tsx, /src/components/ReviewQueueCard.tsx, /src/routes/profile.tsx?tsr-split=component, /src/components/UserProfileDashboard.tsx, /src/components/AudioSpeedSettings.tsx, /src/routes/login.tsx?tsr-split=component, /src/routes/admin.tsx?tsr-split=component, /src/routes/category.$categoryId.tsx?tsr-split=component, /src/components/AlphabetGrid.tsx and 3 more[22m
+[2m2:17:29 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/hooks/useAuth.tsx, /src/routes/home.tsx?tsr-split=component, /src/routes/profile.tsx?tsr-split=component, /src/routes/category.$categoryId.tsx?tsr-split=component, /src/routes/lesson.$lessonId.tsx?tsr-split=component[22m
+[2m2:17:29 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/lib/mock-lessons.ts[22m
+[2m2:17:30 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/src/hooks/useAuth.tsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m2:17:30 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/__root.tsx, /src/routes/home.tsx?tsr-split=component, /src/components/Onboarding.tsx, /src/components/AngkorRelicsMap.tsx, /src/components/ReviewQueueCard.tsx, /src/routes/profile.tsx?tsr-split=component, /src/components/UserProfileDashboard.tsx, /src/components/AudioSpeedSettings.tsx, /src/routes/login.tsx?tsr-split=component, /src/routes/admin.tsx?tsr-split=component, /src/routes/category.$categoryId.tsx?tsr-split=component, /src/components/AlphabetGrid.tsx and 3 more[22m
+[2m2:17:50 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m2:17:50 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m2:17:50 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m2:17:50 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m2:18:11 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m2:18:11 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m2:18:11 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m2:18:11 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m2:27:42 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/ui-preview.tsx, /src/routes/ui-preview.tsx?tsr-split=component[22m
+[2m2:27:42 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/ui-preview.tsx[22m
+[2m2:27:42 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m program reload
+[2m2:28:46 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/ui-preview.tsx, /src/routes/ui-preview.tsx?tsr-split=component[22m
+[2m2:28:46 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/ui-preview.tsx[22m
+[2m2:28:47 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m2:28:47 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m2:28:47 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m2:28:47 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m2:28:58 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m2:28:58 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m2:28:58 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m2:28:58 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m2:32:10 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/ui-preview.tsx, /src/routes/ui-preview.tsx?tsr-split=component[22m
+[2m2:32:10 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/ui-preview.tsx[22m
+[2m2:32:10 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m program reload
+[2m2:32:20 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/ui-preview.tsx, /src/routes/ui-preview.tsx?tsr-split=component[22m
+[2m2:32:20 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/ui-preview.tsx[22m
+[2m2:32:25 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m2:32:26 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m2:32:26 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m2:32:26 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m2:32:46 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m2:32:46 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m2:32:46 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m2:32:46 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m2:37:35 PM[22m [36m[1m[vite][22m[39m changed tsconfig file detected: E:/AI/Antigravity/SalaKhmer/.reference/khmer-blossom-path/tsconfig.json - Clearing cache and forcing full-reload to ensure TypeScript is compiled with updated config values.
+[2m2:37:35 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m program reload
+File E:\AI\Antigravity\SalaKhmer\src\routeTree.gen.ts was modified by another process during processing.
+[2m3:24:43 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/routeTree.gen.ts[22m
+[2m3:24:43 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routeTree.gen.ts[22m
+[2m3:24:43 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m program reload
+[2m3:25:12 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/home.tsx, /src/routes/home.tsx?tsr-split=component[22m
+[2m3:25:12 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/home.tsx[22m
+[2m3:25:12 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m program reload
+[2m3:25:50 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/apply.tsx[22m
+[2m3:25:50 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/apply.tsx[22m
+[2m3:26:21 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/profile.tsx, /src/routes/profile.tsx?tsr-split=component[22m
+[2m3:26:21 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/profile.tsx[22m
+[2m3:26:34 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/LovableAppShell.tsx[22m
+[2m3:26:34 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/home.tsx, /src/routes/home.tsx?tsr-split=component[22m
+[2m3:26:34 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/home.tsx[22m
+[2m3:26:34 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/learn.tsx[22m
+[2m3:26:34 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/learn.tsx[22m
+[2m3:26:34 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/src/components/LovableAppShell.tsx[22m Could not Fast Refresh ("LOVABLE_MODULES" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m3:26:34 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/home.tsx?tsr-split=component[22m
+[2m3:26:34 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/apply.tsx[22m
+[2m3:26:34 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/apply.tsx[22m
+[2m3:26:34 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/profile.tsx, /src/routes/profile.tsx?tsr-split=component[22m
+[2m3:26:34 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/profile.tsx[22m
+[2m3:26:52 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m3:26:52 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m3:26:52 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m3:26:52 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m3:27:30 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m3:27:31 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m3:27:31 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m3:27:31 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m3:28:17 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/category.$categoryId.tsx, /src/routes/category.$categoryId.tsx?tsr-split=component[22m
+[2m3:28:17 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/category.$categoryId.tsx[22m
+[2m3:28:27 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/category.$categoryId.tsx, /src/routes/category.$categoryId.tsx?tsr-split=component[22m
+[2m3:28:27 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/category.$categoryId.tsx[22m
+[2m3:28:38 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m3:28:38 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m3:28:38 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m3:28:38 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m3:28:50 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m3:28:50 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m3:28:50 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m3:28:50 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m3:29:34 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/ConversationTranscriptLesson.tsx[22m
+[2m3:29:34 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/ConversationTranscriptLesson.tsx[22m
+[2m3:29:40 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/ConversationTranscriptLesson.tsx[22m
+[2m3:29:40 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/ConversationTranscriptLesson.tsx[22m
+[2m3:29:42 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m3:29:42 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m3:29:42 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m3:29:42 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m3:29:54 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m3:29:55 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m3:29:55 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m3:29:55 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m3:36:59 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/ConversationTranscriptLesson.tsx[22m
+[2m3:36:59 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/ConversationTranscriptLesson.tsx[22m
+[2m3:38:40 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m3:38:40 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m3:38:40 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m3:38:40 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m3:40:42 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/ConversationTranscriptLesson.tsx[22m
+[2m3:40:42 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/ConversationTranscriptLesson.tsx[22m
+[2m3:41:38 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/ConversationTranscriptLesson.tsx[22m
+[2m3:41:38 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/ConversationTranscriptLesson.tsx[22m
+[2m3:42:17 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/ConversationTranscriptLesson.tsx[22m
+[2m3:42:17 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/ConversationTranscriptLesson.tsx[22m
+[2m3:42:54 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/ConversationTranscriptLesson.tsx[22m
+[2m3:42:54 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/ConversationTranscriptLesson.tsx[22m
+[2m3:46:57 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/ConversationTranscriptLesson.tsx[22m
+[2m3:46:57 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/ConversationTranscriptLesson.tsx[22m
+[2m3:47:06 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/ConversationTranscriptLesson.tsx[22m
+[2m3:47:06 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/ConversationTranscriptLesson.tsx[22m
+[2m3:47:45 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m3:47:45 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m4:02:00 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/SpellingBreakdown.tsx, /src/routes/lesson.$lessonId.tsx?tsr-split=component, /src/routes/grid-lesson.$lessonId.tsx?tsr-split=component, /src/components/ConversationTranscriptLesson.tsx, /src/routes/apply.tsx?tsr-split=component, /src/routes/practice.tsx?tsr-split=component[22m
+[2m4:02:00 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/lib/audioService.ts[22m
+[2m4:02:00 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m program reload
+[2m4:02:09 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/SpellingBreakdown.tsx, /src/routes/lesson.$lessonId.tsx?tsr-split=component, /src/routes/grid-lesson.$lessonId.tsx?tsr-split=component, /src/components/ConversationTranscriptLesson.tsx, /src/routes/apply.tsx?tsr-split=component, /src/routes/practice.tsx?tsr-split=component[22m
+[2m4:02:09 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/lib/audioService.ts[22m
+[2m4:03:42 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/ConversationTranscriptLesson.tsx[22m
+[2m4:03:42 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/ConversationTranscriptLesson.tsx[22m
+[2m4:03:52 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/ConversationTranscriptLesson.tsx[22m
+[2m4:03:52 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/ConversationTranscriptLesson.tsx[22m
+[2m4:03:59 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m4:03:59 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m4:03:59 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m4:03:59 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m4:04:28 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m4:56:50 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/apply.tsx, /src/routes/apply.tsx?tsr-split=component[22m
+[2m4:56:50 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/apply.tsx[22m
+[2m4:56:50 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m program reload
+[2m4:57:31 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/profile.tsx, /src/routes/profile.tsx?tsr-split=component[22m
+[2m4:57:31 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/profile.tsx[22m
+[2m4:57:56 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/apply.tsx, /src/routes/apply.tsx?tsr-split=component[22m
+[2m4:57:56 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/apply.tsx[22m
+[2m4:57:56 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/profile.tsx, /src/routes/profile.tsx?tsr-split=component[22m
+[2m4:57:56 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/profile.tsx[22m
+[2m4:58:12 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m4:58:12 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m4:58:12 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m4:58:12 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m5:03:27 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/ActivityRenderer.tsx[22m
+[2m5:03:27 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/ActivityRenderer.tsx[22m
+[2m5:03:27 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/ConversationTranscriptLesson.tsx[22m
+[2m5:03:27 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/ConversationTranscriptLesson.tsx[22m
+[2m5:03:27 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/SpellingBreakdown.tsx[22m
+[2m5:03:27 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/SpellingBreakdown.tsx[22m
+[2m5:03:43 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/SpellingBreakdown.tsx, /src/components/ActivityRenderer.tsx, /src/components/ConversationTranscriptLesson.tsx[22m
+[2m5:03:53 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/SpellingBreakdown.tsx[22m
+[2m5:03:53 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/SpellingBreakdown.tsx[22m
+[2m5:03:53 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/ConversationTranscriptLesson.tsx[22m
+[2m5:03:53 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/ConversationTranscriptLesson.tsx[22m
+[2m5:03:56 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m5:03:56 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m5:03:56 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m5:03:56 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m5:04:11 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m5:04:12 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m5:04:12 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m5:04:12 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m10:23:35 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m10:23:35 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m10:23:35 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m10:23:35 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m10:47:28 PM[22m [36m[1m[vite][22m[39m [32m.env changed, restarting server...[39m
+[2m10:47:30 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Re-optimizing dependencies because lockfile has changed
+[2m10:47:30 PM[22m [36m[1m[vite][22m[39m server restarted.
+[2m10:47:31 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m connected.
+[2m10:47:32 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [optimizer] bundling dependencies...
+[2m10:48:37 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m10:48:37 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m10:48:37 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m10:48:37 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m11:13:13 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/category.$categoryId.tsx, /src/routes/category.$categoryId.tsx?tsr-split=component[22m
+[2m11:13:13 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/category.$categoryId.tsx[22m
+[2m11:13:13 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m program reload
+[2m11:13:13 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/routeTree.gen.ts[22m
+[2m11:13:13 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routeTree.gen.ts[22m
+[2m11:13:42 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m11:13:42 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m11:13:42 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m11:13:42 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m12:04:32 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/read-spell.$topicId.tsx, /src/routes/read-spell.$topicId.tsx?tsr-split=component[22m
+[2m12:04:32 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/read-spell.$topicId.tsx[22m
+[2m12:04:32 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m program reload
+[2m12:04:32 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/category.$categoryId.tsx, /src/routes/category.$categoryId.tsx?tsr-split=component[22m
+[2m12:04:32 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/category.$categoryId.tsx[22m
+[2m12:04:42 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m12:04:42 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m12:04:43 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m12:04:43 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m12:05:13 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m12:06:49 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/read-spell.$topicId.tsx, /src/routes/read-spell.$topicId.tsx?tsr-split=component[22m
+[2m12:06:49 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/read-spell.$topicId.tsx[22m
+[2m12:08:25 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/read-spell.$topicId.tsx, /src/routes/read-spell.$topicId.tsx?tsr-split=component[22m
+[2m12:08:25 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/read-spell.$topicId.tsx[22m
+[2m12:08:43 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m12:08:43 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m12:08:43 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m12:08:43 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m12:09:28 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m12:09:28 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m12:09:28 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m12:09:28 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m12:12:13 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/read-spell.$topicId.tsx, /src/routes/read-spell.$topicId.tsx?tsr-split=component[22m
+[2m12:12:13 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/read-spell.$topicId.tsx[22m
+[2m12:12:46 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m12:12:46 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m12:12:46 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m12:12:46 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m12:13:29 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m12:13:29 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m12:13:29 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m12:13:29 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m12:18:25 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/read-spell.$topicId.tsx, /src/routes/read-spell.$topicId.tsx?tsr-split=component[22m
+[2m12:18:25 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/read-spell.$topicId.tsx[22m
+[2m12:18:58 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m12:18:58 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m12:18:58 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m12:18:58 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m12:24:25 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/read-spell.$topicId.tsx, /src/routes/read-spell.$topicId.tsx?tsr-split=component[22m
+[2m12:24:25 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/read-spell.$topicId.tsx[22m
+[2m12:24:25 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m program reload
+[2m12:25:07 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m12:25:07 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m12:25:07 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m12:25:07 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m12:25:34 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m12:25:35 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m12:25:35 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m12:27:54 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/read-spell.$topicId.tsx, /src/routes/read-spell.$topicId.tsx?tsr-split=component[22m
+[2m12:27:54 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/read-spell.$topicId.tsx[22m
+[2m12:28:06 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m12:28:06 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m12:28:06 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m12:28:06 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m12:28:24 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m12:28:24 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m12:28:24 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m12:28:24 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m12:30:28 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/read-spell.$topicId.tsx, /src/routes/read-spell.$topicId.tsx?tsr-split=component[22m
+[2m12:30:28 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/read-spell.$topicId.tsx[22m
+[2m12:30:39 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m12:30:39 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m12:30:39 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m12:30:39 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m12:31:02 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m12:31:02 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m12:31:02 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m12:31:02 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m1:29:08 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m1:29:08 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m1:29:08 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m1:29:08 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m1:29:51 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m1:35:00 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m1:35:00 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m1:35:00 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m1:35:00 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m1:35:30 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m1:35:30 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m1:35:30 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m1:35:30 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m1:54:19 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/StrokeOrderDrawing.tsx[22m
+[2m1:54:19 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/StrokeOrderDrawing.tsx[22m
+[2m1:54:42 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m1:54:42 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m1:54:42 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m1:54:42 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m2:40:13 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct[22m
+[2m2:40:14 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/StrokeOrderDrawing.tsx[22m
+[2m2:40:14 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/StrokeOrderDrawing.tsx[22m
+[2m2:40:33 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct[22m
+[2m2:40:33 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/StrokeOrderDrawing.tsx[22m
+[2m2:40:33 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/StrokeOrderDrawing.tsx[22m
+[2m2:41:24 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m2:41:24 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m2:41:24 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m2:41:24 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m2:49:43 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/StrokeOrderDrawing.tsx[22m
+[2m2:49:43 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/StrokeOrderDrawing.tsx[22m
+[2m2:49:53 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m2:49:53 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m2:49:53 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m2:49:53 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m2:50:06 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m2:50:06 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m2:50:06 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m2:50:06 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m2:53:22 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/StrokeOrderDrawing.tsx[22m
+[2m2:53:22 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/StrokeOrderDrawing.tsx[22m
+[2m2:53:38 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m2:53:38 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m2:53:38 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m2:53:38 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m2:53:51 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m2:53:52 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m2:53:52 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m2:53:52 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m2:56:33 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/StrokeOrderDrawing.tsx[22m
+[2m2:56:33 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/StrokeOrderDrawing.tsx[22m
+[2m2:56:44 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m2:56:44 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m2:56:44 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m2:56:44 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m2:57:00 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m2:57:00 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m2:57:00 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m2:57:00 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m3:12:58 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.tmp-video-review.html[22m
+[2m3:25:59 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct[22m
+[2m3:26:01 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct[22m
+[2m3:26:03 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/StrokeOrderDrawing.tsx[22m
+[2m3:26:03 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/StrokeOrderDrawing.tsx[22m
+[2m3:26:39 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m3:26:39 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m3:26:39 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m3:26:39 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m3:27:18 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m3:29:18 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.tmp-video-review.html[22m
+[2m3:38:16 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.tmp-video-contact.html[22m
+[2m3:42:21 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct[22m
+[2m3:42:22 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/StrokeOrderDrawing.tsx[22m
+[2m3:42:22 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/StrokeOrderDrawing.tsx[22m
+[2m3:42:54 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m3:42:54 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m3:42:54 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m3:42:54 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m3:44:09 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.tmp-writing-preview.html[22m
+[2m3:44:48 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/read-spell.$topicId.tsx, /src/routes/read-spell.$topicId.tsx?tsr-split=component[22m
+[2m3:44:48 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/read-spell.$topicId.tsx[22m
+[2m3:44:48 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m program reload
+[2m3:45:01 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m3:45:01 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m3:45:01 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m3:45:01 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m3:45:13 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m3:45:13 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m3:45:13 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m3:45:13 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m3:45:33 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/read-spell.$topicId.tsx, /src/routes/read-spell.$topicId.tsx?tsr-split=component[22m
+[2m3:45:33 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/read-spell.$topicId.tsx[22m
+[2m3:45:41 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/read-spell.$topicId.tsx, /src/routes/read-spell.$topicId.tsx?tsr-split=component[22m
+[2m3:45:41 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/read-spell.$topicId.tsx[22m
+[2m3:45:50 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m3:45:50 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m3:45:50 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m3:45:50 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m3:49:41 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mwriting-preview.html[22m
+[2m3:52:21 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mwriting-preview.html[22m
+[2m3:53:59 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mwriting-preview.html[22m
+[2m3:54:02 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.tmp-writing-preview.html[22m
+[2m3:54:04 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.tmp-video-contact.html[22m
+[2m3:55:27 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/SpellingBreakdown.tsx, /src/routes/read-spell.$topicId.tsx?tsr-split=component[22m
+[2m3:55:27 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/lib/audioService.ts[22m
+[2m3:55:29 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/read-spell.$topicId.tsx, /src/routes/read-spell.$topicId.tsx?tsr-split=component[22m
+[2m3:55:29 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/read-spell.$topicId.tsx[22m
+[2m3:55:37 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m3:55:37 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m3:55:37 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m3:55:37 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m3:56:03 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m3:56:03 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m3:56:03 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m3:56:03 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m3:56:18 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m3:56:18 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m3:56:18 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m3:56:18 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m3:56:34 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m3:56:34 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m3:56:34 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m3:56:34 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m3:57:29 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m3:57:29 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m3:57:29 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m3:57:29 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m3:57:44 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m3:57:44 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m3:57:44 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m3:57:44 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m4:46:50 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct[22m
+[2m4:47:38 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/StrokeOrderDrawing.tsx[22m
+[2m4:47:38 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/StrokeOrderDrawing.tsx[22m
+[2m4:48:33 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m4:48:33 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m4:48:33 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m4:48:33 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m4:48:59 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m4:51:40 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/SpellingBreakdown.tsx, /src/routes/read-spell.$topicId.tsx?tsr-split=component[22m
+[2m4:51:40 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/lib/audioService.ts[22m
+[2m4:51:50 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m4:51:50 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m4:51:50 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m4:51:50 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m4:52:09 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m4:52:09 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m4:52:09 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m4:52:09 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m4:54:25 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/StrokeOrderDrawing.tsx[22m
+[2m4:54:25 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/StrokeOrderDrawing.tsx[22m
+[2m4:55:03 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mreference-proof-preview.html[22m
+[2m4:56:56 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/StrokeOrderDrawing.tsx[22m
+[2m4:56:56 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/StrokeOrderDrawing.tsx[22m
+[2m4:57:21 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mreference-proof-preview.html[22m
+[2m4:57:46 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m4:57:46 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m4:57:46 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m4:57:46 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m4:58:05 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m4:59:33 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/StrokeOrderDrawing.tsx[22m
+[2m4:59:33 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/StrokeOrderDrawing.tsx[22m
+[2m4:59:50 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m4:59:50 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m4:59:50 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m4:59:50 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m5:00:10 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m5:00:10 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m5:00:10 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m5:00:10 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m5:07:37 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/read-spell.$topicId.tsx, /src/routes/read-spell.$topicId.tsx?tsr-split=component[22m
+[2m5:07:37 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/read-spell.$topicId.tsx[22m
+[2m5:07:37 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m program reload
+[2m5:07:53 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m5:07:53 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m5:07:53 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m5:07:53 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m5:08:16 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m5:08:16 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m5:08:16 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m5:08:16 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m5:10:46 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/read-spell.$topicId.tsx, /src/routes/read-spell.$topicId.tsx?tsr-split=component[22m
+[2m5:10:46 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/read-spell.$topicId.tsx[22m
+[2m5:10:56 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m5:10:56 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m5:10:56 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m5:10:56 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m5:11:14 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m5:11:15 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m5:11:15 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m5:11:15 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m5:14:14 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/LovableAppShell.tsx[22m
+[2m5:14:14 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/LovableAppShell.tsx[22m
+[2m5:14:16 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/home.tsx, /src/routes/home.tsx?tsr-split=component[22m
+[2m5:14:16 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/home.tsx[22m
+[2m5:15:23 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/read-spell.$topicId.tsx, /src/routes/read-spell.$topicId.tsx?tsr-split=component[22m
+[2m5:15:23 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/read-spell.$topicId.tsx[22m
+[2m5:15:46 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/home.tsx, /src/routes/home.tsx?tsr-split=component[22m
+[2m5:15:46 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/home.tsx[22m
+[2m5:16:04 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m5:16:04 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m5:16:04 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m5:16:04 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m5:16:24 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m5:16:24 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m5:16:24 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m5:16:24 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m5:21:13 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/StrokeOrderDrawing.tsx[22m
+[2m5:21:13 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/StrokeOrderDrawing.tsx[22m
+[2m5:21:35 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m5:21:35 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m5:21:35 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m5:21:35 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m5:21:49 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m5:21:50 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m5:21:50 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m5:21:50 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m5:23:25 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/home.tsx, /src/routes/home.tsx?tsr-split=component[22m
+[2m5:23:25 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/home.tsx[22m
+[2m5:23:41 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m5:23:41 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m5:23:41 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m5:23:41 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m5:24:01 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m5:24:01 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m5:24:01 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m5:24:01 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m5:38:02 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/home.tsx, /src/routes/home.tsx?tsr-split=component[22m
+[2m5:38:02 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/home.tsx[22m
+[2m5:38:28 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/LovableAppShell.tsx[22m
+[2m5:38:28 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/LovableAppShell.tsx[22m
+[2m5:38:43 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/LovableAppShell.tsx[22m
+[2m5:38:43 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/LovableAppShell.tsx[22m
+[2m5:39:00 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m5:39:00 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m5:39:00 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m5:39:00 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m5:39:17 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m5:44:50 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/home.tsx, /src/routes/home.tsx?tsr-split=component[22m
+[2m5:44:50 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/home.tsx[22m
+[2m5:44:51 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/LovableAppShell.tsx[22m
+[2m5:44:51 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/LovableAppShell.tsx[22m
+[2m5:45:12 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/LovableAppShell.tsx[22m
+[2m5:45:12 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/LovableAppShell.tsx[22m
+[2m5:45:26 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m5:45:26 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m5:45:26 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m5:45:26 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m5:45:42 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m5:45:43 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m5:45:43 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m5:45:43 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m5:50:04 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/home.tsx, /src/routes/home.tsx?tsr-split=component[22m
+[2m5:50:04 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/home.tsx[22m
+[2m5:50:20 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/LovableAppShell.tsx[22m
+[2m5:50:20 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/LovableAppShell.tsx[22m
+[2m5:50:45 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/category.$categoryId.tsx, /src/routes/category.$categoryId.tsx?tsr-split=component[22m
+[2m5:50:45 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/category.$categoryId.tsx[22m
+[2m5:51:03 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m5:51:03 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m5:51:03 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m5:51:03 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m6:01:19 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/lib/i18n.tsx[22m
+[2m6:01:19 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/lib/i18n.tsx[22m
+[2m6:01:36 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/lib/i18n.tsx[22m
+[2m6:01:36 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/lib/i18n.tsx[22m
+[2m6:02:07 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/LovableAppShell.tsx[22m
+[2m6:02:07 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/LovableAppShell.tsx[22m
+[2m6:02:34 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/home.tsx, /src/routes/home.tsx?tsr-split=component[22m
+[2m6:02:34 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/home.tsx[22m
+[2m6:03:20 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/hooks/useAuth.tsx, /src/components/LovableAppShell.tsx, /src/routes/category.$categoryId.tsx?tsr-split=component[22m
+[2m6:03:20 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/lib/mock-lessons.ts[22m
+[2m6:03:39 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m6:03:39 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m6:03:39 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m6:03:39 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m6:04:15 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/lib/i18n.tsx[22m
+[2m6:04:15 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/lib/i18n.tsx[22m
+[2m6:04:53 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m6:04:53 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m6:04:54 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m6:04:54 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m6:06:19 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/hooks/useAuth.tsx, /src/routes/login.tsx?tsr-split=component[22m
+[2m6:06:19 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/lib/firebase-auth.ts[22m
+[2m6:06:47 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/login.tsx, /src/routes/login.tsx?tsr-split=component[22m
+[2m6:06:47 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/login.tsx[22m
+[2m6:07:07 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m6:07:07 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m6:07:08 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m6:07:08 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m6:07:27 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m6:20:57 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/lib/i18n.tsx[22m
+[2m6:20:57 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/lib/i18n.tsx[22m
+[2m6:21:57 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/KingdomInsights.tsx[22m
+[2m6:21:57 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/KingdomInsights.tsx[22m
+[2m6:23:26 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/SpellingBreakdown.tsx, /src/routes/read-spell.$topicId.tsx?tsr-split=component[22m
+[2m6:23:26 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/lib/audioService.ts[22m
+[2m6:31:41 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m6:31:41 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m6:31:41 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m6:31:41 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m6:33:12 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/admin.tsx[22m
+[2m6:33:12 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/admin.tsx[22m
+[2m6:34:47 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m6:34:47 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m6:34:47 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m6:34:47 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m11:58:50 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m11:58:50 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m11:58:50 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m11:58:50 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m3:36:33 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/LovableAppShell.tsx[22m
+[2m3:36:33 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/LovableAppShell.tsx[22m
+[2m3:38:14 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m3:38:14 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m3:38:14 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m3:38:14 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m3:38:50 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m5:06:38 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/StrokeOrderDrawing.tsx[22m
+[2m5:06:38 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/StrokeOrderDrawing.tsx[22m
+[2m5:07:14 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/StrokeOrderDrawing.tsx[22m
+[2m5:07:14 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/StrokeOrderDrawing.tsx[22m
+[2m5:08:39 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m5:08:39 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m5:08:39 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m5:08:39 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m5:09:37 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m5:09:37 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m5:16:13 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/admin.tsx[22m
+[2m5:16:13 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/admin.tsx[22m
+[2m5:16:13 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m program reload
+[2m5:17:07 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/admin.tsx[22m
+[2m5:17:07 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/admin.tsx[22m
+[2m5:17:39 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m5:17:39 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m5:17:39 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m5:17:39 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m
+[2m5:18:17 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/a1-master-audio-demo.html[22m
+[2m5:18:17 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-audio-review.html[22m
+[2m5:18:17 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/azure-word-test.html[22m
+[2m5:18:17 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.output/public/daily-survival-dialogues-review.html[22m

@@ -1,0 +1,19 @@
+//#region node_modules/.nitro/vite/services/ssr/assets/review-queue-xu6BhGRg.js
+var MAX_REVIEW_ITEMS = 100;
+function addReviewItem(queue, item) {
+	return (queue.find((entry) => entry.id === item.id) ? queue.map((entry) => entry.id === item.id ? {
+		...entry,
+		...item,
+		attempts: entry.attempts + 1,
+		updatedAt: (/* @__PURE__ */ new Date()).toISOString()
+	} : entry) : [{
+		...item,
+		attempts: 1,
+		updatedAt: (/* @__PURE__ */ new Date()).toISOString()
+	}, ...queue]).slice(0, MAX_REVIEW_ITEMS);
+}
+function removeReviewItem(queue, id) {
+	return queue.filter((item) => item.id !== id);
+}
+//#endregion
+export { removeReviewItem as n, addReviewItem as t };

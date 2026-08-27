@@ -1,0 +1,1 @@
+var e=`/assets/mascot-apsara-D7-k-9Xn.png`;export{e as t};

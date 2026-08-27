@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "startedAt": "2026-08-12T11:31:27.207Z",
+  "modules": [
+    {
+      "manifest": "scripts/module-2-expansion-v1-audio-manifest.json",
+      "moduleId": "2",
+      "status": "complete",
+      "completedAt": "2026-08-12T12:04:48.706Z"
+    },
+    {
+      "manifest": "scripts/module-3-expansion-v1-audio-manifest.json",
+      "moduleId": "3",
+      "status": "complete",
+      "completedAt": "2026-08-12T12:35:16.062Z"
+    },
+    {
+      "manifest": "scripts/module-4-expansion-v1-audio-manifest.json",
+      "moduleId": "4",
+      "status": "complete",
+      "completedAt": "2026-08-12T12:38:31.799Z"
+    },
+    {
+      "manifest": "scripts/module-5-expansion-v1-audio-manifest.json",
+      "moduleId": "5",
+      "status": "complete",
+      "completedAt": "2026-08-12T12:41:33.947Z"
+    }
+  ],
+  "errors": [],
+  "updatedAt": "2026-08-12T12:41:33.950Z",
+  "completedAt": "2026-08-12T12:41:33.950Z"
+}

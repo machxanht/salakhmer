@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SalaKhmer — Azure word test</title>
+    <style>
+      :root { color-scheme: light; font-family: Inter, Arial, sans-serif; background: #fff9ed; color: #3e2414; }
+      body { margin: 0; padding: 24px; }
+      main { max-width: 720px; margin: 0 auto; }
+      h1 { margin-bottom: 8px; }
+      p { color: #735440; line-height: 1.5; }
+      .speeds { display: flex; gap: 8px; margin: 20px 0; }
+      button { border: 1px solid #e8c98e; border-radius: 999px; background: white; padding: 10px 16px; font-weight: 700; cursor: pointer; }
+      button.active { background: #f7ae20; border-color: #f7ae20; color: #362006; }
+      .card { margin-top: 12px; padding: 16px; border: 1px solid #edd7ab; border-radius: 16px; background: white; }
+      .khmer { font-family: "Noto Sans Khmer", "Khmer OS", sans-serif; font-size: 28px; font-weight: 700; }
+      .gloss { margin: 4px 0 10px; font-size: 14px; }
+      audio { width: 100%; }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>Azure Khmer word test</h1>
+      <p>These are complete Khmer words and sentences, generated with the female Khmer voice. Please judge the pronunciation before we generate more lesson audio.</p>
+      <div class="speeds" aria-label="Playback speed">
+        <button data-rate="0.6">0.6×</button>
+        <button data-rate="1" class="active">1×</button>
+        <button data-rate="1.25">1.25×</button>
+      </div>
+      <section id="samples"></section>
+    </main>
+    <script>
+      const samples = [
+        ["សួស្តី", "Hello", "01-hello"],
+        ["អរគុណ", "Thank you", "02-thank-you"],
+        ["បាទ", "Yes (male speaker)", "03-yes-male"],
+        ["ចាស", "Yes (female speaker)", "04-yes-female"],
+        ["ខ្ញុំឈ្មោះ សារ៉ា", "My name is Sara", "05-my-name-is-sara"],
+        ["តើអ្នកសុខសប្បាយទេ?", "How are you?", "06-how-are-you"],
+      ];
+      const container = document.querySelector("#samples");
+      let playbackRate = 1;
+      for (const [khmer, english, file] of samples) {
+        const card = document.createElement("article");
+        card.className = "card";
+        card.innerHTML = `<div class="khmer">${khmer}</div><p class="gloss">${english}</p><audio controls preload="none" src="/audio/azure-word-test/${file}.mp3"></audio>`;
+        container.append(card);
+      }
+      document.querySelectorAll("button[data-rate]").forEach((button) => {
+        button.addEventListener("click", () => {
+          playbackRate = Number(button.dataset.rate);
+          document.querySelectorAll("audio").forEach((audio) => { audio.playbackRate = playbackRate; });
+          document.querySelectorAll("button[data-rate]").forEach((item) => item.classList.toggle("active", item === button));
+        });
+      });
+    </script>
+  </body>
+</html>

@@ -1,0 +1,1 @@
+function e(e){return e?`oliverkhang@gmail.com,oliverkhang@gmail.com,admin@admin.com`.split(`,`).map(e=>e.trim().toLowerCase()).filter(Boolean).includes(e.trim().toLowerCase()):!1}export{e as t};

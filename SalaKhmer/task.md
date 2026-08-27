@@ -1,0 +1,6 @@
+- [x] Viết script `process_all_anki.mjs` để quét toàn bộ `.apkg` và `.zip`
+- [x] Lọc thẻ có chữ Khmer và lưu file audio
+- [x] Phân loại dữ liệu thành các category (alphabet, greetings, vocabulary_1k, numbers, others)
+- [x] Ghi dữ liệu vào `src/lib/contentSyllabus.json`
+- [x] Đập đi xây lại trang chủ `src/routes/home.tsx` thành Dashboard
+- [x] Cập nhật định tuyến động `src/routes/lesson.$categoryId.tsx` để đọc dữ liệu từ Syllabus

@@ -1,0 +1,2408 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-10T20:57:16.066Z",
+  "rule": "Azure Khmer complete vocabulary words only. Do not use for isolated alphabet cards.",
+  "prefix": "audio/read-spell-v1/",
+  "items": [
+    {
+      "id": "rs-colors-001",
+      "text": "ក្រហម",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-colors-001.mp3",
+      "topicId": "topic-colors",
+      "english": "Red"
+    },
+    {
+      "id": "rs-colors-002",
+      "text": "ខៀវ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-colors-002.mp3",
+      "topicId": "topic-colors",
+      "english": "Blue"
+    },
+    {
+      "id": "rs-colors-003",
+      "text": "លឿង",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-colors-003.mp3",
+      "topicId": "topic-colors",
+      "english": "Yellow"
+    },
+    {
+      "id": "rs-colors-004",
+      "text": "បៃតង",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-colors-004.mp3",
+      "topicId": "topic-colors",
+      "english": "Green"
+    },
+    {
+      "id": "rs-colors-005",
+      "text": "ស",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-colors-005.mp3",
+      "topicId": "topic-colors",
+      "english": "White"
+    },
+    {
+      "id": "rs-colors-006",
+      "text": "ខ្មៅ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-colors-006.mp3",
+      "topicId": "topic-colors",
+      "english": "Black"
+    },
+    {
+      "id": "rs-colors-007",
+      "text": "ផ្កាឈូក",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-colors-007.mp3",
+      "topicId": "topic-colors",
+      "english": "Pink"
+    },
+    {
+      "id": "rs-colors-008",
+      "text": "ទឹកក្រូច",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-colors-008.mp3",
+      "topicId": "topic-colors",
+      "english": "Orange (color)"
+    },
+    {
+      "id": "rs-colors-009",
+      "text": "ស្វាយ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-colors-009.mp3",
+      "topicId": "topic-colors",
+      "english": "Purple"
+    },
+    {
+      "id": "rs-colors-010",
+      "text": "ត្នោត",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-colors-010.mp3",
+      "topicId": "topic-colors",
+      "english": "Brown"
+    },
+    {
+      "id": "rs-colors-011",
+      "text": "ប្រផេះ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-colors-011.mp3",
+      "topicId": "topic-colors",
+      "english": "Gray"
+    },
+    {
+      "id": "rs-colors-012",
+      "text": "មាស",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-colors-012.mp3",
+      "topicId": "topic-colors",
+      "english": "Gold (color)"
+    },
+    {
+      "id": "rs-colors-013",
+      "text": "ប្រាក់",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-colors-013.mp3",
+      "topicId": "topic-colors",
+      "english": "Silver (color)"
+    },
+    {
+      "id": "rs-colors-014",
+      "text": "ងងឹត",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-colors-014.mp3",
+      "topicId": "topic-colors",
+      "english": "Dark"
+    },
+    {
+      "id": "rs-colors-015",
+      "text": "ភ្លឺ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-colors-015.mp3",
+      "topicId": "topic-colors",
+      "english": "Light / Bright"
+    },
+    {
+      "id": "rs-numbers-001",
+      "text": "មួយ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-numbers-001.mp3",
+      "topicId": "topic-numbers",
+      "english": "One"
+    },
+    {
+      "id": "rs-numbers-002",
+      "text": "ពីរ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-numbers-002.mp3",
+      "topicId": "topic-numbers",
+      "english": "Two"
+    },
+    {
+      "id": "rs-numbers-003",
+      "text": "បី",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-numbers-003.mp3",
+      "topicId": "topic-numbers",
+      "english": "Three"
+    },
+    {
+      "id": "rs-numbers-004",
+      "text": "បួន",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-numbers-004.mp3",
+      "topicId": "topic-numbers",
+      "english": "Four"
+    },
+    {
+      "id": "rs-numbers-005",
+      "text": "ប្រាំ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-numbers-005.mp3",
+      "topicId": "topic-numbers",
+      "english": "Five"
+    },
+    {
+      "id": "rs-numbers-006",
+      "text": "ប្រាំមួយ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-numbers-006.mp3",
+      "topicId": "topic-numbers",
+      "english": "Six"
+    },
+    {
+      "id": "rs-numbers-007",
+      "text": "ប្រាំពីរ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-numbers-007.mp3",
+      "topicId": "topic-numbers",
+      "english": "Seven"
+    },
+    {
+      "id": "rs-numbers-008",
+      "text": "ប្រាំបី",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-numbers-008.mp3",
+      "topicId": "topic-numbers",
+      "english": "Eight"
+    },
+    {
+      "id": "rs-numbers-009",
+      "text": "ប្រាំបួន",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-numbers-009.mp3",
+      "topicId": "topic-numbers",
+      "english": "Nine"
+    },
+    {
+      "id": "rs-numbers-010",
+      "text": "ដប់",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-numbers-010.mp3",
+      "topicId": "topic-numbers",
+      "english": "Ten"
+    },
+    {
+      "id": "rs-numbers-011",
+      "text": "ដប់មួយ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-numbers-011.mp3",
+      "topicId": "topic-numbers",
+      "english": "Eleven"
+    },
+    {
+      "id": "rs-numbers-012",
+      "text": "ដប់ពីរ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-numbers-012.mp3",
+      "topicId": "topic-numbers",
+      "english": "Twelve"
+    },
+    {
+      "id": "rs-numbers-013",
+      "text": "ដប់បី",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-numbers-013.mp3",
+      "topicId": "topic-numbers",
+      "english": "Thirteen"
+    },
+    {
+      "id": "rs-numbers-014",
+      "text": "ដប់បួន",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-numbers-014.mp3",
+      "topicId": "topic-numbers",
+      "english": "Fourteen"
+    },
+    {
+      "id": "rs-numbers-015",
+      "text": "ដប់ប្រាំ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-numbers-015.mp3",
+      "topicId": "topic-numbers",
+      "english": "Fifteen"
+    },
+    {
+      "id": "rs-family-001",
+      "text": "ឪពុក",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-family-001.mp3",
+      "topicId": "topic-family",
+      "english": "Father"
+    },
+    {
+      "id": "rs-family-002",
+      "text": "ម្ដាយ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-family-002.mp3",
+      "topicId": "topic-family",
+      "english": "Mother"
+    },
+    {
+      "id": "rs-family-003",
+      "text": "បងប្រុស",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-family-003.mp3",
+      "topicId": "topic-family",
+      "english": "Older brother"
+    },
+    {
+      "id": "rs-family-004",
+      "text": "បងស្រី",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-family-004.mp3",
+      "topicId": "topic-family",
+      "english": "Older sister"
+    },
+    {
+      "id": "rs-family-005",
+      "text": "ប្អូនប្រុស",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-family-005.mp3",
+      "topicId": "topic-family",
+      "english": "Younger brother"
+    },
+    {
+      "id": "rs-family-006",
+      "text": "ប្អូនស្រី",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-family-006.mp3",
+      "topicId": "topic-family",
+      "english": "Younger sister"
+    },
+    {
+      "id": "rs-family-007",
+      "text": "ជីតា",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-family-007.mp3",
+      "topicId": "topic-family",
+      "english": "Grandfather"
+    },
+    {
+      "id": "rs-family-008",
+      "text": "ជីដូន",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-family-008.mp3",
+      "topicId": "topic-family",
+      "english": "Grandmother"
+    },
+    {
+      "id": "rs-family-009",
+      "text": "កូនប្រុស",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-family-009.mp3",
+      "topicId": "topic-family",
+      "english": "Son"
+    },
+    {
+      "id": "rs-family-010",
+      "text": "កូនស្រី",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-family-010.mp3",
+      "topicId": "topic-family",
+      "english": "Daughter"
+    },
+    {
+      "id": "rs-family-011",
+      "text": "ពូ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-family-011.mp3",
+      "topicId": "topic-family",
+      "english": "Uncle"
+    },
+    {
+      "id": "rs-family-012",
+      "text": "មីង",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-family-012.mp3",
+      "topicId": "topic-family",
+      "english": "Aunt"
+    },
+    {
+      "id": "rs-family-013",
+      "text": "មិត្តភក្តិ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-family-013.mp3",
+      "topicId": "topic-family",
+      "english": "Friend"
+    },
+    {
+      "id": "rs-family-014",
+      "text": "កូន",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-family-014.mp3",
+      "topicId": "topic-family",
+      "english": "Child / Offspring"
+    },
+    {
+      "id": "rs-family-015",
+      "text": "គ្រួសារ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-family-015.mp3",
+      "topicId": "topic-family",
+      "english": "Family"
+    },
+    {
+      "id": "rs-greetings-001",
+      "text": "ជម្រាបសួរ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-greetings-001.mp3",
+      "topicId": "topic-greetings",
+      "english": "Hello (formal)"
+    },
+    {
+      "id": "rs-greetings-002",
+      "text": "ជម្រាបលា",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-greetings-002.mp3",
+      "topicId": "topic-greetings",
+      "english": "Goodbye (formal)"
+    },
+    {
+      "id": "rs-greetings-003",
+      "text": "សួស្តី",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-greetings-003.mp3",
+      "topicId": "topic-greetings",
+      "english": "Hello (informal)"
+    },
+    {
+      "id": "rs-greetings-004",
+      "text": "អរគុណ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-greetings-004.mp3",
+      "topicId": "topic-greetings",
+      "english": "Thank you"
+    },
+    {
+      "id": "rs-greetings-005",
+      "text": "បាទ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-greetings-005.mp3",
+      "topicId": "topic-greetings",
+      "english": "Yes (male speaker)"
+    },
+    {
+      "id": "rs-greetings-006",
+      "text": "ចាស",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-greetings-006.mp3",
+      "topicId": "topic-greetings",
+      "english": "Yes (female speaker)"
+    },
+    {
+      "id": "rs-greetings-007",
+      "text": "ទេ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-greetings-007.mp3",
+      "topicId": "topic-greetings",
+      "english": "No / Not"
+    },
+    {
+      "id": "rs-greetings-008",
+      "text": "សូម",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-greetings-008.mp3",
+      "topicId": "topic-greetings",
+      "english": "Please"
+    },
+    {
+      "id": "rs-greetings-009",
+      "text": "សុំទោស",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-greetings-009.mp3",
+      "topicId": "topic-greetings",
+      "english": "Sorry / Excuse me"
+    },
+    {
+      "id": "rs-greetings-010",
+      "text": "សុខសប្បាយទេ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-greetings-010.mp3",
+      "topicId": "topic-greetings",
+      "english": "How are you?"
+    },
+    {
+      "id": "rs-greetings-011",
+      "text": "សុខសប្បាយ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-greetings-011.mp3",
+      "topicId": "topic-greetings",
+      "english": "Fine / Well"
+    },
+    {
+      "id": "rs-greetings-012",
+      "text": "ស្វាគមន៍",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-greetings-012.mp3",
+      "topicId": "topic-greetings",
+      "english": "Welcome"
+    },
+    {
+      "id": "rs-greetings-013",
+      "text": "សំណាងល្អ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-greetings-013.mp3",
+      "topicId": "topic-greetings",
+      "english": "Good luck"
+    },
+    {
+      "id": "rs-greetings-014",
+      "text": "ជួបគ្នា",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-greetings-014.mp3",
+      "topicId": "topic-greetings",
+      "english": "See each other / Meet"
+    },
+    {
+      "id": "rs-greetings-015",
+      "text": "យល់ព្រម",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-greetings-015.mp3",
+      "topicId": "topic-greetings",
+      "english": "Agree / OK"
+    },
+    {
+      "id": "rs-food-001",
+      "text": "បាយ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-food-001.mp3",
+      "topicId": "topic-food",
+      "english": "Cooked rice"
+    },
+    {
+      "id": "rs-food-002",
+      "text": "មី",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-food-002.mp3",
+      "topicId": "topic-food",
+      "english": "Noodle"
+    },
+    {
+      "id": "rs-food-003",
+      "text": "នំបុ័ង",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-food-003.mp3",
+      "topicId": "topic-food",
+      "english": "Bread / Baguette"
+    },
+    {
+      "id": "rs-food-004",
+      "text": "សាច់",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-food-004.mp3",
+      "topicId": "topic-food",
+      "english": "Meat"
+    },
+    {
+      "id": "rs-food-005",
+      "text": "សាច់ជ្រូក",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-food-005.mp3",
+      "topicId": "topic-food",
+      "english": "Pork"
+    },
+    {
+      "id": "rs-food-006",
+      "text": "សាច់មាន់",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-food-006.mp3",
+      "topicId": "topic-food",
+      "english": "Chicken meat"
+    },
+    {
+      "id": "rs-food-007",
+      "text": "សាច់គោ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-food-007.mp3",
+      "topicId": "topic-food",
+      "english": "Beef"
+    },
+    {
+      "id": "rs-food-008",
+      "text": "សាច់ត្រី",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-food-008.mp3",
+      "topicId": "topic-food",
+      "english": "Fish meat"
+    },
+    {
+      "id": "rs-food-009",
+      "text": "ពងមាន់",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-food-009.mp3",
+      "topicId": "topic-food",
+      "english": "Chicken egg"
+    },
+    {
+      "id": "rs-food-010",
+      "text": "ស៊ុប",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-food-010.mp3",
+      "topicId": "topic-food",
+      "english": "Soup"
+    },
+    {
+      "id": "rs-food-011",
+      "text": "បន្លែ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-food-011.mp3",
+      "topicId": "topic-food",
+      "english": "Vegetable"
+    },
+    {
+      "id": "rs-food-012",
+      "text": "អំបិល",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-food-012.mp3",
+      "topicId": "topic-food",
+      "english": "Salt"
+    },
+    {
+      "id": "rs-food-013",
+      "text": "ស្ករ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-food-013.mp3",
+      "topicId": "topic-food",
+      "english": "Sugar"
+    },
+    {
+      "id": "rs-food-014",
+      "text": "ម្ទេស",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-food-014.mp3",
+      "topicId": "topic-food",
+      "english": "Chili pepper"
+    },
+    {
+      "id": "rs-food-015",
+      "text": "នំ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-food-015.mp3",
+      "topicId": "topic-food",
+      "english": "Cake / Dessert / Snack"
+    },
+    {
+      "id": "rs-drinks-001",
+      "text": "ទឹក",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-drinks-001.mp3",
+      "topicId": "topic-drinks",
+      "english": "Water"
+    },
+    {
+      "id": "rs-drinks-002",
+      "text": "តែ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-drinks-002.mp3",
+      "topicId": "topic-drinks",
+      "english": "Tea"
+    },
+    {
+      "id": "rs-drinks-003",
+      "text": "កាហ្វេ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-drinks-003.mp3",
+      "topicId": "topic-drinks",
+      "english": "Coffee"
+    },
+    {
+      "id": "rs-drinks-004",
+      "text": "ទឹកដោះគោ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-drinks-004.mp3",
+      "topicId": "topic-drinks",
+      "english": "Milk"
+    },
+    {
+      "id": "rs-drinks-005",
+      "text": "ទឹកផ្លែឈើ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-drinks-005.mp3",
+      "topicId": "topic-drinks",
+      "english": "Fruit juice"
+    },
+    {
+      "id": "rs-drinks-006",
+      "text": "ទឹកកក",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-drinks-006.mp3",
+      "topicId": "topic-drinks",
+      "english": "Ice"
+    },
+    {
+      "id": "rs-drinks-007",
+      "text": "ទឹកដូង",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-drinks-007.mp3",
+      "topicId": "topic-drinks",
+      "english": "Coconut water"
+    },
+    {
+      "id": "rs-drinks-008",
+      "text": "ទឹកត្រជាក់",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-drinks-008.mp3",
+      "topicId": "topic-drinks",
+      "english": "Cold water"
+    },
+    {
+      "id": "rs-drinks-009",
+      "text": "តែឆ្ដៅ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-drinks-009.mp3",
+      "topicId": "topic-drinks",
+      "english": "Hot tea"
+    },
+    {
+      "id": "rs-drinks-010",
+      "text": "កាហ្វេទឹកកក",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-drinks-010.mp3",
+      "topicId": "topic-drinks",
+      "english": "Iced coffee"
+    },
+    {
+      "id": "rs-drinks-011",
+      "text": "ទឹកក្រូចផ្អែម",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-drinks-011.mp3",
+      "topicId": "topic-drinks",
+      "english": "Soft drink / Soda"
+    },
+    {
+      "id": "rs-drinks-012",
+      "text": "ទឹកក្រូចឆ្មារ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-drinks-012.mp3",
+      "topicId": "topic-drinks",
+      "english": "Lemonade / Lime juice"
+    },
+    {
+      "id": "rs-drinks-013",
+      "text": "ទឹកអំពៅ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-drinks-013.mp3",
+      "topicId": "topic-drinks",
+      "english": "Sugarcane juice"
+    },
+    {
+      "id": "rs-drinks-014",
+      "text": "បៀរ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-drinks-014.mp3",
+      "topicId": "topic-drinks",
+      "english": "Beer"
+    },
+    {
+      "id": "rs-drinks-015",
+      "text": "ស្រា",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-drinks-015.mp3",
+      "topicId": "topic-drinks",
+      "english": "Wine / Liquor"
+    },
+    {
+      "id": "rs-fruit-001",
+      "text": "ចេក",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-fruit-001.mp3",
+      "topicId": "topic-fruit",
+      "english": "Banana"
+    },
+    {
+      "id": "rs-fruit-002",
+      "text": "ផ្លែស្វាយ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-fruit-002.mp3",
+      "topicId": "topic-fruit",
+      "english": "Mango fruit"
+    },
+    {
+      "id": "rs-fruit-003",
+      "text": "ផ្លែដូង",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-fruit-003.mp3",
+      "topicId": "topic-fruit",
+      "english": "Coconut fruit"
+    },
+    {
+      "id": "rs-fruit-004",
+      "text": "ផ្លែក្រូច",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-fruit-004.mp3",
+      "topicId": "topic-fruit",
+      "english": "Orange fruit"
+    },
+    {
+      "id": "rs-fruit-005",
+      "text": "ប៉ោម",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-fruit-005.mp3",
+      "topicId": "topic-fruit",
+      "english": "Apple"
+    },
+    {
+      "id": "rs-fruit-006",
+      "text": "ឪឡឹក",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-fruit-006.mp3",
+      "topicId": "topic-fruit",
+      "english": "Watermelon"
+    },
+    {
+      "id": "rs-fruit-007",
+      "text": "ម្នាស់",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-fruit-007.mp3",
+      "topicId": "topic-fruit",
+      "english": "Pineapple"
+    },
+    {
+      "id": "rs-fruit-008",
+      "text": "ល្ហុង",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-fruit-008.mp3",
+      "topicId": "topic-fruit",
+      "english": "Papaya"
+    },
+    {
+      "id": "rs-fruit-009",
+      "text": "ទុរេន",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-fruit-009.mp3",
+      "topicId": "topic-fruit",
+      "english": "Durian"
+    },
+    {
+      "id": "rs-fruit-010",
+      "text": "សាវម៉ាវ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-fruit-010.mp3",
+      "topicId": "topic-fruit",
+      "english": "Rambutan"
+    },
+    {
+      "id": "rs-fruit-011",
+      "text": "ស្រកានាគ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-fruit-011.mp3",
+      "topicId": "topic-fruit",
+      "english": "Dragon fruit"
+    },
+    {
+      "id": "rs-fruit-012",
+      "text": "ទំពាំងបាយជូរ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-fruit-012.mp3",
+      "topicId": "topic-fruit",
+      "english": "Grape"
+    },
+    {
+      "id": "rs-fruit-013",
+      "text": "ស្រ្តូប៊េរី",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-fruit-013.mp3",
+      "topicId": "topic-fruit",
+      "english": "Strawberry"
+    },
+    {
+      "id": "rs-fruit-014",
+      "text": "ខ្នុរ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-fruit-014.mp3",
+      "topicId": "topic-fruit",
+      "english": "Jackfruit"
+    },
+    {
+      "id": "rs-fruit-015",
+      "text": "ត្របែក",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-fruit-015.mp3",
+      "topicId": "topic-fruit",
+      "english": "Guava"
+    },
+    {
+      "id": "rs-animals-001",
+      "text": "ឆ្កែ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-animals-001.mp3",
+      "topicId": "topic-animals",
+      "english": "Dog"
+    },
+    {
+      "id": "rs-animals-002",
+      "text": "ឆ្មា",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-animals-002.mp3",
+      "topicId": "topic-animals",
+      "english": "Cat"
+    },
+    {
+      "id": "rs-animals-003",
+      "text": "គោ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-animals-003.mp3",
+      "topicId": "topic-animals",
+      "english": "Cow"
+    },
+    {
+      "id": "rs-animals-004",
+      "text": "ជ្រូក",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-animals-004.mp3",
+      "topicId": "topic-animals",
+      "english": "Pig"
+    },
+    {
+      "id": "rs-animals-005",
+      "text": "មាន់",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-animals-005.mp3",
+      "topicId": "topic-animals",
+      "english": "Chicken"
+    },
+    {
+      "id": "rs-animals-006",
+      "text": "ទា",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-animals-006.mp3",
+      "topicId": "topic-animals",
+      "english": "Duck"
+    },
+    {
+      "id": "rs-animals-007",
+      "text": "សត្វស្លាប",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-animals-007.mp3",
+      "topicId": "topic-animals",
+      "english": "Bird"
+    },
+    {
+      "id": "rs-animals-008",
+      "text": "សត្វត្រី",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-animals-008.mp3",
+      "topicId": "topic-animals",
+      "english": "Live fish"
+    },
+    {
+      "id": "rs-animals-009",
+      "text": "ដំរី",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-animals-009.mp3",
+      "topicId": "topic-animals",
+      "english": "Elephant"
+    },
+    {
+      "id": "rs-animals-010",
+      "text": "សេះ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-animals-010.mp3",
+      "topicId": "topic-animals",
+      "english": "Horse"
+    },
+    {
+      "id": "rs-animals-011",
+      "text": "ខ្លា",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-animals-011.mp3",
+      "topicId": "topic-animals",
+      "english": "Tiger"
+    },
+    {
+      "id": "rs-animals-012",
+      "text": "ស្វា",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-animals-012.mp3",
+      "topicId": "topic-animals",
+      "english": "Monkey"
+    },
+    {
+      "id": "rs-animals-013",
+      "text": "ពស់",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-animals-013.mp3",
+      "topicId": "topic-animals",
+      "english": "Snake"
+    },
+    {
+      "id": "rs-animals-014",
+      "text": "កង្កែប",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-animals-014.mp3",
+      "topicId": "topic-animals",
+      "english": "Frog"
+    },
+    {
+      "id": "rs-animals-015",
+      "text": "កណ្ដុរ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-animals-015.mp3",
+      "topicId": "topic-animals",
+      "english": "Mouse / Rat"
+    },
+    {
+      "id": "rs-body-parts-001",
+      "text": "ក្បាល",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-body-parts-001.mp3",
+      "topicId": "topic-body-parts",
+      "english": "Head"
+    },
+    {
+      "id": "rs-body-parts-002",
+      "text": "ភ្នែក",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-body-parts-002.mp3",
+      "topicId": "topic-body-parts",
+      "english": "Eye"
+    },
+    {
+      "id": "rs-body-parts-003",
+      "text": "ត្រចៀក",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-body-parts-003.mp3",
+      "topicId": "topic-body-parts",
+      "english": "Ear"
+    },
+    {
+      "id": "rs-body-parts-004",
+      "text": "ច្រមុះ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-body-parts-004.mp3",
+      "topicId": "topic-body-parts",
+      "english": "Nose"
+    },
+    {
+      "id": "rs-body-parts-005",
+      "text": "មាត់",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-body-parts-005.mp3",
+      "topicId": "topic-body-parts",
+      "english": "Mouth"
+    },
+    {
+      "id": "rs-body-parts-006",
+      "text": "ដៃ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-body-parts-006.mp3",
+      "topicId": "topic-body-parts",
+      "english": "Hand / Arm"
+    },
+    {
+      "id": "rs-body-parts-007",
+      "text": "ជើង",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-body-parts-007.mp3",
+      "topicId": "topic-body-parts",
+      "english": "Foot / Leg"
+    },
+    {
+      "id": "rs-body-parts-008",
+      "text": "ធ្មេញ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-body-parts-008.mp3",
+      "topicId": "topic-body-parts",
+      "english": "Tooth"
+    },
+    {
+      "id": "rs-body-parts-009",
+      "text": "សក់",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-body-parts-009.mp3",
+      "topicId": "topic-body-parts",
+      "english": "Hair"
+    },
+    {
+      "id": "rs-body-parts-010",
+      "text": "មុខ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-body-parts-010.mp3",
+      "topicId": "topic-body-parts",
+      "english": "Face"
+    },
+    {
+      "id": "rs-body-parts-011",
+      "text": "ក",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-body-parts-011.mp3",
+      "topicId": "topic-body-parts",
+      "english": "Neck"
+    },
+    {
+      "id": "rs-body-parts-012",
+      "text": "ពោះ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-body-parts-012.mp3",
+      "topicId": "topic-body-parts",
+      "english": "Stomach / Belly"
+    },
+    {
+      "id": "rs-body-parts-013",
+      "text": "ម្រាមដៃ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-body-parts-013.mp3",
+      "topicId": "topic-body-parts",
+      "english": "Finger"
+    },
+    {
+      "id": "rs-body-parts-014",
+      "text": "ខ្នង",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-body-parts-014.mp3",
+      "topicId": "topic-body-parts",
+      "english": "Back (body part)"
+    },
+    {
+      "id": "rs-body-parts-015",
+      "text": "បេះដូង",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-body-parts-015.mp3",
+      "topicId": "topic-body-parts",
+      "english": "Heart (body organ)"
+    },
+    {
+      "id": "rs-clothes-001",
+      "text": "អាវ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-clothes-001.mp3",
+      "topicId": "topic-clothes",
+      "english": "Shirt"
+    },
+    {
+      "id": "rs-clothes-002",
+      "text": "ខោ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-clothes-002.mp3",
+      "topicId": "topic-clothes",
+      "english": "Pants / Trousers"
+    },
+    {
+      "id": "rs-clothes-003",
+      "text": "សំពត់",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-clothes-003.mp3",
+      "topicId": "topic-clothes",
+      "english": "Skirt / Traditional skirt"
+    },
+    {
+      "id": "rs-clothes-004",
+      "text": "ស្បែកជើង",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-clothes-004.mp3",
+      "topicId": "topic-clothes",
+      "english": "Shoes"
+    },
+    {
+      "id": "rs-clothes-005",
+      "text": "មួក",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-clothes-005.mp3",
+      "topicId": "topic-clothes",
+      "english": "Hat / Cap"
+    },
+    {
+      "id": "rs-clothes-006",
+      "text": "ស្រោមជើង",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-clothes-006.mp3",
+      "topicId": "topic-clothes",
+      "english": "Socks"
+    },
+    {
+      "id": "rs-clothes-007",
+      "text": "វ៉ែនតា",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-clothes-007.mp3",
+      "topicId": "topic-clothes",
+      "english": "Glasses / Eyeglasses"
+    },
+    {
+      "id": "rs-clothes-008",
+      "text": "កាបូបដៃ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-clothes-008.mp3",
+      "topicId": "topic-clothes",
+      "english": "Handbag"
+    },
+    {
+      "id": "rs-clothes-009",
+      "text": "ចិញ្ចៀន",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-clothes-009.mp3",
+      "topicId": "topic-clothes",
+      "english": "Ring"
+    },
+    {
+      "id": "rs-clothes-010",
+      "text": "ខ្សែក្រវ៉ាត់",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-clothes-010.mp3",
+      "topicId": "topic-clothes",
+      "english": "Belt"
+    },
+    {
+      "id": "rs-clothes-011",
+      "text": "រ៉ូប",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-clothes-011.mp3",
+      "topicId": "topic-clothes",
+      "english": "Dress"
+    },
+    {
+      "id": "rs-clothes-012",
+      "text": "អាវរងា",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-clothes-012.mp3",
+      "topicId": "topic-clothes",
+      "english": "Warm jacket / Coat"
+    },
+    {
+      "id": "rs-clothes-013",
+      "text": "នាឡិកាដៃ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-clothes-013.mp3",
+      "topicId": "topic-clothes",
+      "english": "Wristwatch"
+    },
+    {
+      "id": "rs-clothes-014",
+      "text": "ក្រមា",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-clothes-014.mp3",
+      "topicId": "topic-clothes",
+      "english": "Krama (Cambodian scarf)"
+    },
+    {
+      "id": "rs-clothes-015",
+      "text": "ស្បែកជើងផ្ទាត់",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-clothes-015.mp3",
+      "topicId": "topic-clothes",
+      "english": "Sandals / Flip-flops"
+    },
+    {
+      "id": "rs-home-furniture-001",
+      "text": "ផ្ទះ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-home-furniture-001.mp3",
+      "topicId": "topic-home-furniture",
+      "english": "House / Home"
+    },
+    {
+      "id": "rs-home-furniture-002",
+      "text": "តុ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-home-furniture-002.mp3",
+      "topicId": "topic-home-furniture",
+      "english": "Table"
+    },
+    {
+      "id": "rs-home-furniture-003",
+      "text": "កៅអី",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-home-furniture-003.mp3",
+      "topicId": "topic-home-furniture",
+      "english": "Chair"
+    },
+    {
+      "id": "rs-home-furniture-004",
+      "text": "គ្រែ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-home-furniture-004.mp3",
+      "topicId": "topic-home-furniture",
+      "english": "Bed"
+    },
+    {
+      "id": "rs-home-furniture-005",
+      "text": "ទ្វារ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-home-furniture-005.mp3",
+      "topicId": "topic-home-furniture",
+      "english": "Door"
+    },
+    {
+      "id": "rs-home-furniture-006",
+      "text": "បង្អួច",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-home-furniture-006.mp3",
+      "topicId": "topic-home-furniture",
+      "english": "Window"
+    },
+    {
+      "id": "rs-home-furniture-007",
+      "text": "ផ្ទះបាយ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-home-furniture-007.mp3",
+      "topicId": "topic-home-furniture",
+      "english": "Kitchen"
+    },
+    {
+      "id": "rs-home-furniture-008",
+      "text": "បន្ទប់",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-home-furniture-008.mp3",
+      "topicId": "topic-home-furniture",
+      "english": "Room"
+    },
+    {
+      "id": "rs-home-furniture-009",
+      "text": "បន្ទប់ទឹក",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-home-furniture-009.mp3",
+      "topicId": "topic-home-furniture",
+      "english": "Bathroom"
+    },
+    {
+      "id": "rs-home-furniture-010",
+      "text": "កង្ហារ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-home-furniture-010.mp3",
+      "topicId": "topic-home-furniture",
+      "english": "Fan (electric)"
+    },
+    {
+      "id": "rs-home-furniture-011",
+      "text": "កញ្ចក់",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-home-furniture-011.mp3",
+      "topicId": "topic-home-furniture",
+      "english": "Mirror"
+    },
+    {
+      "id": "rs-home-furniture-012",
+      "text": "នាឡិកាជញ្ជាំង",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-home-furniture-012.mp3",
+      "topicId": "topic-home-furniture",
+      "english": "Wall clock"
+    },
+    {
+      "id": "rs-home-furniture-013",
+      "text": "អំពូលភ្លើង",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-home-furniture-013.mp3",
+      "topicId": "topic-home-furniture",
+      "english": "Electric light / Lamp"
+    },
+    {
+      "id": "rs-home-furniture-014",
+      "text": "ខ្នើយ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-home-furniture-014.mp3",
+      "topicId": "topic-home-furniture",
+      "english": "Pillow"
+    },
+    {
+      "id": "rs-home-furniture-015",
+      "text": "ភួយ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-home-furniture-015.mp3",
+      "topicId": "topic-home-furniture",
+      "english": "Blanket"
+    },
+    {
+      "id": "rs-school-study-001",
+      "text": "សាលារៀន",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-school-study-001.mp3",
+      "topicId": "topic-school-study",
+      "english": "School"
+    },
+    {
+      "id": "rs-school-study-002",
+      "text": "គ្រូបង្រៀន",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-school-study-002.mp3",
+      "topicId": "topic-school-study",
+      "english": "Teacher"
+    },
+    {
+      "id": "rs-school-study-003",
+      "text": "សិស្ស",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-school-study-003.mp3",
+      "topicId": "topic-school-study",
+      "english": "Student / Pupil"
+    },
+    {
+      "id": "rs-school-study-004",
+      "text": "សៀវភៅ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-school-study-004.mp3",
+      "topicId": "topic-school-study",
+      "english": "Book"
+    },
+    {
+      "id": "rs-school-study-005",
+      "text": "ប៊ិច",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-school-study-005.mp3",
+      "topicId": "topic-school-study",
+      "english": "Pen"
+    },
+    {
+      "id": "rs-school-study-006",
+      "text": "ខ្មៅដៃ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-school-study-006.mp3",
+      "topicId": "topic-school-study",
+      "english": "Pencil"
+    },
+    {
+      "id": "rs-school-study-007",
+      "text": "ក្រដាស",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-school-study-007.mp3",
+      "topicId": "topic-school-study",
+      "english": "Paper"
+    },
+    {
+      "id": "rs-school-study-008",
+      "text": "បន្ទាត់",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-school-study-008.mp3",
+      "topicId": "topic-school-study",
+      "english": "Ruler"
+    },
+    {
+      "id": "rs-school-study-009",
+      "text": "តុរៀន",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-school-study-009.mp3",
+      "topicId": "topic-school-study",
+      "english": "Study desk"
+    },
+    {
+      "id": "rs-school-study-010",
+      "text": "បន្ទប់រៀន",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-school-study-010.mp3",
+      "topicId": "topic-school-study",
+      "english": "Classroom"
+    },
+    {
+      "id": "rs-school-study-011",
+      "text": "កាបូបសៀវភៅ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-school-study-011.mp3",
+      "topicId": "topic-school-study",
+      "english": "Schoolbag / Backpack"
+    },
+    {
+      "id": "rs-school-study-012",
+      "text": "ជ័រលុប",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-school-study-012.mp3",
+      "topicId": "topic-school-study",
+      "english": "Eraser / Rubber"
+    },
+    {
+      "id": "rs-school-study-013",
+      "text": "បណ្ណាល័យ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-school-study-013.mp3",
+      "topicId": "topic-school-study",
+      "english": "Library"
+    },
+    {
+      "id": "rs-school-study-014",
+      "text": "មេរៀន",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-school-study-014.mp3",
+      "topicId": "topic-school-study",
+      "english": "Lesson"
+    },
+    {
+      "id": "rs-school-study-015",
+      "text": "ការប្រឡង",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-school-study-015.mp3",
+      "topicId": "topic-school-study",
+      "english": "Exam / Test"
+    },
+    {
+      "id": "rs-places-in-town-001",
+      "text": "ផ្សារ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-places-in-town-001.mp3",
+      "topicId": "topic-places-in-town",
+      "english": "Market"
+    },
+    {
+      "id": "rs-places-in-town-002",
+      "text": "មន្ទីរពេទ្យ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-places-in-town-002.mp3",
+      "topicId": "topic-places-in-town",
+      "english": "Hospital"
+    },
+    {
+      "id": "rs-places-in-town-003",
+      "text": "វត្ត",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-places-in-town-003.mp3",
+      "topicId": "topic-places-in-town",
+      "english": "Pagoda / Temple"
+    },
+    {
+      "id": "rs-places-in-town-004",
+      "text": "ធនាគារ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-places-in-town-004.mp3",
+      "topicId": "topic-places-in-town",
+      "english": "Bank"
+    },
+    {
+      "id": "rs-places-in-town-005",
+      "text": "សួនច្បារ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-places-in-town-005.mp3",
+      "topicId": "topic-places-in-town",
+      "english": "Park / Public garden"
+    },
+    {
+      "id": "rs-places-in-town-006",
+      "text": "ភោជនីយដ្ឋាន",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-places-in-town-006.mp3",
+      "topicId": "topic-places-in-town",
+      "english": "Restaurant"
+    },
+    {
+      "id": "rs-places-in-town-007",
+      "text": "សណ្ឋាគារ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-places-in-town-007.mp3",
+      "topicId": "topic-places-in-town",
+      "english": "Hotel"
+    },
+    {
+      "id": "rs-places-in-town-008",
+      "text": "ហាងទំនិញ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-places-in-town-008.mp3",
+      "topicId": "topic-places-in-town",
+      "english": "Store / Shop"
+    },
+    {
+      "id": "rs-places-in-town-009",
+      "text": "ឱសថស្ថាន",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-places-in-town-009.mp3",
+      "topicId": "topic-places-in-town",
+      "english": "Pharmacy"
+    },
+    {
+      "id": "rs-places-in-town-010",
+      "text": "ព្រលានយន្តហោះ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-places-in-town-010.mp3",
+      "topicId": "topic-places-in-town",
+      "english": "Airport"
+    },
+    {
+      "id": "rs-places-in-town-011",
+      "text": "ប្រៃសណីយ៍",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-places-in-town-011.mp3",
+      "topicId": "topic-places-in-town",
+      "english": "Post office"
+    },
+    {
+      "id": "rs-places-in-town-012",
+      "text": "ប៉ុស្តិ៍នគរបាល",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-places-in-town-012.mp3",
+      "topicId": "topic-places-in-town",
+      "english": "Police station"
+    },
+    {
+      "id": "rs-places-in-town-013",
+      "text": "ផ្លូវ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-places-in-town-013.mp3",
+      "topicId": "topic-places-in-town",
+      "english": "Street / Road"
+    },
+    {
+      "id": "rs-places-in-town-014",
+      "text": "ស្ពាន",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-places-in-town-014.mp3",
+      "topicId": "topic-places-in-town",
+      "english": "Bridge"
+    },
+    {
+      "id": "rs-places-in-town-015",
+      "text": "ហាងនំបុ័ង",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-places-in-town-015.mp3",
+      "topicId": "topic-places-in-town",
+      "english": "Bakery"
+    },
+    {
+      "id": "rs-transport-001",
+      "text": "ឡាន",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-transport-001.mp3",
+      "topicId": "topic-transport",
+      "english": "Car"
+    },
+    {
+      "id": "rs-transport-002",
+      "text": "កង់",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-transport-002.mp3",
+      "topicId": "topic-transport",
+      "english": "Bicycle"
+    },
+    {
+      "id": "rs-transport-003",
+      "text": "ម៉ូតូ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-transport-003.mp3",
+      "topicId": "topic-transport",
+      "english": "Motorcycle"
+    },
+    {
+      "id": "rs-transport-004",
+      "text": "ឡានក្រុង",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-transport-004.mp3",
+      "topicId": "topic-transport",
+      "english": "City bus"
+    },
+    {
+      "id": "rs-transport-005",
+      "text": "តុចតុច",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-transport-005.mp3",
+      "topicId": "topic-transport",
+      "english": "Tuk-tuk"
+    },
+    {
+      "id": "rs-transport-006",
+      "text": "ទូក",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-transport-006.mp3",
+      "topicId": "topic-transport",
+      "english": "Boat"
+    },
+    {
+      "id": "rs-transport-007",
+      "text": "កប៉ាល់",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-transport-007.mp3",
+      "topicId": "topic-transport",
+      "english": "Ship"
+    },
+    {
+      "id": "rs-transport-008",
+      "text": "យន្តហោះ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-transport-008.mp3",
+      "topicId": "topic-transport",
+      "english": "Airplane"
+    },
+    {
+      "id": "rs-transport-009",
+      "text": "រថភ្លើង",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-transport-009.mp3",
+      "topicId": "topic-transport",
+      "english": "Train"
+    },
+    {
+      "id": "rs-transport-010",
+      "text": "តាក់ស៊ី",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-transport-010.mp3",
+      "topicId": "topic-transport",
+      "english": "Taxi"
+    },
+    {
+      "id": "rs-transport-011",
+      "text": "ឧទ្ធម្ភាគចក្រ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-transport-011.mp3",
+      "topicId": "topic-transport",
+      "english": "Helicopter"
+    },
+    {
+      "id": "rs-transport-012",
+      "text": "រថភ្លើងក្រោមដី",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-transport-012.mp3",
+      "topicId": "topic-transport",
+      "english": "Subway / Metro"
+    },
+    {
+      "id": "rs-transport-013",
+      "text": "ឡានដឹកទំនិញ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-transport-013.mp3",
+      "topicId": "topic-transport",
+      "english": "Truck / Freight vehicle"
+    },
+    {
+      "id": "rs-transport-014",
+      "text": "កង់ឡាន",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-transport-014.mp3",
+      "topicId": "topic-transport",
+      "english": "Car tire / Wheel"
+    },
+    {
+      "id": "rs-transport-015",
+      "text": "ចំណតឡានក្រុង",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-transport-015.mp3",
+      "topicId": "topic-transport",
+      "english": "Bus stop"
+    },
+    {
+      "id": "rs-weather-001",
+      "text": "ព្រះអាទិត្យ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-weather-001.mp3",
+      "topicId": "topic-weather",
+      "english": "Sun"
+    },
+    {
+      "id": "rs-weather-002",
+      "text": "ភ្លៀង",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-weather-002.mp3",
+      "topicId": "topic-weather",
+      "english": "Rain"
+    },
+    {
+      "id": "rs-weather-003",
+      "text": "ខ្យល់",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-weather-003.mp3",
+      "topicId": "topic-weather",
+      "english": "Wind"
+    },
+    {
+      "id": "rs-weather-004",
+      "text": "ពពក",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-weather-004.mp3",
+      "topicId": "topic-weather",
+      "english": "Cloud"
+    },
+    {
+      "id": "rs-weather-005",
+      "text": "ក្តៅ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-weather-005.mp3",
+      "topicId": "topic-weather",
+      "english": "Hot (temperature)"
+    },
+    {
+      "id": "rs-weather-006",
+      "text": "ត្រជាក់",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-weather-006.mp3",
+      "topicId": "topic-weather",
+      "english": "Cold (temperature)"
+    },
+    {
+      "id": "rs-weather-007",
+      "text": "ព្យុះ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-weather-007.mp3",
+      "topicId": "topic-weather",
+      "english": "Storm"
+    },
+    {
+      "id": "rs-weather-008",
+      "text": "មេឃ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-weather-008.mp3",
+      "topicId": "topic-weather",
+      "english": "Sky"
+    },
+    {
+      "id": "rs-weather-009",
+      "text": "ផ្គរ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-weather-009.mp3",
+      "topicId": "topic-weather",
+      "english": "Thunder"
+    },
+    {
+      "id": "rs-weather-010",
+      "text": "ផ្លេកបន្ទោរ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-weather-010.mp3",
+      "topicId": "topic-weather",
+      "english": "Lightning flash"
+    },
+    {
+      "id": "rs-weather-011",
+      "text": "ឥន្ធនូ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-weather-011.mp3",
+      "topicId": "topic-weather",
+      "english": "Rainbow"
+    },
+    {
+      "id": "rs-weather-012",
+      "text": "ធាតុអាកាស",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-weather-012.mp3",
+      "topicId": "topic-weather",
+      "english": "Weather / Climate"
+    },
+    {
+      "id": "rs-weather-013",
+      "text": "អ័ព្ទ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-weather-013.mp3",
+      "topicId": "topic-weather",
+      "english": "Fog / Mist"
+    },
+    {
+      "id": "rs-weather-014",
+      "text": "ស្ងួត",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-weather-014.mp3",
+      "topicId": "topic-weather",
+      "english": "Dry"
+    },
+    {
+      "id": "rs-weather-015",
+      "text": "ទទឹក",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-weather-015.mp3",
+      "topicId": "topic-weather",
+      "english": "Wet"
+    },
+    {
+      "id": "rs-time-days-001",
+      "text": "ថ្ងៃនេះ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-time-days-001.mp3",
+      "topicId": "topic-time-days",
+      "english": "Today"
+    },
+    {
+      "id": "rs-time-days-002",
+      "text": "ថ្ងៃស្អែក",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-time-days-002.mp3",
+      "topicId": "topic-time-days",
+      "english": "Tomorrow"
+    },
+    {
+      "id": "rs-time-days-003",
+      "text": "ម្សិលមិញ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-time-days-003.mp3",
+      "topicId": "topic-time-days",
+      "english": "Yesterday"
+    },
+    {
+      "id": "rs-time-days-004",
+      "text": "ព្រឹក",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-time-days-004.mp3",
+      "topicId": "topic-time-days",
+      "english": "Morning"
+    },
+    {
+      "id": "rs-time-days-005",
+      "text": "រសៀល",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-time-days-005.mp3",
+      "topicId": "topic-time-days",
+      "english": "Afternoon"
+    },
+    {
+      "id": "rs-time-days-006",
+      "text": "យប់",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-time-days-006.mp3",
+      "topicId": "topic-time-days",
+      "english": "Night"
+    },
+    {
+      "id": "rs-time-days-007",
+      "text": "ថ្ងៃ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-time-days-007.mp3",
+      "topicId": "topic-time-days",
+      "english": "Day / Daytime"
+    },
+    {
+      "id": "rs-time-days-008",
+      "text": "ម៉ោង",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-time-days-008.mp3",
+      "topicId": "topic-time-days",
+      "english": "Hour / O'clock"
+    },
+    {
+      "id": "rs-time-days-009",
+      "text": "នាទី",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-time-days-009.mp3",
+      "topicId": "topic-time-days",
+      "english": "Minute"
+    },
+    {
+      "id": "rs-time-days-010",
+      "text": "ថ្ងៃច័ន្ទ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-time-days-010.mp3",
+      "topicId": "topic-time-days",
+      "english": "Monday"
+    },
+    {
+      "id": "rs-time-days-011",
+      "text": "ថ្ងៃសុក្រ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-time-days-011.mp3",
+      "topicId": "topic-time-days",
+      "english": "Friday"
+    },
+    {
+      "id": "rs-time-days-012",
+      "text": "ថ្ងៃអាទិត្យ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-time-days-012.mp3",
+      "topicId": "topic-time-days",
+      "english": "Sunday"
+    },
+    {
+      "id": "rs-time-days-013",
+      "text": "សប្តាហ៍",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-time-days-013.mp3",
+      "topicId": "topic-time-days",
+      "english": "Week"
+    },
+    {
+      "id": "rs-time-days-014",
+      "text": "ខែ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-time-days-014.mp3",
+      "topicId": "topic-time-days",
+      "english": "Month"
+    },
+    {
+      "id": "rs-time-days-015",
+      "text": "ឆ្នាំ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-time-days-015.mp3",
+      "topicId": "topic-time-days",
+      "english": "Year"
+    },
+    {
+      "id": "rs-jobs-001",
+      "text": "គ្រូពេទ្យ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-jobs-001.mp3",
+      "topicId": "topic-jobs",
+      "english": "Doctor"
+    },
+    {
+      "id": "rs-jobs-002",
+      "text": "លោកគ្រូ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-jobs-002.mp3",
+      "topicId": "topic-jobs",
+      "english": "Male Teacher / Teacher"
+    },
+    {
+      "id": "rs-jobs-003",
+      "text": "កសិករ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-jobs-003.mp3",
+      "topicId": "topic-jobs",
+      "english": "Farmer"
+    },
+    {
+      "id": "rs-jobs-004",
+      "text": "អ្នកបើកបរ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-jobs-004.mp3",
+      "topicId": "topic-jobs",
+      "english": "Driver"
+    },
+    {
+      "id": "rs-jobs-005",
+      "text": "នគរបាល",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-jobs-005.mp3",
+      "topicId": "topic-jobs",
+      "english": "Police officer"
+    },
+    {
+      "id": "rs-jobs-006",
+      "text": "ចុងភៅ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-jobs-006.mp3",
+      "topicId": "topic-jobs",
+      "english": "Chef / Cook"
+    },
+    {
+      "id": "rs-jobs-007",
+      "text": "អ្នកលក់",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-jobs-007.mp3",
+      "topicId": "topic-jobs",
+      "english": "Seller / Merchant"
+    },
+    {
+      "id": "rs-jobs-008",
+      "text": "និស្សិត",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-jobs-008.mp3",
+      "topicId": "topic-jobs",
+      "english": "College student / University student"
+    },
+    {
+      "id": "rs-jobs-009",
+      "text": "គិលានុបដ្ឋាយិកា",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-jobs-009.mp3",
+      "topicId": "topic-jobs",
+      "english": "Nurse"
+    },
+    {
+      "id": "rs-jobs-010",
+      "text": "វិស្វករ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-jobs-010.mp3",
+      "topicId": "topic-jobs",
+      "english": "Engineer"
+    },
+    {
+      "id": "rs-jobs-011",
+      "text": "កម្មករ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-jobs-011.mp3",
+      "topicId": "topic-jobs",
+      "english": "Worker / Laborer"
+    },
+    {
+      "id": "rs-jobs-012",
+      "text": "សិល្បករ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-jobs-012.mp3",
+      "topicId": "topic-jobs",
+      "english": "Artist"
+    },
+    {
+      "id": "rs-jobs-013",
+      "text": "អ្នកកាត់សក់",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-jobs-013.mp3",
+      "topicId": "topic-jobs",
+      "english": "Barber / Hairdresser"
+    },
+    {
+      "id": "rs-jobs-014",
+      "text": "អ្នកថតរូប",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-jobs-014.mp3",
+      "topicId": "topic-jobs",
+      "english": "Photographer"
+    },
+    {
+      "id": "rs-jobs-015",
+      "text": "អ្នកគ្រប់គ្រង",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-jobs-015.mp3",
+      "topicId": "topic-jobs",
+      "english": "Manager"
+    },
+    {
+      "id": "rs-common-actions-001",
+      "text": "ញ៉ាំ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-common-actions-001.mp3",
+      "topicId": "topic-common-actions",
+      "english": "Eat"
+    },
+    {
+      "id": "rs-common-actions-002",
+      "text": "ផឹក",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-common-actions-002.mp3",
+      "topicId": "topic-common-actions",
+      "english": "Drink"
+    },
+    {
+      "id": "rs-common-actions-003",
+      "text": "ទៅ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-common-actions-003.mp3",
+      "topicId": "topic-common-actions",
+      "english": "Go"
+    },
+    {
+      "id": "rs-common-actions-004",
+      "text": "មក",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-common-actions-004.mp3",
+      "topicId": "topic-common-actions",
+      "english": "Come"
+    },
+    {
+      "id": "rs-common-actions-005",
+      "text": "គេង",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-common-actions-005.mp3",
+      "topicId": "topic-common-actions",
+      "english": "Sleep"
+    },
+    {
+      "id": "rs-common-actions-006",
+      "text": "អាន",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-common-actions-006.mp3",
+      "topicId": "topic-common-actions",
+      "english": "Read"
+    },
+    {
+      "id": "rs-common-actions-007",
+      "text": "សរសេរ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-common-actions-007.mp3",
+      "topicId": "topic-common-actions",
+      "english": "Write"
+    },
+    {
+      "id": "rs-common-actions-008",
+      "text": "មើល",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-common-actions-008.mp3",
+      "topicId": "topic-common-actions",
+      "english": "Look / See / Watch"
+    },
+    {
+      "id": "rs-common-actions-009",
+      "text": "ដើរ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-common-actions-009.mp3",
+      "topicId": "topic-common-actions",
+      "english": "Walk"
+    },
+    {
+      "id": "rs-common-actions-010",
+      "text": "រត់",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-common-actions-010.mp3",
+      "topicId": "topic-common-actions",
+      "english": "Run"
+    },
+    {
+      "id": "rs-common-actions-011",
+      "text": "និយាយ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-common-actions-011.mp3",
+      "topicId": "topic-common-actions",
+      "english": "Speak / Talk"
+    },
+    {
+      "id": "rs-common-actions-012",
+      "text": "ស្ដាប់",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-common-actions-012.mp3",
+      "topicId": "topic-common-actions",
+      "english": "Listen"
+    },
+    {
+      "id": "rs-common-actions-013",
+      "text": "ធ្វើការ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-common-actions-013.mp3",
+      "topicId": "topic-common-actions",
+      "english": "Work"
+    },
+    {
+      "id": "rs-common-actions-014",
+      "text": "ឈរ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-common-actions-014.mp3",
+      "topicId": "topic-common-actions",
+      "english": "Stand"
+    },
+    {
+      "id": "rs-common-actions-015",
+      "text": "អង្គុយ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-common-actions-015.mp3",
+      "topicId": "topic-common-actions",
+      "english": "Sit"
+    },
+    {
+      "id": "rs-shopping-001",
+      "text": "លុយ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-shopping-001.mp3",
+      "topicId": "topic-shopping",
+      "english": "Money"
+    },
+    {
+      "id": "rs-shopping-002",
+      "text": "តម្លៃ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-shopping-002.mp3",
+      "topicId": "topic-shopping",
+      "english": "Price / Value"
+    },
+    {
+      "id": "rs-shopping-003",
+      "text": "ថ្លៃ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-shopping-003.mp3",
+      "topicId": "topic-shopping",
+      "english": "Expensive"
+    },
+    {
+      "id": "rs-shopping-004",
+      "text": "ថោក",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-shopping-004.mp3",
+      "topicId": "topic-shopping",
+      "english": "Cheap / Inexpensive"
+    },
+    {
+      "id": "rs-shopping-005",
+      "text": "បញ្ចុះតម្លៃ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-shopping-005.mp3",
+      "topicId": "topic-shopping",
+      "english": "Discount / Price cut"
+    },
+    {
+      "id": "rs-shopping-006",
+      "text": "ទិញអីវ៉ាន់",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-shopping-006.mp3",
+      "topicId": "topic-shopping",
+      "english": "Buy items / Shopping"
+    },
+    {
+      "id": "rs-shopping-007",
+      "text": "លក់ដូរ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-shopping-007.mp3",
+      "topicId": "topic-shopping",
+      "english": "Trade / Sell goods"
+    },
+    {
+      "id": "rs-shopping-008",
+      "text": "លុយអាប់",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-shopping-008.mp3",
+      "topicId": "topic-shopping",
+      "english": "Change (money returned)"
+    },
+    {
+      "id": "rs-shopping-009",
+      "text": "វិក្កយបត្រ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-shopping-009.mp3",
+      "topicId": "topic-shopping",
+      "english": "Receipt / Bill"
+    },
+    {
+      "id": "rs-shopping-010",
+      "text": "កាបូបទិញអីវ៉ាន់",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-shopping-010.mp3",
+      "topicId": "topic-shopping",
+      "english": "Shopping bag"
+    },
+    {
+      "id": "rs-shopping-011",
+      "text": "អតិថិជន",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-shopping-011.mp3",
+      "topicId": "topic-shopping",
+      "english": "Customer / Client"
+    },
+    {
+      "id": "rs-shopping-012",
+      "text": "លុយសុទ្ធ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-shopping-012.mp3",
+      "topicId": "topic-shopping",
+      "english": "Cash"
+    },
+    {
+      "id": "rs-shopping-013",
+      "text": "ថ្លៃប៉ុន្មាន",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-shopping-013.mp3",
+      "topicId": "topic-shopping",
+      "english": "How much does it cost?"
+    },
+    {
+      "id": "rs-shopping-014",
+      "text": "សរុប",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-shopping-014.mp3",
+      "topicId": "topic-shopping",
+      "english": "Total / Sum"
+    },
+    {
+      "id": "rs-shopping-015",
+      "text": "បង់លុយ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-shopping-015.mp3",
+      "topicId": "topic-shopping",
+      "english": "Pay money / Make payment"
+    },
+    {
+      "id": "rs-nature-001",
+      "text": "ដើមឈើ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-nature-001.mp3",
+      "topicId": "topic-nature",
+      "english": "Tree"
+    },
+    {
+      "id": "rs-nature-002",
+      "text": "ផ្កា",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-nature-002.mp3",
+      "topicId": "topic-nature",
+      "english": "Flower"
+    },
+    {
+      "id": "rs-nature-003",
+      "text": "ភ្នំ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-nature-003.mp3",
+      "topicId": "topic-nature",
+      "english": "Mountain"
+    },
+    {
+      "id": "rs-nature-004",
+      "text": "ទន្លេ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-nature-004.mp3",
+      "topicId": "topic-nature",
+      "english": "River"
+    },
+    {
+      "id": "rs-nature-005",
+      "text": "បឹង",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-nature-005.mp3",
+      "topicId": "topic-nature",
+      "english": "Lake"
+    },
+    {
+      "id": "rs-nature-006",
+      "text": "ព្រៃ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-nature-006.mp3",
+      "topicId": "topic-nature",
+      "english": "Forest / Woods"
+    },
+    {
+      "id": "rs-nature-007",
+      "text": "សមុទ្រ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-nature-007.mp3",
+      "topicId": "topic-nature",
+      "english": "Sea / Ocean"
+    },
+    {
+      "id": "rs-nature-008",
+      "text": "ថ្ម",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-nature-008.mp3",
+      "topicId": "topic-nature",
+      "english": "Stone / Rock"
+    },
+    {
+      "id": "rs-nature-009",
+      "text": "ព្រះច័ន្ទ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-nature-009.mp3",
+      "topicId": "topic-nature",
+      "english": "Moon"
+    },
+    {
+      "id": "rs-nature-010",
+      "text": "ផ្កាយ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-nature-010.mp3",
+      "topicId": "topic-nature",
+      "english": "Star"
+    },
+    {
+      "id": "rs-nature-011",
+      "text": "ដី",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-nature-011.mp3",
+      "topicId": "topic-nature",
+      "english": "Soil / Earth / Ground"
+    },
+    {
+      "id": "rs-nature-012",
+      "text": "ស្មៅ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-nature-012.mp3",
+      "topicId": "topic-nature",
+      "english": "Grass"
+    },
+    {
+      "id": "rs-nature-013",
+      "text": "ស្លឹកឈើ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-nature-013.mp3",
+      "topicId": "topic-nature",
+      "english": "Leaf"
+    },
+    {
+      "id": "rs-nature-014",
+      "text": "ទឹកជ្រោះ",
+      "voice": "km-KH-SreymomNeural",
+      "objectKey": "audio/read-spell-v1/rs-nature-014.mp3",
+      "topicId": "topic-nature",
+      "english": "Waterfall"
+    },
+    {
+      "id": "rs-nature-015",
+      "text": "កោះ",
+      "voice": "km-KH-PisethNeural",
+      "objectKey": "audio/read-spell-v1/rs-nature-015.mp3",
+      "topicId": "topic-nature",
+      "english": "Island"
+    }
+  ]
+}

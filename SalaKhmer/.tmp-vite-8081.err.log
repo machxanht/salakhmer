@@ -1,0 +1,181 @@
+[33mThe plugin "vite-tsconfig-paths" is detected. Vite now supports tsconfig paths resolution natively via the [1mresolve.tsconfigPaths[22m option. You can remove the plugin and set [1mresolve.tsconfigPaths: true[22m in your Vite config instead.[39m
+[2m2:37:36 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mExpanded Read & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8081/src/lib/audioService.ts:8:23)
+    at http://localhost:8081/src/lib/audioService.ts:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8081/src/lib/audioService.ts:17:9)
+    at playKhmerAudio (http://localhost:8081/src/lib/audioService.ts:203:10)
+    at async playWord (http://localhost:8081/src/routes/read-spell.$topicId.tsx?tsr-split=component:67:4)
+[2m2:37:36 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mExpanded Read & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8081/src/lib/audioService.ts:8:23)
+    at http://localhost:8081/src/lib/audioService.ts:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8081/src/lib/audioService.ts:17:9)
+    at playKhmerAudio (http://localhost:8081/src/lib/audioService.ts:212:10)
+    at async playWord (http://localhost:8081/src/routes/read-spell.$topicId.tsx?tsr-split=component:67:4)
+[2m2:37:36 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8081/src/lib/audioService.ts:8:23)
+    at http://localhost:8081/src/lib/audioService.ts:21:3
+    at new Promise (<anonymous>)
+    at playAudioUrl (http://localhost:8081/src/lib/audioService.ts:17:9)
+    at playKhmerAudio (http://localhost:8081/src/lib/audioService.ts:212:10)
+    at async playWord (http://localhost:8081/src/routes/read-spell.$topicId.tsx?tsr-split=component:67:4)
+[2m2:37:36 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mRead & Spell Azure audio is unavailable: Error: Unable to play audio: /audio/read-spell-v1/rs-personal-care-001.mp3
+    at audio.onerror (http://localhost:8081/src/lib/audioService.ts:37:32)
+[2m2:37:54 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mImported Azure dialogue audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8081/src/lib/audioService.ts:8:23)
+    at onClick (http://localhost:8081/src/components/ConversationTranscriptLesson.tsx:374:12)
+    at executeDispatch (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:9139:5)
+    at runWithFiberInDEV (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:850:66)
+    at processDispatchQueue (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:9165:27)
+    at http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:9452:5
+    at batchedUpdates$1 (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:2042:12)
+    at dispatchEventForPluginEventSystem (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:9238:4)
+    at dispatchEvent (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:11317:29)
+    at dispatchDiscreteEvent (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:11299:56)
+[2m2:38:04 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mExpanded Listen & Speak Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8081/src/lib/audioService.ts:8:23)
+    at onClick (http://localhost:8081/src/components/ConversationTranscriptLesson.tsx:374:12)
+    at executeDispatch (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:9139:5)
+    at runWithFiberInDEV (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:850:66)
+    at processDispatchQueue (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:9165:27)
+    at http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:9452:5
+    at batchedUpdates$1 (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:2042:12)
+    at dispatchEventForPluginEventSystem (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:9238:4)
+    at dispatchEvent (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:11317:29)
+    at dispatchDiscreteEvent (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:11299:56)
+[2m2:38:11 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mExpanded Listen & Speak Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8081/src/lib/audioService.ts:8:23)
+    at onClick (http://localhost:8081/src/components/ConversationTranscriptLesson.tsx:90:10)
+    at executeDispatch (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:9139:5)
+    at runWithFiberInDEV (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:850:66)
+    at processDispatchQueue (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:9165:27)
+    at http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:9452:5
+    at batchedUpdates$1 (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:2042:12)
+    at dispatchEventForPluginEventSystem (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:9238:4)
+    at dispatchEvent (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:11317:29)
+    at dispatchDiscreteEvent (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:11299:56)
+[2m2:38:13 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mExpanded Listen & Speak Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8081/src/lib/audioService.ts:8:23)
+    at http://localhost:8081/src/components/ConversationTranscriptLesson.tsx:32:4
+    at Object.react_stack_bottom_frame (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:12904:5)
+    at runWithFiberInDEV (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:850:66)
+    at commitHookEffectListUnmount (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:6640:149)
+    at commitHookPassiveUnmountEffects (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:6653:55)
+    at disconnectPassiveEffect (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:7840:6)
+    at recursivelyTraverseDisconnectPassiveEffects (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:7832:65)
+    at disconnectPassiveEffect (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:7841:6)
+    at recursivelyTraverseDisconnectPassiveEffects (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:7832:65)
+[2m2:38:15 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mExpanded Listen & Speak Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8081/src/lib/audioService.ts:8:23)
+    at onClick (http://localhost:8081/src/components/ConversationTranscriptLesson.tsx:374:12)
+    at executeDispatch (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:9139:5)
+    at runWithFiberInDEV (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:850:66)
+    at processDispatchQueue (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:9165:27)
+    at http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:9452:5
+    at batchedUpdates$1 (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:2042:12)
+    at dispatchEventForPluginEventSystem (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:9238:4)
+    at dispatchEvent (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:11317:29)
+    at dispatchDiscreteEvent (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:11299:56)
+[2m2:38:20 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mImported Azure dialogue audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8081/src/lib/audioService.ts:8:23)
+    at onClick (http://localhost:8081/src/components/ConversationTranscriptLesson.tsx:90:10)
+    at executeDispatch (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:9139:5)
+    at runWithFiberInDEV (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:850:66)
+    at processDispatchQueue (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:9165:27)
+    at http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:9452:5
+    at batchedUpdates$1 (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:2042:12)
+    at dispatchEventForPluginEventSystem (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:9238:4)
+    at dispatchEvent (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:11317:29)
+    at dispatchDiscreteEvent (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:11299:56)
+[2m2:38:34 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mExpanded Listen & Speak Azure audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8081/src/lib/audioService.ts:8:23)
+    at onClick (http://localhost:8081/src/components/ConversationTranscriptLesson.tsx:90:10)
+    at executeDispatch (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:9139:5)
+    at runWithFiberInDEV (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:850:66)
+    at processDispatchQueue (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:9165:27)
+    at http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:9452:5
+    at batchedUpdates$1 (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:2042:12)
+    at dispatchEventForPluginEventSystem (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:9238:4)
+    at dispatchEvent (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:11317:29)
+    at dispatchDiscreteEvent (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:11299:56)
+[2m5:15:56 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mAI Error: Error: SalaKhmer AI is temporarily unavailable. Please try again shortly.
+    at handleSend (http://localhost:8081/src/components/AIChatbox.tsx:50:42)
+[2m7:17:21 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled rejection] [1mError[22m: Database is closing/hidden
+[39m > IndexedDBLocalPersistence._openDb node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:8317:18
+ > IndexedDBLocalPersistence._withRetries node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:8332:38
+ > node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:8450:23
+ > IndexedDBLocalPersistence._withPendingWrite node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:8442:18
+ > IndexedDBLocalPersistence._set node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:8449:20
+ > PersistenceUserManager.setCurrentUser node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:2095:32
+ > AuthImpl.directlySetCurrentUser node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:3137:43
+ > AuthImpl.reloadAndSetCurrentUserOrClear node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:2859:20
+ > node_modules/@firebase/auth/dist/esm/index-DGK4UgBf.js:2704:12
+
+[2m9:03:54 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22m[2026-08-14T14:03:54.836Z]  @firebase/firestore: Firestore (12.17.0): WebChannelConnection RPC 'Listen' stream 0x58e5faf2 transport errored. Name: undefined Message: undefined
+[2m9:03:54 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[2026-08-14T14:03:54.838Z]  @firebase/firestore: Firestore (12.17.0): Could not reach Cloud Firestore backend. Connection failed 1 times. Most recent error: FirebaseError: [code=unavailable]: The operation could not be completed
+This typically indicates that your device does not have a healthy Internet connection at the moment. The client will operate in offline mode until it is able to successfully connect to the backend.
+Error: Error transforming route file E:/AI/Antigravity/SalaKhmer/src/routes/ui-concepts.tsx: SyntaxError: Unterminated string constant. (132:186)
+    at file:///E:/AI/Antigravity/SalaKhmer/node_modules/@tanstack/router-generator/dist/esm/generator.js:143:13
+    at async generate (file:///E:/AI/Antigravity/SalaKhmer/node_modules/@tanstack/router-plugin/dist/esm/core/router-generator-plugin.js:39:4)
+    at async PluginContext.watchChange (file:///E:/AI/Antigravity/SalaKhmer/node_modules/@tanstack/router-plugin/dist/esm/core/router-generator-plugin.js:49:4)
+    at async Promise.all (index 2)
+    at async EnvironmentPluginContainer.hookParallel (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:30651:3)
+    at async EnvironmentPluginContainer.watchChange (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:30822:3)
+    at async Promise.all (index 0)
+    at async onFileChange (file:///E:/AI/Antigravity/SalaKhmer/node_modules/vite/dist/node/chunks/node.js:26485:3)
+[2m10:42:41 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Unterminated string constant. (132:186)[39m
+  Plugin: [35mtanstack-router:code-splitter:compile-reference-file[39m
+  File: [36mE:/AI/Antigravity/SalaKhmer/src/routes/ui-concepts.tsx[39m:132:186
+[33m  130 |  function ModuleIcon({ icon: Icon, text, tone }: { icon: Icon; text: string; tone: "gold" | "mint" | "violet" | "coral...
+  131 |  function PathStep({ n, icon: Icon, title, text, state }: { n: string; icon: Icon; title: string; text: string; state:...
+  132 |  ...-2 text-xs font-bold ${active ? "bg-[#173B33] text-white" : "bg-[#EEF4F1] text-[#668077]}`}>{text}</button>; }
+      |                                                                 ^
+  133 |  function VisualCard({ icon, title, text }: { icon: string; title: string; text: string }) { return <button className=...
+  134 |  function Speech({ left, avatar, khmer, english }: { left?: boolean; avatar: string; khmer: string; english: string })...[39m
+      at constructor (E:\AI\Antigravity\SalaKhmer\node_modules\@babel\parser\lib\index.js:369:19)
+      at TypeScriptParserMixin.raise (E:\AI\Antigravity\SalaKhmer\node_modules\@babel\parser\lib\index.js:6620:19)
+      at Object.unterminated (E:\AI\Antigravity\SalaKhmer\node_modules\@babel\parser\lib\index.js:5685:20)
+      at readStringContents (E:\AI\Antigravity\SalaKhmer\node_modules\@babel\parser\lib\index.js:5427:16)
+      at TypeScriptParserMixin.readString (E:\AI\Antigravity\SalaKhmer\node_modules\@babel\parser\lib\index.js:6519:9)
+      at TypeScriptParserMixin.getTokenFromCode (E:\AI\Antigravity\SalaKhmer\node_modules\@babel\parser\lib\index.js:6279:14)
+      at TypeScriptParserMixin.getTokenFromCode (E:\AI\Antigravity\SalaKhmer\node_modules\@babel\parser\lib\index.js:4813:11)
+      at TypeScriptParserMixin.getTokenFromCode (E:\AI\Antigravity\SalaKhmer\node_modules\@babel\parser\lib\index.js:10008:11)
+      at TypeScriptParserMixin.nextToken (E:\AI\Antigravity\SalaKhmer\node_modules\@babel\parser\lib\index.js:5803:10)
+      at TypeScriptParserMixin.next (E:\AI\Antigravity\SalaKhmer\node_modules\@babel\parser\lib\index.js:5713:10)
+[2m10:42:41 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/routes/ui-concepts.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m10:42:41 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Unterminated string constant. (132:186)[39m
+  Plugin: [35mtanstack-router:code-splitter:compile-reference-file[39m
+  File: [36mE:/AI/Antigravity/SalaKhmer/src/routes/ui-concepts.tsx[39m:132:186
+[33m  130 |  function ModuleIcon({ icon: Icon, text, tone }: { icon: Icon; text: string; tone: "gold" | "mint" | "violet" | "coral...
+  131 |  function PathStep({ n, icon: Icon, title, text, state }: { n: string; icon: Icon; title: string; text: string; state:...
+  132 |  ...-2 text-xs font-bold ${active ? "bg-[#173B33] text-white" : "bg-[#EEF4F1] text-[#668077]}`}>{text}</button>; }
+      |                                                                 ^
+  133 |  function VisualCard({ icon, title, text }: { icon: string; title: string; text: string }) { return <button className=...
+  134 |  function Speech({ left, avatar, khmer, english }: { left?: boolean; avatar: string; khmer: string; english: string })...[39m
+      at constructor (E:\AI\Antigravity\SalaKhmer\node_modules\@babel\parser\lib\index.js:369:19)
+      at TypeScriptParserMixin.raise (E:\AI\Antigravity\SalaKhmer\node_modules\@babel\parser\lib\index.js:6620:19)
+      at Object.unterminated (E:\AI\Antigravity\SalaKhmer\node_modules\@babel\parser\lib\index.js:5685:20)
+      at readStringContents (E:\AI\Antigravity\SalaKhmer\node_modules\@babel\parser\lib\index.js:5427:16)
+      at TypeScriptParserMixin.readString (E:\AI\Antigravity\SalaKhmer\node_modules\@babel\parser\lib\index.js:6519:9)
+      at TypeScriptParserMixin.getTokenFromCode (E:\AI\Antigravity\SalaKhmer\node_modules\@babel\parser\lib\index.js:6279:14)
+      at TypeScriptParserMixin.getTokenFromCode (E:\AI\Antigravity\SalaKhmer\node_modules\@babel\parser\lib\index.js:4813:11)
+      at TypeScriptParserMixin.getTokenFromCode (E:\AI\Antigravity\SalaKhmer\node_modules\@babel\parser\lib\index.js:10008:11)
+      at TypeScriptParserMixin.nextToken (E:\AI\Antigravity\SalaKhmer\node_modules\@babel\parser\lib\index.js:5803:10)
+      at TypeScriptParserMixin.next (E:\AI\Antigravity\SalaKhmer\node_modules\@babel\parser\lib\index.js:5713:10)
+[2m10:42:41 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/routes/ui-concepts.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m11:52:07 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[2026-08-14T16:52:07.204Z]  @firebase/firestore: Firestore (12.17.0): Could not reach Cloud Firestore backend. Backend didn't respond within 10 seconds.
+This typically indicates that your device does not have a healthy Internet connection at the moment. The client will operate in offline mode until it is able to successfully connect to the backend.
+[2m11:52:07 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mFailed to load user profile (Firestore error): FirebaseError: Failed to get document because the client is offline.
+[2m11:52:21 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22m[2026-08-14T16:52:21.457Z]  @firebase/firestore: Firestore (12.17.0): WebChannelConnection RPC 'Listen' stream 0x49c427b6 transport errored. Name: undefined Message: undefined
+[2m11:54:50 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mImported Azure dialogue audio is unavailable: Error: Audio stopped
+    at stopKhmerAudio (http://localhost:8081/src/lib/audioService.ts:8:23)
+    at onClick (http://localhost:8081/src/components/ConversationTranscriptLesson.tsx?t=1786723074544:90:10)
+    at executeDispatch (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:9139:5)
+    at runWithFiberInDEV (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:850:66)
+    at processDispatchQueue (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:9165:27)
+    at http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:9452:5
+    at batchedUpdates$1 (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:2042:12)
+    at dispatchEventForPluginEventSystem (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:9238:4)
+    at dispatchEvent (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:11317:29)
+    at dispatchDiscreteEvent (http://localhost:8081/node_modules/.vite/deps/react-dom_client.js?v=972aad87:11299:56)

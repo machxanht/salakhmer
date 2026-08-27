@@ -1,0 +1,643 @@
+import { r as __toESM } from "../_runtime.mjs";
+import { n as require_react } from "../_libs/@radix-ui/react-compose-refs+[...].mjs";
+import { n as require_jsx_runtime } from "../_libs/react+tanstack__react-query.mjs";
+import { $ as Compass, C as RefreshCcw, D as PenLine, G as GraduationCap, H as House, I as Lightbulb, P as Lock, T as Play, W as Headphones, a as UserRound, at as Check, g as Settings2, it as ChevronLeft, lt as BookOpen, n as Volume2, rt as ChevronRight, s as Type, tt as CircleCheckBig, v as Search } from "../_libs/lucide-react.mjs";
+//#region node_modules/.nitro/vite/services/ssr/assets/ui-preview-PIUJOmlZ.js
+var import_react = /* @__PURE__ */ __toESM(require_react());
+var import_jsx_runtime = require_jsx_runtime();
+var modules = [
+	{
+		title: "Script Basics",
+		subtitle: "Recognise the letters and their sounds",
+		icon: Type,
+		status: "progress",
+		progress: "4/6",
+		percent: 67
+	},
+	{
+		title: "Read & Spell",
+		subtitle: "Decode and build real Khmer words",
+		icon: BookOpen,
+		status: "open"
+	},
+	{
+		title: "Listen & Speak",
+		subtitle: "Understand dialogues and say them back",
+		icon: Headphones,
+		status: "progress",
+		progress: "1/20",
+		percent: 5
+	},
+	{
+		title: "Handwriting",
+		subtitle: "Form each Khmer stroke by hand",
+		icon: PenLine,
+		status: "complete"
+	},
+	{
+		title: "Review & Test",
+		subtitle: "Strengthen what you remember",
+		icon: CircleCheckBig,
+		status: "locked"
+	},
+	{
+		title: "Cambodia Guide",
+		subtitle: "Use Khmer in real life",
+		icon: Compass,
+		status: "open"
+	}
+];
+function UiPreview() {
+	const [view, setView] = (0, import_react.useState)("home");
+	const [selected, setSelected] = (0, import_react.useState)(modules[0]);
+	const openModule = (module) => {
+		if (module.status !== "locked") {
+			setSelected(module);
+			setView("module");
+		}
+	};
+	return /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", {
+		className: "min-h-screen bg-[#ECE7DE] font-sans text-[#47382B]",
+		children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)("main", {
+			className: "relative mx-auto min-h-screen w-full max-w-[480px] bg-[#FBF7F0] pb-24",
+			children: view === "home" ? /* @__PURE__ */ (0, import_jsx_runtime.jsx)(HomeView, {
+				openModule,
+				openLesson: () => setView("lesson")
+			}) : view === "learn" ? /* @__PURE__ */ (0, import_jsx_runtime.jsx)(LearnView, { openModule }) : view === "apply" ? /* @__PURE__ */ (0, import_jsx_runtime.jsx)(ApplyView, {}) : view === "profile" ? /* @__PURE__ */ (0, import_jsx_runtime.jsx)(ProfileView, {}) : view === "module" ? /* @__PURE__ */ (0, import_jsx_runtime.jsx)(ModuleView, {
+				module: selected,
+				back: () => setView("learn"),
+				openLesson: () => setView("lesson")
+			}) : /* @__PURE__ */ (0, import_jsx_runtime.jsx)(LessonView, {
+				module: selected,
+				back: () => setView("module")
+			})
+		}), view !== "module" && view !== "lesson" && /* @__PURE__ */ (0, import_jsx_runtime.jsx)(PreviewBottomNav, {
+			view,
+			setView
+		})]
+	});
+}
+function ScreenHeader({ eyebrow, title, action }) {
+	return /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("header", {
+		className: "flex items-center justify-between px-5 pt-6",
+		children: [/* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", { children: [eyebrow && /* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", {
+			className: "text-[11px] font-bold uppercase tracking-[.09em] text-[#A9631E]",
+			children: eyebrow
+		}), /* @__PURE__ */ (0, import_jsx_runtime.jsx)("h1", {
+			className: "mt-1 text-2xl font-bold tracking-[-.02em]",
+			children: title
+		})] }), action]
+	});
+}
+function HomeView({ openModule, openLesson }) {
+	return /* @__PURE__ */ (0, import_jsx_runtime.jsxs)(import_jsx_runtime.Fragment, { children: [
+		/* @__PURE__ */ (0, import_jsx_runtime.jsx)("span", {
+			className: "absolute right-3 top-2 text-[9px] font-bold uppercase tracking-[.12em] text-[#9A8979]",
+			children: "Demo preview"
+		}),
+		/* @__PURE__ */ (0, import_jsx_runtime.jsx)(ScreenHeader, {
+			eyebrow: "Suosdey",
+			title: "Good morning, Oliver",
+			action: /* @__PURE__ */ (0, import_jsx_runtime.jsx)("span", {
+				className: "flex h-10 w-10 items-center justify-center rounded-full bg-[#F9E8BF] font-bold text-[#A9631E]",
+				children: "O"
+			})
+		}),
+		/* @__PURE__ */ (0, import_jsx_runtime.jsx)("section", {
+			className: "px-5 pt-5",
+			children: /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", {
+				className: "overflow-hidden rounded-[18px] border border-[#DE9B38]/25 bg-gradient-to-br from-[#F9E8BF]/45 to-[#FFFCF7] p-5 shadow-[0_6px_20px_-8px_rgba(71,56,43,.16)]",
+				children: [
+					/* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", {
+						className: "text-[11px] font-bold uppercase tracking-[.09em] text-[#A9631E]",
+						children: "Script Basics"
+					}),
+					/* @__PURE__ */ (0, import_jsx_runtime.jsx)("h2", {
+						className: "mt-1.5 text-[19px] font-semibold",
+						children: "Consonants · Series 1"
+					}),
+					/* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", {
+						className: "khmer mt-2 text-[23px]",
+						children: "ក ខ គ ឃ ង"
+					}),
+					/* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", {
+						className: "text-[13px] font-medium italic text-[#786858]",
+						children: "K-aw · Kh-aw · K-o · Kh-o · Ng-o"
+					}),
+					/* @__PURE__ */ (0, import_jsx_runtime.jsx)("div", {
+						className: "mt-4 h-1.5 overflow-hidden rounded-full bg-[#EDE1CE]",
+						children: /* @__PURE__ */ (0, import_jsx_runtime.jsx)("div", { className: "h-full w-2/3 rounded-full bg-[#D98624]" })
+					}),
+					/* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", {
+						className: "mt-2 text-[12.5px] font-medium text-[#786858]",
+						children: "Lesson 4 of 6"
+					}),
+					/* @__PURE__ */ (0, import_jsx_runtime.jsxs)("button", {
+						onClick: openLesson,
+						className: "mt-4 flex h-[52px] w-full items-center justify-center gap-2 rounded-[14px] bg-[#D98624] text-base font-semibold text-[#FFFCF7]",
+						children: ["Continue lesson ", /* @__PURE__ */ (0, import_jsx_runtime.jsx)(ChevronRight, { className: "h-[18px] w-[18px]" })]
+					})
+				]
+			})
+		}),
+		/* @__PURE__ */ (0, import_jsx_runtime.jsxs)("section", {
+			className: "px-5 pt-8",
+			children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)(SectionTitle, {
+				title: "Your path",
+				note: "6 modules · beginner"
+			}), /* @__PURE__ */ (0, import_jsx_runtime.jsx)("ul", {
+				className: "flex flex-col gap-3",
+				children: modules.map((module) => /* @__PURE__ */ (0, import_jsx_runtime.jsx)(ModulePathCard, {
+					module,
+					onClick: () => openModule(module)
+				}, module.title))
+			})]
+		}),
+		/* @__PURE__ */ (0, import_jsx_runtime.jsxs)("section", {
+			className: "pt-8",
+			children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)("div", {
+				className: "px-5",
+				children: /* @__PURE__ */ (0, import_jsx_runtime.jsx)(SectionTitle, { title: "Today’s practice" })
+			}), /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", {
+				className: "flex gap-3 overflow-x-auto px-5 pb-2",
+				children: [
+					/* @__PURE__ */ (0, import_jsx_runtime.jsx)(PracticeCard, {
+						icon: RefreshCcw,
+						title: "5-min review",
+						text: "12 letters seen"
+					}),
+					/* @__PURE__ */ (0, import_jsx_runtime.jsx)(PracticeCard, {
+						icon: PenLine,
+						title: "Handwriting drill",
+						text: "Trace ក to ង"
+					}),
+					/* @__PURE__ */ (0, import_jsx_runtime.jsx)(PracticeCard, {
+						icon: Headphones,
+						title: "Daily dialogue",
+						text: "Listen and repeat"
+					})
+				]
+			})]
+		})
+	] });
+}
+function LearnView({ openModule }) {
+	return /* @__PURE__ */ (0, import_jsx_runtime.jsxs)(import_jsx_runtime.Fragment, { children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)(ScreenHeader, {
+		eyebrow: "Your curriculum",
+		title: "Learn Khmer",
+		action: /* @__PURE__ */ (0, import_jsx_runtime.jsx)(Settings2, { className: "h-5 w-5 text-[#786858]" })
+	}), /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("section", {
+		className: "px-5 pt-6",
+		children: [/* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", {
+			className: "rounded-[18px] bg-[#E9F2EC] p-4",
+			children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", {
+				className: "text-sm font-semibold text-[#367562]",
+				children: "You are building a strong start."
+			}), /* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", {
+				className: "mt-1 text-[13px] text-[#607B6D]",
+				children: "Complete Script Basics, then unlock a reading path."
+			})]
+		}), /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", {
+			className: "mt-7",
+			children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)(SectionTitle, {
+				title: "All modules",
+				note: "Start anywhere open"
+			}), /* @__PURE__ */ (0, import_jsx_runtime.jsx)("ul", {
+				className: "flex flex-col gap-3",
+				children: modules.map((module) => /* @__PURE__ */ (0, import_jsx_runtime.jsx)(ModulePathCard, {
+					module,
+					onClick: () => openModule(module)
+				}, module.title))
+			})]
+		})]
+	})] });
+}
+function ApplyView() {
+	return /* @__PURE__ */ (0, import_jsx_runtime.jsxs)(import_jsx_runtime.Fragment, { children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)(ScreenHeader, {
+		eyebrow: "Use it in real life",
+		title: "Apply"
+	}), /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("section", {
+		className: "px-5 pt-6",
+		children: [/* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", {
+			className: "rounded-[20px] border border-[#E5D5BC] bg-[#FFF8E8] p-5",
+			children: [
+				/* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", {
+					className: "text-[11px] font-bold uppercase tracking-[.09em] text-[#A9631E]",
+					children: "Today’s tip"
+				}),
+				/* @__PURE__ */ (0, import_jsx_runtime.jsx)("h2", {
+					className: "mt-2 text-lg font-semibold",
+					children: "Small practice, real confidence."
+				}),
+				/* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", {
+					className: "mt-1 text-[13px] leading-5 text-[#786858]",
+					children: "Use one phrase today — at a restaurant, shop, or with a Khmer friend."
+				})
+			]
+		}), /* @__PURE__ */ (0, import_jsx_runtime.jsx)("div", {
+			className: "mt-7 grid grid-cols-2 gap-3",
+			children: [
+				{
+					icon: Search,
+					title: "Khmer dictionary",
+					text: "Find words, meanings and examples"
+				},
+				{
+					icon: Compass,
+					title: "Khmer calendar",
+					text: "Learn dates, festivals and lunar days"
+				},
+				{
+					icon: Type,
+					title: "Khmer keyboard",
+					text: "Set up Khmer typing on phone or computer"
+				},
+				{
+					icon: Lightbulb,
+					title: "Ask Sala AI",
+					text: "Practice a useful everyday situation"
+				}
+			].map((tool) => /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("button", {
+				className: "min-h-[152px] rounded-[18px] border border-[#E4D7C5] bg-[#FFFCF7] p-4 text-left",
+				children: [
+					/* @__PURE__ */ (0, import_jsx_runtime.jsx)("span", {
+						className: "flex h-10 w-10 items-center justify-center rounded-[14px] bg-[#F9E8BF] text-[#A9631E]",
+						children: /* @__PURE__ */ (0, import_jsx_runtime.jsx)(tool.icon, { className: "h-5 w-5" })
+					}),
+					/* @__PURE__ */ (0, import_jsx_runtime.jsx)("h2", {
+						className: "mt-4 text-[15px] font-semibold",
+						children: tool.title
+					}),
+					/* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", {
+						className: "mt-1 text-[12px] leading-4 text-[#786858]",
+						children: tool.text
+					})
+				]
+			}, tool.title))
+		})]
+	})] });
+}
+function ProfileView() {
+	return /* @__PURE__ */ (0, import_jsx_runtime.jsxs)(import_jsx_runtime.Fragment, { children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)(ScreenHeader, {
+		eyebrow: "My learning",
+		title: "Your profile",
+		action: /* @__PURE__ */ (0, import_jsx_runtime.jsx)(Settings2, { className: "h-5 w-5 text-[#786858]" })
+	}), /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("section", {
+		className: "px-5 pt-6",
+		children: [
+			/* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", {
+				className: "flex items-center gap-4 rounded-[20px] border border-[#E4D7C5] bg-[#FFFCF7] p-5",
+				children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)("span", {
+					className: "flex h-14 w-14 items-center justify-center rounded-full bg-[#F9E8BF] text-xl font-bold text-[#A9631E]",
+					children: "O"
+				}), /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", { children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)("h2", {
+					className: "font-semibold",
+					children: "Oliver"
+				}), /* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", {
+					className: "mt-1 text-[13px] text-[#786858]",
+					children: "Beginner · 4 lessons completed"
+				})] })]
+			}),
+			/* @__PURE__ */ (0, import_jsx_runtime.jsx)("div", {
+				className: "mt-5 grid grid-cols-3 gap-3",
+				children: [
+					["4", "Lessons"],
+					["12", "Words"],
+					["3", "Day streak"]
+				].map(([number, label]) => /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", {
+					className: "rounded-[16px] border border-[#E4D7C5] bg-[#FFFCF7] py-4 text-center",
+					children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)("strong", {
+						className: "block text-xl text-[#A9631E]",
+						children: number
+					}), /* @__PURE__ */ (0, import_jsx_runtime.jsx)("span", {
+						className: "mt-1 block text-[11px] font-medium text-[#786858]",
+						children: label
+					})]
+				}, label))
+			}),
+			/* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", {
+				className: "mt-7",
+				children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)(SectionTitle, { title: "Learning preferences" }), /* @__PURE__ */ (0, import_jsx_runtime.jsx)("div", {
+					className: "divide-y divide-[#EDE1CE] rounded-[18px] border border-[#E4D7C5] bg-[#FFFCF7] px-4",
+					children: [
+						"Audio speed",
+						"Daily practice reminder",
+						"Interface language"
+					].map((item) => /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("button", {
+						className: "flex w-full items-center justify-between py-4 text-left text-[14px] font-semibold",
+						children: [item, /* @__PURE__ */ (0, import_jsx_runtime.jsx)(ChevronRight, { className: "h-4 w-4 text-[#A99B8C]" })]
+					}, item))
+				})]
+			})
+		]
+	})] });
+}
+function ModuleView({ module, back, openLesson }) {
+	const Icon = module.icon;
+	return /* @__PURE__ */ (0, import_jsx_runtime.jsxs)(import_jsx_runtime.Fragment, { children: [
+		/* @__PURE__ */ (0, import_jsx_runtime.jsx)(BackHeader, {
+			onClick: back,
+			label: "All modules"
+		}),
+		/* @__PURE__ */ (0, import_jsx_runtime.jsxs)("section", {
+			className: "px-5 pt-5",
+			children: [
+				/* @__PURE__ */ (0, import_jsx_runtime.jsx)("span", {
+					className: "flex h-12 w-12 items-center justify-center rounded-[16px] bg-[#F9E8BF] text-[#A9631E]",
+					children: /* @__PURE__ */ (0, import_jsx_runtime.jsx)(Icon, { className: "h-6 w-6" })
+				}),
+				/* @__PURE__ */ (0, import_jsx_runtime.jsx)("h1", {
+					className: "mt-4 text-[28px] font-bold tracking-[-.025em]",
+					children: module.title
+				}),
+				/* @__PURE__ */ (0, import_jsx_runtime.jsxs)("p", {
+					className: "mt-2 text-[14px] leading-5 text-[#786858]",
+					children: [module.subtitle, ". A gentle, practical lesson path for an English speaker."]
+				}),
+				/* @__PURE__ */ (0, import_jsx_runtime.jsx)("div", {
+					className: "mt-5 h-2 overflow-hidden rounded-full bg-[#EDE1CE]",
+					children: /* @__PURE__ */ (0, import_jsx_runtime.jsx)("div", {
+						className: "h-full rounded-full bg-[#D98624]",
+						style: { width: `${module.percent ?? 20}%` }
+					})
+				})
+			]
+		}),
+		/* @__PURE__ */ (0, import_jsx_runtime.jsxs)("section", {
+			className: "px-5 pt-8",
+			children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)(SectionTitle, {
+				title: "Lessons",
+				note: module.status === "locked" ? "Locked" : "Choose a lesson"
+			}), /* @__PURE__ */ (0, import_jsx_runtime.jsx)("div", {
+				className: "flex flex-col gap-3",
+				children: [
+					"Warm up",
+					"Learn the pattern",
+					"Hear it in context",
+					"Practice in real life"
+				].map((lesson, index) => /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("button", {
+					onClick: module.status === "locked" ? void 0 : openLesson,
+					disabled: module.status === "locked",
+					className: "flex items-center gap-4 rounded-[18px] border border-[#E4D7C5] bg-[#FFFCF7] p-4 text-left disabled:bg-[#F5F0E6]",
+					children: [
+						/* @__PURE__ */ (0, import_jsx_runtime.jsx)("span", {
+							className: "flex h-9 w-9 shrink-0 items-center justify-center rounded-full bg-[#F9E8BF] text-sm font-bold text-[#A9631E]",
+							children: index + 1
+						}),
+						/* @__PURE__ */ (0, import_jsx_runtime.jsxs)("span", {
+							className: "flex-1",
+							children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)("strong", {
+								className: "block text-[15px]",
+								children: lesson
+							}), /* @__PURE__ */ (0, import_jsx_runtime.jsx)("small", {
+								className: "mt-1 block text-[12px] text-[#786858]",
+								children: "About 4 minutes · audio included"
+							})]
+						}),
+						module.status === "locked" ? /* @__PURE__ */ (0, import_jsx_runtime.jsx)(Lock, { className: "h-4 w-4 text-[#A99B8C]" }) : /* @__PURE__ */ (0, import_jsx_runtime.jsx)(ChevronRight, { className: "h-5 w-5 text-[#A99B8C]" })
+					]
+				}, lesson))
+			})]
+		})
+	] });
+}
+function LessonView({ module, back }) {
+	return /* @__PURE__ */ (0, import_jsx_runtime.jsxs)(import_jsx_runtime.Fragment, { children: [
+		/* @__PURE__ */ (0, import_jsx_runtime.jsx)(BackHeader, {
+			onClick: back,
+			label: module.title
+		}),
+		/* @__PURE__ */ (0, import_jsx_runtime.jsxs)("section", {
+			className: "px-5 pt-4",
+			children: [
+				/* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", {
+					className: "text-[11px] font-bold uppercase tracking-[.09em] text-[#A9631E]",
+					children: "Lesson 1 · everyday Khmer"
+				}),
+				/* @__PURE__ */ (0, import_jsx_runtime.jsx)("h1", {
+					className: "mt-2 text-[27px] font-bold tracking-[-.025em]",
+					children: "Meeting someone"
+				}),
+				/* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", {
+					className: "mt-2 text-[14px] text-[#786858]",
+					children: "Listen to the full dialogue, then replay any line."
+				}),
+				/* @__PURE__ */ (0, import_jsx_runtime.jsxs)("button", {
+					className: "mt-5 flex h-[52px] w-full items-center justify-center gap-2 rounded-[14px] bg-[#D98624] text-base font-semibold text-[#FFFCF7]",
+					children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)(Play, { className: "h-[18px] w-[18px] fill-current" }), " Play full conversation"]
+				})
+			]
+		}),
+		/* @__PURE__ */ (0, import_jsx_runtime.jsx)("section", {
+			className: "px-5 pt-6",
+			children: /* @__PURE__ */ (0, import_jsx_runtime.jsx)("div", {
+				className: "space-y-3",
+				children: [
+					[
+						"Sreymom",
+						"សួស្តី។ តើអ្នកសុខសប្បាយទេ?",
+						"Hello. How are you?"
+					],
+					[
+						"Piseth",
+						"សុខសប្បាយទេ។ អរគុណ។",
+						"I am well, thank you."
+					],
+					[
+						"Sreymom",
+						"ខ្ញុំសប្បាយចិត្តដែលបានជួបអ្នក។",
+						"I am happy to meet you."
+					],
+					[
+						"Piseth",
+						"ខ្ញុំក៏ដូចគ្នា។",
+						"Me too."
+					]
+				].map(([speaker, khmer, english], index) => /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("article", {
+					className: `rounded-[18px] border p-4 ${index % 2 ? "border-[#DCE9E2] bg-[#F5FAF6]" : "border-[#E4D7C5] bg-[#FFFCF7]"}`,
+					children: [
+						/* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", {
+							className: "flex items-center justify-between",
+							children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)("span", {
+								className: "text-[11px] font-bold uppercase tracking-[.08em] text-[#A9631E]",
+								children: speaker
+							}), /* @__PURE__ */ (0, import_jsx_runtime.jsx)("button", {
+								className: "flex h-8 w-8 items-center justify-center rounded-full bg-[#F9E8BF] text-[#A9631E]",
+								children: /* @__PURE__ */ (0, import_jsx_runtime.jsx)(Volume2, { className: "h-4 w-4" })
+							})]
+						}),
+						/* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", {
+							className: "khmer mt-2 text-[22px] leading-8",
+							children: khmer
+						}),
+						/* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", {
+							className: "mt-1 text-[13px] font-medium italic text-[#786858]",
+							children: "English-friendly sound guide"
+						}),
+						/* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", {
+							className: "mt-2 text-[14px] text-[#47382B]",
+							children: english
+						})
+					]
+				}, speaker))
+			})
+		})
+	] });
+}
+function BackHeader({ onClick, label }) {
+	return /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("header", {
+		className: "flex items-center gap-3 px-5 pt-6",
+		children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)("button", {
+			onClick,
+			className: "flex h-10 w-10 items-center justify-center rounded-full border border-[#E4D7C5] bg-[#FFFCF7]",
+			children: /* @__PURE__ */ (0, import_jsx_runtime.jsx)(ChevronLeft, { className: "h-5 w-5" })
+		}), /* @__PURE__ */ (0, import_jsx_runtime.jsx)("span", {
+			className: "text-[14px] font-semibold text-[#786858]",
+			children: label
+		})]
+	});
+}
+function SectionTitle({ title, note }) {
+	return /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", {
+		className: "mb-3 flex items-baseline justify-between gap-3",
+		children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)("h2", {
+			className: "text-[19px] font-semibold tracking-[-.01em]",
+			children: title
+		}), note && /* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", {
+			className: "text-[12.5px] font-medium text-[#786858]",
+			children: note
+		})]
+	});
+}
+function ModulePathCard({ module, onClick }) {
+	const Icon = module.icon;
+	const locked = module.status === "locked";
+	return /* @__PURE__ */ (0, import_jsx_runtime.jsx)("li", { children: /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("button", {
+		onClick,
+		className: `flex min-h-[76px] w-full items-center gap-3 rounded-[18px] border px-4 text-left ${locked ? "border-[#EDE1CE] bg-[#F5F0E6]" : "border-[#E4D7C5] bg-[#FFFCF7]"}`,
+		children: [
+			/* @__PURE__ */ (0, import_jsx_runtime.jsx)("span", {
+				className: `flex h-10 w-10 shrink-0 items-center justify-center rounded-[14px] ${locked ? "bg-[#EDE1CE] text-[#A99B8C]" : "bg-[#F9E8BF] text-[#A9631E]"}`,
+				children: /* @__PURE__ */ (0, import_jsx_runtime.jsx)(Icon, { className: "h-5 w-5" })
+			}),
+			/* @__PURE__ */ (0, import_jsx_runtime.jsxs)("span", {
+				className: "min-w-0 flex-1",
+				children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)("strong", {
+					className: `block text-base ${locked ? "text-[#A99B8C]" : ""}`,
+					children: module.title
+				}), /* @__PURE__ */ (0, import_jsx_runtime.jsx)("small", {
+					className: "mt-0.5 block truncate text-[12.5px] text-[#786858]",
+					children: module.subtitle
+				})]
+			}),
+			module.status === "progress" && /* @__PURE__ */ (0, import_jsx_runtime.jsx)(ProgressRing, {
+				progress: module.percent ?? 0,
+				label: module.progress ?? ""
+			}),
+			module.status === "complete" && /* @__PURE__ */ (0, import_jsx_runtime.jsx)("span", {
+				className: "flex h-5 w-5 items-center justify-center rounded-full bg-[#367562] text-white",
+				children: /* @__PURE__ */ (0, import_jsx_runtime.jsx)(Check, {
+					className: "h-[13px] w-[13px]",
+					strokeWidth: 3
+				})
+			}),
+			locked && /* @__PURE__ */ (0, import_jsx_runtime.jsx)(Lock, { className: "h-4 w-4 text-[#A99B8C]" }),
+			module.status === "open" && /* @__PURE__ */ (0, import_jsx_runtime.jsx)(ChevronRight, { className: "h-5 w-5 text-[#A99B8C]" })
+		]
+	}) });
+}
+function ProgressRing({ progress, label }) {
+	const c = 113.1;
+	return /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("span", {
+		className: "relative h-10 w-10 shrink-0",
+		children: [/* @__PURE__ */ (0, import_jsx_runtime.jsxs)("svg", {
+			width: "40",
+			height: "40",
+			className: "-rotate-90",
+			children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)("circle", {
+				cx: "20",
+				cy: "20",
+				r: "18",
+				fill: "none",
+				stroke: "#EDE1CE",
+				strokeWidth: "4"
+			}), /* @__PURE__ */ (0, import_jsx_runtime.jsx)("circle", {
+				cx: "20",
+				cy: "20",
+				r: "18",
+				fill: "none",
+				stroke: "#D98624",
+				strokeWidth: "4",
+				strokeLinecap: "round",
+				strokeDasharray: c,
+				strokeDashoffset: c * (1 - progress / 100)
+			})]
+		}), /* @__PURE__ */ (0, import_jsx_runtime.jsx)("span", {
+			className: "absolute inset-0 flex items-center justify-center text-[10px] font-bold text-[#786858]",
+			children: label
+		})]
+	});
+}
+function PracticeCard({ icon: Icon, title, text }) {
+	return /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("article", {
+		className: "w-[148px] shrink-0 rounded-[18px] border border-[#E4D7C5] bg-[#FFFCF7] p-4",
+		children: [
+			/* @__PURE__ */ (0, import_jsx_runtime.jsx)("span", {
+				className: "flex h-10 w-10 items-center justify-center rounded-[14px] bg-[#F9E8BF] text-[#A9631E]",
+				children: /* @__PURE__ */ (0, import_jsx_runtime.jsx)(Icon, { className: "h-5 w-5" })
+			}),
+			/* @__PURE__ */ (0, import_jsx_runtime.jsx)("h3", {
+				className: "mt-3 text-base font-semibold",
+				children: title
+			}),
+			/* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", {
+				className: "mt-1 text-[12.5px] text-[#786858]",
+				children: text
+			})
+		]
+	});
+}
+function PreviewBottomNav({ view, setView }) {
+	return /* @__PURE__ */ (0, import_jsx_runtime.jsx)("nav", {
+		className: "fixed inset-x-0 bottom-0 z-30 mx-auto w-full max-w-[480px] border-t border-[#E4D7C5] bg-[#FFFCF7]",
+		children: /* @__PURE__ */ (0, import_jsx_runtime.jsx)("ul", {
+			className: "flex h-16",
+			children: [
+				[
+					House,
+					"Home",
+					"home"
+				],
+				[
+					GraduationCap,
+					"Learn",
+					"learn"
+				],
+				[
+					Compass,
+					"Apply",
+					"apply"
+				],
+				[
+					UserRound,
+					"Profile",
+					"profile"
+				]
+			].map(([Icon, label, destination]) => {
+				return /* @__PURE__ */ (0, import_jsx_runtime.jsx)("li", {
+					className: "flex-1",
+					children: /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("button", {
+						onClick: () => setView(destination),
+						className: `flex h-full w-full flex-col items-center justify-center gap-1 ${view === destination ? "text-[#D98624]" : "text-[#A99B8C]"}`,
+						children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)(Icon, { className: "h-5 w-5" }), /* @__PURE__ */ (0, import_jsx_runtime.jsx)("span", {
+							className: "text-[11px] font-bold",
+							children: label
+						})]
+					})
+				}, label);
+			})
+		})
+	});
+}
+//#endregion
+export { UiPreview as component };
